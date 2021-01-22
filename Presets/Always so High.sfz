@@ -1,0 +1,153 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Always so High.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Never this high/
+
+<group>        // Never this high
+<region> sample=Never this high-48-44-B37O.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=579 end=186841 loop_mode=no_loop
+<region> sample=Never this high-48-127-W4K9.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=696 loop_mode=no_loop
+<region> sample=Never this high-49-44-SZR9.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=739 loop_mode=no_loop
+<region> sample=Never this high-49-127-Y92M.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=613 end=200982 loop_mode=no_loop
+<region> sample=Never this high-50-44-UM42.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=647 end=183984 loop_mode=no_loop
+<region> sample=Never this high-50-127-M7BW.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=629 end=192409 loop_mode=no_loop
+<region> sample=Never this high-51-44-MRTE.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=733 loop_mode=no_loop
+<region> sample=Never this high-51-127-U6NW.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=803 loop_mode=no_loop
+<region> sample=Never this high-52-44-NR3L.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=635 loop_mode=no_loop
+<region> sample=Never this high-52-127-2SAN.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=669 end=201207 loop_mode=no_loop
+<region> sample=Never this high-53-44-PR3I.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=610 loop_mode=no_loop
+<region> sample=Never this high-53-127-TETU.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=701 loop_mode=no_loop
+<region> sample=Never this high-54-44-AYOO.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=932 end=186746 loop_mode=no_loop
+<region> sample=Never this high-54-127-BSUH.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=618 end=191369 loop_mode=no_loop
+<region> sample=Never this high-55-44-4P44.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=721 loop_mode=no_loop
+<region> sample=Never this high-55-127-YI8A.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=724 end=199558 loop_mode=no_loop
+<region> sample=Never this high-56-44-B8VA.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=607 loop_mode=no_loop
+<region> sample=Never this high-56-127-2COE.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=527 end=194164 loop_mode=no_loop
+<region> sample=Never this high-57-44-I5K9.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=752 end=184651 loop_mode=no_loop
+<region> sample=Never this high-57-127-FTVE.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=812 end=193834 loop_mode=no_loop
+<region> sample=Never this high-58-44-MVOS.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=541 end=185294 loop_mode=no_loop
+<region> sample=Never this high-58-127-TKZK.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=688 end=199826 loop_mode=no_loop
+<region> sample=Never this high-59-44-CKFD.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=621 loop_mode=no_loop
+<region> sample=Never this high-59-127-SDEM.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=757 end=192662 loop_mode=no_loop
+<region> sample=Never this high-60-44-HMC5.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=606 loop_mode=no_loop
+<region> sample=Never this high-60-127-6IN5.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=663 loop_mode=no_loop
+<region> sample=Never this high-61-44-IM0G.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=724 loop_mode=no_loop
+<region> sample=Never this high-61-127-1CNH.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=654 end=202346 loop_mode=no_loop
+<region> sample=Never this high-62-44-NY5P.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=672 end=182787 loop_mode=no_loop
+<region> sample=Never this high-62-127-W12E.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=560 end=193543 loop_mode=no_loop
+<region> sample=Never this high-63-44-H2UV.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=666 loop_mode=no_loop
+<region> sample=Never this high-63-127-BOCH.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=766 end=192256 loop_mode=no_loop
+<region> sample=Never this high-64-44-28H6.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=545 end=185459 loop_mode=no_loop
+<region> sample=Never this high-64-127-R9S6.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=765 loop_mode=no_loop
+<region> sample=Never this high-65-44-JL5S.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=706 end=182365 loop_mode=no_loop
+<region> sample=Never this high-65-127-D7XC.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=596 end=192984 loop_mode=no_loop
+<region> sample=Never this high-66-44-R668.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=820 end=187202 loop_mode=no_loop
+<region> sample=Never this high-66-127-36D8.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=837 end=192155 loop_mode=no_loop
+<region> sample=Never this high-67-44-HAHC.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=517 end=185829 loop_mode=no_loop
+<region> sample=Never this high-67-127-4YBC.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=780 end=200829 loop_mode=no_loop
+<region> sample=Never this high-68-44-88B2.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=669 loop_mode=no_loop
+<region> sample=Never this high-68-127-XCOX.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=596 end=193357 loop_mode=no_loop
+<region> sample=Never this high-69-44-PZKS.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=496 loop_mode=no_loop
+<region> sample=Never this high-69-127-6LHC.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=764 end=192660 loop_mode=no_loop
+<region> sample=Never this high-70-44-7048.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=738 end=188502 loop_mode=no_loop
+<region> sample=Never this high-70-127-BT7Q.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=684 end=200960 loop_mode=no_loop
+<region> sample=Never this high-71-44-ZSB6.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=562 loop_mode=no_loop
+<region> sample=Never this high-71-127-JRO1.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=685 end=195170 loop_mode=no_loop
+<region> sample=Never this high-72-44-VIOW.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=626 end=185746 loop_mode=no_loop
+<region> sample=Never this high-72-127-OB3V.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=560 end=190792 loop_mode=no_loop
+<region> sample=Never this high-73-44-B0P8.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=722 loop_mode=no_loop
+<region> sample=Never this high-73-127-5SSB.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=749 end=200064 loop_mode=no_loop
+<region> sample=Never this high-74-44-TS91.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=802 loop_mode=no_loop
+<region> sample=Never this high-74-127-UWRN.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=732 end=193208 loop_mode=no_loop
+<region> sample=Never this high-75-44-MENH.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=804 loop_mode=no_loop
+<region> sample=Never this high-75-127-ORXE.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=636 loop_mode=no_loop
+<region> sample=Never this high-76-44-VBTP.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=781 end=185801 loop_mode=no_loop
+<region> sample=Never this high-76-127-JPHD.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=709 end=201343 loop_mode=no_loop
+<region> sample=Never this high-77-44-NG0O.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=572 loop_mode=no_loop
+<region> sample=Never this high-77-127-XS2D.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=726 end=194108 loop_mode=no_loop
+<region> sample=Never this high-78-44-2D84.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=530 end=187467 loop_mode=no_loop
+<region> sample=Never this high-78-127-QDCT.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=668 end=192073 loop_mode=no_loop
+<region> sample=Never this high-79-44-4817.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=701 end=186815 loop_mode=no_loop
+<region> sample=Never this high-79-127-3FAS.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=656 end=200591 loop_mode=no_loop
+<region> sample=Never this high-80-44-NJS2.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=610 end=184530 loop_mode=no_loop
+<region> sample=Never this high-80-127-QXFH.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=706 end=193713 loop_mode=no_loop
+<region> sample=Never this high-81-44-5GT8.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=670 end=186716 loop_mode=no_loop
+<region> sample=Never this high-81-127-M99H.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=708 end=192309 loop_mode=no_loop
+<region> sample=Never this high-82-44-Q21R.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=799 end=185905 loop_mode=no_loop
+<region> sample=Never this high-82-127-71V6.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=578 end=201010 loop_mode=no_loop
+<region> sample=Never this high-83-44-XG1B.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=693 loop_mode=no_loop
+<region> sample=Never this high-83-127-3PEU.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=669 end=193725 loop_mode=no_loop
+<region> sample=Never this high-84-44-IKN8.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=568 end=186291 loop_mode=no_loop
+<region> sample=Never this high-84-127-0U4J.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=686 end=192026 loop_mode=no_loop
+<region> sample=Never this high-85-44-SABR.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=598 end=185774 loop_mode=no_loop
+<region> sample=Never this high-85-127-AJUU.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=615 end=201379 loop_mode=no_loop
+<region> sample=Never this high-86-44-YUJC.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=553 end=185273 loop_mode=no_loop
+<region> sample=Never this high-86-127-XU4E.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=731 end=193421 loop_mode=no_loop
+<region> sample=Never this high-87-44-C3RV.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=623 end=187418 loop_mode=no_loop
+<region> sample=Never this high-87-127-BBVD.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=771 end=192036 loop_mode=no_loop
+<region> sample=Never this high-88-44-S1FB.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=593 end=186004 loop_mode=no_loop
+<region> sample=Never this high-88-127-AZ58.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=555 loop_mode=no_loop
+<region> sample=Never this high-89-44-RUSO.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=763 end=182966 loop_mode=no_loop
+<region> sample=Never this high-89-127-6V1I.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=520 loop_mode=no_loop
+<region> sample=Never this high-90-44-NIKX.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=758 loop_mode=no_loop
+<region> sample=Never this high-90-127-DLO0.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=786 end=192916 loop_mode=no_loop
+<region> sample=Never this high-91-44-NT7H.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=708 end=185600 loop_mode=no_loop
+<region> sample=Never this high-91-127-EU5F.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=800 end=200471 loop_mode=no_loop
+<region> sample=Never this high-92-44-RRII.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=558 end=182049 loop_mode=no_loop
+<region> sample=Never this high-92-127-L3FN.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=722 end=193421 loop_mode=no_loop
+<region> sample=Never this high-93-44-BX3P.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=762 loop_mode=no_loop
+<region> sample=Never this high-93-127-4KTH.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=629 end=192164 loop_mode=no_loop
+<region> sample=Never this high-94-44-DFFY.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=647 end=185377 loop_mode=no_loop
+<region> sample=Never this high-94-127-FOUL.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=595 end=201119 loop_mode=no_loop
+<region> sample=Never this high-95-44-3XXR.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=698 end=182937 loop_mode=no_loop
+<region> sample=Never this high-95-127-XVDY.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=551 end=193793 loop_mode=no_loop
+<region> sample=Never this high-96-44-XXJF.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=620 loop_mode=no_loop
+<region> sample=Never this high-96-127-TLFG.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=687 loop_mode=no_loop
+<region> sample=Never this high-97-44-U3X4.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=734 loop_mode=no_loop
+<region> sample=Never this high-97-127-7LXQ.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=710 end=201126 loop_mode=no_loop
+<region> sample=Never this high-98-44-KS28.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=591 end=184192 loop_mode=no_loop
+<region> sample=Never this high-98-127-3PQP.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=692 loop_mode=no_loop
+<region> sample=Never this high-99-44-YQ2K.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=600 end=187398 loop_mode=no_loop
+<region> sample=Never this high-99-127-WGKK.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=670 end=192149 loop_mode=no_loop
+<region> sample=Never this high-100-44-6KCL.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=783 loop_mode=no_loop
+<region> sample=Never this high-100-#9AEA85.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=738 end=201088 loop_mode=no_loop
+<region> sample=Never this high-101-44-WHHP.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=705 end=185095 loop_mode=no_loop
+<region> sample=Never this high-101-#9AEA8B.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=807 loop_mode=no_loop
+<region> sample=Never this high-102-44-BCLP.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=1 hivel=44 volume=12 offset=541 loop_mode=no_loop
+<region> sample=Never this high-102-#9AEA90.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=45 hivel=127 volume=12 offset=787 end=192663 loop_mode=no_loop
+<region> sample=Never this high-103-44-N40H.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=1 hivel=44 offset=642 end=187797 loop_mode=no_loop
+<region> sample=Never this high-103-#9AEA95.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=45 hivel=127 offset=635 end=201089 loop_mode=no_loop
+<region> sample=Never this high-104-44-GULE.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=1 hivel=44 offset=719 loop_mode=no_loop
+<region> sample=Never this high-104-#9AEA9B.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=45 hivel=127 offset=654 end=194446 loop_mode=no_loop
+<region> sample=Never this high-105-44-6GXJ.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=1 hivel=44 offset=627 end=185879 loop_mode=no_loop
+<region> sample=Never this high-105-#9AEAA1.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=45 hivel=127 offset=713 end=192257 loop_mode=no_loop
+<region> sample=Never this high-106-44-17U7.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=1 hivel=44 offset=755 end=187264 loop_mode=no_loop
+<region> sample=Never this high-106-#9AEAA6.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=45 hivel=127 offset=598 end=202248 loop_mode=no_loop
+<region> sample=Never this high-107-44-WIC6.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=1 hivel=44 offset=746 end=183951 loop_mode=no_loop
+<region> sample=Never this high-107-#9AEAAC.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=45 hivel=127 offset=658 end=195086 loop_mode=no_loop
+<region> sample=Never this high-108-44-3DAF.wav key=108 lokey=108 hikey=108  amp_veltrack=30 lovel=1 hivel=44 offset=511 loop_mode=no_loop
+<region> sample=Never this high-108-#9AEAB2.wav key=108 lokey=108 hikey=108  amp_veltrack=30 lovel=45 hivel=127 offset=690 end=193429 loop_mode=no_loop
+<region> sample=Never this high-109-44-4KPZ.wav key=109 lokey=109 hikey=109  amp_veltrack=30 lovel=1 hivel=44 offset=639 loop_mode=no_loop
+<region> sample=Never this high-109-#9AEAB8.wav key=109 lokey=109 hikey=109  amp_veltrack=30 lovel=45 hivel=127 offset=711 end=201741 loop_mode=no_loop
+<region> sample=Never this high-110-44-B07L.wav key=110 lokey=110 hikey=110  amp_veltrack=30 lovel=1 hivel=44 offset=526 end=183553 loop_mode=no_loop
+<region> sample=Never this high-110-#9AEABE.wav key=110 lokey=110 hikey=110  amp_veltrack=30 lovel=45 hivel=127 offset=612 end=194316 loop_mode=no_loop
+<region> sample=Never this high-111-44-ZM32.wav key=111 lokey=111 hikey=111  amp_veltrack=30 lovel=1 hivel=44 offset=741 loop_mode=no_loop
+<region> sample=Never this high-111-#9AEAC3.wav key=111 lokey=111 hikey=111  amp_veltrack=30 lovel=45 hivel=127 offset=499 end=192654 loop_mode=no_loop
+<region> sample=Never this high-112-44-0QTU.wav key=112 lokey=112 hikey=112  amp_veltrack=30 lovel=1 hivel=44 offset=620 loop_mode=no_loop
+<region> sample=Never this high-112-#9AEAC8.wav key=112 lokey=112 hikey=112  amp_veltrack=30 lovel=45 hivel=127 offset=694 loop_mode=no_loop
+<region> sample=Never this high-113-44-GYLF.wav key=113 lokey=113 hikey=113  amp_veltrack=30 lovel=1 hivel=44 offset=621 loop_mode=no_loop
+<region> sample=Never this high-113-#9AEACD.wav key=113 lokey=113 hikey=113  amp_veltrack=30 lovel=45 hivel=127 offset=604 end=194947 loop_mode=no_loop
+<region> sample=Never this high-114-44-YXY7.wav key=114 lokey=114 hikey=114  amp_veltrack=30 lovel=1 hivel=44 offset=595 loop_mode=no_loop
+<region> sample=Never this high-114-#9AEAD5.wav key=114 lokey=114 hikey=114  amp_veltrack=30 lovel=45 hivel=127 offset=593 end=192143 loop_mode=no_loop
+<region> sample=Never this high-115-44-15YM.wav key=115 lokey=115 hikey=115  amp_veltrack=30 lovel=1 hivel=44 offset=633 loop_mode=no_loop
+<region> sample=Never this high-115-#9AEADB.wav key=115 lokey=115 hikey=115  amp_veltrack=30 lovel=45 hivel=127 offset=636 end=201993 loop_mode=no_loop
+<region> sample=Never this high-116-44-UD40.wav key=116 lokey=116 hikey=116  amp_veltrack=30 lovel=1 hivel=44 offset=651 end=184961 loop_mode=no_loop
+<region> sample=Never this high-116-#9AEAE1.wav key=116 lokey=116 hikey=116  amp_veltrack=30 lovel=45 hivel=127 offset=829 end=194699 loop_mode=no_loop
+<region> sample=Never this high-117-44-3EK4.wav key=117 lokey=117 hikey=117  amp_veltrack=30 lovel=1 hivel=44 offset=799 loop_mode=no_loop
+<region> sample=Never this high-117-#9AEAE9.wav key=117 lokey=117 hikey=117  amp_veltrack=30 lovel=45 hivel=127 offset=561 end=192391 loop_mode=no_loop
+<region> sample=Never this high-118-44-JCK1.wav key=118 lokey=118 hikey=118  amp_veltrack=30 lovel=1 hivel=44 offset=689 end=186503 loop_mode=no_loop
+<region> sample=Never this high-118-#9AEAF0.wav key=118 lokey=118 hikey=118  amp_veltrack=30 lovel=45 hivel=127 offset=521 end=202248 loop_mode=no_loop
+<region> sample=Never this high-119-44-1LB8.wav key=119 lokey=119 hikey=119  amp_veltrack=30 lovel=1 hivel=44 offset=571 end=183944 loop_mode=no_loop
+<region> sample=Never this high-119-#9AEAF5.wav key=119 lokey=119 hikey=119  amp_veltrack=30 lovel=45 hivel=127 offset=757 end=194947 loop_mode=no_loop
+<region> sample=Never this high-120-44-T1XP.wav key=120 lokey=120 hikey=120  amp_veltrack=30 lovel=1 hivel=44 offset=761 loop_mode=no_loop
+<region> sample=Never this high-120-#9AEAFC.wav key=120 lokey=120 hikey=120  amp_veltrack=30 lovel=45 hivel=127 offset=737 end=193294 loop_mode=no_loop

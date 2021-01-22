@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - HIFM.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/HIFM/
+
+<group>        // HIFM
+<region> sample=007 HIFM-24-127.aif key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=1 hivel=127 offset=708 end=450302 loop_mode=no_loop
+<region> sample=007 HIFM-25-127.aif key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=1 hivel=127 offset=351 end=445803 loop_mode=no_loop
+<region> sample=007 HIFM-26-127.aif key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=1 hivel=127 offset=615 end=451461 loop_mode=no_loop
+<region> sample=007 HIFM-27-127.aif key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=1 hivel=127 offset=809 end=447983 loop_mode=no_loop
+<region> sample=007 HIFM-28-127.aif key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=1 hivel=127 offset=383 loop_mode=no_loop
+<region> sample=007 HIFM-29-127.aif key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=1 hivel=127 offset=616 end=445004 loop_mode=no_loop
+<region> sample=007 HIFM-30-127.aif key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=1 hivel=127 offset=433 end=443465 loop_mode=no_loop
+<region> sample=007 HIFM-31-127.aif key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=1 hivel=127 offset=364 end=444327 loop_mode=no_loop
+<region> sample=007 HIFM-32-127.aif key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=1 hivel=127 offset=751 loop_mode=no_loop
+<region> sample=007 HIFM-33-127.aif key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=1 hivel=127 offset=666 end=445821 loop_mode=no_loop
+<region> sample=007 HIFM-34-127.aif key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=1 hivel=127 offset=424 end=450889 loop_mode=no_loop
+<region> sample=007 HIFM-35-127.aif key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=1 hivel=127 offset=386 end=444941 loop_mode=no_loop
+<region> sample=007 HIFM-36-127.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=127 offset=774 end=450038 loop_mode=no_loop
+<region> sample=007 HIFM-37-127.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=127 offset=637 end=451622 loop_mode=no_loop
+<region> sample=007 HIFM-38-127.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=127 offset=755 end=446500 loop_mode=no_loop
+<region> sample=007 HIFM-39-127.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=127 offset=804 end=445264 loop_mode=no_loop
+<region> sample=007 HIFM-40-127.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=127 offset=448 end=450143 loop_mode=no_loop
+<region> sample=007 HIFM-41-127.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=127 offset=590 end=444660 loop_mode=no_loop
+<region> sample=007 HIFM-42-127.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=127 offset=747 end=445696 loop_mode=no_loop
+<region> sample=007 HIFM-43-127.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=127 offset=516 end=451383 loop_mode=no_loop
+<region> sample=007 HIFM-44-127.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=127 offset=652 end=445817 loop_mode=no_loop
+<region> sample=007 HIFM-45-127.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=127 offset=457 loop_mode=no_loop
+<region> sample=007 HIFM-46-127.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=127 offset=412 end=450169 loop_mode=no_loop
+<region> sample=007 HIFM-47-127.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=127 offset=316 loop_mode=no_loop
+<region> sample=007 HIFM-48-127.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=127 offset=479 end=447261 loop_mode=no_loop
+<region> sample=007 HIFM-49-127.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 offset=558 end=449990 loop_mode=no_loop
+<region> sample=007 HIFM-50-127.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 offset=776 end=448665 loop_mode=no_loop
+<region> sample=007 HIFM-51-127.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 offset=400 end=443052 loop_mode=no_loop
+<region> sample=007 HIFM-52-127.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 offset=507 end=448062 loop_mode=no_loop
+<region> sample=007 HIFM-53-127.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 offset=546 end=448750 loop_mode=no_loop
+<region> sample=007 HIFM-54-127.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 offset=744 end=445567 loop_mode=no_loop
+<region> sample=007 HIFM-55-127.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 offset=597 end=449320 loop_mode=no_loop
+<region> sample=007 HIFM-56-127.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 offset=762 loop_mode=no_loop
+<region> sample=007 HIFM-57-127.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 offset=392 loop_mode=no_loop
+<region> sample=007 HIFM-58-127.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 offset=582 end=449696 loop_mode=no_loop
+<region> sample=007 HIFM-59-127.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 offset=363 loop_mode=no_loop
+<region> sample=007 HIFM-60-127.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 offset=543 end=445831 loop_mode=no_loop
+<region> sample=007 HIFM-61-127.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 offset=583 end=448018 loop_mode=no_loop
+<region> sample=007 HIFM-62-127.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 offset=673 end=443347 loop_mode=no_loop
+<region> sample=007 HIFM-63-127.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 offset=372 end=443496 loop_mode=no_loop
+<region> sample=007 HIFM-64-127.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 offset=606 loop_mode=no_loop
+<region> sample=007 HIFM-65-127.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 offset=574 end=447070 loop_mode=no_loop
+<region> sample=007 HIFM-66-127.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 offset=615 loop_mode=no_loop
+<region> sample=007 HIFM-67-127.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 offset=445 loop_mode=no_loop
+<region> sample=007 HIFM-68-127.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 offset=753 loop_mode=no_loop
+<region> sample=007 HIFM-69-127.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 offset=507 loop_mode=no_loop
+<region> sample=007 HIFM-70-127.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 offset=543 loop_mode=no_loop
+<region> sample=007 HIFM-71-127.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 offset=728 end=446952 loop_mode=no_loop
+<region> sample=007 HIFM-72-127.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 offset=354 loop_mode=no_loop
+<region> sample=007 HIFM-73-127.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 offset=617 end=448576 loop_mode=no_loop
+<region> sample=007 HIFM-74-127.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 offset=709 end=443312 loop_mode=no_loop
+<region> sample=007 HIFM-75-127.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 offset=637 end=444083 loop_mode=no_loop
+<region> sample=007 HIFM-76-127.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 offset=689 loop_mode=no_loop
+<region> sample=007 HIFM-77-127.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 offset=268 end=447387 loop_mode=no_loop
+<region> sample=007 HIFM-78-127.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 offset=357 end=448038 loop_mode=no_loop
+<region> sample=007 HIFM-79-127.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 offset=448 loop_mode=no_loop
+<region> sample=007 HIFM-80-127.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 offset=718 end=443753 loop_mode=no_loop
+<region> sample=007 HIFM-81-127.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 offset=524 loop_mode=no_loop
+<region> sample=007 HIFM-82-127.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 offset=481 end=449168 loop_mode=no_loop
+<region> sample=007 HIFM-83-127.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 offset=617 end=447199 loop_mode=no_loop
+<region> sample=007 HIFM-84-127.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=127 offset=608 loop_mode=no_loop
+<region> sample=007 HIFM-85-127.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=127 offset=695 loop_mode=no_loop
+<region> sample=007 HIFM-86-127.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=127 offset=665 end=443474 loop_mode=no_loop
+<region> sample=007 HIFM-87-127.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=127 offset=777 end=445008 loop_mode=no_loop
+<region> sample=007 HIFM-88-127.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=127 offset=622 end=449155 loop_mode=no_loop
+<region> sample=007 HIFM-89-127.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=127 offset=359 end=446469 loop_mode=no_loop
+<region> sample=007 HIFM-90-127.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=127 offset=554 end=447446 loop_mode=no_loop
+<region> sample=007 HIFM-91-127.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=127 offset=594 end=448456 loop_mode=no_loop
+<region> sample=007 HIFM-92-127.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=127 offset=795 end=443756 loop_mode=no_loop
+<region> sample=007 HIFM-93-127.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=127 offset=609 end=443774 loop_mode=no_loop
+<region> sample=007 HIFM-94-127.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=127 offset=322 loop_mode=no_loop
+<region> sample=007 HIFM-95-127.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=127 offset=354 end=447532 loop_mode=no_loop
+<region> sample=007 HIFM-96-127.aif key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=1 hivel=127 offset=729 loop_mode=no_loop

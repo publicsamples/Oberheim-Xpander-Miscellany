@@ -1,0 +1,26 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - reschord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/reschord/
+
+<group>        // reschord
+<region> sample=reschord-22-127-4X1D.wav key=21 lokey=21 hikey=22  amp_veltrack=30 lovel=1 hivel=127 offset=686 end=35509 loop_mode=no_loop
+<region> sample=reschord-27-127-WZ5Q.wav key=26 lokey=23 hikey=27  amp_veltrack=30 lovel=1 hivel=127 offset=765 end=28998 loop_mode=no_loop
+<region> sample=reschord-32-127-R7QH.wav key=31 lokey=28 hikey=32  amp_veltrack=30 lovel=1 hivel=127 offset=662 end=31629 loop_mode=no_loop
+<region> sample=reschord-37-127-N3W9.wav key=36 lokey=33 hikey=37  amp_veltrack=30 lovel=1 hivel=127 offset=700 end=30310 loop_mode=no_loop
+<region> sample=reschord-42-127-9GK4.wav key=41 lokey=38 hikey=42  amp_veltrack=30 lovel=1 hivel=127 offset=704 end=30317 loop_mode=no_loop
+<region> sample=reschord-47-127-2ODL.wav key=46 lokey=43 hikey=47  amp_veltrack=30 lovel=1 hivel=127 offset=831 end=30235 loop_mode=no_loop
+<region> sample=reschord-52-127-2NDX.wav key=51 lokey=48 hikey=52  amp_veltrack=30 lovel=1 hivel=127 offset=751 end=35539 loop_mode=no_loop
+<region> sample=reschord-57-127-MJLJ.wav key=56 lokey=53 hikey=57  amp_veltrack=30 lovel=1 hivel=127 offset=781 end=29393 loop_mode=no_loop
+<region> sample=reschord-62-127-CD4U.wav key=61 lokey=58 hikey=62  amp_veltrack=30 lovel=1 hivel=127 offset=685 loop_mode=no_loop
+<region> sample=reschord-67-127-OPKE.wav key=66 lokey=63 hikey=67  amp_veltrack=30 lovel=1 hivel=127 offset=662 end=31350 loop_mode=no_loop
+<region> sample=reschord-72-127-6Y86.wav key=71 lokey=68 hikey=72  amp_veltrack=30 lovel=1 hivel=127 offset=600 end=31045 loop_mode=no_loop
+<region> sample=reschord-77-127-UZIB.wav key=76 lokey=73 hikey=77  amp_veltrack=30 lovel=1 hivel=127 offset=612 end=30087 loop_mode=no_loop
+<region> sample=reschord-82-127-NZVC.wav key=81 lokey=78 hikey=82  amp_veltrack=30 lovel=1 hivel=127 offset=776 end=35610 loop_mode=no_loop
+<region> sample=reschord-87-127-OLX0.wav key=86 lokey=83 hikey=87  amp_veltrack=30 lovel=1 hivel=127 offset=559 loop_mode=no_loop
+<region> sample=reschord-92-127-VFQQ.wav key=91 lokey=88 hikey=92  amp_veltrack=30 lovel=1 hivel=127 offset=665 end=31497 loop_mode=no_loop
+<region> sample=reschord-97-127-LD4M.wav key=96 lokey=93 hikey=97  amp_veltrack=30 lovel=1 hivel=127 offset=567 end=31109 loop_mode=no_loop
+<region> sample=reschord-102-127-CDYT.wav key=101 lokey=98 hikey=102  amp_veltrack=30 lovel=1 hivel=127 offset=693 end=31236 loop_mode=no_loop
+<region> sample=reschord-107-127-T9OS.wav key=106 lokey=103 hikey=107  amp_veltrack=30 lovel=1 hivel=127 offset=666 end=69248 loop_mode=no_loop
+<region> sample=reschord-108-127-ORBI.wav key=108 lokey=108 hikey=108  amp_veltrack=30 lovel=1 hivel=127 offset=709 end=107914 loop_mode=no_loop

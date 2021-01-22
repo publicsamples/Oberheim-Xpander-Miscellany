@@ -1,0 +1,81 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tube String.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Tube String/
+
+<group>        // Tube String
+<region> sample=Tube String-36-64-VPUN.wav key=36 lokey=3 hikey=36  amp_veltrack=30 lovel=1 hivel=64 offset=1361 loop_mode=no_loop
+<region> sample=Tube String-36-127-FMVM.wav key=36 lokey=3 hikey=36  amp_veltrack=30 lovel=65 hivel=127 offset=1030 loop_mode=no_loop
+<region> sample=Tube String-37-64-A6W4.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=64 offset=1318 end=745216 loop_mode=no_loop
+<region> sample=Tube String-37-127-PI11.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=65 hivel=127 offset=1461 end=747736 loop_mode=no_loop
+<region> sample=Tube String-38-64-E93C.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=64 offset=1199 end=756608 loop_mode=no_loop
+<region> sample=Tube String-38-127-48ZW.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=65 hivel=127 offset=1534 end=748016 loop_mode=no_loop
+<region> sample=Tube String-39-64-BRAJ.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=64 offset=1401 end=748399 loop_mode=no_loop
+<region> sample=Tube String-39-127-4BEF.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=65 hivel=127 offset=1508 loop_mode=no_loop
+<region> sample=Tube String-40-64-BVRQ.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=64 offset=1331 end=745984 loop_mode=no_loop
+<region> sample=Tube String-40-127-O7OB.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=65 hivel=127 offset=1386 end=747520 loop_mode=no_loop
+<region> sample=Tube String-41-64-GHH7.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=64 offset=1399 end=754846 loop_mode=no_loop
+<region> sample=Tube String-41-127-X7F4.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=65 hivel=127 offset=1464 end=744381 loop_mode=no_loop
+<region> sample=Tube String-42-64-SZM5.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=64 offset=1390 loop_mode=no_loop
+<region> sample=Tube String-42-127-IQWH.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=65 hivel=127 offset=1535 end=746968 loop_mode=no_loop
+<region> sample=Tube String-43-64-73JY.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=64 offset=1404 end=745730 loop_mode=no_loop
+<region> sample=Tube String-43-127-OZSS.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=65 hivel=127 offset=1369 end=747264 loop_mode=no_loop
+<region> sample=Tube String-44-64-CDK3.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=64 offset=1407 end=755772 loop_mode=no_loop
+<region> sample=Tube String-44-127-86FL.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=65 hivel=127 offset=1371 end=743958 loop_mode=no_loop
+<region> sample=Tube String-45-64-5R4A.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=64 offset=1251 end=746752 loop_mode=no_loop
+<region> sample=Tube String-45-127-6S9A.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=65 hivel=127 offset=1347 end=747298 loop_mode=no_loop
+<region> sample=Tube String-46-64-AO9X.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=64 offset=1374 loop_mode=no_loop
+<region> sample=Tube String-46-127-5N27.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=65 hivel=127 offset=1407 end=746561 loop_mode=no_loop
+<region> sample=Tube String-47-64-J95Q.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=64 offset=1407 loop_mode=no_loop
+<region> sample=Tube String-47-127-9VZW.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=65 hivel=127 offset=1347 end=743225 loop_mode=no_loop
+<region> sample=Tube String-48-64-UAO0.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=64 offset=1336 loop_mode=no_loop
+<region> sample=Tube String-48-127-49FI.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=65 hivel=127 offset=1366 loop_mode=no_loop
+<region> sample=Tube String-49-64-9FBX.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=64 offset=1339 end=747150 loop_mode=no_loop
+<region> sample=Tube String-49-127-RHVE.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=127 offset=1358 end=746118 loop_mode=no_loop
+<region> sample=Tube String-50-64-6JUD.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=64 offset=1360 end=754959 loop_mode=no_loop
+<region> sample=Tube String-50-127-8183.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=127 offset=1279 end=744749 loop_mode=no_loop
+<region> sample=Tube String-51-64-M6SQ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=64 offset=1400 end=746880 loop_mode=no_loop
+<region> sample=Tube String-51-127-W9MJ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=127 offset=1249 end=747008 loop_mode=no_loop
+<region> sample=Tube String-52-64-UZ44.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=64 offset=1529 end=746925 loop_mode=no_loop
+<region> sample=Tube String-52-127-HKL9.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=127 offset=1397 end=746406 loop_mode=no_loop
+<region> sample=Tube String-53-64-WJH7.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=64 offset=1236 end=758538 loop_mode=no_loop
+<region> sample=Tube String-53-127-AC3F.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=127 offset=1496 end=743982 loop_mode=no_loop
+<region> sample=Tube String-54-64-65T2.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=64 offset=1492 end=749571 loop_mode=no_loop
+<region> sample=Tube String-54-127-HSPP.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=127 offset=1314 end=747904 loop_mode=no_loop
+<region> sample=Tube String-55-64-CHWP.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=64 offset=1535 loop_mode=no_loop
+<region> sample=Tube String-55-127-304C.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=127 offset=1516 loop_mode=no_loop
+<region> sample=Tube String-56-64-YCK6.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=64 offset=1268 end=756608 loop_mode=no_loop
+<region> sample=Tube String-56-127-NFDZ.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=127 offset=1506 loop_mode=no_loop
+<region> sample=Tube String-57-64-89UM.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=64 offset=1382 end=748947 loop_mode=no_loop
+<region> sample=Tube String-57-127-QPZT.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=127 offset=1402 end=746886 loop_mode=no_loop
+<region> sample=Tube String-58-64-T6W4.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=64 offset=1246 end=922752 loop_mode=no_loop
+<region> sample=Tube String-58-127-A0HF.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=127 offset=283 end=848664 loop_mode=no_loop
+<region> sample=Tube String-59-64-QRFM.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=64 offset=1401 end=758147 loop_mode=no_loop
+<region> sample=Tube String-59-127-I37I.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=127 offset=1379 end=757454 loop_mode=no_loop
+<region> sample=Tube String-60-64-XYCI.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=64 offset=1250 end=1014996 loop_mode=no_loop
+<region> sample=Tube String-60-127-GA79.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=127 offset=125 loop_mode=no_loop
+<region> sample=Tube String-61-64-83C1.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=64 offset=1388 loop_mode=no_loop
+<region> sample=Tube String-61-127-5RE7.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=127 offset=1629 loop_mode=no_loop
+<region> sample=Tube String-62-64-PD6O.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=64 offset=106 loop_mode=no_loop
+<region> sample=Tube String-62-127-JVIX.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=127 offset=1384 loop_mode=no_loop
+<region> sample=Tube String-63-64-OKF9.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=64 offset=153 end=747146 loop_mode=no_loop
+<region> sample=Tube String-63-127-ZXWT.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=127 offset=1375 loop_mode=no_loop
+<region> sample=Tube String-64-64-NDVI.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=64 offset=1258 end=745371 loop_mode=no_loop
+<region> sample=Tube String-64-127-32G9.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=127 offset=1260 end=745607 loop_mode=no_loop
+<region> sample=Tube String-65-64-G2V9.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=64 offset=1406 loop_mode=no_loop
+<region> sample=Tube String-65-127-6EJS.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=127 offset=1396 end=744604 loop_mode=no_loop
+<region> sample=Tube String-66-64-7L7N.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=64 offset=1271 end=747915 loop_mode=no_loop
+<region> sample=Tube String-66-127-8DSW.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=127 offset=1366 end=746624 loop_mode=no_loop
+<region> sample=Tube String-67-64-AHK7.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=64 offset=1266 loop_mode=no_loop
+<region> sample=Tube String-67-127-LRYW.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=127 offset=1403 end=747136 loop_mode=no_loop
+<region> sample=Tube String-68-64-D6JF.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=64 offset=1257 end=758016 loop_mode=no_loop
+<region> sample=Tube String-68-127-PQ4V.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=127 offset=1386 end=773145 loop_mode=no_loop
+<region> sample=Tube String-69-64-6ALO.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=64 offset=760 end=747392 loop_mode=no_loop
+<region> sample=Tube String-69-127-XV7U.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=127 offset=1493 end=765332 loop_mode=no_loop
+<region> sample=Tube String-70-64-QGGE.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=64 offset=90 end=745088 loop_mode=no_loop
+<region> sample=Tube String-70-127-PL0S.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=127 offset=1250 end=751855 loop_mode=no_loop
+<region> sample=Tube String-71-64-AXHN.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=64 offset=1402 end=755722 loop_mode=no_loop
+<region> sample=Tube String-71-127-1480.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=127 offset=1372 end=744448 loop_mode=no_loop
+<region> sample=Tube String-72-64-X66J.wav key=72 lokey=72 hikey=124  amp_veltrack=30 lovel=1 hivel=64 offset=1406 loop_mode=no_loop
+<region> sample=Tube String-72-127-G5WZ.wav key=72 lokey=72 hikey=124  amp_veltrack=30 lovel=65 hivel=127 offset=1398 loop_mode=no_loop

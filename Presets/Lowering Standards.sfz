@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Lowering Standards.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Lowering Standards/(201631 5942)/
+
+<group>        // Lowering Standards
+<region> sample=Lowering Standards-4#9AEF7A.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=0 hivel=127 volume=10 loop_mode=loop_continuous loop_start=26759 loop_end=635272
+<region> sample=Lowering Standards-49-127-D46J.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 volume=10 loop_mode=loop_continuous loop_start=194379 loop_end=634687
+<region> sample=Lowering Standards-5#9AEF7C.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 volume=9 loop_mode=loop_continuous loop_start=102623 loop_end=373585
+<region> sample=Lowering Standards-5#9AEF7D.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 volume=10 loop_mode=loop_continuous loop_start=18031 loop_end=594939
+<region> sample=Lowering Standards-5#9AEF7E.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 volume=8 loop_mode=loop_continuous loop_start=44139 loop_end=555164
+<region> sample=Lowering Standards-5#9AEF7F.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 volume=8 loop_mode=loop_continuous loop_start=74857 loop_end=592495
+<region> sample=Lowering Standards-5#9AEF80.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=292495 loop_end=569886
+<region> sample=Lowering Standards-5#9AEF81.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 volume=8 loop_mode=loop_continuous loop_start=33787 loop_end=222189
+<region> sample=Lowering Standards-5#9AEF82.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 volume=8 loop_mode=loop_continuous loop_start=51792 loop_end=306326
+<region> sample=Lowering Standards-5#9AEF83.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 volume=8 loop_mode=loop_continuous loop_start=169335 loop_end=327686
+<region> sample=Lowering Standards-5#9AEF84.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=55896 loop_end=625923
+<region> sample=Lowering Standards-5#9AEF85.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=324228 loop_end=581948
+<region> sample=Lowering Standards-6#9AEF86.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=393736 loop_end=539186
+<region> sample=Lowering Standards-6#9AEF87.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=70100 loop_end=555709
+<region> sample=Lowering Standards-6#9AEF88.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=239510 loop_end=596637
+<region> sample=Lowering Standards-6#9AEF89.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=18128 loop_end=169580
+<region> sample=Lowering Standards-6#9AEF8A.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=94297 loop_end=351540
+<region> sample=Lowering Standards-6#9AEF8B.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=190997 loop_end=625404
+<region> sample=Lowering Standards-6#9AEF8C.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=288658 loop_end=590470
+<region> sample=Lowering Standards-67-127-07D8.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=216855 loop_end=555798
+<region> sample=Lowering Standards-6#9AEF8E.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=59067 loop_end=397689
+<region> sample=Lowering Standards-6#9AEF8F.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 volume=7 loop_mode=loop_continuous loop_start=157089 loop_end=561694
+<region> sample=Lowering Standards-7#9AEF90.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=196647 loop_end=611396
+<region> sample=Lowering Standards-7#9AEF91.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=37783 loop_end=615270
+<region> sample=Lowering Standards-72-127-ZB80.wav key=72 lokey=72 hikey=127  amp_veltrack=30 lovel=0 hivel=127 volume=6 loop_mode=loop_continuous loop_start=95660 loop_end=327130

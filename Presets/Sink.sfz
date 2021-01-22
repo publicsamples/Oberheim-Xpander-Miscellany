@@ -1,0 +1,154 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sink.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Sink/
+
+<group>        // Sink
+<region> sample=Sink-36-40.aif key=36 lokey=1 hikey=36  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=300 end=381696 loop_mode=no_loop
+<region> sample=Sink-36-80.aif key=36 lokey=1 hikey=36  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=628 loop_mode=no_loop
+<region> sample=Sink-36-120.aif key=36 lokey=1 hikey=36  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=595 end=370564 loop_mode=no_loop
+<region> sample=Sink-37-40.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=816 end=367940 loop_mode=no_loop
+<region> sample=Sink-37-80.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=554 end=371423 loop_mode=no_loop
+<region> sample=Sink-37-120.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=418 end=376766 loop_mode=no_loop
+<region> sample=Sink-38-40.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=375 loop_mode=no_loop
+<region> sample=Sink-38-80.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=510 end=375168 loop_mode=no_loop
+<region> sample=Sink-38-120.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=784 end=368899 loop_mode=no_loop
+<region> sample=Sink-39-40.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=374 end=367616 loop_mode=no_loop
+<region> sample=Sink-39-80.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=380 loop_mode=no_loop
+<region> sample=Sink-39-120.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=389 end=366800 loop_mode=no_loop
+<region> sample=Sink-40-40.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=429 end=374144 loop_mode=no_loop
+<region> sample=Sink-40-80.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=833 end=365424 loop_mode=no_loop
+<region> sample=Sink-40-120.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=804 loop_mode=no_loop
+<region> sample=Sink-41-40.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=486 end=383817 loop_mode=no_loop
+<region> sample=Sink-41-80.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=484 loop_mode=no_loop
+<region> sample=Sink-41-120.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=648 end=377730 loop_mode=no_loop
+<region> sample=Sink-42-40.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=476 loop_mode=no_loop
+<region> sample=Sink-42-80.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=653 loop_mode=no_loop
+<region> sample=Sink-42-120.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=796 end=382845 loop_mode=no_loop
+<region> sample=Sink-43-40.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=604 end=378590 loop_mode=no_loop
+<region> sample=Sink-43-80.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=916 loop_mode=no_loop
+<region> sample=Sink-43-120.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=472 end=368062 loop_mode=no_loop
+<region> sample=Sink-44-40.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=564 loop_mode=no_loop
+<region> sample=Sink-44-80.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=765 end=386816 loop_mode=no_loop
+<region> sample=Sink-44-120.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=610 loop_mode=no_loop
+<region> sample=Sink-45-40.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=731 end=382304 loop_mode=no_loop
+<region> sample=Sink-45-80.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=427 loop_mode=no_loop
+<region> sample=Sink-45-120.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=590 loop_mode=no_loop
+<region> sample=Sink-46-40.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=516 end=386051 loop_mode=no_loop
+<region> sample=Sink-46-80.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=426 end=375936 loop_mode=no_loop
+<region> sample=Sink-46-120.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=443 loop_mode=no_loop
+<region> sample=Sink-47-40.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=457 end=373794 loop_mode=no_loop
+<region> sample=Sink-47-80.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=574 loop_mode=no_loop
+<region> sample=Sink-47-120.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=764 end=394880 loop_mode=no_loop
+<region> sample=Sink-48-40.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=784 loop_mode=no_loop
+<region> sample=Sink-48-80.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=718 end=380928 loop_mode=no_loop
+<region> sample=Sink-48-120.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=610 loop_mode=no_loop
+<region> sample=Sink-49-40.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=756 end=371072 loop_mode=no_loop
+<region> sample=Sink-49-80.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=738 loop_mode=no_loop
+<region> sample=Sink-49-120.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=487 end=373760 loop_mode=no_loop
+<region> sample=Sink-50-40.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=757 end=380032 loop_mode=no_loop
+<region> sample=Sink-50-80.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=312 loop_mode=no_loop
+<region> sample=Sink-50-120.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=604 loop_mode=no_loop
+<region> sample=Sink-51-40.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=329 loop_mode=no_loop
+<region> sample=Sink-51-80.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=594 loop_mode=no_loop
+<region> sample=Sink-51-120.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=828 loop_mode=no_loop
+<region> sample=Sink-52-40.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=481 loop_mode=no_loop
+<region> sample=Sink-52-80.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=479 loop_mode=no_loop
+<region> sample=Sink-52-120.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=538 loop_mode=no_loop
+<region> sample=Sink-53-40.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=330 end=375042 loop_mode=no_loop
+<region> sample=Sink-53-80.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=555 end=381696 loop_mode=no_loop
+<region> sample=Sink-53-120.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=336 end=373888 loop_mode=no_loop
+<region> sample=Sink-54-40.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=503 loop_mode=no_loop
+<region> sample=Sink-54-80.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=575 loop_mode=no_loop
+<region> sample=Sink-54-120.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=663 loop_mode=no_loop
+<region> sample=Sink-55-40.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=727 end=385024 loop_mode=no_loop
+<region> sample=Sink-55-80.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=590 loop_mode=no_loop
+<region> sample=Sink-55-120.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=579 end=379136 loop_mode=no_loop
+<region> sample=Sink-56-40.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=340 end=388736 loop_mode=no_loop
+<region> sample=Sink-56-80.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=722 end=379392 loop_mode=no_loop
+<region> sample=Sink-56-120.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=594 loop_mode=no_loop
+<region> sample=Sink-57-40.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=826 end=378368 loop_mode=no_loop
+<region> sample=Sink-57-80.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=362 loop_mode=no_loop
+<region> sample=Sink-57-120.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=350 end=400014 loop_mode=no_loop
+<region> sample=Sink-58-40.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=804 end=379648 loop_mode=no_loop
+<region> sample=Sink-58-80.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=611 end=380288 loop_mode=no_loop
+<region> sample=Sink-58-120.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=507 end=377856 loop_mode=no_loop
+<region> sample=Sink-59-40.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=826 loop_mode=no_loop
+<region> sample=Sink-59-80.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=503 end=394496 loop_mode=no_loop
+<region> sample=Sink-59-120.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=393 end=382594 loop_mode=no_loop
+<region> sample=Sink-60-40.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=799 end=385536 loop_mode=no_loop
+<region> sample=Sink-60-80.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=631 loop_mode=no_loop
+<region> sample=Sink-60-120.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=781 end=383744 loop_mode=no_loop
+<region> sample=Sink-61-40.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=879 end=395158 loop_mode=no_loop
+<region> sample=Sink-61-80.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=465 loop_mode=no_loop
+<region> sample=Sink-61-120.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=747 end=382112 loop_mode=no_loop
+<region> sample=Sink-62-40.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=639 loop_mode=no_loop
+<region> sample=Sink-62-80.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=620 end=383616 loop_mode=no_loop
+<region> sample=Sink-62-120.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=455 loop_mode=no_loop
+<region> sample=Sink-63-40.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=721 loop_mode=no_loop
+<region> sample=Sink-63-80.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=845 loop_mode=no_loop
+<region> sample=Sink-63-120.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=825 loop_mode=no_loop
+<region> sample=Sink-64-40.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=780 loop_mode=no_loop
+<region> sample=Sink-64-80.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=558 end=393728 loop_mode=no_loop
+<region> sample=Sink-64-120.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=380 end=384258 loop_mode=no_loop
+<region> sample=Sink-65-40.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=363 loop_mode=no_loop
+<region> sample=Sink-65-80.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=803 end=381449 loop_mode=no_loop
+<region> sample=Sink-65-120.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=480 loop_mode=no_loop
+<region> sample=Sink-66-40.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=788 loop_mode=no_loop
+<region> sample=Sink-66-80.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=338 loop_mode=no_loop
+<region> sample=Sink-66-120.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=380 loop_mode=no_loop
+<region> sample=Sink-67-40.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=597 end=380544 loop_mode=no_loop
+<region> sample=Sink-67-80.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=847 end=380032 loop_mode=no_loop
+<region> sample=Sink-67-120.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=723 end=398467 loop_mode=no_loop
+<region> sample=Sink-68-40.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=805 end=381312 loop_mode=no_loop
+<region> sample=Sink-68-80.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=730 end=391819 loop_mode=no_loop
+<region> sample=Sink-68-120.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=419 end=381057 loop_mode=no_loop
+<region> sample=Sink-69-40.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=737 end=389888 loop_mode=no_loop
+<region> sample=Sink-69-80.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=532 loop_mode=no_loop
+<region> sample=Sink-69-120.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=825 end=378496 loop_mode=no_loop
+<region> sample=Sink-70-40.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=489 end=385174 loop_mode=no_loop
+<region> sample=Sink-70-80.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=560 end=384789 loop_mode=no_loop
+<region> sample=Sink-70-120.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=640 end=388873 loop_mode=no_loop
+<region> sample=Sink-71-40.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=365 end=392576 loop_mode=no_loop
+<region> sample=Sink-71-80.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=379 loop_mode=no_loop
+<region> sample=Sink-71-120.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=618 end=392192 loop_mode=no_loop
+<region> sample=Sink-72-40.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=397 loop_mode=no_loop
+<region> sample=Sink-72-80.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=647 end=391936 loop_mode=no_loop
+<region> sample=Sink-72-120.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=729 end=401920 loop_mode=no_loop
+<region> sample=Sink-73-40.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=474 end=382466 loop_mode=no_loop
+<region> sample=Sink-73-80.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=336 end=393216 loop_mode=no_loop
+<region> sample=Sink-73-120.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=847 loop_mode=no_loop
+<region> sample=Sink-74-40.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=474 end=386304 loop_mode=no_loop
+<region> sample=Sink-74-80.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=502 end=397952 loop_mode=no_loop
+<region> sample=Sink-74-120.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=340 end=380047 loop_mode=no_loop
+<region> sample=Sink-75-40.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=758 end=391951 loop_mode=no_loop
+<region> sample=Sink-75-80.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=589 loop_mode=no_loop
+<region> sample=Sink-75-120.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=497 end=387331 loop_mode=no_loop
+<region> sample=Sink-76-40.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=452 end=397070 loop_mode=no_loop
+<region> sample=Sink-76-80.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=761 end=385280 loop_mode=no_loop
+<region> sample=Sink-76-120.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=430 end=390915 loop_mode=no_loop
+<region> sample=Sink-77-40.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=310 end=379527 loop_mode=no_loop
+<region> sample=Sink-77-80.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=441 end=384128 loop_mode=no_loop
+<region> sample=Sink-77-120.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=743 end=396928 loop_mode=no_loop
+<region> sample=Sink-78-40.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=749 end=382348 loop_mode=no_loop
+<region> sample=Sink-78-80.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=740 end=394381 loop_mode=no_loop
+<region> sample=Sink-78-120.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=379 end=382470 loop_mode=no_loop
+<region> sample=Sink-79-40.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=360 loop_mode=no_loop
+<region> sample=Sink-79-80.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=578 end=398464 loop_mode=no_loop
+<region> sample=Sink-79-120.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=780 end=377344 loop_mode=no_loop
+<region> sample=Sink-80-40.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=446 end=384782 loop_mode=no_loop
+<region> sample=Sink-80-80.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=629 end=382080 loop_mode=no_loop
+<region> sample=Sink-80-120.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=668 end=385152 loop_mode=no_loop
+<region> sample=Sink-81-40.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=476 end=393475 loop_mode=no_loop
+<region> sample=Sink-81-80.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=520 end=385152 loop_mode=no_loop
+<region> sample=Sink-81-120.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=822 end=384898 loop_mode=no_loop
+<region> sample=Sink-82-40.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=598 end=377473 loop_mode=no_loop
+<region> sample=Sink-82-80.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=441 loop_mode=no_loop
+<region> sample=Sink-82-120.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=778 end=395523 loop_mode=no_loop
+<region> sample=Sink-83-40.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=375 loop_mode=no_loop
+<region> sample=Sink-83-80.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=826 loop_mode=no_loop
+<region> sample=Sink-83-120.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=580 loop_mode=no_loop
+<region> sample=Sink-84-40.aif key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=1 hivel=40 volume=12 offset=630 end=384772 loop_mode=no_loop
+<region> sample=Sink-84-80.aif key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=41 hivel=80 volume=12 offset=526 loop_mode=no_loop
+<region> sample=Sink-84-120.aif key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=80 hivel=127 volume=12 offset=853 end=389129 loop_mode=no_loop

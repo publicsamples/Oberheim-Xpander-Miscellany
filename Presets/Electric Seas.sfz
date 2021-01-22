@@ -1,0 +1,118 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Electric Seas.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Electric Seas/
+
+<group>        // Electric Seas
+<region> sample=Electric Seas-60-32-FBP3.wav key=60 lokey=2 hikey=60  amp_veltrack=30 lovel=1 hivel=32 offset=614 end=481650 loop_mode=no_loop
+<region> sample=Electric Seas-60-77-UWR4.wav key=60 lokey=2 hikey=60  amp_veltrack=30 lovel=33 hivel=77 offset=542 loop_mode=no_loop
+<region> sample=Electric Seas-60-127-A9G2.wav key=60 lokey=2 hikey=60  amp_veltrack=30 lovel=78 hivel=127 offset=766 end=438063 loop_mode=no_loop
+<region> sample=Electric Seas-61-32-TMEX.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=32 offset=632 end=473216 loop_mode=no_loop
+<region> sample=Electric Seas-61-77-GWZM.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=77 offset=529 end=458979 loop_mode=no_loop
+<region> sample=Electric Seas-61-127-OCYL.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=78 hivel=127 offset=625 end=446834 loop_mode=no_loop
+<region> sample=Electric Seas-62-32-HAZW.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=32 offset=523 end=500864 loop_mode=no_loop
+<region> sample=Electric Seas-62-77-VBUU.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=77 offset=617 end=464911 loop_mode=no_loop
+<region> sample=Electric Seas-62-127-3KXB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=78 hivel=127 offset=691 end=456448 loop_mode=no_loop
+<region> sample=Electric Seas-63-32-XRJO.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=32 offset=691 loop_mode=no_loop
+<region> sample=Electric Seas-63-77-TMMX.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=77 offset=805 end=459021 loop_mode=no_loop
+<region> sample=Electric Seas-63-127-8JQG.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=78 hivel=127 offset=771 end=444212 loop_mode=no_loop
+<region> sample=Electric Seas-64-32-Z1L3.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=32 offset=763 end=462904 loop_mode=no_loop
+<region> sample=Electric Seas-64-77-542R.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=77 offset=587 end=457793 loop_mode=no_loop
+<region> sample=Electric Seas-64-127-PGX1.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=78 hivel=127 offset=669 end=456139 loop_mode=no_loop
+<region> sample=Electric Seas-65-32-6AL6.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=32 offset=773 loop_mode=no_loop
+<region> sample=Electric Seas-65-77-ZRMU.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=77 offset=606 end=460049 loop_mode=no_loop
+<region> sample=Electric Seas-65-127-TQDO.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=78 hivel=127 offset=511 end=446592 loop_mode=no_loop
+<region> sample=Electric Seas-66-32-GRKF.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=32 offset=681 end=465074 loop_mode=no_loop
+<region> sample=Electric Seas-66-77-D3JN.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=77 offset=559 end=458058 loop_mode=no_loop
+<region> sample=Electric Seas-66-127-75NQ.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=78 hivel=127 offset=736 end=457318 loop_mode=no_loop
+<region> sample=Electric Seas-67-32-VJA6.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=32 offset=731 end=481408 loop_mode=no_loop
+<region> sample=Electric Seas-67-77-U8E5.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=77 offset=543 end=461372 loop_mode=no_loop
+<region> sample=Electric Seas-67-127-4F9M.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=78 hivel=127 offset=767 end=445998 loop_mode=no_loop
+<region> sample=Electric Seas-68-32-18EC.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=32 offset=594 end=462100 loop_mode=no_loop
+<region> sample=Electric Seas-68-77-35HK.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=77 offset=709 loop_mode=no_loop
+<region> sample=Electric Seas-68-127-LF3S.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=78 hivel=127 offset=646 loop_mode=no_loop
+<region> sample=Electric Seas-69-32-Z4D5.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=32 offset=629 loop_mode=no_loop
+<region> sample=Electric Seas-69-77-K1VJ.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=77 offset=662 end=461504 loop_mode=no_loop
+<region> sample=Electric Seas-69-127-KY4K.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=78 hivel=127 offset=571 end=443214 loop_mode=no_loop
+<region> sample=Electric Seas-70-32-YEPZ.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=32 offset=604 loop_mode=no_loop
+<region> sample=Electric Seas-70-77-X8NK.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=77 offset=743 end=458112 loop_mode=no_loop
+<region> sample=Electric Seas-70-127-8YBH.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=78 hivel=127 offset=630 end=451217 loop_mode=no_loop
+<region> sample=Electric Seas-71-32-WHCW.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=32 offset=602 end=475916 loop_mode=no_loop
+<region> sample=Electric Seas-71-77-3WU4.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=77 offset=540 loop_mode=no_loop
+<region> sample=Electric Seas-71-127-WUIC.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=78 hivel=127 offset=511 end=446592 loop_mode=no_loop
+<region> sample=Electric Seas-72-32-QF0H.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=32 offset=627 end=501771 loop_mode=no_loop
+<region> sample=Electric Seas-72-77-RDL4.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=77 offset=626 end=443904 loop_mode=no_loop
+<region> sample=Electric Seas-72-127-F6MW.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=78 hivel=127 offset=665 end=452033 loop_mode=no_loop
+<region> sample=Electric Seas-73-32-0OYO.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=32 offset=125 end=481435 loop_mode=no_loop
+<region> sample=Electric Seas-73-77-L9YX.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=77 offset=523 end=461826 loop_mode=no_loop
+<region> sample=Electric Seas-73-127-RD6F.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=78 hivel=127 offset=895 end=445056 loop_mode=no_loop
+<region> sample=Electric Seas-74-32-IMW0.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=32 offset=699 loop_mode=no_loop
+<region> sample=Electric Seas-74-77-2H6B.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=77 offset=796 end=442161 loop_mode=no_loop
+<region> sample=Electric Seas-74-127-E0ZA.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=78 hivel=127 offset=597 end=452009 loop_mode=no_loop
+<region> sample=Electric Seas-75-32-LE33.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=32 offset=760 end=477724 loop_mode=no_loop
+<region> sample=Electric Seas-75-77-728K.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=77 offset=643 end=460190 loop_mode=no_loop
+<region> sample=Electric Seas-75-127-7PZY.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=78 hivel=127 offset=639 end=446628 loop_mode=no_loop
+<region> sample=Electric Seas-76-32-9D5U.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=32 offset=658 end=502940 loop_mode=no_loop
+<region> sample=Electric Seas-76-77-XGNL.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=77 offset=492 loop_mode=no_loop
+<region> sample=Electric Seas-76-127-KLA1.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=78 hivel=127 offset=676 end=449920 loop_mode=no_loop
+<region> sample=Electric Seas-77-32-VJJ6.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=32 offset=688 end=478761 loop_mode=no_loop
+<region> sample=Electric Seas-77-77-6HLK.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=77 offset=637 loop_mode=no_loop
+<region> sample=Electric Seas-77-127-UIQZ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=78 hivel=127 offset=723 loop_mode=no_loop
+<region> sample=Electric Seas-78-32-SCQN.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=32 offset=645 end=501765 loop_mode=no_loop
+<region> sample=Electric Seas-78-77-XZXR.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=77 offset=610 end=465432 loop_mode=no_loop
+<region> sample=Electric Seas-78-127-7LTN.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=78 hivel=127 offset=703 loop_mode=no_loop
+<region> sample=Electric Seas-79-32-17G3.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=32 offset=619 end=479617 loop_mode=no_loop
+<region> sample=Electric Seas-79-77-LXI0.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=77 offset=721 end=463488 loop_mode=no_loop
+<region> sample=Electric Seas-79-127-8NKH.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=78 hivel=127 offset=511 loop_mode=no_loop
+<region> sample=Electric Seas-80-32-NWCD.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=32 offset=758 end=465411 loop_mode=no_loop
+<region> sample=Electric Seas-80-77-0F3A.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=77 offset=750 end=458507 loop_mode=no_loop
+<region> sample=Electric Seas-80-127-17PE.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=78 hivel=127 offset=745 end=455565 loop_mode=no_loop
+<region> sample=Electric Seas-81-32-4WMN.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=32 offset=875 end=479616 loop_mode=no_loop
+<region> sample=Electric Seas-81-77-DPWI.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=77 offset=659 loop_mode=no_loop
+<region> sample=Electric Seas-81-127-9R1Q.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=78 hivel=127 offset=637 end=449545 loop_mode=no_loop
+<region> sample=Electric Seas-82-32-P6KI.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=32 offset=739 loop_mode=no_loop
+<region> sample=Electric Seas-82-77-FLZX.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=77 offset=665 end=459663 loop_mode=no_loop
+<region> sample=Electric Seas-82-127-UOU7.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=78 hivel=127 offset=560 end=457110 loop_mode=no_loop
+<region> sample=Electric Seas-83-32-BGVV.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=32 offset=704 end=462481 loop_mode=no_loop
+<region> sample=Electric Seas-83-77-D7L5.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=77 offset=645 end=461844 loop_mode=no_loop
+<region> sample=Electric Seas-83-127-X6FA.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=78 hivel=127 offset=631 end=449551 loop_mode=no_loop
+<region> sample=Electric Seas-84-32-QF77.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=32 offset=625 end=465807 loop_mode=no_loop
+<region> sample=Electric Seas-84-77-S1QI.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=33 hivel=77 offset=645 end=463616 loop_mode=no_loop
+<region> sample=Electric Seas-84-127-ZZA7.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=78 hivel=127 offset=759 end=457375 loop_mode=no_loop
+<region> sample=Electric Seas-85-32-3FNF.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=32 offset=613 end=463242 loop_mode=no_loop
+<region> sample=Electric Seas-85-77-MGSC.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=33 hivel=77 offset=759 end=461964 loop_mode=no_loop
+<region> sample=Electric Seas-85-127-5HSK.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=78 hivel=127 offset=742 end=450204 loop_mode=no_loop
+<region> sample=Electric Seas-86-32-I991.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=32 offset=741 end=469248 loop_mode=no_loop
+<region> sample=Electric Seas-86-77-OLXO.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=33 hivel=77 offset=782 end=462464 loop_mode=no_loop
+<region> sample=Electric Seas-86-127-WE46.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=78 hivel=127 offset=832 end=455179 loop_mode=no_loop
+<region> sample=Electric Seas-87-32-ZMU4.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=32 offset=751 end=478467 loop_mode=no_loop
+<region> sample=Electric Seas-87-77-E4HX.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=33 hivel=77 offset=785 end=462987 loop_mode=no_loop
+<region> sample=Electric Seas-87-127-F1CC.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=78 hivel=127 offset=625 end=449545 loop_mode=no_loop
+<region> sample=Electric Seas-88-32-3VFA.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=32 offset=664 end=465792 loop_mode=no_loop
+<region> sample=Electric Seas-88-77-IIO0.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=33 hivel=77 offset=623 end=459284 loop_mode=no_loop
+<region> sample=Electric Seas-88-127-2IVH.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=78 hivel=127 offset=546 loop_mode=no_loop
+<region> sample=Electric Seas-89-32-PRAP.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=32 offset=757 end=480013 loop_mode=no_loop
+<region> sample=Electric Seas-89-77-AV7D.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=33 hivel=77 offset=649 loop_mode=no_loop
+<region> sample=Electric Seas-89-127-0I32.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=78 hivel=127 offset=758 end=448525 loop_mode=no_loop
+<region> sample=Electric Seas-90-32-EWSK.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=32 offset=743 end=464531 loop_mode=no_loop
+<region> sample=Electric Seas-90-77-0DMB.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=33 hivel=77 offset=665 end=458889 loop_mode=no_loop
+<region> sample=Electric Seas-90-127-XDP8.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=78 hivel=127 offset=542 end=454528 loop_mode=no_loop
+<region> sample=Electric Seas-91-32-N6GK.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=32 offset=499 end=482944 loop_mode=no_loop
+<region> sample=Electric Seas-91-77-8NKG.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=33 hivel=77 offset=710 loop_mode=no_loop
+<region> sample=Electric Seas-91-127-RHVD.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=78 hivel=127 offset=641 loop_mode=no_loop
+<region> sample=Electric Seas-92-32-ZFBW.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=32 offset=617 end=466433 loop_mode=no_loop
+<region> sample=Electric Seas-92-77-SZC1.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=33 hivel=77 offset=601 end=459660 loop_mode=no_loop
+<region> sample=Electric Seas-92-127-272R.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=78 hivel=127 offset=666 end=457745 loop_mode=no_loop
+<region> sample=Electric Seas-93-32-KKCB.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=32 offset=808 loop_mode=no_loop
+<region> sample=Electric Seas-93-77-FTN0.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=33 hivel=77 offset=744 loop_mode=no_loop
+<region> sample=Electric Seas-93-127-W7U3.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=78 hivel=127 offset=622 end=429961 loop_mode=no_loop
+<region> sample=Electric Seas-94-32-L6C5.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=32 offset=712 end=467200 loop_mode=no_loop
+<region> sample=Electric Seas-94-77-JYH5.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=33 hivel=77 offset=648 end=460175 loop_mode=no_loop
+<region> sample=Electric Seas-94-127-1GAC.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=78 hivel=127 offset=572 end=457489 loop_mode=no_loop
+<region> sample=Electric Seas-95-32-QJZE.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=32 offset=715 end=463887 loop_mode=no_loop
+<region> sample=Electric Seas-95-77-ICKB.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=33 hivel=77 offset=661 end=461441 loop_mode=no_loop
+<region> sample=Electric Seas-95-127-MYY4.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=78 hivel=127 offset=639 end=448389 loop_mode=no_loop
+<region> sample=Electric Seas-96-32-QC4I.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=1 hivel=32 offset=591 end=468610 loop_mode=no_loop
+<region> sample=Electric Seas-96-77-2RKF.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=33 hivel=77 offset=548 end=459904 loop_mode=no_loop
+<region> sample=Electric Seas-96-127-T043.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=78 hivel=127 offset=660 end=438924 loop_mode=no_loop

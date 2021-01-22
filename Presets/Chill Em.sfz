@@ -1,0 +1,147 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Chill Em.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Chill Em/
+
+<group>        // Chill Em
+<region> sample=Chill Em-48-32-2A05.wav key=48 lokey=13 hikey=48  amp_veltrack=30 lovel=1 hivel=32 offset=823 end=136955 loop_mode=no_loop
+<region> sample=Chill Em-48-64-LX7O.wav key=48 lokey=13 hikey=48  amp_veltrack=30 lovel=33 hivel=64 offset=736 loop_mode=no_loop
+<region> sample=Chill Em-48-95-VAY8.wav key=48 lokey=13 hikey=48  amp_veltrack=30 lovel=65 hivel=95 offset=728 end=139928 loop_mode=no_loop
+<region> sample=Chill Em-48-127-BJI4.wav key=48 lokey=13 hikey=48  amp_veltrack=30 lovel=96 hivel=127 offset=550 end=139264 loop_mode=no_loop
+<region> sample=Chill Em-49-32-GYVU.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=32 offset=746 end=139124 loop_mode=no_loop
+<region> sample=Chill Em-49-64-0Y8I.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=64 offset=632 end=136112 loop_mode=no_loop
+<region> sample=Chill Em-49-95-V93E.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=95 offset=685 end=141842 loop_mode=no_loop
+<region> sample=Chill Em-49-127-NA6N.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=96 hivel=127 offset=767 loop_mode=no_loop
+<region> sample=Chill Em-50-32-697I.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=32 offset=556 end=124009 loop_mode=no_loop
+<region> sample=Chill Em-50-64-2NDE.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=64 offset=612 end=42750 loop_mode=no_loop
+<region> sample=Chill Em-50-95-3H6L.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=95 offset=1041 loop_mode=no_loop
+<region> sample=Chill Em-50-127-JUK5.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=96 hivel=127 offset=767 end=30706 loop_mode=no_loop
+<region> sample=Chill Em-51-32-C5S5.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=32 offset=651 loop_mode=no_loop
+<region> sample=Chill Em-51-64-1ZIZ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=64 offset=627 loop_mode=no_loop
+<region> sample=Chill Em-51-95-P1YD.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=95 offset=635 end=138368 loop_mode=no_loop
+<region> sample=Chill Em-51-127-AUQG.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=96 hivel=127 offset=708 end=137216 loop_mode=no_loop
+<region> sample=Chill Em-52-32-EF6I.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=32 offset=577 end=136506 loop_mode=no_loop
+<region> sample=Chill Em-52-64-6DUE.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=64 offset=859 end=136708 loop_mode=no_loop
+<region> sample=Chill Em-52-95-14SX.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=95 offset=895 end=140800 loop_mode=no_loop
+<region> sample=Chill Em-52-127-F9QF.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=96 hivel=127 offset=764 loop_mode=no_loop
+<region> sample=Chill Em-53-32-QKFL.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=32 offset=710 end=137088 loop_mode=no_loop
+<region> sample=Chill Em-53-64-Z1QF.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=64 offset=747 end=139479 loop_mode=no_loop
+<region> sample=Chill Em-53-95-EJVZ.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=95 offset=957 end=140928 loop_mode=no_loop
+<region> sample=Chill Em-53-127-3RKV.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=96 hivel=127 offset=730 end=136832 loop_mode=no_loop
+<region> sample=Chill Em-54-32-9OFQ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=32 offset=773 end=138357 loop_mode=no_loop
+<region> sample=Chill Em-54-64-CKJQ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=64 offset=887 loop_mode=no_loop
+<region> sample=Chill Em-54-95-3F4N.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=95 offset=750 loop_mode=no_loop
+<region> sample=Chill Em-54-127-FLWC.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=96 hivel=127 offset=751 loop_mode=no_loop
+<region> sample=Chill Em-55-32-KL6N.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=32 offset=686 end=135921 loop_mode=no_loop
+<region> sample=Chill Em-55-64-982L.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=64 offset=619 loop_mode=no_loop
+<region> sample=Chill Em-55-95-BZSE.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=95 offset=737 end=141307 loop_mode=no_loop
+<region> sample=Chill Em-55-127-B44E.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=96 hivel=127 offset=735 loop_mode=no_loop
+<region> sample=Chill Em-56-32-TE2P.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=32 offset=767 end=133632 loop_mode=no_loop
+<region> sample=Chill Em-56-64-EZ10.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=64 offset=754 end=139136 loop_mode=no_loop
+<region> sample=Chill Em-56-95-NLF3.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=95 offset=724 loop_mode=no_loop
+<region> sample=Chill Em-56-127-JR4M.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=96 hivel=127 offset=675 loop_mode=no_loop
+<region> sample=Chill Em-57-32-UE1S.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=32 offset=720 end=137856 loop_mode=no_loop
+<region> sample=Chill Em-57-64-A8CL.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=64 offset=738 loop_mode=no_loop
+<region> sample=Chill Em-57-95-SY6B.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=95 offset=740 end=138570 loop_mode=no_loop
+<region> sample=Chill Em-57-127-0MEQ.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=96 hivel=127 offset=629 end=138013 loop_mode=no_loop
+<region> sample=Chill Em-58-32-214B.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=32 offset=888 end=138240 loop_mode=no_loop
+<region> sample=Chill Em-58-64-XAC5.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=64 offset=850 loop_mode=no_loop
+<region> sample=Chill Em-58-95-6QYH.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=95 offset=895 end=142464 loop_mode=no_loop
+<region> sample=Chill Em-58-127-NVCY.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=96 hivel=127 offset=864 loop_mode=no_loop
+<region> sample=Chill Em-59-32-8UVZ.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=32 offset=750 loop_mode=no_loop
+<region> sample=Chill Em-59-64-63SK.wav key=59 lokey=59 hikey=60  amp_veltrack=30 lovel=33 hivel=64 offset=761 end=140318 loop_mode=no_loop
+<region> sample=Chill Em-59-95-VZ55.wav key=59 lokey=59 hikey=60  amp_veltrack=30 lovel=65 hivel=95 offset=763 end=141360 loop_mode=no_loop
+<region> sample=Chill Em-59-127-XM0T.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=96 hivel=127 offset=767 end=134566 loop_mode=no_loop
+<region> sample=Chill Em-60-32-3VI4.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=32 offset=885 end=138570 loop_mode=no_loop
+<region> sample=Chill Em-60-127-JPNR.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=96 hivel=127 offset=940 loop_mode=no_loop
+<region> sample=Chill Em-61-32-FHZZ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=32 offset=601 end=139904 loop_mode=no_loop
+<region> sample=Chill Em-61-64-JYYA.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=64 offset=745 end=136320 loop_mode=no_loop
+<region> sample=Chill Em-61-95-4WOO.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=95 offset=814 loop_mode=no_loop
+<region> sample=Chill Em-61-127-MIRJ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=96 hivel=127 offset=716 loop_mode=no_loop
+<region> sample=Chill Em-62-32-P8VC.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=32 offset=720 loop_mode=no_loop
+<region> sample=Chill Em-62-64-3ZC8.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=64 offset=760 loop_mode=no_loop
+<region> sample=Chill Em-62-95-2L78.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=95 offset=844 end=141065 loop_mode=no_loop
+<region> sample=Chill Em-62-127-ZQJ6.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=96 hivel=127 offset=983 end=138132 loop_mode=no_loop
+<region> sample=Chill Em-63-32-295S.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=32 offset=734 loop_mode=no_loop
+<region> sample=Chill Em-63-64-8RI4.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=64 offset=624 loop_mode=no_loop
+<region> sample=Chill Em-63-95-Q951.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=95 offset=766 loop_mode=no_loop
+<region> sample=Chill Em-63-127-XEA0.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=96 hivel=127 offset=766 end=139520 loop_mode=no_loop
+<region> sample=Chill Em-64-32-LVB1.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=32 offset=639 loop_mode=no_loop
+<region> sample=Chill Em-64-64-TTV0.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=64 offset=621 end=136528 loop_mode=no_loop
+<region> sample=Chill Em-64-95-XJED.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=95 offset=895 end=68738 loop_mode=no_loop
+<region> sample=Chill Em-64-127-X4QC.wav key=64 lokey=64 hikey=65  amp_veltrack=30 lovel=96 hivel=127 offset=767 end=168192 loop_mode=no_loop
+<region> sample=Chill Em-65-32-D2PS.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=32 offset=892 loop_mode=no_loop
+<region> sample=Chill Em-65-64-EOQ2.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=64 offset=635 loop_mode=no_loop
+<region> sample=Chill Em-65-95-CM4W.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=95 offset=978 loop_mode=no_loop
+<region> sample=Chill Em-66-32-QESX.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=32 offset=613 end=137262 loop_mode=no_loop
+<region> sample=Chill Em-66-64-UG4Q.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=64 offset=690 loop_mode=no_loop
+<region> sample=Chill Em-66-95-61IM.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=95 offset=750 end=139522 loop_mode=no_loop
+<region> sample=Chill Em-66-127-J3J9.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=96 hivel=127 offset=1023 loop_mode=no_loop
+<region> sample=Chill Em-68-32-ZQZZ.wav key=68 lokey=67 hikey=68  amp_veltrack=30 lovel=1 hivel=32 offset=631 end=134275 loop_mode=no_loop
+<region> sample=Chill Em-68-64-NEM3.wav key=68 lokey=67 hikey=68  amp_veltrack=30 lovel=33 hivel=64 offset=755 loop_mode=no_loop
+<region> sample=Chill Em-68-95-V1R6.wav key=68 lokey=67 hikey=68  amp_veltrack=30 lovel=65 hivel=95 offset=829 loop_mode=no_loop
+<region> sample=Chill Em-68-127-KYCL.wav key=68 lokey=67 hikey=68  amp_veltrack=30 lovel=96 hivel=127 offset=762 end=134912 loop_mode=no_loop
+<region> sample=Chill Em-69-32-FBS8.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=32 offset=767 end=29449 loop_mode=no_loop
+<region> sample=Chill Em-69-64-ON9I.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=64 offset=626 end=120096 loop_mode=no_loop
+<region> sample=Chill Em-70-32-UJP2.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=32 offset=628 end=138282 loop_mode=no_loop
+<region> sample=Chill Em-70-64-OYZ3.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=64 offset=625 end=136320 loop_mode=no_loop
+<region> sample=Chill Em-70-95-BM4Z.wav key=70 lokey=69 hikey=70  amp_veltrack=30 lovel=64 hivel=94 offset=805 end=141440 loop_mode=no_loop
+<region> sample=Chill Em-70-127-8BR1.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=96 hivel=127 offset=767 loop_mode=no_loop
+<region> sample=Chill Em-71-32-1IQ7.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=32 offset=847 end=134533 loop_mode=no_loop
+<region> sample=Chill Em-71-64-MOZG.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=64 offset=667 loop_mode=no_loop
+<region> sample=Chill Em-71-95-66D1.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=95 offset=638 loop_mode=no_loop
+<region> sample=Chill Em-71-127-H732.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=96 hivel=127 offset=1151 end=136195 loop_mode=no_loop
+<region> sample=Chill Em-72-32-R3DI.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=32 offset=637 end=137901 loop_mode=no_loop
+<region> sample=Chill Em-72-64-KQ8J.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=64 offset=621 loop_mode=no_loop
+<region> sample=Chill Em-72-95-SKWO.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=95 offset=860 loop_mode=no_loop
+<region> sample=Chill Em-72-127-5GVB.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=96 hivel=127 offset=767 loop_mode=no_loop
+<region> sample=Chill Em-73-32-KQD4.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=32 offset=749 loop_mode=no_loop
+<region> sample=Chill Em-73-64-NNOO.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=64 offset=852 loop_mode=no_loop
+<region> sample=Chill Em-73-95-CQ44.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=95 offset=634 end=141056 loop_mode=no_loop
+<region> sample=Chill Em-73-127-RAC1.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=96 hivel=127 offset=841 loop_mode=no_loop
+<region> sample=Chill Em-74-32-5SOH.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=32 offset=854 loop_mode=no_loop
+<region> sample=Chill Em-74-64-1YZD.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=64 offset=864 loop_mode=no_loop
+<region> sample=Chill Em-74-95-DAN9.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=95 offset=762 end=141184 loop_mode=no_loop
+<region> sample=Chill Em-74-127-TQ3N.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=96 hivel=127 offset=757 loop_mode=no_loop
+<region> sample=Chill Em-75-32-PZG7.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=32 offset=718 end=138273 loop_mode=no_loop
+<region> sample=Chill Em-75-64-M60R.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=64 offset=767 loop_mode=no_loop
+<region> sample=Chill Em-75-95-F96I.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=95 offset=706 loop_mode=no_loop
+<region> sample=Chill Em-75-127-3L9J.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=96 hivel=127 offset=876 loop_mode=no_loop
+<region> sample=Chill Em-76-32-63R4.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=32 offset=721 loop_mode=no_loop
+<region> sample=Chill Em-76-64-DJGY.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=64 offset=895 loop_mode=no_loop
+<region> sample=Chill Em-76-95-TZ5A.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=95 offset=713 end=140544 loop_mode=no_loop
+<region> sample=Chill Em-76-127-7IZ1.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=96 hivel=127 offset=762 end=166784 loop_mode=no_loop
+<region> sample=Chill Em-77-32-YZ99.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=32 offset=755 end=134144 loop_mode=no_loop
+<region> sample=Chill Em-77-64-UHSL.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=64 offset=767 end=140547 loop_mode=no_loop
+<region> sample=Chill Em-77-95-03AL.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=95 offset=761 end=141056 loop_mode=no_loop
+<region> sample=Chill Em-77-127-NSKE.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=96 hivel=127 offset=1011 end=136960 loop_mode=no_loop
+<region> sample=Chill Em-78-32-JO9S.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=32 offset=888 end=138112 loop_mode=no_loop
+<region> sample=Chill Em-78-64-OVWD.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=64 offset=757 loop_mode=no_loop
+<region> sample=Chill Em-78-95-6T80.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=95 offset=759 end=139273 loop_mode=no_loop
+<region> sample=Chill Em-78-127-LAUI.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=96 hivel=127 offset=868 end=138243 loop_mode=no_loop
+<region> sample=Chill Em-79-32-IZT0.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=32 offset=623 loop_mode=no_loop
+<region> sample=Chill Em-79-64-8IJY.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=64 offset=751 loop_mode=no_loop
+<region> sample=Chill Em-79-95-FAOC.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=95 offset=711 end=142081 loop_mode=no_loop
+<region> sample=Chill Em-79-127-708R.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=96 hivel=127 offset=767 end=167680 loop_mode=no_loop
+<region> sample=Chill Em-80-32-GP0N.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=32 offset=855 loop_mode=no_loop
+<region> sample=Chill Em-80-64-BOKQ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=64 offset=632 loop_mode=no_loop
+<region> sample=Chill Em-80-95-W8RO.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=95 offset=747 loop_mode=no_loop
+<region> sample=Chill Em-80-127-0FGL.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=96 hivel=127 offset=868 end=135692 loop_mode=no_loop
+<region> sample=Chill Em-81-32-GZIB.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=32 offset=610 end=139412 loop_mode=no_loop
+<region> sample=Chill Em-81-64-IW8M.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=64 offset=855 end=166802 loop_mode=no_loop
+<region> sample=Chill Em-81-95-PV2A.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=95 offset=726 end=138624 loop_mode=no_loop
+<region> sample=Chill Em-81-127-3JSP.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=96 hivel=127 offset=895 end=139392 loop_mode=no_loop
+<region> sample=Chill Em-82-32-BR99.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=32 offset=767 end=138113 loop_mode=no_loop
+<region> sample=Chill Em-82-64-Z6L3.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=64 offset=636 end=137601 loop_mode=no_loop
+<region> sample=Chill Em-82-95-14LZ.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=95 offset=767 loop_mode=no_loop
+<region> sample=Chill Em-82-127-RMQ7.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=96 hivel=127 offset=856 loop_mode=no_loop
+<region> sample=Chill Em-83-32-9DH7.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=32 offset=584 loop_mode=no_loop
+<region> sample=Chill Em-83-64-L9XO.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=64 offset=749 end=140302 loop_mode=no_loop
+<region> sample=Chill Em-83-95-LQ7W.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=95 offset=633 end=141580 loop_mode=no_loop
+<region> sample=Chill Em-83-127-YTFK.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=96 hivel=127 offset=741 end=137344 loop_mode=no_loop
+<region> sample=Chill Em-84-32-K4WY.wav key=84 lokey=84 hikey=122  amp_veltrack=30 lovel=1 hivel=32 offset=597 loop_mode=no_loop
+<region> sample=Chill Em-84-64-NSTS.wav key=84 lokey=84 hikey=122  amp_veltrack=30 lovel=33 hivel=64 offset=716 end=167169 loop_mode=no_loop
+<region> sample=Chill Em-84-95-OQGN.wav key=84 lokey=84 hikey=122  amp_veltrack=30 lovel=65 hivel=95 offset=767 loop_mode=no_loop
+<region> sample=Chill Em-84-127-PDWS.wav key=84 lokey=84 hikey=122  amp_veltrack=30 lovel=96 hivel=127 offset=747 end=138240 loop_mode=no_loop
+<region> sample=Chill Em-69-127-EQ1X.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=96 hivel=127 offset=767 loop_mode=no_loop

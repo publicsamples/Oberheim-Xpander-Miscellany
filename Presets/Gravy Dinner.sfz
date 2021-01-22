@@ -1,0 +1,251 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Gravy Dinner.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Gravy Dinner/
+
+<group>        // Gravy Dinner
+<region> sample=Gravy Dinner-36-90-9G10.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=459 end=113626 loop_mode=no_loop
+<region> sample=Gravy Dinner-36-107-H9KR.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=674 loop_mode=no_loop
+<region> sample=Gravy Dinner-36-118-FQ49.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=548 end=117032 loop_mode=no_loop
+<region> sample=Gravy Dinner-36-127-7617.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=779 end=115121 loop_mode=no_loop
+<region> sample=Gravy Dinner-37-90-CO58.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=575 end=112988 loop_mode=no_loop
+<region> sample=Gravy Dinner-37-107-2ILP.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=901 loop_mode=no_loop
+<region> sample=Gravy Dinner-37-118-4Y7C.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=607 end=112157 loop_mode=no_loop
+<region> sample=Gravy Dinner-37-127-38K5.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=687 loop_mode=no_loop
+<region> sample=Gravy Dinner-38-90-APR0.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=610 end=116541 loop_mode=no_loop
+<region> sample=Gravy Dinner-38-107-SUOA.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=594 end=115073 loop_mode=no_loop
+<region> sample=Gravy Dinner-38-118-U7IU.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=744 loop_mode=no_loop
+<region> sample=Gravy Dinner-38-127-O16B.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=583 end=123556 loop_mode=no_loop
+<region> sample=Gravy Dinner-39-90-THP5.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=689 loop_mode=no_loop
+<region> sample=Gravy Dinner-39-107-HYUY.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=696 end=116864 loop_mode=no_loop
+<region> sample=Gravy Dinner-39-118-W60N.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=509 loop_mode=no_loop
+<region> sample=Gravy Dinner-39-127-KEQ2.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=568 end=114292 loop_mode=no_loop
+<region> sample=Gravy Dinner-40-90-XDHU.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=461 end=113873 loop_mode=no_loop
+<region> sample=Gravy Dinner-40-107-M8LG.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=606 end=123707 loop_mode=no_loop
+<region> sample=Gravy Dinner-40-118-KEFA.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=661 end=115987 loop_mode=no_loop
+<region> sample=Gravy Dinner-40-127-L362.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=592 end=115467 loop_mode=no_loop
+<region> sample=Gravy Dinner-41-90-7RUU.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=628 end=115497 loop_mode=no_loop
+<region> sample=Gravy Dinner-41-107-1AKP.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=739 end=114084 loop_mode=no_loop
+<region> sample=Gravy Dinner-41-118-KDFU.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=653 end=113568 loop_mode=no_loop
+<region> sample=Gravy Dinner-41-127-COPD.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=820 end=123355 loop_mode=no_loop
+<region> sample=Gravy Dinner-42-90-2ERU.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=737 end=151993 loop_mode=no_loop
+<region> sample=Gravy Dinner-42-107-DD4P.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=516 end=115706 loop_mode=no_loop
+<region> sample=Gravy Dinner-42-118-FZP0.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=628 loop_mode=no_loop
+<region> sample=Gravy Dinner-42-127-RWNV.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=709 end=113664 loop_mode=no_loop
+<region> sample=Gravy Dinner-43-90-U6J1.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=736 end=114657 loop_mode=no_loop
+<region> sample=Gravy Dinner-43-107-I8V9.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=610 end=122880 loop_mode=no_loop
+<region> sample=Gravy Dinner-43-118-YF83.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=680 loop_mode=no_loop
+<region> sample=Gravy Dinner-43-127-97KS.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=625 end=116854 loop_mode=no_loop
+<region> sample=Gravy Dinner-44-90-MFLJ.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=709 end=114432 loop_mode=no_loop
+<region> sample=Gravy Dinner-44-107-5P70.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=666 end=113293 loop_mode=no_loop
+<region> sample=Gravy Dinner-44-118-15TG.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=707 end=117632 loop_mode=no_loop
+<region> sample=Gravy Dinner-44-127-6SHM.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=585 end=120552 loop_mode=no_loop
+<region> sample=Gravy Dinner-45-90-XAB5.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=581 end=116480 loop_mode=no_loop
+<region> sample=Gravy Dinner-45-107-JL8W.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=706 end=116480 loop_mode=no_loop
+<region> sample=Gravy Dinner-45-118-TMV6.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=555 end=115853 loop_mode=no_loop
+<region> sample=Gravy Dinner-45-127-YE21.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=676 end=111933 loop_mode=no_loop
+<region> sample=Gravy Dinner-46-90-252D.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=641 end=114581 loop_mode=no_loop
+<region> sample=Gravy Dinner-46-107-K6XS.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=801 end=121630 loop_mode=no_loop
+<region> sample=Gravy Dinner-46-118-N798.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=606 end=113989 loop_mode=no_loop
+<region> sample=Gravy Dinner-46-127-WK9K.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=753 end=115843 loop_mode=no_loop
+<region> sample=Gravy Dinner-47-90-UHAA.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=638 loop_mode=no_loop
+<region> sample=Gravy Dinner-47-107-2VX2.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=693 end=114432 loop_mode=no_loop
+<region> sample=Gravy Dinner-47-118-G49P.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=703 loop_mode=no_loop
+<region> sample=Gravy Dinner-47-127-3XE4.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=538 loop_mode=no_loop
+<region> sample=Gravy Dinner-48-90-E063.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=825 end=112000 loop_mode=no_loop
+<region> sample=Gravy Dinner-48-107-Q7IS.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=543 end=118016 loop_mode=no_loop
+<region> sample=Gravy Dinner-48-118-Z9UV.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=702 loop_mode=no_loop
+<region> sample=Gravy Dinner-48-127-XPHE.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=787 end=114518 loop_mode=no_loop
+<region> sample=Gravy Dinner-49-90-3JBN.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=743 end=114179 loop_mode=no_loop
+<region> sample=Gravy Dinner-49-107-8UKW.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=621 loop_mode=no_loop
+<region> sample=Gravy Dinner-49-118-0FCR.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=479 end=114844 loop_mode=no_loop
+<region> sample=Gravy Dinner-49-127-LN1T.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=698 loop_mode=no_loop
+<region> sample=Gravy Dinner-50-90-PQ60.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=656 loop_mode=no_loop
+<region> sample=Gravy Dinner-50-107-44VO.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=810 loop_mode=no_loop
+<region> sample=Gravy Dinner-50-118-D854.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=700 loop_mode=no_loop
+<region> sample=Gravy Dinner-50-127-U146.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=695 end=121734 loop_mode=no_loop
+<region> sample=Gravy Dinner-51-90-M2RS.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=598 loop_mode=no_loop
+<region> sample=Gravy Dinner-51-107-XB9U.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=543 end=122413 loop_mode=no_loop
+<region> sample=Gravy Dinner-51-118-T8EK.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=696 end=326115 loop_mode=no_loop
+<region> sample=Gravy Dinner-51-127-10WI.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=666 loop_mode=no_loop
+<region> sample=Gravy Dinner-52-90-XMDR.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=580 end=114315 loop_mode=no_loop
+<region> sample=Gravy Dinner-52-107-S8PM.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=767 loop_mode=no_loop
+<region> sample=Gravy Dinner-52-118-H1S9.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=694 end=114480 loop_mode=no_loop
+<region> sample=Gravy Dinner-52-127-V7U6.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=654 loop_mode=no_loop
+<region> sample=Gravy Dinner-53-90-4VH0.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=705 loop_mode=no_loop
+<region> sample=Gravy Dinner-53-107-91SV.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=675 end=143479 loop_mode=no_loop
+<region> sample=Gravy Dinner-53-118-UT3U.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=694 loop_mode=no_loop
+<region> sample=Gravy Dinner-53-127-H9GR.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=675 loop_mode=no_loop
+<region> sample=Gravy Dinner-54-90-KYNS.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=595 loop_mode=no_loop
+<region> sample=Gravy Dinner-54-107-FVMP.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=612 loop_mode=no_loop
+<region> sample=Gravy Dinner-54-118-5FC3.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=615 loop_mode=no_loop
+<region> sample=Gravy Dinner-54-127-6PVE.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=642 end=187752 loop_mode=no_loop
+<region> sample=Gravy Dinner-55-90-W4FE.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=638 loop_mode=no_loop
+<region> sample=Gravy Dinner-55-107-W04M.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=652 end=148798 loop_mode=no_loop
+<region> sample=Gravy Dinner-55-118-EQ6N.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=488 end=111285 loop_mode=no_loop
+<region> sample=Gravy Dinner-55-127-D9KO.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=608 loop_mode=no_loop
+<region> sample=Gravy Dinner-56-90-DS11.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=738 end=118896 loop_mode=no_loop
+<region> sample=Gravy Dinner-56-107-9SQQ.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=652 loop_mode=no_loop
+<region> sample=Gravy Dinner-56-118-ZZ7D.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=611 loop_mode=no_loop
+<region> sample=Gravy Dinner-56-127-V3JC.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=584 loop_mode=no_loop
+<region> sample=Gravy Dinner-57-90-UI6Y.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=648 end=115840 loop_mode=no_loop
+<region> sample=Gravy Dinner-57-107-QMJ4.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=628 end=115897 loop_mode=no_loop
+<region> sample=Gravy Dinner-57-118-1CJU.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=598 loop_mode=no_loop
+<region> sample=Gravy Dinner-57-127-35EZ.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=641 loop_mode=no_loop
+<region> sample=Gravy Dinner-58-90-ODVX.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=551 loop_mode=no_loop
+<region> sample=Gravy Dinner-58-107-0O61.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=616 end=170103 loop_mode=no_loop
+<region> sample=Gravy Dinner-58-118-DJUW.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=615 loop_mode=no_loop
+<region> sample=Gravy Dinner-58-127-UX3N.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=728 end=114203 loop_mode=no_loop
+<region> sample=Gravy Dinner-59-90-L591.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=703 loop_mode=no_loop
+<region> sample=Gravy Dinner-59-107-OZ0A.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=577 loop_mode=no_loop
+<region> sample=Gravy Dinner-59-118-0CXX.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=731 end=113837 loop_mode=no_loop
+<region> sample=Gravy Dinner-59-127-R9EY.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=698 loop_mode=no_loop
+<region> sample=Gravy Dinner-60-90-W0LY.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=697 end=114432 loop_mode=no_loop
+<region> sample=Gravy Dinner-60-107-HLXD.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=789 loop_mode=no_loop
+<region> sample=Gravy Dinner-60-118-QN26.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=596 end=114594 loop_mode=no_loop
+<region> sample=Gravy Dinner-60-127-WDK2.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=718 end=111800 loop_mode=no_loop
+<region> sample=Gravy Dinner-61-90-R35V.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=594 loop_mode=no_loop
+<region> sample=Gravy Dinner-61-107-R0OI.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=750 end=163670 loop_mode=no_loop
+<region> sample=Gravy Dinner-61-118-JHTY.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=677 end=111914 loop_mode=no_loop
+<region> sample=Gravy Dinner-61-127-A3IR.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=685 loop_mode=no_loop
+<region> sample=Gravy Dinner-62-90-VGEU.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=704 loop_mode=no_loop
+<region> sample=Gravy Dinner-62-107-SEC0.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=593 end=141857 loop_mode=no_loop
+<region> sample=Gravy Dinner-62-118-B0LK.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=755 end=117120 loop_mode=no_loop
+<region> sample=Gravy Dinner-62-127-ES0W.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=486 loop_mode=no_loop
+<region> sample=Gravy Dinner-63-90-DOTB.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=682 end=121709 loop_mode=no_loop
+<region> sample=Gravy Dinner-63-107-XB2W.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=559 loop_mode=no_loop
+<region> sample=Gravy Dinner-63-118-COKE.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=609 end=113962 loop_mode=no_loop
+<region> sample=Gravy Dinner-63-127-42RZ.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=536 loop_mode=no_loop
+<region> sample=Gravy Dinner-64-90-Q4V8.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=593 end=112640 loop_mode=no_loop
+<region> sample=Gravy Dinner-64-107-QCUB.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=668 end=121889 loop_mode=no_loop
+<region> sample=Gravy Dinner-64-118-4RZ7.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=606 loop_mode=no_loop
+<region> sample=Gravy Dinner-64-127-HUG2.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=657 loop_mode=no_loop
+<region> sample=Gravy Dinner-65-90-OKQS.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=616 loop_mode=no_loop
+<region> sample=Gravy Dinner-65-107-9GP0.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=607 loop_mode=no_loop
+<region> sample=Gravy Dinner-65-118-WWGB.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=755 end=114347 loop_mode=no_loop
+<region> sample=Gravy Dinner-65-127-NSW3.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=631 end=119168 loop_mode=no_loop
+<region> sample=Gravy Dinner-66-90-UFRU.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=623 end=124552 loop_mode=no_loop
+<region> sample=Gravy Dinner-66-107-VYCJ.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=593 loop_mode=no_loop
+<region> sample=Gravy Dinner-66-118-3554.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=591 loop_mode=no_loop
+<region> sample=Gravy Dinner-66-127-6UKW.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=569 end=115000 loop_mode=no_loop
+<region> sample=Gravy Dinner-67-90-D8T8.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=597 loop_mode=no_loop
+<region> sample=Gravy Dinner-67-107-0PWL.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=666 end=235632 loop_mode=no_loop
+<region> sample=Gravy Dinner-67-118-OBMT.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=606 end=113017 loop_mode=no_loop
+<region> sample=Gravy Dinner-67-127-JQJ9.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=528 end=114176 loop_mode=no_loop
+<region> sample=Gravy Dinner-68-90-8T28.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=522 loop_mode=no_loop
+<region> sample=Gravy Dinner-68-107-ENXH.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=591 loop_mode=no_loop
+<region> sample=Gravy Dinner-68-118-ANWY.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=606 loop_mode=no_loop
+<region> sample=Gravy Dinner-68-127-SKGW.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=548 loop_mode=no_loop
+<region> sample=Gravy Dinner-69-90-9UYY.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=554 end=113238 loop_mode=no_loop
+<region> sample=Gravy Dinner-69-107-LJWC.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=634 end=127415 loop_mode=no_loop
+<region> sample=Gravy Dinner-69-118-XMOM.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=589 end=115105 loop_mode=no_loop
+<region> sample=Gravy Dinner-69-127-128V.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=565 end=140624 loop_mode=no_loop
+<region> sample=Gravy Dinner-70-90-V592.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=648 loop_mode=no_loop
+<region> sample=Gravy Dinner-70-107-B0RR.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=771 end=125315 loop_mode=no_loop
+<region> sample=Gravy Dinner-70-118-C754.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=543 end=112218 loop_mode=no_loop
+<region> sample=Gravy Dinner-70-127-ZZ38.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=663 loop_mode=no_loop
+<region> sample=Gravy Dinner-71-90-OUAR.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=638 end=129777 loop_mode=no_loop
+<region> sample=Gravy Dinner-71-107-HWUL.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=750 end=114048 loop_mode=no_loop
+<region> sample=Gravy Dinner-71-118-M322.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=568 loop_mode=no_loop
+<region> sample=Gravy Dinner-71-127-ENA2.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=658 loop_mode=no_loop
+<region> sample=Gravy Dinner-72-90-6B8Y.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=568 loop_mode=no_loop
+<region> sample=Gravy Dinner-72-107-QWIT.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=736 end=114560 loop_mode=no_loop
+<region> sample=Gravy Dinner-72-118-FY9X.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=527 loop_mode=no_loop
+<region> sample=Gravy Dinner-72-127-T2XO.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=636 loop_mode=no_loop
+<region> sample=Gravy Dinner-73-90-AB2A.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=751 loop_mode=no_loop
+<region> sample=Gravy Dinner-73-107-PBF8.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=606 loop_mode=no_loop
+<region> sample=Gravy Dinner-73-118-U3QS.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=508 end=115840 loop_mode=no_loop
+<region> sample=Gravy Dinner-73-127-6PA1.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=626 end=114963 loop_mode=no_loop
+<region> sample=Gravy Dinner-74-90-A2QL.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=704 end=135194 loop_mode=no_loop
+<region> sample=Gravy Dinner-74-107-WB9Z.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=614 end=114052 loop_mode=no_loop
+<region> sample=Gravy Dinner-74-118-3AY7.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=668 loop_mode=no_loop
+<region> sample=Gravy Dinner-74-127-S1P5.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=555 end=120479 loop_mode=no_loop
+<region> sample=Gravy Dinner-75-90-KD0B.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=782 end=112277 loop_mode=no_loop
+<region> sample=Gravy Dinner-75-107-TJHP.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=747 end=115606 loop_mode=no_loop
+<region> sample=Gravy Dinner-75-118-J63S.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=614 end=115472 loop_mode=no_loop
+<region> sample=Gravy Dinner-75-127-Q5R8.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=560 end=113408 loop_mode=no_loop
+<region> sample=Gravy Dinner-76-90-8I6V.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=806 end=115222 loop_mode=no_loop
+<region> sample=Gravy Dinner-76-107-LE9M.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=699 end=120320 loop_mode=no_loop
+<region> sample=Gravy Dinner-76-118-DH7S.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=718 end=112908 loop_mode=no_loop
+<region> sample=Gravy Dinner-76-127-8FV4.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=738 loop_mode=no_loop
+<region> sample=Gravy Dinner-77-90-1D69.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=712 end=119088 loop_mode=no_loop
+<region> sample=Gravy Dinner-77-107-CKPP.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=597 end=117189 loop_mode=no_loop
+<region> sample=Gravy Dinner-77-118-3IG5.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=543 loop_mode=no_loop
+<region> sample=Gravy Dinner-77-127-LZN1.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=729 end=217670 loop_mode=no_loop
+<region> sample=Gravy Dinner-78-90-5XT7.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=675 loop_mode=no_loop
+<region> sample=Gravy Dinner-78-107-LP7L.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=640 loop_mode=no_loop
+<region> sample=Gravy Dinner-78-118-EEIZ.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=671 end=114958 loop_mode=no_loop
+<region> sample=Gravy Dinner-78-127-WGTL.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=663 end=113799 loop_mode=no_loop
+<region> sample=Gravy Dinner-79-90-TEKA.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=771 loop_mode=no_loop
+<region> sample=Gravy Dinner-79-107-8VGB.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=616 loop_mode=no_loop
+<region> sample=Gravy Dinner-79-118-HHH5.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=573 end=118459 loop_mode=no_loop
+<region> sample=Gravy Dinner-79-127-KKCV.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=526 end=114067 loop_mode=no_loop
+<region> sample=Gravy Dinner-80-90-98NI.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=573 end=114828 loop_mode=no_loop
+<region> sample=Gravy Dinner-80-107-PYV1.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=729 loop_mode=no_loop
+<region> sample=Gravy Dinner-80-118-V54H.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=606 end=113664 loop_mode=no_loop
+<region> sample=Gravy Dinner-80-127-CPJ8.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=600 loop_mode=no_loop
+<region> sample=Gravy Dinner-81-90-CC39.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=651 end=124156 loop_mode=no_loop
+<region> sample=Gravy Dinner-81-107-B7D3.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=589 end=115328 loop_mode=no_loop
+<region> sample=Gravy Dinner-81-118-88PU.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=689 loop_mode=no_loop
+<region> sample=Gravy Dinner-81-127-A48V.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=701 end=114958 loop_mode=no_loop
+<region> sample=Gravy Dinner-82-90-N0B3.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=734 loop_mode=no_loop
+<region> sample=Gravy Dinner-82-107-KAP8.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=822 loop_mode=no_loop
+<region> sample=Gravy Dinner-82-118-R83C.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=622 loop_mode=no_loop
+<region> sample=Gravy Dinner-82-127-OBBP.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=596 end=115200 loop_mode=no_loop
+<region> sample=Gravy Dinner-83-90-EBPR.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=743 loop_mode=no_loop
+<region> sample=Gravy Dinner-83-107-HJ39.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=576 end=183234 loop_mode=no_loop
+<region> sample=Gravy Dinner-83-118-7LKA.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=601 loop_mode=no_loop
+<region> sample=Gravy Dinner-83-127-QGL7.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=572 loop_mode=no_loop
+<region> sample=Gravy Dinner-84-90-0LMU.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=726 loop_mode=no_loop
+<region> sample=Gravy Dinner-84-107-UVTP.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=685 loop_mode=no_loop
+<region> sample=Gravy Dinner-84-118-BPFU.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=640 loop_mode=no_loop
+<region> sample=Gravy Dinner-84-127-KS02.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=603 loop_mode=no_loop
+<region> sample=Gravy Dinner-85-90-4V3I.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=607 loop_mode=no_loop
+<region> sample=Gravy Dinner-85-107-7WLY.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=704 loop_mode=no_loop
+<region> sample=Gravy Dinner-85-118-E6YA.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=643 loop_mode=no_loop
+<region> sample=Gravy Dinner-85-127-CSML.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=644 end=116905 loop_mode=no_loop
+<region> sample=Gravy Dinner-86-90-LFG9.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=121 end=119946 loop_mode=no_loop
+<region> sample=Gravy Dinner-86-107-9Q4N.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=596 loop_mode=no_loop
+<region> sample=Gravy Dinner-86-118-1WW9.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=780 loop_mode=no_loop
+<region> sample=Gravy Dinner-86-127-8V7Z.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=735 end=121358 loop_mode=no_loop
+<region> sample=Gravy Dinner-87-90-DS1V.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=667 end=111753 loop_mode=no_loop
+<region> sample=Gravy Dinner-87-107-7GKX.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=617 loop_mode=no_loop
+<region> sample=Gravy Dinner-87-118-5NJH.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=686 end=114955 loop_mode=no_loop
+<region> sample=Gravy Dinner-87-127-LX09.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=710 end=112512 loop_mode=no_loop
+<region> sample=Gravy Dinner-88-90-9QYK.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=728 end=113796 loop_mode=no_loop
+<region> sample=Gravy Dinner-88-107-6YR8.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=577 end=119552 loop_mode=no_loop
+<region> sample=Gravy Dinner-88-118-CQ8K.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=546 end=110465 loop_mode=no_loop
+<region> sample=Gravy Dinner-88-127-BTMG.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=748 loop_mode=no_loop
+<region> sample=Gravy Dinner-89-90-DW4K.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=624 loop_mode=no_loop
+<region> sample=Gravy Dinner-89-107-YLXO.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=576 end=112519 loop_mode=no_loop
+<region> sample=Gravy Dinner-89-118-TZ7A.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=671 loop_mode=no_loop
+<region> sample=Gravy Dinner-89-127-5IK3.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=592 end=120983 loop_mode=no_loop
+<region> sample=Gravy Dinner-90-90-HC9J.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=581 loop_mode=no_loop
+<region> sample=Gravy Dinner-90-107-8HZM.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=671 end=115083 loop_mode=no_loop
+<region> sample=Gravy Dinner-90-118-C5ED.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=776 end=116868 loop_mode=no_loop
+<region> sample=Gravy Dinner-90-127-MV79.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=535 end=112640 loop_mode=no_loop
+<region> sample=Gravy Dinner-91-90-FZ14.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=622 loop_mode=no_loop
+<region> sample=Gravy Dinner-91-107-I1SJ.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=676 end=119952 loop_mode=no_loop
+<region> sample=Gravy Dinner-91-118-CCA9.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=835 end=111106 loop_mode=no_loop
+<region> sample=Gravy Dinner-91-127-P9HG.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=739 loop_mode=no_loop
+<region> sample=Gravy Dinner-92-90-WSKI.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=779 end=211299 loop_mode=no_loop
+<region> sample=Gravy Dinner-92-107-YS6K.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=625 loop_mode=no_loop
+<region> sample=Gravy Dinner-92-118-4YY5.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=696 end=113031 loop_mode=no_loop
+<region> sample=Gravy Dinner-92-127-ZNPF.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=571 end=122113 loop_mode=no_loop
+<region> sample=Gravy Dinner-93-90-MSUT.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=641 end=154272 loop_mode=no_loop
+<region> sample=Gravy Dinner-93-107-TDWD.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=717 loop_mode=no_loop
+<region> sample=Gravy Dinner-93-118-6PP5.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=550 end=113798 loop_mode=no_loop
+<region> sample=Gravy Dinner-93-127-ZDJS.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=691 end=113670 loop_mode=no_loop
+<region> sample=Gravy Dinner-94-90-BZRD.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=633 loop_mode=no_loop
+<region> sample=Gravy Dinner-94-107-L6VG.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=565 loop_mode=no_loop
+<region> sample=Gravy Dinner-94-118-MAPR.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=517 end=112778 loop_mode=no_loop
+<region> sample=Gravy Dinner-94-127-C941.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=939 loop_mode=no_loop
+<region> sample=Gravy Dinner-95-90-UA9H.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=592 loop_mode=no_loop
+<region> sample=Gravy Dinner-95-107-7XUL.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=613 loop_mode=no_loop
+<region> sample=Gravy Dinner-95-118-8LZJ.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=636 end=114056 loop_mode=no_loop
+<region> sample=Gravy Dinner-95-127-EOT5.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=607 end=121604 loop_mode=no_loop
+<region> sample=Gravy Dinner-96-90-V8AK.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=1 hivel=90 volume=11 offset=557 end=112907 loop_mode=no_loop
+<region> sample=Gravy Dinner-96-107-E65G.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=91 hivel=107 volume=11 offset=506 loop_mode=no_loop
+<region> sample=Gravy Dinner-96-118-1SNW.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=108 hivel=118 volume=11 offset=554 end=114304 loop_mode=no_loop
+<region> sample=Gravy Dinner-96-127-9NJ7.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=119 hivel=127 volume=11 offset=724 end=113664 loop_mode=no_loop

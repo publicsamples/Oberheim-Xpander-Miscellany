@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Them Crazy LFOs.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Them Crazy LFOs/
+
+<group>        // Them Crazy LFOs
+<region> sample=Them Crazy LFOs-48-127-7H24.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=0 hivel=127 offset=535 end=278407 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-49-127-W9FM.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 offset=752 end=260740 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-50-127-H1S8.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 offset=739 end=268416 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-51-127-BJV6.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 offset=684 end=267008 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-52-127-GB6Q.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 offset=630 end=264351 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-53-127-SFBA.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 offset=765 end=266755 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-54-127-XGCN.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 offset=700 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-55-127-GCTN.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 offset=763 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-56-127-G8UE.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 offset=746 end=267653 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-57-127-HAID.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 offset=676 end=265728 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-58-127-WQ5Q.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 offset=664 end=267267 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-59-127-ZO6T.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 offset=728 end=264715 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-60-127-5PAT.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 offset=720 end=279168 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-61-127-RXMD.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 offset=557 end=261911 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-62-127-7B6K.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 offset=892 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-63-127-JKY7.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 offset=672 end=268928 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-64-127-AVSG.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 offset=748 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-65-127-03J2.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 offset=765 end=264064 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-66-127-H448.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 offset=659 end=277377 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-67-127-C9R2.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 offset=640 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-68-127-IHEL.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 offset=638 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-69-127-KA6R.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 offset=572 end=267013 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-70-127-HKE2.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 offset=556 end=267058 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-71-127-LE6N.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 offset=692 end=264214 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-72-127-66YL.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 offset=697 end=278149 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-73-127-T67I.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 offset=725 end=261255 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-74-127-WU91.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 offset=685 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-75-127-T97I.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 offset=586 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-76-127-D16W.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 offset=529 end=266500 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-77-127-94VQ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 offset=736 end=264333 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-78-127-PQJ3.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 offset=679 end=276104 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-79-127-IT6O.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 offset=597 end=262656 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-80-127-MKAE.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 offset=689 end=267008 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-81-127-U4BB.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 offset=727 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-82-127-E51H.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 offset=787 end=267395 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-83-127-6V10.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 offset=660 end=264321 loop_mode=no_loop
+<region> sample=Them Crazy LFOs-84-127-1TT1.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=0 hivel=127 offset=740 end=278528 loop_mode=no_loop

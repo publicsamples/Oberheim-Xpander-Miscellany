@@ -1,0 +1,203 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Thin Shiner.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Thin Shiner/
+
+<group>        // Thin Shiner
+<region> sample=Thin Shiner-48-64-RHTD.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=1 hivel=64 offset=588 end=677582 loop_mode=no_loop
+<region> sample=Thin Shiner-48-90-QZ2B.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=65 hivel=90 offset=561 loop_mode=no_loop
+<region> sample=Thin Shiner-48-110-ZAMW.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=91 hivel=110 offset=675 end=702533 loop_mode=no_loop
+<region> sample=Thin Shiner-48-127-NI38.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=111 hivel=127 offset=619 end=674884 loop_mode=no_loop
+<region> sample=Thin Shiner-49-64-WMJ0.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=64 offset=680 end=677586 loop_mode=no_loop
+<region> sample=Thin Shiner-49-90-Q9PU.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=90 offset=595 end=675840 loop_mode=no_loop
+<region> sample=Thin Shiner-49-110-3JQR.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=91 hivel=110 offset=716 end=676269 loop_mode=no_loop
+<region> sample=Thin Shiner-49-127-WOF6.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=111 hivel=127 offset=525 end=676025 loop_mode=no_loop
+<region> sample=Thin Shiner-50-64-17JZ.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=64 offset=654 end=705132 loop_mode=no_loop
+<region> sample=Thin Shiner-50-90-3YOH.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=90 offset=586 end=673152 loop_mode=no_loop
+<region> sample=Thin Shiner-50-110-0DXH.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=91 hivel=110 offset=576 end=677590 loop_mode=no_loop
+<region> sample=Thin Shiner-50-127-DPHY.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=111 hivel=127 offset=581 end=675968 loop_mode=no_loop
+<region> sample=Thin Shiner-51-64-4VL5.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=64 offset=641 loop_mode=no_loop
+<region> sample=Thin Shiner-51-90-KAH9.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=90 offset=646 end=676162 loop_mode=no_loop
+<region> sample=Thin Shiner-51-110-KA1K.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=91 hivel=110 offset=772 loop_mode=no_loop
+<region> sample=Thin Shiner-51-127-EPVZ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=111 hivel=127 offset=702 end=675200 loop_mode=no_loop
+<region> sample=Thin Shiner-52-64-VQ18.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=64 offset=819 end=676864 loop_mode=no_loop
+<region> sample=Thin Shiner-52-90-996K.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=90 offset=526 end=676864 loop_mode=no_loop
+<region> sample=Thin Shiner-52-110-82MA.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=91 hivel=110 offset=778 end=676353 loop_mode=no_loop
+<region> sample=Thin Shiner-52-127-47LG.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=111 hivel=127 offset=715 end=677168 loop_mode=no_loop
+<region> sample=Thin Shiner-53-64-O9N5.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=64 offset=526 end=704855 loop_mode=no_loop
+<region> sample=Thin Shiner-53-90-ZEH9.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=90 offset=625 loop_mode=no_loop
+<region> sample=Thin Shiner-53-110-OZ42.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=91 hivel=110 offset=589 end=677705 loop_mode=no_loop
+<region> sample=Thin Shiner-53-127-MJWN.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=111 hivel=127 offset=739 loop_mode=no_loop
+<region> sample=Thin Shiner-54-64-2D5E.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=64 offset=505 end=675328 loop_mode=no_loop
+<region> sample=Thin Shiner-54-90-BIUX.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=90 offset=519 end=675328 loop_mode=no_loop
+<region> sample=Thin Shiner-54-110-5E1X.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=91 hivel=110 offset=664 end=703568 loop_mode=no_loop
+<region> sample=Thin Shiner-54-127-Q4GN.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=111 hivel=127 offset=521 loop_mode=no_loop
+<region> sample=Thin Shiner-55-64-RTIE.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=64 offset=653 end=677889 loop_mode=no_loop
+<region> sample=Thin Shiner-55-90-1X6I.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=90 offset=578 loop_mode=no_loop
+<region> sample=Thin Shiner-55-110-OT3H.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=91 hivel=110 offset=523 loop_mode=no_loop
+<region> sample=Thin Shiner-55-127-U1D4.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=111 hivel=127 offset=886 end=677313 loop_mode=no_loop
+<region> sample=Thin Shiner-56-64-QGQD.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=64 offset=633 loop_mode=no_loop
+<region> sample=Thin Shiner-56-90-HJGG.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=90 offset=650 loop_mode=no_loop
+<region> sample=Thin Shiner-56-110-LAIT.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=91 hivel=110 offset=647 end=677120 loop_mode=no_loop
+<region> sample=Thin Shiner-56-127-S1V6.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=111 hivel=127 offset=675 loop_mode=no_loop
+<region> sample=Thin Shiner-57-64-9MCN.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=64 offset=638 end=674866 loop_mode=no_loop
+<region> sample=Thin Shiner-57-90-12RQ.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=90 offset=728 loop_mode=no_loop
+<region> sample=Thin Shiner-57-110-VEZJ.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=91 hivel=110 offset=664 loop_mode=no_loop
+<region> sample=Thin Shiner-57-127-29IX.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=111 hivel=127 offset=509 end=673024 loop_mode=no_loop
+<region> sample=Thin Shiner-58-64-BHLY.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=64 offset=732 end=676419 loop_mode=no_loop
+<region> sample=Thin Shiner-58-90-B2TR.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=90 offset=736 end=675468 loop_mode=no_loop
+<region> sample=Thin Shiner-58-110-NH8R.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=91 hivel=110 offset=662 end=676480 loop_mode=no_loop
+<region> sample=Thin Shiner-58-127-REP1.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=111 hivel=127 offset=677 end=675131 loop_mode=no_loop
+<region> sample=Thin Shiner-59-64-WI9C.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=64 offset=691 end=704414 loop_mode=no_loop
+<region> sample=Thin Shiner-59-90-E6BT.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=90 offset=692 end=674705 loop_mode=no_loop
+<region> sample=Thin Shiner-59-110-T8MG.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=91 hivel=110 offset=627 loop_mode=no_loop
+<region> sample=Thin Shiner-59-127-TJS3.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=111 hivel=127 offset=678 end=677122 loop_mode=no_loop
+<region> sample=Thin Shiner-60-64-ZY0K.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=64 offset=742 end=676107 loop_mode=no_loop
+<region> sample=Thin Shiner-60-90-XKUD.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=90 offset=589 end=677120 loop_mode=no_loop
+<region> sample=Thin Shiner-60-110-ZLKC.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=91 hivel=110 offset=758 end=703927 loop_mode=no_loop
+<region> sample=Thin Shiner-60-127-ZMZ7.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=111 hivel=127 offset=678 end=674319 loop_mode=no_loop
+<region> sample=Thin Shiner-61-64-0UVS.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=64 offset=669 end=678272 loop_mode=no_loop
+<region> sample=Thin Shiner-61-90-5EOM.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=90 offset=676 loop_mode=no_loop
+<region> sample=Thin Shiner-61-110-ZI9X.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=91 hivel=110 offset=562 end=675336 loop_mode=no_loop
+<region> sample=Thin Shiner-61-127-8YPL.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=111 hivel=127 offset=671 end=677018 loop_mode=no_loop
+<region> sample=Thin Shiner-62-64-26PU.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=64 offset=628 end=710144 loop_mode=no_loop
+<region> sample=Thin Shiner-62-90-CUYV.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=90 offset=801 end=674599 loop_mode=no_loop
+<region> sample=Thin Shiner-62-110-57UX.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=91 hivel=110 offset=655 loop_mode=no_loop
+<region> sample=Thin Shiner-62-127-7ZNT.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=111 hivel=127 offset=672 end=678400 loop_mode=no_loop
+<region> sample=Thin Shiner-63-64-X26S.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=64 offset=761 end=676608 loop_mode=no_loop
+<region> sample=Thin Shiner-63-90-3IRU.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=90 offset=715 loop_mode=no_loop
+<region> sample=Thin Shiner-63-110-1J0H.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=91 hivel=110 offset=593 end=703931 loop_mode=no_loop
+<region> sample=Thin Shiner-63-127-X5B4.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=111 hivel=127 offset=591 end=674048 loop_mode=no_loop
+<region> sample=Thin Shiner-64-64-2H8M.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=64 offset=774 end=676902 loop_mode=no_loop
+<region> sample=Thin Shiner-64-90-OJQN.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=90 offset=523 end=676608 loop_mode=no_loop
+<region> sample=Thin Shiner-64-110-XQ7Z.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=91 hivel=110 offset=727 end=675341 loop_mode=no_loop
+<region> sample=Thin Shiner-64-127-L0NK.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=111 hivel=127 offset=723 end=680466 loop_mode=no_loop
+<region> sample=Thin Shiner-65-64-6AF1.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=64 offset=715 loop_mode=no_loop
+<region> sample=Thin Shiner-65-90-JELH.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=90 offset=751 end=674560 loop_mode=no_loop
+<region> sample=Thin Shiner-65-110-GCVK.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=91 hivel=110 offset=559 loop_mode=no_loop
+<region> sample=Thin Shiner-65-127-47UF.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=111 hivel=127 offset=759 loop_mode=no_loop
+<region> sample=Thin Shiner-66-64-A5OM.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=64 offset=662 end=674710 loop_mode=no_loop
+<region> sample=Thin Shiner-66-90-K4MD.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=90 offset=698 end=677376 loop_mode=no_loop
+<region> sample=Thin Shiner-66-110-1O5N.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=91 hivel=110 offset=716 loop_mode=no_loop
+<region> sample=Thin Shiner-66-127-OBVB.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=111 hivel=127 offset=689 end=673926 loop_mode=no_loop
+<region> sample=Thin Shiner-67-64-O5S9.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=64 offset=655 end=677408 loop_mode=no_loop
+<region> sample=Thin Shiner-67-90-WVC0.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=90 offset=639 end=676658 loop_mode=no_loop
+<region> sample=Thin Shiner-67-110-EQOK.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=91 hivel=110 offset=795 end=675200 loop_mode=no_loop
+<region> sample=Thin Shiner-67-127-8VFF.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=111 hivel=127 offset=684 loop_mode=no_loop
+<region> sample=Thin Shiner-68-64-SL2A.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=64 offset=704 end=703744 loop_mode=no_loop
+<region> sample=Thin Shiner-68-90-RUZP.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=90 offset=622 end=673575 loop_mode=no_loop
+<region> sample=Thin Shiner-68-110-V6P1.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=91 hivel=110 offset=669 end=677248 loop_mode=no_loop
+<region> sample=Thin Shiner-68-127-Z9MW.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=111 hivel=127 offset=467 loop_mode=no_loop
+<region> sample=Thin Shiner-69-64-JP2T.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=64 offset=655 end=675456 loop_mode=no_loop
+<region> sample=Thin Shiner-69-90-UGD3.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=90 offset=660 end=678149 loop_mode=no_loop
+<region> sample=Thin Shiner-69-110-KBPS.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=91 hivel=110 offset=706 loop_mode=no_loop
+<region> sample=Thin Shiner-69-127-CF07.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=111 hivel=127 offset=725 loop_mode=no_loop
+<region> sample=Thin Shiner-70-64-QPEM.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=64 offset=616 end=677760 loop_mode=no_loop
+<region> sample=Thin Shiner-70-90-YLO9.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=90 offset=615 end=677001 loop_mode=no_loop
+<region> sample=Thin Shiner-70-110-5F2T.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=91 hivel=110 offset=758 end=675584 loop_mode=no_loop
+<region> sample=Thin Shiner-70-127-86WZ.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=111 hivel=127 offset=674 end=675213 loop_mode=no_loop
+<region> sample=Thin Shiner-71-64-EIJA.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=64 offset=682 end=578305 loop_mode=no_loop
+<region> sample=Thin Shiner-71-90-TUHE.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=90 offset=715 loop_mode=no_loop
+<region> sample=Thin Shiner-71-110-T54Z.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=91 hivel=110 offset=676 end=677669 loop_mode=no_loop
+<region> sample=Thin Shiner-71-127-OHWY.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=111 hivel=127 offset=689 end=675972 loop_mode=no_loop
+<region> sample=Thin Shiner-72-64-2NLL.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=64 offset=724 end=676736 loop_mode=no_loop
+<region> sample=Thin Shiner-72-90-KRQV.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=90 offset=693 loop_mode=no_loop
+<region> sample=Thin Shiner-72-110-OT58.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=91 hivel=110 offset=711 end=703770 loop_mode=no_loop
+<region> sample=Thin Shiner-72-127-O73N.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=111 hivel=127 offset=754 end=675482 loop_mode=no_loop
+<region> sample=Thin Shiner-73-64-NASW.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=64 offset=650 loop_mode=no_loop
+<region> sample=Thin Shiner-73-90-0BD4.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=90 offset=785 loop_mode=no_loop
+<region> sample=Thin Shiner-73-110-9RPA.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=91 hivel=110 offset=726 end=675213 loop_mode=no_loop
+<region> sample=Thin Shiner-73-127-7IJY.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=111 hivel=127 offset=537 end=677890 loop_mode=no_loop
+<region> sample=Thin Shiner-74-64-HHGD.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=64 offset=751 end=705152 loop_mode=no_loop
+<region> sample=Thin Shiner-74-90-8CHC.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=90 offset=751 end=674970 loop_mode=no_loop
+<region> sample=Thin Shiner-74-110-CXWC.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=91 hivel=110 offset=717 end=676352 loop_mode=no_loop
+<region> sample=Thin Shiner-74-127-5I2J.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=111 hivel=127 offset=623 end=674816 loop_mode=no_loop
+<region> sample=Thin Shiner-75-64-FZ9J.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=64 offset=657 end=675968 loop_mode=no_loop
+<region> sample=Thin Shiner-75-90-BD19.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=90 offset=778 end=676996 loop_mode=no_loop
+<region> sample=Thin Shiner-75-110-YB2D.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=91 hivel=110 offset=658 end=703488 loop_mode=no_loop
+<region> sample=Thin Shiner-75-127-E321.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=111 hivel=127 offset=548 loop_mode=no_loop
+<region> sample=Thin Shiner-76-64-F70R.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=64 offset=718 end=677388 loop_mode=no_loop
+<region> sample=Thin Shiner-76-90-TKVQ.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=90 offset=726 end=676243 loop_mode=no_loop
+<region> sample=Thin Shiner-76-110-AAGO.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=91 hivel=110 offset=725 end=675985 loop_mode=no_loop
+<region> sample=Thin Shiner-76-127-LIIL.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=111 hivel=127 offset=738 end=676992 loop_mode=no_loop
+<region> sample=Thin Shiner-77-64-8UUY.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=64 offset=703 end=704768 loop_mode=no_loop
+<region> sample=Thin Shiner-77-90-OYRI.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=90 offset=637 end=673280 loop_mode=no_loop
+<region> sample=Thin Shiner-77-110-1VOO.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=91 hivel=110 offset=539 end=677263 loop_mode=no_loop
+<region> sample=Thin Shiner-77-127-BLLO.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=111 hivel=127 offset=671 loop_mode=no_loop
+<region> sample=Thin Shiner-78-64-C10T.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=64 offset=662 loop_mode=no_loop
+<region> sample=Thin Shiner-78-90-8M5U.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=90 offset=620 loop_mode=no_loop
+<region> sample=Thin Shiner-78-110-Y9E5.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=91 hivel=110 offset=535 loop_mode=no_loop
+<region> sample=Thin Shiner-78-127-KJ3J.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=111 hivel=127 offset=627 end=674816 loop_mode=no_loop
+<region> sample=Thin Shiner-79-64-CXOA.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=64 offset=712 end=678550 loop_mode=no_loop
+<region> sample=Thin Shiner-79-90-O4TJ.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=90 offset=734 end=677632 loop_mode=no_loop
+<region> sample=Thin Shiner-79-110-KZJ6.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=91 hivel=110 offset=609 loop_mode=no_loop
+<region> sample=Thin Shiner-79-127-OLIW.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=111 hivel=127 offset=798 end=676224 loop_mode=no_loop
+<region> sample=Thin Shiner-80-64-V181.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=64 offset=668 end=704896 loop_mode=no_loop
+<region> sample=Thin Shiner-80-90-6134.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=90 offset=583 end=673152 loop_mode=no_loop
+<region> sample=Thin Shiner-80-110-FXXY.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=91 hivel=110 offset=720 loop_mode=no_loop
+<region> sample=Thin Shiner-80-127-36J4.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=111 hivel=127 offset=642 end=677257 loop_mode=no_loop
+<region> sample=Thin Shiner-81-64-TS79.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=64 offset=685 end=676352 loop_mode=no_loop
+<region> sample=Thin Shiner-81-90-PJWF.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=90 offset=623 end=678144 loop_mode=no_loop
+<region> sample=Thin Shiner-81-110-PDS5.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=91 hivel=110 offset=721 end=703872 loop_mode=no_loop
+<region> sample=Thin Shiner-81-127-S73J.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=111 hivel=127 offset=757 end=675200 loop_mode=no_loop
+<region> sample=Thin Shiner-82-64-ZHB5.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=64 offset=476 end=676864 loop_mode=no_loop
+<region> sample=Thin Shiner-82-90-7C1W.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=90 offset=507 end=677909 loop_mode=no_loop
+<region> sample=Thin Shiner-82-110-0HDE.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=91 hivel=110 offset=651 end=676755 loop_mode=no_loop
+<region> sample=Thin Shiner-82-127-ZHK9.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=111 hivel=127 offset=672 loop_mode=no_loop
+<region> sample=Thin Shiner-83-64-O62X.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=64 offset=727 end=705816 loop_mode=no_loop
+<region> sample=Thin Shiner-83-90-GE12.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=90 offset=661 loop_mode=no_loop
+<region> sample=Thin Shiner-83-110-FQ88.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=91 hivel=110 offset=752 end=678784 loop_mode=no_loop
+<region> sample=Thin Shiner-83-127-6ANG.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=111 hivel=127 offset=818 end=678401 loop_mode=no_loop
+<region> sample=Thin Shiner-84-64-AU77.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=64 offset=603 end=675072 loop_mode=no_loop
+<region> sample=Thin Shiner-84-90-4KHS.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=65 hivel=90 offset=728 end=677632 loop_mode=no_loop
+<region> sample=Thin Shiner-84-110-ORU7.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=91 hivel=110 offset=702 loop_mode=no_loop
+<region> sample=Thin Shiner-84-127-7AEV.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=111 hivel=127 offset=572 end=674690 loop_mode=no_loop
+<region> sample=Thin Shiner-85-64-63PV.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=64 offset=628 end=678912 loop_mode=no_loop
+<region> sample=Thin Shiner-85-90-7KHQ.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=65 hivel=90 offset=544 end=678528 loop_mode=no_loop
+<region> sample=Thin Shiner-85-110-2MV0.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=91 hivel=110 offset=728 end=675840 loop_mode=no_loop
+<region> sample=Thin Shiner-85-127-TJBM.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=111 hivel=127 offset=699 end=677248 loop_mode=no_loop
+<region> sample=Thin Shiner-86-64-Y7DK.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=64 offset=718 end=704640 loop_mode=no_loop
+<region> sample=Thin Shiner-86-90-ADHC.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=65 hivel=90 offset=726 loop_mode=no_loop
+<region> sample=Thin Shiner-86-110-WQ25.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=91 hivel=110 offset=652 end=678272 loop_mode=no_loop
+<region> sample=Thin Shiner-86-127-M8J6.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=111 hivel=127 offset=709 end=677504 loop_mode=no_loop
+<region> sample=Thin Shiner-87-64-NIBF.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=64 offset=580 loop_mode=no_loop
+<region> sample=Thin Shiner-87-90-32QP.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=65 hivel=90 offset=576 end=677254 loop_mode=no_loop
+<region> sample=Thin Shiner-87-110-3204.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=91 hivel=110 offset=631 loop_mode=no_loop
+<region> sample=Thin Shiner-87-127-3ZD2.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=111 hivel=127 offset=703 end=676480 loop_mode=no_loop
+<region> sample=Thin Shiner-88-64-WW60.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=64 offset=590 end=679040 loop_mode=no_loop
+<region> sample=Thin Shiner-88-90-TID7.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=65 hivel=90 offset=512 end=676224 loop_mode=no_loop
+<region> sample=Thin Shiner-88-110-4B3F.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=91 hivel=110 offset=733 loop_mode=no_loop
+<region> sample=Thin Shiner-88-127-AR15.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=111 hivel=127 offset=657 end=677120 loop_mode=no_loop
+<region> sample=Thin Shiner-89-64-S0V5.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=64 offset=752 end=703744 loop_mode=no_loop
+<region> sample=Thin Shiner-89-90-F72U.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=65 hivel=90 offset=704 end=675978 loop_mode=no_loop
+<region> sample=Thin Shiner-89-110-4626.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=91 hivel=110 offset=770 end=678145 loop_mode=no_loop
+<region> sample=Thin Shiner-89-127-BIDU.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=111 hivel=127 offset=713 end=678656 loop_mode=no_loop
+<region> sample=Thin Shiner-90-64-RJ2W.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=64 offset=771 loop_mode=no_loop
+<region> sample=Thin Shiner-90-90-IJS2.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=65 hivel=90 offset=600 loop_mode=no_loop
+<region> sample=Thin Shiner-90-110-900P.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=91 hivel=110 offset=690 end=704780 loop_mode=no_loop
+<region> sample=Thin Shiner-90-127-S5A8.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=111 hivel=127 offset=696 end=674950 loop_mode=no_loop
+<region> sample=Thin Shiner-91-64-4TZE.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=64 offset=730 end=678400 loop_mode=no_loop
+<region> sample=Thin Shiner-91-90-YVJK.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=65 hivel=90 offset=615 end=678784 loop_mode=no_loop
+<region> sample=Thin Shiner-91-110-CG14.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=91 hivel=110 offset=689 end=674432 loop_mode=no_loop
+<region> sample=Thin Shiner-91-127-53MR.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=111 hivel=127 offset=693 end=677760 loop_mode=no_loop
+<region> sample=Thin Shiner-92-64-MQVQ.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=64 offset=545 end=705152 loop_mode=no_loop
+<region> sample=Thin Shiner-92-90-FCPD.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=65 hivel=90 offset=612 loop_mode=no_loop
+<region> sample=Thin Shiner-92-110-38AE.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=91 hivel=110 offset=809 end=678533 loop_mode=no_loop
+<region> sample=Thin Shiner-92-127-TF11.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=111 hivel=127 offset=589 loop_mode=no_loop
+<region> sample=Thin Shiner-93-64-CAT1.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=64 offset=734 end=676736 loop_mode=no_loop
+<region> sample=Thin Shiner-93-90-UOF6.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=65 hivel=90 offset=658 end=677760 loop_mode=no_loop
+<region> sample=Thin Shiner-93-110-DP3A.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=91 hivel=110 offset=937 end=704384 loop_mode=no_loop
+<region> sample=Thin Shiner-93-127-HG2Z.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=111 hivel=127 offset=717 end=675328 loop_mode=no_loop
+<region> sample=Thin Shiner-94-64-W7WW.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=64 offset=550 end=678153 loop_mode=no_loop
+<region> sample=Thin Shiner-94-90-L9W0.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=65 hivel=90 offset=702 end=676608 loop_mode=no_loop
+<region> sample=Thin Shiner-94-110-M7WS.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=91 hivel=110 offset=592 loop_mode=no_loop
+<region> sample=Thin Shiner-94-127-AKZQ.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=111 hivel=127 offset=658 end=677635 loop_mode=no_loop
+<region> sample=Thin Shiner-95-64-U6JU.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=64 offset=618 end=706180 loop_mode=no_loop
+<region> sample=Thin Shiner-95-90-HD6X.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=65 hivel=90 offset=667 end=674824 loop_mode=no_loop
+<region> sample=Thin Shiner-95-110-4Y3E.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=91 hivel=110 offset=766 loop_mode=no_loop
+<region> sample=Thin Shiner-95-127-1BLD.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=111 hivel=127 offset=697 end=677891 loop_mode=no_loop
+<region> sample=Thin Shiner-96-64-C0E7.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=1 hivel=64 offset=624 loop_mode=no_loop
+<region> sample=Thin Shiner-96-90-KI5W.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=65 hivel=90 offset=676 end=677376 loop_mode=no_loop
+<region> sample=Thin Shiner-96-110-1FU5.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=91 hivel=110 offset=662 end=704643 loop_mode=no_loop
+<region> sample=Thin Shiner-96-127-SQIM.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=111 hivel=127 offset=677 end=673152 loop_mode=no_loop

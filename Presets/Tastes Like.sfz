@@ -1,0 +1,153 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tastes Like.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Tastes Like/
+
+<group>        // Tastes Like
+<region> sample=Tastes Like-36-32-SDSS.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=32 offset=629 end=799477 loop_mode=no_loop
+<region> sample=Tastes Like-36-127-IB2L.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=33 hivel=127 offset=662 end=799679 loop_mode=no_loop
+<region> sample=Tastes Like-37-32-OT5J.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=32 offset=647 end=796018 loop_mode=no_loop
+<region> sample=Tastes Like-37-127-D97R.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=33 hivel=127 offset=782 end=797863 loop_mode=no_loop
+<region> sample=Tastes Like-38-32-VN2J.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=32 offset=552 end=805477 loop_mode=no_loop
+<region> sample=Tastes Like-38-127-5KK4.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=33 hivel=127 offset=734 end=793279 loop_mode=no_loop
+<region> sample=Tastes Like-39-32-9ZCF.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=32 offset=691 loop_mode=no_loop
+<region> sample=Tastes Like-39-127-JH6O.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=33 hivel=127 offset=563 loop_mode=no_loop
+<region> sample=Tastes Like-40-32-QYI8.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=32 offset=731 end=801423 loop_mode=no_loop
+<region> sample=Tastes Like-40-127-NLQD.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=33 hivel=127 offset=834 end=799764 loop_mode=no_loop
+<region> sample=Tastes Like-41-32-GRLH.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=32 offset=499 end=806534 loop_mode=no_loop
+<region> sample=Tastes Like-41-127-LDOM.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=33 hivel=127 offset=619 loop_mode=no_loop
+<region> sample=Tastes Like-42-32-P012.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=32 offset=655 loop_mode=no_loop
+<region> sample=Tastes Like-42-127-4TSD.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=33 hivel=127 offset=547 end=796927 loop_mode=no_loop
+<region> sample=Tastes Like-43-32-4339.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=32 offset=866 end=797947 loop_mode=no_loop
+<region> sample=Tastes Like-43-127-Q93V.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=33 hivel=127 offset=618 end=797659 loop_mode=no_loop
+<region> sample=Tastes Like-44-32-EIVJ.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=32 offset=620 end=808743 loop_mode=no_loop
+<region> sample=Tastes Like-44-127-N07I.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=33 hivel=127 offset=688 end=799099 loop_mode=no_loop
+<region> sample=Tastes Like-45-32-TXHC.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=32 offset=664 loop_mode=no_loop
+<region> sample=Tastes Like-45-127-CY5M.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=33 hivel=127 offset=724 end=800075 loop_mode=no_loop
+<region> sample=Tastes Like-46-32-J6HC.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=32 offset=678 end=795119 loop_mode=no_loop
+<region> sample=Tastes Like-46-127-Y8XA.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=33 hivel=127 offset=700 end=796928 loop_mode=no_loop
+<region> sample=Tastes Like-47-32-PYP1.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=32 offset=694 loop_mode=no_loop
+<region> sample=Tastes Like-47-127-F83X.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=33 hivel=127 offset=566 end=792831 loop_mode=no_loop
+<region> sample=Tastes Like-48-32-VXE6.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=32 offset=717 loop_mode=no_loop
+<region> sample=Tastes Like-48-127-FNS1.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=33 hivel=127 offset=552 end=797730 loop_mode=no_loop
+<region> sample=Tastes Like-49-32-JD6S.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=32 offset=570 end=796256 loop_mode=no_loop
+<region> sample=Tastes Like-49-127-TXZA.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=127 offset=677 end=798419 loop_mode=no_loop
+<region> sample=Tastes Like-50-32-9BJK.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=32 offset=560 end=808173 loop_mode=no_loop
+<region> sample=Tastes Like-50-127-D6EF.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=127 offset=745 end=796018 loop_mode=no_loop
+<region> sample=Tastes Like-51-32-XD5Y.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=32 offset=708 end=799064 loop_mode=no_loop
+<region> sample=Tastes Like-51-127-VU3Q.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=127 offset=626 end=801495 loop_mode=no_loop
+<region> sample=Tastes Like-52-32-U9ZX.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=32 offset=736 end=799838 loop_mode=no_loop
+<region> sample=Tastes Like-52-127-Y3WG.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=127 offset=502 loop_mode=no_loop
+<region> sample=Tastes Like-53-32-059U.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=32 offset=626 end=808194 loop_mode=no_loop
+<region> sample=Tastes Like-53-127-AUJO.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=127 offset=631 end=793984 loop_mode=no_loop
+<region> sample=Tastes Like-54-32-1VQS.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=32 offset=707 end=800640 loop_mode=no_loop
+<region> sample=Tastes Like-54-127-JCUF.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=127 offset=634 loop_mode=no_loop
+<region> sample=Tastes Like-55-32-70BZ.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=32 offset=651 end=795648 loop_mode=no_loop
+<region> sample=Tastes Like-55-127-FAQ2.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=127 offset=533 end=796910 loop_mode=no_loop
+<region> sample=Tastes Like-56-32-2QR7.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=32 offset=657 end=808156 loop_mode=no_loop
+<region> sample=Tastes Like-56-127-JBDB.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=127 offset=597 end=798151 loop_mode=no_loop
+<region> sample=Tastes Like-57-32-JFYJ.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=32 offset=583 end=798309 loop_mode=no_loop
+<region> sample=Tastes Like-57-127-WRX4.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=127 offset=653 end=799712 loop_mode=no_loop
+<region> sample=Tastes Like-58-32-WA65.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=32 offset=588 end=795718 loop_mode=no_loop
+<region> sample=Tastes Like-58-127-0ZGS.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=127 offset=681 loop_mode=no_loop
+<region> sample=Tastes Like-59-32-DHEJ.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=32 offset=670 end=811779 loop_mode=no_loop
+<region> sample=Tastes Like-59-127-61UF.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=127 offset=613 end=793776 loop_mode=no_loop
+<region> sample=Tastes Like-60-32-ZEJT.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=32 offset=669 loop_mode=no_loop
+<region> sample=Tastes Like-60-127-BBAD.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=33 hivel=127 offset=604 end=800369 loop_mode=no_loop
+<region> sample=Tastes Like-61-32-0X7O.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=32 offset=675 loop_mode=no_loop
+<region> sample=Tastes Like-61-127-3GIA.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=127 offset=673 end=797017 loop_mode=no_loop
+<region> sample=Tastes Like-62-32-Z63G.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=32 offset=556 loop_mode=no_loop
+<region> sample=Tastes Like-62-127-VSBA.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=127 offset=659 end=795136 loop_mode=no_loop
+<region> sample=Tastes Like-63-32-TW4P.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=32 offset=748 end=800054 loop_mode=no_loop
+<region> sample=Tastes Like-63-127-MCNX.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=127 offset=615 end=799872 loop_mode=no_loop
+<region> sample=Tastes Like-64-32-N5GO.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=32 offset=600 end=797184 loop_mode=no_loop
+<region> sample=Tastes Like-64-127-2C1J.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=127 offset=581 end=799813 loop_mode=no_loop
+<region> sample=Tastes Like-65-32-SUYM.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=32 offset=811 loop_mode=no_loop
+<region> sample=Tastes Like-65-127-MJV5.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=127 offset=696 end=796032 loop_mode=no_loop
+<region> sample=Tastes Like-66-32-V2IE.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=32 offset=700 end=800526 loop_mode=no_loop
+<region> sample=Tastes Like-66-127-HGPL.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=127 offset=683 end=798080 loop_mode=no_loop
+<region> sample=Tastes Like-67-32-TU95.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=32 offset=587 end=798669 loop_mode=no_loop
+<region> sample=Tastes Like-67-127-0FS1.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=127 offset=609 end=797184 loop_mode=no_loop
+<region> sample=Tastes Like-68-32-4OZG.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=32 offset=649 end=808253 loop_mode=no_loop
+<region> sample=Tastes Like-68-127-I86Q.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=127 offset=641 end=796544 loop_mode=no_loop
+<region> sample=Tastes Like-69-32-UND8.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=32 offset=596 end=800640 loop_mode=no_loop
+<region> sample=Tastes Like-69-127-U4MF.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=127 offset=614 end=798733 loop_mode=no_loop
+<region> sample=Tastes Like-70-32-LYAE.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=32 offset=781 end=797184 loop_mode=no_loop
+<region> sample=Tastes Like-70-127-FHMJ.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=127 offset=585 loop_mode=no_loop
+<region> sample=Tastes Like-71-32-UQWK.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=32 offset=606 end=807722 loop_mode=no_loop
+<region> sample=Tastes Like-71-127-BSN5.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=127 offset=745 loop_mode=no_loop
+<region> sample=Tastes Like-72-32-WBVD.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=32 offset=511 end=799771 loop_mode=no_loop
+<region> sample=Tastes Like-72-127-YC5U.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=127 offset=686 end=799232 loop_mode=no_loop
+<region> sample=Tastes Like-73-32-FGFD.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=32 offset=648 end=796459 loop_mode=no_loop
+<region> sample=Tastes Like-73-127-6VPA.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=127 offset=749 end=797696 loop_mode=no_loop
+<region> sample=Tastes Like-74-32-PWOQ.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=32 offset=727 end=807073 loop_mode=no_loop
+<region> sample=Tastes Like-74-127-COUF.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=127 offset=676 end=796032 loop_mode=no_loop
+<region> sample=Tastes Like-75-32-JYSR.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=32 offset=660 end=800019 loop_mode=no_loop
+<region> sample=Tastes Like-75-127-RGLJ.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=127 offset=621 end=798729 loop_mode=no_loop
+<region> sample=Tastes Like-76-32-RV7M.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=32 offset=554 loop_mode=no_loop
+<region> sample=Tastes Like-76-127-8DWQ.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=127 offset=700 end=798510 loop_mode=no_loop
+<region> sample=Tastes Like-77-32-36WE.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=32 offset=635 loop_mode=no_loop
+<region> sample=Tastes Like-77-127-OB9C.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=127 offset=673 end=796544 loop_mode=no_loop
+<region> sample=Tastes Like-78-32-0BN6.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=32 offset=638 end=798997 loop_mode=no_loop
+<region> sample=Tastes Like-78-127-CHQO.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=127 offset=538 end=799744 loop_mode=no_loop
+<region> sample=Tastes Like-79-32-BBSG.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=32 offset=687 end=798464 loop_mode=no_loop
+<region> sample=Tastes Like-79-127-GPCK.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=127 offset=689 end=796546 loop_mode=no_loop
+<region> sample=Tastes Like-80-32-3MB8.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=32 offset=601 end=807709 loop_mode=no_loop
+<region> sample=Tastes Like-80-127-80TD.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=127 offset=577 end=795157 loop_mode=no_loop
+<region> sample=Tastes Like-81-32-OTZF.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=32 offset=632 end=800390 loop_mode=no_loop
+<region> sample=Tastes Like-81-127-3RRZ.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=127 offset=623 end=800896 loop_mode=no_loop
+<region> sample=Tastes Like-82-32-13OI.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=32 offset=586 end=796672 loop_mode=no_loop
+<region> sample=Tastes Like-82-127-WQUB.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=127 offset=584 end=797865 loop_mode=no_loop
+<region> sample=Tastes Like-83-32-ZJJA.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=32 offset=827 end=806284 loop_mode=no_loop
+<region> sample=Tastes Like-83-127-VIDD.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=127 offset=658 end=794762 loop_mode=no_loop
+<region> sample=Tastes Like-84-32-3E7T.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=32 offset=604 end=797773 loop_mode=no_loop
+<region> sample=Tastes Like-84-127-GPMT.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=33 hivel=127 offset=580 end=797981 loop_mode=no_loop
+<region> sample=Tastes Like-85-32-I8MJ.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=32 offset=782 end=797345 loop_mode=no_loop
+<region> sample=Tastes Like-85-127-31PU.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=33 hivel=127 offset=728 end=798336 loop_mode=no_loop
+<region> sample=Tastes Like-86-32-3PHP.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=32 offset=670 end=808451 loop_mode=no_loop
+<region> sample=Tastes Like-86-127-XMBS.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=33 hivel=127 offset=579 end=795652 loop_mode=no_loop
+<region> sample=Tastes Like-87-32-WMG9.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=32 offset=717 end=800410 loop_mode=no_loop
+<region> sample=Tastes Like-87-127-5YIZ.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=33 hivel=127 offset=638 loop_mode=no_loop
+<region> sample=Tastes Like-88-32-2EQR.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=32 offset=712 end=796688 loop_mode=no_loop
+<region> sample=Tastes Like-88-127-GXHF.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=33 hivel=127 offset=632 end=798230 loop_mode=no_loop
+<region> sample=Tastes Like-89-32-Y51G.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=32 offset=705 end=810624 loop_mode=no_loop
+<region> sample=Tastes Like-89-127-BWWK.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=33 hivel=127 offset=646 end=793728 loop_mode=no_loop
+<region> sample=Tastes Like-90-32-T39A.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=32 offset=656 end=800384 loop_mode=no_loop
+<region> sample=Tastes Like-90-127-46CD.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=33 hivel=127 offset=639 end=799753 loop_mode=no_loop
+<region> sample=Tastes Like-91-32-MU0F.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=32 offset=672 end=799119 loop_mode=no_loop
+<region> sample=Tastes Like-91-127-DVAS.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=33 hivel=127 offset=507 end=798464 loop_mode=no_loop
+<region> sample=Tastes Like-92-32-P6NM.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=32 offset=530 end=808964 loop_mode=no_loop
+<region> sample=Tastes Like-92-127-6EEM.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=33 hivel=127 offset=650 end=798208 loop_mode=no_loop
+<region> sample=Tastes Like-93-32-F01Q.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=32 offset=712 end=799753 loop_mode=no_loop
+<region> sample=Tastes Like-93-127-LC6B.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=33 hivel=127 offset=594 end=798592 loop_mode=no_loop
+<region> sample=Tastes Like-94-32-APXH.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=32 offset=609 loop_mode=no_loop
+<region> sample=Tastes Like-94-127-72Q8.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=33 hivel=127 offset=580 end=799490 loop_mode=no_loop
+<region> sample=Tastes Like-95-32-RRIT.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=32 offset=550 end=808079 loop_mode=no_loop
+<region> sample=Tastes Like-95-127-VO81.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=33 hivel=127 offset=689 end=796160 loop_mode=no_loop
+<region> sample=Tastes Like-96-32-HC0P.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=0 hivel=32 offset=504 end=798606 loop_mode=no_loop
+<region> sample=Tastes Like-96-127-M800.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=33 hivel=127 offset=580 end=797443 loop_mode=no_loop
+<region> sample=Tastes Like-97-32-SEOQ.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=0 hivel=32 offset=613 end=797696 loop_mode=no_loop
+<region> sample=Tastes Like-97-127-4O7M.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=33 hivel=127 offset=717 loop_mode=no_loop
+<region> sample=Tastes Like-98-32-MJA9.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=0 hivel=32 offset=602 loop_mode=no_loop
+<region> sample=Tastes Like-98-127-6PG1.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=33 hivel=127 offset=693 loop_mode=no_loop
+<region> sample=Tastes Like-99-32-XGL5.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=0 hivel=32 offset=642 end=801152 loop_mode=no_loop
+<region> sample=Tastes Like-99-127-JFDU.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=33 hivel=127 offset=604 end=798720 loop_mode=no_loop
+<region> sample=Tastes Like-100-32-HWLS.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=0 hivel=32 offset=709 loop_mode=no_loop
+<region> sample=Tastes Like-100-127-QULF.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=33 hivel=127 offset=731 end=798592 loop_mode=no_loop
+<region> sample=Tastes Like-101-32-YVCW.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=0 hivel=32 offset=691 loop_mode=no_loop
+<region> sample=Tastes Like-101-127-5BOU.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=33 hivel=127 offset=563 end=797064 loop_mode=no_loop
+<region> sample=Tastes Like-102-32-PTFJ.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=0 hivel=32 offset=635 end=799104 loop_mode=no_loop
+<region> sample=Tastes Like-102-127-3XL7.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=33 hivel=127 offset=680 end=800512 loop_mode=no_loop
+<region> sample=Tastes Like-103-32-MI9L.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=0 hivel=32 offset=623 end=798336 loop_mode=no_loop
+<region> sample=Tastes Like-103-127-7I16.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=33 hivel=127 offset=636 end=798211 loop_mode=no_loop
+<region> sample=Tastes Like-104-32-LO1N.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=0 hivel=32 offset=1072 end=808457 loop_mode=no_loop
+<region> sample=Tastes Like-104-127-KPVG.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=33 hivel=127 offset=472 end=795266 loop_mode=no_loop
+<region> sample=Tastes Like-105-32-GYTT.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=0 hivel=32 offset=602 end=802945 loop_mode=no_loop
+<region> sample=Tastes Like-105-127-DU2V.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=33 hivel=127 offset=576 loop_mode=no_loop
+<region> sample=Tastes Like-106-32-GEJ7.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=0 hivel=32 offset=630 end=796934 loop_mode=no_loop
+<region> sample=Tastes Like-106-127-UHXW.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=33 hivel=127 offset=693 end=798720 loop_mode=no_loop
+<region> sample=Tastes Like-107-32-J98X.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=0 hivel=32 offset=665 loop_mode=no_loop
+<region> sample=Tastes Like-107-127-BH6A.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=33 hivel=127 offset=703 end=797958 loop_mode=no_loop
+<region> sample=Tastes Like-108-32-H34R.wav key=108 lokey=108 hikey=127  amp_veltrack=30 lovel=0 hivel=32 offset=705 loop_mode=no_loop
+<region> sample=Tastes Like-108-127-Q7DC.wav key=108 lokey=108 hikey=127  amp_veltrack=30 lovel=33 hivel=127 offset=585 loop_mode=no_loop

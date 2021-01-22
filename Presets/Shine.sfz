@@ -1,0 +1,203 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Shine.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Thick Shiner/
+
+<group>        // Thick Shiner
+<region> sample=Thick Shiner-48-64-XCVS.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=1 hivel=64 offset=616 end=672605 loop_mode=no_loop
+<region> sample=Thick Shiner-48-90-UDS6.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=65 hivel=90 offset=706 loop_mode=no_loop
+<region> sample=Thick Shiner-48-110-7994.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=91 hivel=110 offset=819 end=673094 loop_mode=no_loop
+<region> sample=Thick Shiner-48-127-AGW3.wav key=48 lokey=6 hikey=48  amp_veltrack=30 lovel=111 hivel=127 offset=649 end=672637 loop_mode=no_loop
+<region> sample=Thick Shiner-49-64-JTAB.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=64 offset=692 end=673281 loop_mode=no_loop
+<region> sample=Thick Shiner-49-90-E9BS.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=90 offset=769 end=673792 loop_mode=no_loop
+<region> sample=Thick Shiner-49-110-TUL7.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=91 hivel=110 offset=612 end=672862 loop_mode=no_loop
+<region> sample=Thick Shiner-49-127-J5M6.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=111 hivel=127 offset=677 loop_mode=no_loop
+<region> sample=Thick Shiner-50-64-4INF.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=64 offset=632 end=673419 loop_mode=no_loop
+<region> sample=Thick Shiner-50-90-J63W.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=90 offset=692 end=671744 loop_mode=no_loop
+<region> sample=Thick Shiner-50-110-063T.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=91 hivel=110 offset=621 loop_mode=no_loop
+<region> sample=Thick Shiner-50-127-L8DX.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=111 hivel=127 offset=565 end=672220 loop_mode=no_loop
+<region> sample=Thick Shiner-51-64-IJO8.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=64 offset=525 end=671807 loop_mode=no_loop
+<region> sample=Thick Shiner-51-90-FH1K.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=90 offset=689 end=672592 loop_mode=no_loop
+<region> sample=Thick Shiner-51-110-2TKX.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=91 hivel=110 offset=668 loop_mode=no_loop
+<region> sample=Thick Shiner-51-127-HBEB.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=111 hivel=127 offset=792 end=673557 loop_mode=no_loop
+<region> sample=Thick Shiner-52-64-CLI2.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=64 offset=582 end=674121 loop_mode=no_loop
+<region> sample=Thick Shiner-52-90-G0XR.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=90 offset=780 loop_mode=no_loop
+<region> sample=Thick Shiner-52-110-LQGC.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=91 hivel=110 offset=717 end=672663 loop_mode=no_loop
+<region> sample=Thick Shiner-52-127-GA4G.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=111 hivel=127 offset=696 end=672890 loop_mode=no_loop
+<region> sample=Thick Shiner-53-64-HJPU.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=64 offset=629 end=674833 loop_mode=no_loop
+<region> sample=Thick Shiner-53-90-21F5.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=90 offset=692 end=674063 loop_mode=no_loop
+<region> sample=Thick Shiner-53-110-7SOZ.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=91 hivel=110 offset=764 end=673468 loop_mode=no_loop
+<region> sample=Thick Shiner-53-127-J22S.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=111 hivel=127 offset=614 loop_mode=no_loop
+<region> sample=Thick Shiner-54-64-1F9B.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=64 offset=650 end=672861 loop_mode=no_loop
+<region> sample=Thick Shiner-54-90-HHI6.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=90 offset=559 end=671827 loop_mode=no_loop
+<region> sample=Thick Shiner-54-110-KC8T.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=91 hivel=110 offset=707 loop_mode=no_loop
+<region> sample=Thick Shiner-54-127-SMYY.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=111 hivel=127 offset=633 end=672650 loop_mode=no_loop
+<region> sample=Thick Shiner-55-64-6ZMR.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=64 offset=527 loop_mode=no_loop
+<region> sample=Thick Shiner-55-90-SAT1.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=90 offset=684 end=672894 loop_mode=no_loop
+<region> sample=Thick Shiner-55-110-AI4C.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=91 hivel=110 offset=602 loop_mode=no_loop
+<region> sample=Thick Shiner-55-127-WF2X.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=111 hivel=127 offset=750 end=672670 loop_mode=no_loop
+<region> sample=Thick Shiner-56-64-I9QP.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=64 offset=709 loop_mode=no_loop
+<region> sample=Thick Shiner-56-90-7HXU.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=90 offset=710 loop_mode=no_loop
+<region> sample=Thick Shiner-56-110-VPNO.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=91 hivel=110 offset=694 end=671774 loop_mode=no_loop
+<region> sample=Thick Shiner-56-127-5R32.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=111 hivel=127 offset=694 end=674817 loop_mode=no_loop
+<region> sample=Thick Shiner-57-64-T7N5.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=64 offset=626 end=672554 loop_mode=no_loop
+<region> sample=Thick Shiner-57-90-EEAX.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=90 offset=736 end=672256 loop_mode=no_loop
+<region> sample=Thick Shiner-57-110-33IT.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=91 hivel=110 offset=736 end=672596 loop_mode=no_loop
+<region> sample=Thick Shiner-57-127-R2L2.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=111 hivel=127 offset=606 end=673536 loop_mode=no_loop
+<region> sample=Thick Shiner-58-64-KJJ8.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=64 offset=687 loop_mode=no_loop
+<region> sample=Thick Shiner-58-90-MZ89.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=90 offset=577 end=673593 loop_mode=no_loop
+<region> sample=Thick Shiner-58-110-709P.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=91 hivel=110 offset=579 end=672532 loop_mode=no_loop
+<region> sample=Thick Shiner-58-127-SFNP.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=111 hivel=127 offset=583 end=672529 loop_mode=no_loop
+<region> sample=Thick Shiner-59-64-QPUY.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=64 offset=698 end=672579 loop_mode=no_loop
+<region> sample=Thick Shiner-59-90-P0YF.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=90 offset=738 end=672066 loop_mode=no_loop
+<region> sample=Thick Shiner-59-110-CJA3.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=91 hivel=110 offset=721 end=673301 loop_mode=no_loop
+<region> sample=Thick Shiner-59-127-XI7F.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=111 hivel=127 offset=735 end=672768 loop_mode=no_loop
+<region> sample=Thick Shiner-60-64-SO2M.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=64 offset=702 loop_mode=no_loop
+<region> sample=Thick Shiner-60-90-V491.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=90 offset=616 end=674304 loop_mode=no_loop
+<region> sample=Thick Shiner-60-110-TIAX.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=91 hivel=110 offset=608 loop_mode=no_loop
+<region> sample=Thick Shiner-60-127-XT4B.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=111 hivel=127 offset=542 end=730915 loop_mode=no_loop
+<region> sample=Thick Shiner-61-64-JICP.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=64 offset=727 loop_mode=no_loop
+<region> sample=Thick Shiner-61-90-YYZM.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=90 offset=529 end=674617 loop_mode=no_loop
+<region> sample=Thick Shiner-61-110-XTA4.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=91 hivel=110 offset=656 end=673280 loop_mode=no_loop
+<region> sample=Thick Shiner-61-127-0R6N.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=111 hivel=127 offset=530 end=672768 loop_mode=no_loop
+<region> sample=Thick Shiner-62-64-1A9Q.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=64 offset=659 end=673285 loop_mode=no_loop
+<region> sample=Thick Shiner-62-90-ZSOR.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=90 offset=632 loop_mode=no_loop
+<region> sample=Thick Shiner-62-110-SFUO.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=91 hivel=110 offset=471 end=672522 loop_mode=no_loop
+<region> sample=Thick Shiner-62-127-CGW2.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=111 hivel=127 offset=739 end=672054 loop_mode=no_loop
+<region> sample=Thick Shiner-63-64-XRQR.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=64 offset=733 end=672303 loop_mode=no_loop
+<region> sample=Thick Shiner-63-90-CCZE.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=90 offset=576 end=672294 loop_mode=no_loop
+<region> sample=Thick Shiner-63-110-VPKY.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=91 hivel=110 offset=721 loop_mode=no_loop
+<region> sample=Thick Shiner-63-127-0A82.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=111 hivel=127 offset=742 loop_mode=no_loop
+<region> sample=Thick Shiner-64-64-6R4Q.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=64 offset=745 loop_mode=no_loop
+<region> sample=Thick Shiner-64-90-UDS7.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=90 offset=649 end=672293 loop_mode=no_loop
+<region> sample=Thick Shiner-64-110-GCQR.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=91 hivel=110 offset=668 end=672569 loop_mode=no_loop
+<region> sample=Thick Shiner-64-127-2L0X.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=111 hivel=127 offset=670 loop_mode=no_loop
+<region> sample=Thick Shiner-65-64-2DTO.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=64 offset=653 loop_mode=no_loop
+<region> sample=Thick Shiner-65-90-2KTP.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=90 offset=527 end=673316 loop_mode=no_loop
+<region> sample=Thick Shiner-65-110-2VOZ.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=91 hivel=110 offset=724 end=672070 loop_mode=no_loop
+<region> sample=Thick Shiner-65-127-I3R5.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=111 hivel=127 offset=583 end=672538 loop_mode=no_loop
+<region> sample=Thick Shiner-66-64-FNVW.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=64 offset=574 end=671805 loop_mode=no_loop
+<region> sample=Thick Shiner-66-90-NI0Z.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=90 offset=664 end=672550 loop_mode=no_loop
+<region> sample=Thick Shiner-66-110-CNMF.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=91 hivel=110 offset=677 end=672086 loop_mode=no_loop
+<region> sample=Thick Shiner-66-127-H4Z9.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=111 hivel=127 offset=691 end=672537 loop_mode=no_loop
+<region> sample=Thick Shiner-67-64-6253.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=64 offset=758 end=672827 loop_mode=no_loop
+<region> sample=Thick Shiner-67-90-7TNA.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=90 offset=678 end=671781 loop_mode=no_loop
+<region> sample=Thick Shiner-67-110-6RTV.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=91 hivel=110 offset=675 end=672829 loop_mode=no_loop
+<region> sample=Thick Shiner-67-127-SXN2.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=111 hivel=127 offset=616 end=672045 loop_mode=no_loop
+<region> sample=Thick Shiner-68-64-7Y4Q.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=64 offset=545 end=673294 loop_mode=no_loop
+<region> sample=Thick Shiner-68-90-V5TR.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=90 offset=741 end=673564 loop_mode=no_loop
+<region> sample=Thick Shiner-68-110-R7Q2.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=91 hivel=110 offset=589 end=672007 loop_mode=no_loop
+<region> sample=Thick Shiner-68-127-1PQ8.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=111 hivel=127 offset=629 loop_mode=no_loop
+<region> sample=Thick Shiner-69-64-8XK6.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=64 offset=719 loop_mode=no_loop
+<region> sample=Thick Shiner-69-90-12PC.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=90 offset=568 end=672562 loop_mode=no_loop
+<region> sample=Thick Shiner-69-110-4F57.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=91 hivel=110 offset=690 end=673537 loop_mode=no_loop
+<region> sample=Thick Shiner-69-127-ZNTR.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=111 hivel=127 offset=668 end=672801 loop_mode=no_loop
+<region> sample=Thick Shiner-70-64-9DTR.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=64 offset=568 end=671850 loop_mode=no_loop
+<region> sample=Thick Shiner-70-90-AP1U.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=90 offset=728 end=674634 loop_mode=no_loop
+<region> sample=Thick Shiner-70-110-NCG9.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=91 hivel=110 offset=582 loop_mode=no_loop
+<region> sample=Thick Shiner-70-127-2VTC.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=111 hivel=127 offset=769 end=673024 loop_mode=no_loop
+<region> sample=Thick Shiner-71-64-F9OD.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=64 offset=717 loop_mode=no_loop
+<region> sample=Thick Shiner-71-90-YXED.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=90 offset=579 loop_mode=no_loop
+<region> sample=Thick Shiner-71-110-233M.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=91 hivel=110 offset=587 end=672822 loop_mode=no_loop
+<region> sample=Thick Shiner-71-127-MDED.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=111 hivel=127 offset=783 loop_mode=no_loop
+<region> sample=Thick Shiner-72-64-ZVQT.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=64 offset=680 loop_mode=no_loop
+<region> sample=Thick Shiner-72-90-4C7I.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=90 offset=546 end=672002 loop_mode=no_loop
+<region> sample=Thick Shiner-72-110-R7YN.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=91 hivel=110 offset=598 loop_mode=no_loop
+<region> sample=Thick Shiner-72-127-1UCO.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=111 hivel=127 offset=712 loop_mode=no_loop
+<region> sample=Thick Shiner-73-64-C21Q.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=64 offset=728 end=672530 loop_mode=no_loop
+<region> sample=Thick Shiner-73-90-QHL3.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=90 offset=703 loop_mode=no_loop
+<region> sample=Thick Shiner-73-110-HSJZ.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=91 hivel=110 offset=514 loop_mode=no_loop
+<region> sample=Thick Shiner-73-127-6STF.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=111 hivel=127 offset=731 loop_mode=no_loop
+<region> sample=Thick Shiner-74-64-KY36.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=64 offset=629 loop_mode=no_loop
+<region> sample=Thick Shiner-74-90-FNHU.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=90 offset=719 loop_mode=no_loop
+<region> sample=Thick Shiner-74-110-D0I1.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=91 hivel=110 offset=654 loop_mode=no_loop
+<region> sample=Thick Shiner-74-127-TYCX.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=111 hivel=127 offset=722 loop_mode=no_loop
+<region> sample=Thick Shiner-75-64-D0X0.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=64 offset=560 loop_mode=no_loop
+<region> sample=Thick Shiner-75-90-2RMU.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=90 offset=687 loop_mode=no_loop
+<region> sample=Thick Shiner-75-110-8F2K.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=91 hivel=110 offset=553 loop_mode=no_loop
+<region> sample=Thick Shiner-75-127-VD5M.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=111 hivel=127 offset=713 loop_mode=no_loop
+<region> sample=Thick Shiner-76-64-UOWW.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=64 offset=571 end=672566 loop_mode=no_loop
+<region> sample=Thick Shiner-76-90-H41Y.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=90 offset=672 end=672774 loop_mode=no_loop
+<region> sample=Thick Shiner-76-110-M3NO.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=91 hivel=110 offset=689 end=672796 loop_mode=no_loop
+<region> sample=Thick Shiner-76-127-7BJF.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=111 hivel=127 offset=645 end=672545 loop_mode=no_loop
+<region> sample=Thick Shiner-77-64-66K7.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=64 offset=707 end=673024 loop_mode=no_loop
+<region> sample=Thick Shiner-77-90-MQ1W.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=90 offset=631 loop_mode=no_loop
+<region> sample=Thick Shiner-77-110-LAJA.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=91 hivel=110 offset=683 end=672397 loop_mode=no_loop
+<region> sample=Thick Shiner-77-127-GIPN.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=111 hivel=127 offset=705 loop_mode=no_loop
+<region> sample=Thick Shiner-78-64-LDL3.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=64 offset=595 loop_mode=no_loop
+<region> sample=Thick Shiner-78-90-WW29.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=90 offset=684 end=672797 loop_mode=no_loop
+<region> sample=Thick Shiner-78-110-4SUN.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=91 hivel=110 offset=746 end=672256 loop_mode=no_loop
+<region> sample=Thick Shiner-78-127-WWBC.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=111 hivel=127 offset=615 loop_mode=no_loop
+<region> sample=Thick Shiner-79-64-AZA1.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=64 offset=655 loop_mode=no_loop
+<region> sample=Thick Shiner-79-90-0XD4.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=90 offset=490 end=672784 loop_mode=no_loop
+<region> sample=Thick Shiner-79-110-VMG1.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=91 hivel=110 offset=680 loop_mode=no_loop
+<region> sample=Thick Shiner-79-127-VPAD.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=111 hivel=127 offset=534 end=672013 loop_mode=no_loop
+<region> sample=Thick Shiner-80-64-85BA.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=64 offset=605 end=672517 loop_mode=no_loop
+<region> sample=Thick Shiner-80-90-6F53.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=90 offset=619 end=672015 loop_mode=no_loop
+<region> sample=Thick Shiner-80-110-GQLE.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=91 hivel=110 offset=853 end=673076 loop_mode=no_loop
+<region> sample=Thick Shiner-80-127-8BXC.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=111 hivel=127 offset=630 loop_mode=no_loop
+<region> sample=Thick Shiner-81-64-A1FV.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=64 offset=677 end=672785 loop_mode=no_loop
+<region> sample=Thick Shiner-81-90-SVTE.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=90 offset=582 end=672000 loop_mode=no_loop
+<region> sample=Thick Shiner-81-110-VG65.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=91 hivel=110 offset=701 end=672790 loop_mode=no_loop
+<region> sample=Thick Shiner-81-127-0J9D.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=111 hivel=127 offset=699 end=672029 loop_mode=no_loop
+<region> sample=Thick Shiner-82-64-OG1G.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=64 offset=732 end=672847 loop_mode=no_loop
+<region> sample=Thick Shiner-82-90-31AK.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=90 offset=674 end=671755 loop_mode=no_loop
+<region> sample=Thick Shiner-82-110-9WSJ.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=91 hivel=110 offset=527 end=672785 loop_mode=no_loop
+<region> sample=Thick Shiner-82-127-MA3H.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=111 hivel=127 offset=701 end=672768 loop_mode=no_loop
+<region> sample=Thick Shiner-83-64-LYTO.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=64 offset=732 end=672261 loop_mode=no_loop
+<region> sample=Thick Shiner-83-90-722T.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=90 offset=639 end=671757 loop_mode=no_loop
+<region> sample=Thick Shiner-83-110-RB49.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=91 hivel=110 offset=632 end=672524 loop_mode=no_loop
+<region> sample=Thick Shiner-83-127-9QZT.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=111 hivel=127 offset=631 end=672021 loop_mode=no_loop
+<region> sample=Thick Shiner-84-64-YRLM.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=64 offset=610 end=672021 loop_mode=no_loop
+<region> sample=Thick Shiner-84-90-H57S.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=65 hivel=90 offset=646 end=671757 loop_mode=no_loop
+<region> sample=Thick Shiner-84-110-F94B.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=91 hivel=110 offset=592 end=672773 loop_mode=no_loop
+<region> sample=Thick Shiner-84-127-PKZS.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=111 hivel=127 offset=697 end=672256 loop_mode=no_loop
+<region> sample=Thick Shiner-85-64-75QD.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=64 offset=632 end=672119 loop_mode=no_loop
+<region> sample=Thick Shiner-85-90-UPZP.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=65 hivel=90 offset=711 loop_mode=no_loop
+<region> sample=Thick Shiner-85-110-N5OH.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=91 hivel=110 offset=634 end=671752 loop_mode=no_loop
+<region> sample=Thick Shiner-85-127-5DIN.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=111 hivel=127 offset=603 end=672512 loop_mode=no_loop
+<region> sample=Thick Shiner-86-64-2HOP.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=64 offset=752 loop_mode=no_loop
+<region> sample=Thick Shiner-86-90-AO6Y.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=65 hivel=90 offset=692 loop_mode=no_loop
+<region> sample=Thick Shiner-86-110-QF7O.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=91 hivel=110 offset=629 end=672564 loop_mode=no_loop
+<region> sample=Thick Shiner-86-127-NGX7.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=111 hivel=127 offset=623 end=673280 loop_mode=no_loop
+<region> sample=Thick Shiner-87-64-AYP9.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=64 offset=662 end=672263 loop_mode=no_loop
+<region> sample=Thick Shiner-87-90-ZOU4.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=65 hivel=90 offset=731 end=673050 loop_mode=no_loop
+<region> sample=Thick Shiner-87-110-XX3M.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=91 hivel=110 offset=713 loop_mode=no_loop
+<region> sample=Thick Shiner-87-127-MR23.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=111 hivel=127 offset=664 end=672771 loop_mode=no_loop
+<region> sample=Thick Shiner-88-64-7ORU.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=64 offset=759 end=672125 loop_mode=no_loop
+<region> sample=Thick Shiner-88-90-I384.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=65 hivel=90 offset=681 loop_mode=no_loop
+<region> sample=Thick Shiner-88-110-2BV5.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=91 hivel=110 offset=660 loop_mode=no_loop
+<region> sample=Thick Shiner-88-127-Z62V.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=111 hivel=127 offset=661 end=672518 loop_mode=no_loop
+<region> sample=Thick Shiner-89-64-8C9G.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=64 offset=707 end=673033 loop_mode=no_loop
+<region> sample=Thick Shiner-89-90-A2OB.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=65 hivel=90 offset=591 end=672024 loop_mode=no_loop
+<region> sample=Thick Shiner-89-110-BOHC.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=91 hivel=110 offset=545 end=671802 loop_mode=no_loop
+<region> sample=Thick Shiner-89-127-KI1K.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=111 hivel=127 offset=598 end=672256 loop_mode=no_loop
+<region> sample=Thick Shiner-90-64-R5VC.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=64 offset=551 end=672773 loop_mode=no_loop
+<region> sample=Thick Shiner-90-90-8L64.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=65 hivel=90 offset=718 loop_mode=no_loop
+<region> sample=Thick Shiner-90-110-ZI0L.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=91 hivel=110 offset=574 end=672006 loop_mode=no_loop
+<region> sample=Thick Shiner-90-127-EWNU.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=111 hivel=127 offset=719 end=672284 loop_mode=no_loop
+<region> sample=Thick Shiner-91-64-HIVY.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=64 offset=764 end=672850 loop_mode=no_loop
+<region> sample=Thick Shiner-91-90-4ROR.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=65 hivel=90 offset=669 end=672512 loop_mode=no_loop
+<region> sample=Thick Shiner-91-110-RR6D.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=91 hivel=110 offset=663 end=673290 loop_mode=no_loop
+<region> sample=Thick Shiner-91-127-9VII.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=111 hivel=127 offset=680 end=673027 loop_mode=no_loop
+<region> sample=Thick Shiner-92-64-GAL4.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=64 offset=744 end=672256 loop_mode=no_loop
+<region> sample=Thick Shiner-92-90-43H7.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=65 hivel=90 offset=793 end=673032 loop_mode=no_loop
+<region> sample=Thick Shiner-92-110-V5O9.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=91 hivel=110 offset=542 end=672919 loop_mode=no_loop
+<region> sample=Thick Shiner-92-127-IFE2.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=111 hivel=127 offset=609 loop_mode=no_loop
+<region> sample=Thick Shiner-93-64-PESZ.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=64 offset=729 end=672258 loop_mode=no_loop
+<region> sample=Thick Shiner-93-90-VDDC.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=65 hivel=90 offset=625 end=672257 loop_mode=no_loop
+<region> sample=Thick Shiner-93-110-F1GG.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=91 hivel=110 offset=502 end=672008 loop_mode=no_loop
+<region> sample=Thick Shiner-93-127-V3YV.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=111 hivel=127 offset=725 end=672257 loop_mode=no_loop
+<region> sample=Thick Shiner-94-64-FHIW.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=64 offset=525 end=672835 loop_mode=no_loop
+<region> sample=Thick Shiner-94-90-6NUJ.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=65 hivel=90 offset=618 loop_mode=no_loop
+<region> sample=Thick Shiner-94-110-BY1Z.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=91 hivel=110 offset=779 end=673034 loop_mode=no_loop
+<region> sample=Thick Shiner-94-127-74LE.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=111 hivel=127 offset=674 end=673286 loop_mode=no_loop
+<region> sample=Thick Shiner-95-64-EC6V.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=64 offset=651 end=672785 loop_mode=no_loop
+<region> sample=Thick Shiner-95-90-Y5VJ.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=65 hivel=90 offset=644 end=672771 loop_mode=no_loop
+<region> sample=Thick Shiner-95-110-PC81.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=91 hivel=110 offset=637 end=673147 loop_mode=no_loop
+<region> sample=Thick Shiner-95-127-V25C.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=111 hivel=127 offset=759 end=673040 loop_mode=no_loop
+<region> sample=Thick Shiner-96-64-NIVJ.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=1 hivel=64 offset=564 end=672000 loop_mode=no_loop
+<region> sample=Thick Shiner-96-90-27O5.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=65 hivel=90 offset=661 end=672518 loop_mode=no_loop
+<region> sample=Thick Shiner-96-110-5UO1.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=91 hivel=110 offset=588 end=672512 loop_mode=no_loop
+<region> sample=Thick Shiner-96-127-YDCH.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=111 hivel=127 offset=529 loop_mode=no_loop

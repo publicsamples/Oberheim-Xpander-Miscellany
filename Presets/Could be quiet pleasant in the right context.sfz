@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Could be quiet pleasant in the right context.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Vel to Osc/Vel to Osc/
+
+<group>        // Vel to Osc
+<region> sample=Vel to Osc116038-BHD6.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=1 hivel=16 offset=711 loop_mode=no_loop
+<region> sample=Vel to Osc1732038-PR6G.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=17 hivel=32 offset=569 end=702913 loop_mode=no_loop
+<region> sample=Vel to Osc3348038-J63M.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=33 hivel=48 offset=450 end=705126 loop_mode=no_loop
+<region> sample=Vel to Osc4964038-UZIV.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=49 hivel=64 offset=629 end=703870 loop_mode=no_loop
+<region> sample=Vel to Osc6579038-ANQR.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=65 hivel=79 offset=394 end=703984 loop_mode=no_loop
+<region> sample=Vel to Osc8095038-R1VW.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=80 hivel=95 offset=455 end=704981 loop_mode=no_loop
+<region> sample=Vel to Osc96111038-O7S2.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=96 hivel=111 offset=500 end=708885 loop_mode=no_loop
+<region> sample=Vel to Osc112127038-C9R6.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=112 hivel=127 offset=490 end=703163 loop_mode=no_loop
+<region> sample=Vel to Osc1163945-RA9R.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=1 hivel=16 offset=689 end=705098 loop_mode=no_loop
+<region> sample=Vel to Osc17323945-OIP6.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=17 hivel=32 offset=505 end=704379 loop_mode=no_loop
+<region> sample=Vel to Osc33483945-N7T5.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=33 hivel=48 offset=300 loop_mode=no_loop
+<region> sample=Vel to Osc49643945-AYR7.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=49 hivel=64 offset=687 loop_mode=no_loop
+<region> sample=Vel to Osc65793945-PS5M.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=65 hivel=79 offset=686 end=708242 loop_mode=no_loop
+<region> sample=Vel to Osc80953945-MK6C.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=80 hivel=95 offset=613 loop_mode=no_loop
+<region> sample=Vel to Osc961113945-DB7Y.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=96 hivel=111 offset=790 loop_mode=no_loop
+<region> sample=Vel to Osc1121273945-0VEY.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=112 hivel=127 offset=638 loop_mode=no_loop
+<region> sample=Vel to Osc1164652-8F6P.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=1 hivel=16 offset=464 end=703518 loop_mode=no_loop
+<region> sample=Vel to Osc17324652-0PWZ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=17 hivel=32 offset=553 loop_mode=no_loop
+<region> sample=Vel to Osc33484652-HC3D.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=33 hivel=48 offset=480 end=708419 loop_mode=no_loop
+<region> sample=Vel to Osc49644652-BZXS.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=49 hivel=64 offset=780 end=703467 loop_mode=no_loop
+<region> sample=Vel to Osc65794652-R9Q6.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=65 hivel=79 offset=386 end=705753 loop_mode=no_loop
+<region> sample=Vel to Osc80954652-NSDY.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=80 hivel=95 offset=520 loop_mode=no_loop
+<region> sample=Vel to Osc961114652-ZL41.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=96 hivel=111 offset=403 end=703872 loop_mode=no_loop
+<region> sample=Vel to Osc1121274652-M731.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=112 hivel=127 offset=731 loop_mode=no_loop
+<region> sample=Vel to Osc1165359-JPOK.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=1 hivel=16 offset=277 loop_mode=no_loop
+<region> sample=Vel to Osc17325359-ETTX.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=17 hivel=32 offset=695 end=703115 loop_mode=no_loop
+<region> sample=Vel to Osc33485359-E8R4.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=33 hivel=48 offset=611 end=705408 loop_mode=no_loop
+<region> sample=Vel to Osc49645359-YR9N.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=49 hivel=64 offset=490 end=703655 loop_mode=no_loop
+<region> sample=Vel to Osc65795359-2OCX.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=65 hivel=79 offset=418 loop_mode=no_loop
+<region> sample=Vel to Osc80955359-03J5.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=80 hivel=95 offset=688 end=704427 loop_mode=no_loop
+<region> sample=Vel to Osc961115359-ZKJ0.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=96 hivel=111 offset=317 loop_mode=no_loop
+<region> sample=Vel to Osc1121275359-92RA.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=112 hivel=127 offset=834 loop_mode=no_loop
+<region> sample=Vel to Osc1166066-WH3B.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=1 hivel=16 offset=849 end=705935 loop_mode=no_loop
+<region> sample=Vel to Osc17326066-VX8W.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=17 hivel=32 offset=658 end=704357 loop_mode=no_loop
+<region> sample=Vel to Osc33486066-46I9.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=33 hivel=48 offset=605 loop_mode=no_loop
+<region> sample=Vel to Osc49646066-LKMF.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=49 hivel=64 offset=590 loop_mode=no_loop
+<region> sample=Vel to Osc65796066-B61M.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=65 hivel=79 offset=573 end=708611 loop_mode=no_loop
+<region> sample=Vel to Osc80956066-U1LF.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=80 hivel=95 offset=768 end=703621 loop_mode=no_loop
+<region> sample=Vel to Osc961116066-NPGM.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=96 hivel=111 offset=472 loop_mode=no_loop
+<region> sample=Vel to Osc1121276066-VW1H.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=112 hivel=127 offset=561 end=703918 loop_mode=no_loop
+<region> sample=Vel to Osc1166773-L6ZI.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=1 hivel=16 offset=657 end=704831 loop_mode=no_loop
+<region> sample=Vel to Osc17326773-K1U4.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=17 hivel=32 offset=856 end=704791 loop_mode=no_loop
+<region> sample=Vel to Osc33486773-W1E3.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=33 hivel=48 offset=480 end=708757 loop_mode=no_loop
+<region> sample=Vel to Osc49646773-53QU.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=49 hivel=64 offset=575 loop_mode=no_loop
+<region> sample=Vel to Osc65796773-8YNM.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=65 hivel=79 offset=648 end=705053 loop_mode=no_loop
+<region> sample=Vel to Osc80956773-GYC5.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=80 hivel=95 offset=448 loop_mode=no_loop
+<region> sample=Vel to Osc961116773-SO7Y.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=96 hivel=111 offset=791 end=704180 loop_mode=no_loop
+<region> sample=Vel to Osc1121276773-HRRH.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=112 hivel=127 offset=605 end=704403 loop_mode=no_loop
+<region> sample=Vel to Osc1167480-ERVT.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=1 hivel=16 offset=569 end=708929 loop_mode=no_loop
+<region> sample=Vel to Osc17327480-9LD8.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=17 hivel=32 offset=634 end=703652 loop_mode=no_loop
+<region> sample=Vel to Osc33487480-3BFQ.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=33 hivel=48 offset=383 loop_mode=no_loop
+<region> sample=Vel to Osc49647480-X1EP.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=49 hivel=64 offset=678 end=704546 loop_mode=no_loop
+<region> sample=Vel to Osc65797480-3O62.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=65 hivel=79 offset=608 end=704889 loop_mode=no_loop
+<region> sample=Vel to Osc80957480-M68E.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=80 hivel=95 offset=645 loop_mode=no_loop
+<region> sample=Vel to Osc961117480-ZGEN.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=96 hivel=111 offset=559 loop_mode=no_loop
+<region> sample=Vel to Osc1121277480-OJUT.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=112 hivel=127 offset=520 loop_mode=no_loop
+<region> sample=Vel to Osc1168187-R66X.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=1 hivel=16 offset=389 end=704746 loop_mode=no_loop
+<region> sample=Vel to Osc17328187-NV5E.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=17 hivel=32 offset=685 end=704812 loop_mode=no_loop
+<region> sample=Vel to Osc33488187-LSMM.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=33 hivel=48 offset=820 end=704354 loop_mode=no_loop
+<region> sample=Vel to Osc49648187-I2FY.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=49 hivel=64 offset=819 loop_mode=no_loop
+<region> sample=Vel to Osc65798187-8CWK.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=65 hivel=79 offset=639 end=708426 loop_mode=no_loop
+<region> sample=Vel to Osc80958187-4WIT.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=80 hivel=95 offset=700 loop_mode=no_loop
+<region> sample=Vel to Osc961118187-8JME.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=96 hivel=111 offset=327 loop_mode=no_loop
+<region> sample=Vel to Osc1121278187-6AO2.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=112 hivel=127 offset=643 end=704578 loop_mode=no_loop
+<region> sample=Vel to Osc1168894-UGPR.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=1 hivel=16 offset=423 loop_mode=no_loop
+<region> sample=Vel to Osc17328894-G0AK.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=17 hivel=32 offset=680 end=704609 loop_mode=no_loop
+<region> sample=Vel to Osc33488894-KHVG.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=33 hivel=48 offset=707 end=708636 loop_mode=no_loop
+<region> sample=Vel to Osc49648894-LB6K.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=49 hivel=64 offset=485 loop_mode=no_loop
+<region> sample=Vel to Osc65798894-JRV2.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=65 hivel=79 offset=790 end=705467 loop_mode=no_loop
+<region> sample=Vel to Osc80958894-8TAC.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=80 hivel=95 offset=382 loop_mode=no_loop
+<region> sample=Vel to Osc961118894-IJ80.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=96 hivel=111 offset=631 loop_mode=no_loop
+<region> sample=Vel to Osc1121278894-QD1Z.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=112 hivel=127 offset=699 loop_mode=no_loop
+<region> sample=Vel to Osc11695127-MBHL.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=1 hivel=16 offset=488 loop_mode=no_loop
+<region> sample=Vel to Osc173295127-UZPN.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=17 hivel=32 offset=637 end=703645 loop_mode=no_loop
+<region> sample=Vel to Osc334895127-FSES.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=33 hivel=48 offset=438 end=705160 loop_mode=no_loop
+<region> sample=Vel to Osc496495127-COMS.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=49 hivel=64 offset=475 end=704038 loop_mode=no_loop
+<region> sample=Vel to Osc657995127-0VQL.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=65 hivel=79 offset=778 end=705081 loop_mode=no_loop
+<region> sample=Vel to Osc809595127-TFY9.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=80 hivel=95 offset=793 end=704514 loop_mode=no_loop
+<region> sample=Vel to Osc9611195127-N0AF.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=96 hivel=111 offset=833 end=708942 loop_mode=no_loop
+<region> sample=Vel to Osc11212795127-EG4B.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=112 hivel=127 offset=773 end=703345 loop_mode=no_loop

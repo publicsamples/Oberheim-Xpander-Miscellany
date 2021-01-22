@@ -1,0 +1,57 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Big Boy Chord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Big Boy Chord/
+
+<group>        // Big Boy Chord
+<region> sample=reg-48-44-XJYS.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=1 hivel=44 offset=701 loop_mode=no_loop
+<region> sample=reg-48-127-18IK.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=45 hivel=127 offset=752 loop_mode=no_loop
+<region> sample=reg-49-44-4KGK.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=44 offset=562 loop_mode=no_loop
+<region> sample=reg-49-127-MLZ6.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=45 hivel=127 offset=557 end=701392 loop_mode=no_loop
+<region> sample=reg-50-44-YFOR.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=44 offset=589 end=701472 loop_mode=no_loop
+<region> sample=reg-50-127-57LT.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=45 hivel=127 offset=569 end=700702 loop_mode=no_loop
+<region> sample=reg-51-44-7A6L.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=44 offset=569 end=700502 loop_mode=no_loop
+<region> sample=reg-51-127-BW9I.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=45 hivel=127 offset=483 end=701833 loop_mode=no_loop
+<region> sample=reg-52-44-POBX.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=44 offset=599 end=700676 loop_mode=no_loop
+<region> sample=reg-52-127-D5DN.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=45 hivel=127 offset=658 end=700950 loop_mode=no_loop
+<region> sample=reg-53-44-BCVC.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=44 offset=592 loop_mode=no_loop
+<region> sample=reg-53-127-U9ZV.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=45 hivel=127 offset=467 end=701026 loop_mode=no_loop
+<region> sample=reg-54-44-8NOO.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=44 offset=609 end=699933 loop_mode=no_loop
+<region> sample=reg-54-127-FTJF.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=45 hivel=127 offset=680 end=700996 loop_mode=no_loop
+<region> sample=reg-55-44-OVD1.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=44 offset=443 end=700203 loop_mode=no_loop
+<region> sample=reg-55-127-YF1V.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=45 hivel=127 offset=521 end=700078 loop_mode=no_loop
+<region> sample=reg-56-44-KGBA.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=44 offset=595 loop_mode=no_loop
+<region> sample=reg-56-127-S455.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=45 hivel=127 offset=686 loop_mode=no_loop
+<region> sample=reg-57-44-GQQ7.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=44 offset=646 end=701328 loop_mode=no_loop
+<region> sample=reg-57-127-296H.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=45 hivel=127 offset=619 end=700887 loop_mode=no_loop
+<region> sample=reg-58-44-XM1N.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=44 offset=477 loop_mode=no_loop
+<region> sample=reg-58-127-3A3D.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=45 hivel=127 offset=580 end=701195 loop_mode=no_loop
+<region> sample=reg-59-44-IMXT.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=44 offset=522 end=701117 loop_mode=no_loop
+<region> sample=reg-59-127-O09W.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=45 hivel=127 offset=616 loop_mode=no_loop
+<region> sample=reg-60-44-F4HU.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=44 offset=652 loop_mode=no_loop
+<region> sample=reg-60-127-3EUI.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=45 hivel=127 offset=659 loop_mode=no_loop
+<region> sample=reg-61-44-SG4R.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=44 offset=486 end=700674 loop_mode=no_loop
+<region> sample=reg-61-127-CRU5.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=45 hivel=127 offset=567 end=700458 loop_mode=no_loop
+<region> sample=reg-62-44-48M0.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=44 offset=535 end=700721 loop_mode=no_loop
+<region> sample=reg-62-127-P6O9.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=45 hivel=127 offset=496 end=701344 loop_mode=no_loop
+<region> sample=reg-63-44-5CIQ.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=44 offset=472 end=700800 loop_mode=no_loop
+<region> sample=reg-63-127-BCX4.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=45 hivel=127 offset=642 end=701379 loop_mode=no_loop
+<region> sample=reg-64-44-5EH5.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=44 offset=552 end=701380 loop_mode=no_loop
+<region> sample=reg-64-127-55U9.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=45 hivel=127 offset=502 end=701731 loop_mode=no_loop
+<region> sample=reg-65-44-DM4R.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=44 offset=542 end=701454 loop_mode=no_loop
+<region> sample=reg-65-127-DRWU.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=45 hivel=127 offset=524 end=700846 loop_mode=no_loop
+<region> sample=reg-66-44-UJKT.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=44 offset=606 end=701186 loop_mode=no_loop
+<region> sample=reg-66-127-23L0.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=45 hivel=127 offset=495 loop_mode=no_loop
+<region> sample=reg-67-44-ZGMX.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=44 offset=714 end=700879 loop_mode=no_loop
+<region> sample=reg-67-127-ZPJH.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=45 hivel=127 offset=695 end=701584 loop_mode=no_loop
+<region> sample=reg-68-44-1VPH.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=44 offset=695 end=701442 loop_mode=no_loop
+<region> sample=reg-68-127-FCRL.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=45 hivel=127 offset=594 loop_mode=no_loop
+<region> sample=reg-69-44-NAXY.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=44 offset=482 end=700546 loop_mode=no_loop
+<region> sample=reg-69-127-3C4U.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=45 hivel=127 offset=630 end=702372 loop_mode=no_loop
+<region> sample=reg-70-44-JGQ8.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=44 offset=485 loop_mode=no_loop
+<region> sample=reg-70-127-W40X.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=45 hivel=127 offset=440 end=700592 loop_mode=no_loop
+<region> sample=reg-71-44-U3MI.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=44 offset=522 end=701708 loop_mode=no_loop
+<region> sample=reg-71-127-QH1N.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=45 hivel=127 offset=592 end=700942 loop_mode=no_loop
+<region> sample=reg-127-44-EJAU.wav key=72 lokey=72 hikey=127  amp_veltrack=30 lovel=1 hivel=44 offset=592 end=700677 loop_mode=no_loop
+<region> sample=reg-127-127-47YQ.wav key=72 lokey=72 hikey=127  amp_veltrack=30 lovel=45 hivel=127 offset=517 loop_mode=no_loop

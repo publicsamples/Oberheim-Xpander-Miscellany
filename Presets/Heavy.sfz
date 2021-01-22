@@ -1,0 +1,155 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Heavy.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Heavy Hearts/
+
+<group>        // Heavy Hearts
+<region> sample=Heavy Hearts-48-32-J4AI.wav key=48 lokey=2 hikey=48  amp_veltrack=30 lovel=1 hivel=32 offset=648 end=543873 loop_mode=no_loop
+<region> sample=Heavy Hearts-48-64-P3HB.wav key=48 lokey=2 hikey=48  amp_veltrack=30 lovel=33 hivel=64 offset=533 end=543157 loop_mode=no_loop
+<region> sample=Heavy Hearts-48-95-C7E3.wav key=48 lokey=2 hikey=48  amp_veltrack=30 lovel=65 hivel=95 offset=677 end=541139 loop_mode=no_loop
+<region> sample=Heavy Hearts-48-127-5CVX.wav key=48 lokey=2 hikey=48  amp_veltrack=30 lovel=96 hivel=127 offset=687 end=540586 loop_mode=no_loop
+<region> sample=Heavy Hearts-49-32-ZHD4.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=32 offset=674 end=548891 loop_mode=no_loop
+<region> sample=Heavy Hearts-49-64-CEO7.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=64 offset=625 end=539024 loop_mode=no_loop
+<region> sample=Heavy Hearts-49-95-I8DW.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=95 offset=552 end=544023 loop_mode=no_loop
+<region> sample=Heavy Hearts-49-127-BO3S.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=96 hivel=127 offset=681 end=541813 loop_mode=no_loop
+<region> sample=Heavy Hearts-50-32-XBPW.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=32 offset=815 end=541171 loop_mode=no_loop
+<region> sample=Heavy Hearts-50-64-Y1Y4.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=64 offset=761 end=540998 loop_mode=no_loop
+<region> sample=Heavy Hearts-50-95-5XEN.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=95 offset=776 end=549845 loop_mode=no_loop
+<region> sample=Heavy Hearts-50-127-P4H4.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=96 hivel=127 offset=572 end=540160 loop_mode=no_loop
+<region> sample=Heavy Hearts-51-32-7Q75.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=32 offset=665 end=543720 loop_mode=no_loop
+<region> sample=Heavy Hearts-51-64-MNN9.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=64 offset=480 end=543654 loop_mode=no_loop
+<region> sample=Heavy Hearts-51-95-ZY23.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=95 offset=780 end=541151 loop_mode=no_loop
+<region> sample=Heavy Hearts-51-127-NQC1.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=96 hivel=127 offset=775 end=541440 loop_mode=no_loop
+<region> sample=Heavy Hearts-52-32-8IML.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=32 offset=660 end=549294 loop_mode=no_loop
+<region> sample=Heavy Hearts-52-64-DTAD.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=64 offset=719 end=539594 loop_mode=no_loop
+<region> sample=Heavy Hearts-52-95-65NF.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=95 offset=642 end=544535 loop_mode=no_loop
+<region> sample=Heavy Hearts-52-127-OT4D.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=96 hivel=127 offset=594 end=542825 loop_mode=no_loop
+<region> sample=Heavy Hearts-53-32-SX41.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=32 offset=525 end=541292 loop_mode=no_loop
+<region> sample=Heavy Hearts-53-64-J0FR.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=64 offset=753 end=541564 loop_mode=no_loop
+<region> sample=Heavy Hearts-53-95-15NA.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=95 offset=793 end=549065 loop_mode=no_loop
+<region> sample=Heavy Hearts-53-127-H11H.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=96 hivel=127 offset=567 end=538432 loop_mode=no_loop
+<region> sample=Heavy Hearts-54-32-5Z97.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=32 offset=643 end=543279 loop_mode=no_loop
+<region> sample=Heavy Hearts-54-64-AEFE.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=64 offset=662 end=543396 loop_mode=no_loop
+<region> sample=Heavy Hearts-54-95-6OTJ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=95 offset=679 end=541124 loop_mode=no_loop
+<region> sample=Heavy Hearts-54-127-X6S9.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=96 hivel=127 offset=755 end=541778 loop_mode=no_loop
+<region> sample=Heavy Hearts-55-32-MLXZ.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=32 offset=651 end=550345 loop_mode=no_loop
+<region> sample=Heavy Hearts-55-64-HMO5.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=64 offset=674 loop_mode=no_loop
+<region> sample=Heavy Hearts-55-95-GKSD.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=95 offset=660 end=544248 loop_mode=no_loop
+<region> sample=Heavy Hearts-55-127-3GA5.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=96 hivel=127 offset=690 end=542592 loop_mode=no_loop
+<region> sample=Heavy Hearts-56-32-KP3P.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=32 offset=665 end=541697 loop_mode=no_loop
+<region> sample=Heavy Hearts-56-64-4H1H.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=64 offset=722 end=540053 loop_mode=no_loop
+<region> sample=Heavy Hearts-56-95-V0T6.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=95 offset=677 end=549976 loop_mode=no_loop
+<region> sample=Heavy Hearts-56-127-5J7I.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=96 hivel=127 offset=682 end=539193 loop_mode=no_loop
+<region> sample=Heavy Hearts-57-32-A8LG.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=32 offset=763 end=543904 loop_mode=no_loop
+<region> sample=Heavy Hearts-57-64-SQG2.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=64 offset=684 end=544297 loop_mode=no_loop
+<region> sample=Heavy Hearts-57-95-3E99.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=95 offset=684 loop_mode=no_loop
+<region> sample=Heavy Hearts-57-127-S4LS.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=96 hivel=127 offset=695 end=540416 loop_mode=no_loop
+<region> sample=Heavy Hearts-58-32-04NW.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=32 offset=748 end=550144 loop_mode=no_loop
+<region> sample=Heavy Hearts-58-64-WOJ2.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=64 offset=589 end=539392 loop_mode=no_loop
+<region> sample=Heavy Hearts-58-95-34O2.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=95 offset=500 end=542848 loop_mode=no_loop
+<region> sample=Heavy Hearts-58-127-TQEH.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=96 hivel=127 offset=772 end=542081 loop_mode=no_loop
+<region> sample=Heavy Hearts-59-32-RUCS.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=32 offset=748 end=542995 loop_mode=no_loop
+<region> sample=Heavy Hearts-59-64-WBU5.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=64 offset=695 end=541317 loop_mode=no_loop
+<region> sample=Heavy Hearts-59-95-94QE.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=95 offset=680 loop_mode=no_loop
+<region> sample=Heavy Hearts-59-127-YCS6.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=96 hivel=127 offset=656 end=537680 loop_mode=no_loop
+<region> sample=Heavy Hearts-60-32-PRIN.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=32 offset=946 end=542465 loop_mode=no_loop
+<region> sample=Heavy Hearts-60-64-AQU5.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=33 hivel=64 offset=750 end=543542 loop_mode=no_loop
+<region> sample=Heavy Hearts-60-95-XBG1.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=95 offset=509 end=543195 loop_mode=no_loop
+<region> sample=Heavy Hearts-60-127-N348.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=96 hivel=127 offset=636 end=541312 loop_mode=no_loop
+<region> sample=Heavy Hearts-61-32-TWE9.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=32 offset=713 end=550324 loop_mode=no_loop
+<region> sample=Heavy Hearts-61-64-KEEG.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=64 offset=762 end=538811 loop_mode=no_loop
+<region> sample=Heavy Hearts-61-95-SBT9.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=95 offset=611 end=543408 loop_mode=no_loop
+<region> sample=Heavy Hearts-61-127-Z2WB.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=96 hivel=127 offset=659 end=543560 loop_mode=no_loop
+<region> sample=Heavy Hearts-62-32-HC9B.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=32 offset=722 end=542587 loop_mode=no_loop
+<region> sample=Heavy Hearts-62-64-IJGB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=64 offset=499 end=541451 loop_mode=no_loop
+<region> sample=Heavy Hearts-62-95-XMB3.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=95 offset=765 loop_mode=no_loop
+<region> sample=Heavy Hearts-62-127-YIDP.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=96 hivel=127 offset=520 end=540328 loop_mode=no_loop
+<region> sample=Heavy Hearts-63-32-38CU.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=32 offset=654 end=543154 loop_mode=no_loop
+<region> sample=Heavy Hearts-63-64-E7W9.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=64 offset=629 loop_mode=no_loop
+<region> sample=Heavy Hearts-63-95-5U8L.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=95 offset=592 loop_mode=no_loop
+<region> sample=Heavy Hearts-63-127-ZQQ2.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=96 hivel=127 offset=690 loop_mode=no_loop
+<region> sample=Heavy Hearts-64-32-QT79.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=32 offset=645 end=549651 loop_mode=no_loop
+<region> sample=Heavy Hearts-64-64-F2O0.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=64 offset=531 end=539011 loop_mode=no_loop
+<region> sample=Heavy Hearts-64-95-8HTM.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=95 offset=553 loop_mode=no_loop
+<region> sample=Heavy Hearts-64-127-0VP6.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=96 hivel=127 offset=924 end=543617 loop_mode=no_loop
+<region> sample=Heavy Hearts-65-32-G20N.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=32 offset=711 end=542169 loop_mode=no_loop
+<region> sample=Heavy Hearts-65-64-IV62.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=64 offset=648 loop_mode=no_loop
+<region> sample=Heavy Hearts-65-95-TEBM.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=95 offset=578 loop_mode=no_loop
+<region> sample=Heavy Hearts-65-127-H01E.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=96 hivel=127 offset=726 end=538752 loop_mode=no_loop
+<region> sample=Heavy Hearts-66-32-8LTE.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=32 offset=788 end=543747 loop_mode=no_loop
+<region> sample=Heavy Hearts-66-64-DBOK.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=64 offset=714 end=543232 loop_mode=no_loop
+<region> sample=Heavy Hearts-66-95-ZBU2.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=95 offset=812 loop_mode=no_loop
+<region> sample=Heavy Hearts-66-127-S159.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=96 hivel=127 offset=668 end=542496 loop_mode=no_loop
+<region> sample=Heavy Hearts-67-32-AACL.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=32 offset=696 end=549581 loop_mode=no_loop
+<region> sample=Heavy Hearts-67-64-OESN.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=64 offset=622 end=539141 loop_mode=no_loop
+<region> sample=Heavy Hearts-67-95-NZSJ.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=95 offset=735 loop_mode=no_loop
+<region> sample=Heavy Hearts-67-127-EY27.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=96 hivel=127 offset=693 end=542184 loop_mode=no_loop
+<region> sample=Heavy Hearts-68-32-7EKG.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=32 offset=777 end=541854 loop_mode=no_loop
+<region> sample=Heavy Hearts-68-64-7AQ4.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=64 offset=810 end=541312 loop_mode=no_loop
+<region> sample=Heavy Hearts-68-95-C28M.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=95 offset=508 end=549556 loop_mode=no_loop
+<region> sample=Heavy Hearts-68-127-BPLU.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=96 hivel=127 offset=544 end=540417 loop_mode=no_loop
+<region> sample=Heavy Hearts-69-32-VTVL.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=32 offset=759 end=543616 loop_mode=no_loop
+<region> sample=Heavy Hearts-69-64-3U19.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=64 offset=717 end=543115 loop_mode=no_loop
+<region> sample=Heavy Hearts-69-95-VXYG.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=95 offset=725 end=541660 loop_mode=no_loop
+<region> sample=Heavy Hearts-69-127-S7GD.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=96 hivel=127 offset=592 end=540558 loop_mode=no_loop
+<region> sample=Heavy Hearts-70-32-ROOW.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=32 offset=701 end=550209 loop_mode=no_loop
+<region> sample=Heavy Hearts-70-64-DNME.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=64 offset=523 end=539167 loop_mode=no_loop
+<region> sample=Heavy Hearts-70-95-K7LM.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=95 offset=657 end=542724 loop_mode=no_loop
+<region> sample=Heavy Hearts-70-127-DNH7.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=96 hivel=127 offset=687 end=541953 loop_mode=no_loop
+<region> sample=Heavy Hearts-71-32-7NC5.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=32 offset=620 end=542099 loop_mode=no_loop
+<region> sample=Heavy Hearts-71-64-8293.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=64 offset=667 end=541440 loop_mode=no_loop
+<region> sample=Heavy Hearts-71-95-4R4J.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=95 offset=829 end=549287 loop_mode=no_loop
+<region> sample=Heavy Hearts-71-127-9E4G.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=96 hivel=127 offset=580 end=539776 loop_mode=no_loop
+<region> sample=Heavy Hearts-72-32-PXR6.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=32 offset=591 end=543875 loop_mode=no_loop
+<region> sample=Heavy Hearts-72-64-M19A.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=64 offset=685 end=542480 loop_mode=no_loop
+<region> sample=Heavy Hearts-72-95-NCT1.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=95 offset=809 loop_mode=no_loop
+<region> sample=Heavy Hearts-72-127-XBIU.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=96 hivel=127 offset=643 end=540544 loop_mode=no_loop
+<region> sample=Heavy Hearts-73-32-PO5J.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=32 offset=713 loop_mode=no_loop
+<region> sample=Heavy Hearts-73-64-2OTC.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=64 offset=662 end=538881 loop_mode=no_loop
+<region> sample=Heavy Hearts-73-95-HAWV.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=95 offset=791 end=543677 loop_mode=no_loop
+<region> sample=Heavy Hearts-73-127-LYCJ.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=96 hivel=127 offset=756 end=542030 loop_mode=no_loop
+<region> sample=Heavy Hearts-74-32-CCMO.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=32 offset=692 end=542208 loop_mode=no_loop
+<region> sample=Heavy Hearts-74-64-XO38.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=64 offset=690 loop_mode=no_loop
+<region> sample=Heavy Hearts-74-95-HWF5.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=95 offset=698 end=550313 loop_mode=no_loop
+<region> sample=Heavy Hearts-74-127-5O8U.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=96 hivel=127 offset=661 end=539656 loop_mode=no_loop
+<region> sample=Heavy Hearts-75-32-8M9Z.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=32 offset=742 end=543831 loop_mode=no_loop
+<region> sample=Heavy Hearts-75-64-M85G.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=64 offset=642 end=543873 loop_mode=no_loop
+<region> sample=Heavy Hearts-75-95-QLXN.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=95 offset=550 end=541824 loop_mode=no_loop
+<region> sample=Heavy Hearts-75-127-1H2A.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=96 hivel=127 offset=738 end=540963 loop_mode=no_loop
+<region> sample=Heavy Hearts-76-32-USEU.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=32 offset=745 end=549260 loop_mode=no_loop
+<region> sample=Heavy Hearts-76-64-1XA8.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=64 offset=659 end=538784 loop_mode=no_loop
+<region> sample=Heavy Hearts-76-95-TUEW.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=95 offset=850 end=544135 loop_mode=no_loop
+<region> sample=Heavy Hearts-76-127-H772.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=96 hivel=127 offset=694 end=541887 loop_mode=no_loop
+<region> sample=Heavy Hearts-77-32-2KT7.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=32 offset=732 end=541956 loop_mode=no_loop
+<region> sample=Heavy Hearts-77-64-6DI6.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=64 offset=577 end=540744 loop_mode=no_loop
+<region> sample=Heavy Hearts-77-95-3IDQ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=95 offset=647 end=548736 loop_mode=no_loop
+<region> sample=Heavy Hearts-77-127-VCWU.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=96 hivel=127 offset=743 end=539650 loop_mode=no_loop
+<region> sample=Heavy Hearts-78-32-M80V.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=32 offset=1101 end=543509 loop_mode=no_loop
+<region> sample=Heavy Hearts-78-64-CN6J.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=64 offset=563 end=541822 loop_mode=no_loop
+<region> sample=Heavy Hearts-78-95-V4K3.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=95 offset=585 loop_mode=no_loop
+<region> sample=Heavy Hearts-78-127-71IH.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=96 hivel=127 offset=751 end=540809 loop_mode=no_loop
+<region> sample=Heavy Hearts-79-32-1XPW.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=32 offset=640 end=549376 loop_mode=no_loop
+<region> sample=Heavy Hearts-79-64-WBZ2.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=64 offset=692 end=540837 loop_mode=no_loop
+<region> sample=Heavy Hearts-79-95-QSCC.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=95 offset=772 end=544267 loop_mode=no_loop
+<region> sample=Heavy Hearts-79-127-CXSF.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=96 hivel=127 offset=679 end=543653 loop_mode=no_loop
+<region> sample=Heavy Hearts-80-32-SZ1C.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=32 offset=690 loop_mode=no_loop
+<region> sample=Heavy Hearts-80-64-SL17.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=64 offset=705 end=540930 loop_mode=no_loop
+<region> sample=Heavy Hearts-80-95-HOK7.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=95 offset=720 end=548358 loop_mode=no_loop
+<region> sample=Heavy Hearts-80-127-7JIS.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=96 hivel=127 offset=760 end=540088 loop_mode=no_loop
+<region> sample=Heavy Hearts-81-32-6440.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=32 offset=655 end=543629 loop_mode=no_loop
+<region> sample=Heavy Hearts-81-64-AOV9.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=64 offset=549 loop_mode=no_loop
+<region> sample=Heavy Hearts-81-95-4FKD.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=95 offset=821 end=543360 loop_mode=no_loop
+<region> sample=Heavy Hearts-81-127-CSPP.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=96 hivel=127 offset=819 loop_mode=no_loop
+<region> sample=Heavy Hearts-82-32-V71I.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=32 offset=640 loop_mode=no_loop
+<region> sample=Heavy Hearts-82-64-9A5X.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=64 offset=624 end=540054 loop_mode=no_loop
+<region> sample=Heavy Hearts-82-95-8BI0.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=95 offset=651 end=542848 loop_mode=no_loop
+<region> sample=Heavy Hearts-82-127-AZJH.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=96 hivel=127 offset=511 end=542484 loop_mode=no_loop
+<region> sample=Heavy Hearts-83-32-7BS5.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=32 offset=799 loop_mode=no_loop
+<region> sample=Heavy Hearts-83-64-RU17.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=64 offset=735 end=541188 loop_mode=no_loop
+<region> sample=Heavy Hearts-83-95-HKUH.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=95 offset=710 end=549388 loop_mode=no_loop
+<region> sample=Heavy Hearts-83-127-4M0W.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=96 hivel=127 offset=503 end=538242 loop_mode=no_loop
+<region> sample=Heavy Hearts-84-32-HCBR.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=1 hivel=32 offset=484 end=543236 loop_mode=no_loop
+<region> sample=Heavy Hearts-84-64-M3NI.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=33 hivel=64 offset=773 end=543107 loop_mode=no_loop
+<region> sample=Heavy Hearts-84-95-0JA1.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=65 hivel=95 offset=627 loop_mode=no_loop
+<region> sample=Heavy Hearts-84-127-TQES.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=96 hivel=127 offset=798 end=541441 loop_mode=no_loop

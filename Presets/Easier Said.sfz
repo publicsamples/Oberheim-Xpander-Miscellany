@@ -1,0 +1,190 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Easier Said.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Easier Said/
+
+<group>        // Easier Said
+<region> sample=Easier Said-48-53-JVQT.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=0 hivel=53 offset=743 end=214281 loop_mode=no_loop
+<region> sample=Easier Said-48-92-HW85.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=54 hivel=92 offset=690 end=242019 loop_mode=no_loop
+<region> sample=Easier Said-48-127-G3F5.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=93 hivel=127 offset=529 loop_mode=no_loop
+<region> sample=Easier Said-49-53-2IE1.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=53 offset=701 end=218382 loop_mode=no_loop
+<region> sample=Easier Said-49-92-D335.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=54 hivel=92 offset=531 end=230700 loop_mode=no_loop
+<region> sample=Easier Said-49-127-A8LH.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=93 hivel=127 offset=933 end=231486 loop_mode=no_loop
+<region> sample=Easier Said-50-53-8SQC.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=53 offset=687 end=214056 loop_mode=no_loop
+<region> sample=Easier Said-50-92-BHWR.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=54 hivel=92 offset=660 end=237742 loop_mode=no_loop
+<region> sample=Easier Said-50-127-2PNF.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=93 hivel=127 offset=705 end=230440 loop_mode=no_loop
+<region> sample=Easier Said-51-53-9LVN.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=53 offset=651 end=218280 loop_mode=no_loop
+<region> sample=Easier Said-51-92-L3DQ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=54 hivel=92 offset=647 end=232587 loop_mode=no_loop
+<region> sample=Easier Said-51-127-DNVC.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=93 hivel=127 offset=637 end=229651 loop_mode=no_loop
+<region> sample=Easier Said-52-53-2PO8.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=53 offset=589 end=213836 loop_mode=no_loop
+<region> sample=Easier Said-52-92-ZEMN.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=54 hivel=92 offset=795 end=238066 loop_mode=no_loop
+<region> sample=Easier Said-52-127-DFPN.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=93 hivel=127 offset=757 end=229281 loop_mode=no_loop
+<region> sample=Easier Said-53-53-H9KV.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=53 offset=643 end=215259 loop_mode=no_loop
+<region> sample=Easier Said-53-92-B2XR.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=54 hivel=92 offset=629 loop_mode=no_loop
+<region> sample=Easier Said-53-127-6T8L.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=93 hivel=127 offset=639 loop_mode=no_loop
+<region> sample=Easier Said-54-53-OAOT.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=53 offset=563 end=213515 loop_mode=no_loop
+<region> sample=Easier Said-54-92-2CXQ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=54 hivel=92 offset=493 end=237870 loop_mode=no_loop
+<region> sample=Easier Said-54-127-XOCJ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=93 hivel=127 offset=529 end=228732 loop_mode=no_loop
+<region> sample=Easier Said-55-53-BF90.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=53 offset=568 end=217985 loop_mode=no_loop
+<region> sample=Easier Said-55-92-3DFA.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=54 hivel=92 offset=684 end=231941 loop_mode=no_loop
+<region> sample=Easier Said-55-127-U6WY.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=93 hivel=127 offset=525 end=231169 loop_mode=no_loop
+<region> sample=Easier Said-56-53-HKO7.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=53 offset=758 end=217222 loop_mode=no_loop
+<region> sample=Easier Said-56-92-5CYV.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=54 hivel=92 offset=581 end=236288 loop_mode=no_loop
+<region> sample=Easier Said-56-127-8S57.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=93 hivel=127 offset=767 end=227842 loop_mode=no_loop
+<region> sample=Easier Said-57-53-3V0W.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=53 offset=627 end=219492 loop_mode=no_loop
+<region> sample=Easier Said-57-92-LHKV.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=54 hivel=92 offset=505 end=231952 loop_mode=no_loop
+<region> sample=Easier Said-57-127-3Y9D.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=93 hivel=127 offset=737 end=232532 loop_mode=no_loop
+<region> sample=Easier Said-58-53-KDYK.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=53 offset=823 end=217898 loop_mode=no_loop
+<region> sample=Easier Said-58-92-FPBS.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=54 hivel=92 offset=645 end=237204 loop_mode=no_loop
+<region> sample=Easier Said-58-127-85IX.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=93 hivel=127 offset=649 end=229628 loop_mode=no_loop
+<region> sample=Easier Said-59-53-8LXW.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=53 offset=661 end=212823 loop_mode=no_loop
+<region> sample=Easier Said-59-92-BL76.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=54 hivel=92 offset=729 end=229122 loop_mode=no_loop
+<region> sample=Easier Said-59-127-R599.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=93 hivel=127 offset=784 end=231734 loop_mode=no_loop
+<region> sample=Easier Said-60-53-MB3R.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=53 offset=753 end=218363 loop_mode=no_loop
+<region> sample=Easier Said-60-92-JVAI.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=54 hivel=92 offset=605 end=238848 loop_mode=no_loop
+<region> sample=Easier Said-60-127-UUFF.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=93 hivel=127 offset=630 end=225993 loop_mode=no_loop
+<region> sample=Easier Said-61-53-1UEI.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=53 offset=783 end=221429 loop_mode=no_loop
+<region> sample=Easier Said-61-92-Z60O.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=54 hivel=92 offset=691 end=234750 loop_mode=no_loop
+<region> sample=Easier Said-61-127-2BPB.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=93 hivel=127 offset=529 end=231441 loop_mode=no_loop
+<region> sample=Easier Said-62-53-HK1Q.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=53 offset=667 end=216225 loop_mode=no_loop
+<region> sample=Easier Said-62-92-TKYV.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=54 hivel=92 offset=730 end=238613 loop_mode=no_loop
+<region> sample=Easier Said-62-127-GNKL.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=93 hivel=127 offset=609 end=232269 loop_mode=no_loop
+<region> sample=Easier Said-63-53-MW9M.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=53 offset=651 end=224043 loop_mode=no_loop
+<region> sample=Easier Said-63-92-GV2M.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=54 hivel=92 offset=521 end=232320 loop_mode=no_loop
+<region> sample=Easier Said-63-127-DJFM.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=93 hivel=127 offset=755 loop_mode=no_loop
+<region> sample=Easier Said-64-53-AGFB.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=53 offset=615 loop_mode=no_loop
+<region> sample=Easier Said-64-92-Y5W3.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=54 hivel=92 offset=672 end=237704 loop_mode=no_loop
+<region> sample=Easier Said-64-127-ZVIY.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=93 hivel=127 offset=595 end=231343 loop_mode=no_loop
+<region> sample=Easier Said-65-53-0Y11.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=53 offset=695 end=222720 loop_mode=no_loop
+<region> sample=Easier Said-65-92-1EFF.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=54 hivel=92 offset=596 end=232576 loop_mode=no_loop
+<region> sample=Easier Said-65-127-DGBU.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=93 hivel=127 offset=662 end=231396 loop_mode=no_loop
+<region> sample=Easier Said-66-53-HU4H.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=53 offset=665 end=218403 loop_mode=no_loop
+<region> sample=Easier Said-66-92-D5I3.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=54 hivel=92 offset=734 end=239616 loop_mode=no_loop
+<region> sample=Easier Said-66-127-3W1Z.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=93 hivel=127 offset=575 loop_mode=no_loop
+<region> sample=Easier Said-67-53-OLCI.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=53 offset=761 end=226795 loop_mode=no_loop
+<region> sample=Easier Said-67-92-6D2H.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=54 hivel=92 offset=603 end=231649 loop_mode=no_loop
+<region> sample=Easier Said-67-127-G2T3.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=93 hivel=127 offset=646 end=230912 loop_mode=no_loop
+<region> sample=Easier Said-68-53-W5QF.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=53 offset=583 end=221066 loop_mode=no_loop
+<region> sample=Easier Said-68-92-PTB9.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=54 hivel=92 offset=640 end=237673 loop_mode=no_loop
+<region> sample=Easier Said-68-127-JLM0.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=93 hivel=127 offset=605 end=229104 loop_mode=no_loop
+<region> sample=Easier Said-69-53-X78C.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=53 offset=649 end=220673 loop_mode=no_loop
+<region> sample=Easier Said-69-92-7PDS.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=54 hivel=92 offset=607 end=231368 loop_mode=no_loop
+<region> sample=Easier Said-69-127-BQ38.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=93 hivel=127 offset=567 end=231246 loop_mode=no_loop
+<region> sample=Easier Said-70-53-YL24.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=53 offset=567 end=219887 loop_mode=no_loop
+<region> sample=Easier Said-70-92-8S1U.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=54 hivel=92 offset=577 end=240496 loop_mode=no_loop
+<region> sample=Easier Said-70-127-R4WG.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=93 hivel=127 offset=643 end=230289 loop_mode=no_loop
+<region> sample=Easier Said-71-53-3UXK.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=53 offset=659 end=218095 loop_mode=no_loop
+<region> sample=Easier Said-71-92-2BFZ.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=54 hivel=92 offset=639 loop_mode=no_loop
+<region> sample=Easier Said-71-127-NTWB.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=93 hivel=127 offset=579 end=231611 loop_mode=no_loop
+<region> sample=Easier Said-72-53-GLE3.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=53 offset=602 end=217986 loop_mode=no_loop
+<region> sample=Easier Said-72-92-3V3O.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=54 hivel=92 offset=647 loop_mode=no_loop
+<region> sample=Easier Said-72-127-7PT2.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=93 hivel=127 offset=797 end=229174 loop_mode=no_loop
+<region> sample=Easier Said-73-53-ZYD6.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=53 offset=622 end=220116 loop_mode=no_loop
+<region> sample=Easier Said-73-92-P2YB.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=54 hivel=92 offset=635 end=232448 loop_mode=no_loop
+<region> sample=Easier Said-73-127-PDAC.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=93 hivel=127 offset=677 end=231848 loop_mode=no_loop
+<region> sample=Easier Said-74-53-VUW1.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=53 offset=733 end=218368 loop_mode=no_loop
+<region> sample=Easier Said-74-92-DQQ4.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=54 hivel=92 offset=645 end=236759 loop_mode=no_loop
+<region> sample=Easier Said-74-127-0EFY.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=93 hivel=127 offset=489 end=230423 loop_mode=no_loop
+<region> sample=Easier Said-75-53-D8QU.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=53 offset=640 loop_mode=no_loop
+<region> sample=Easier Said-75-92-JE7L.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=54 hivel=92 offset=752 end=232287 loop_mode=no_loop
+<region> sample=Easier Said-75-127-L0BT.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=93 hivel=127 offset=675 loop_mode=no_loop
+<region> sample=Easier Said-76-53-GBZO.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=53 offset=823 end=218550 loop_mode=no_loop
+<region> sample=Easier Said-76-92-X7PU.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=54 hivel=92 offset=586 end=237623 loop_mode=no_loop
+<region> sample=Easier Said-76-127-RKCE.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=93 hivel=127 offset=713 loop_mode=no_loop
+<region> sample=Easier Said-77-53-UUP5.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=53 offset=744 end=221568 loop_mode=no_loop
+<region> sample=Easier Said-77-92-SMTZ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=54 hivel=92 offset=619 end=233344 loop_mode=no_loop
+<region> sample=Easier Said-77-127-WBRX.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=93 hivel=127 offset=756 end=231744 loop_mode=no_loop
+<region> sample=Easier Said-78-53-6W67.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=53 offset=700 end=216349 loop_mode=no_loop
+<region> sample=Easier Said-78-92-2TM6.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=54 hivel=92 offset=617 end=237571 loop_mode=no_loop
+<region> sample=Easier Said-78-127-O4BE.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=93 hivel=127 offset=747 end=230720 loop_mode=no_loop
+<region> sample=Easier Said-79-53-681D.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=53 offset=607 end=220059 loop_mode=no_loop
+<region> sample=Easier Said-79-92-MNKX.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=54 hivel=92 offset=685 end=231346 loop_mode=no_loop
+<region> sample=Easier Said-79-127-O4TK.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=93 hivel=127 offset=587 end=232704 loop_mode=no_loop
+<region> sample=Easier Said-80-53-G55H.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=53 offset=603 end=219779 loop_mode=no_loop
+<region> sample=Easier Said-80-92-K0X7.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=54 hivel=92 offset=650 end=238915 loop_mode=no_loop
+<region> sample=Easier Said-80-127-2Z0H.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=93 hivel=127 offset=588 end=229504 loop_mode=no_loop
+<region> sample=Easier Said-81-53-7VXY.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=53 offset=831 loop_mode=no_loop
+<region> sample=Easier Said-81-92-DEZF.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=54 hivel=92 offset=732 end=231983 loop_mode=no_loop
+<region> sample=Easier Said-81-127-OUM0.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=93 hivel=127 offset=720 end=232832 loop_mode=no_loop
+<region> sample=Easier Said-82-53-YHS2.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=53 offset=790 end=214459 loop_mode=no_loop
+<region> sample=Easier Said-82-92-XVX4.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=54 hivel=92 offset=592 end=237793 loop_mode=no_loop
+<region> sample=Easier Said-82-127-DSND.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=93 hivel=127 offset=723 loop_mode=no_loop
+<region> sample=Easier Said-83-53-JY09.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=53 offset=637 end=221202 loop_mode=no_loop
+<region> sample=Easier Said-83-92-AM5L.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=54 hivel=92 offset=657 end=232065 loop_mode=no_loop
+<region> sample=Easier Said-83-127-C82C.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=93 hivel=127 offset=695 end=232341 loop_mode=no_loop
+<region> sample=Easier Said-84-53-C4TD.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=53 offset=618 end=221210 loop_mode=no_loop
+<region> sample=Easier Said-84-92-DIUD.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=54 hivel=92 offset=629 end=238465 loop_mode=no_loop
+<region> sample=Easier Said-84-127-WFVL.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=93 hivel=127 offset=665 end=229888 loop_mode=no_loop
+<region> sample=Easier Said-85-53-2RXG.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=53 offset=681 end=220472 loop_mode=no_loop
+<region> sample=Easier Said-85-92-91S0.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=54 hivel=92 offset=541 end=231087 loop_mode=no_loop
+<region> sample=Easier Said-85-127-YCFL.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=93 hivel=127 offset=722 end=231451 loop_mode=no_loop
+<region> sample=Easier Said-86-53-08TR.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=53 offset=580 end=218771 loop_mode=no_loop
+<region> sample=Easier Said-86-92-EK04.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=54 hivel=92 offset=650 end=238776 loop_mode=no_loop
+<region> sample=Easier Said-86-127-WT0V.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=93 hivel=127 offset=701 end=229655 loop_mode=no_loop
+<region> sample=Easier Said-87-53-Z62T.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=53 offset=682 end=224640 loop_mode=no_loop
+<region> sample=Easier Said-87-92-CN93.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=54 hivel=92 offset=726 loop_mode=no_loop
+<region> sample=Easier Said-87-127-0Y3C.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=93 hivel=127 offset=582 end=230970 loop_mode=no_loop
+<region> sample=Easier Said-88-53-ODX7.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=53 offset=697 end=215085 loop_mode=no_loop
+<region> sample=Easier Said-88-92-W1BM.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=54 hivel=92 offset=625 loop_mode=no_loop
+<region> sample=Easier Said-88-127-FK9E.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=93 hivel=127 offset=808 end=230433 loop_mode=no_loop
+<region> sample=Easier Said-89-53-4IFZ.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=53 offset=769 loop_mode=no_loop
+<region> sample=Easier Said-89-92-OALY.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=54 hivel=92 offset=688 end=232961 loop_mode=no_loop
+<region> sample=Easier Said-89-127-2QKE.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=93 hivel=127 offset=626 end=232202 loop_mode=no_loop
+<region> sample=Easier Said-90-53-4DIV.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=53 offset=549 end=217759 loop_mode=no_loop
+<region> sample=Easier Said-90-92-NZEW.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=54 hivel=92 offset=562 end=237696 loop_mode=no_loop
+<region> sample=Easier Said-90-127-KWQ3.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=93 hivel=127 offset=600 end=231311 loop_mode=no_loop
+<region> sample=Easier Said-91-53-03MW.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=53 offset=637 end=219547 loop_mode=no_loop
+<region> sample=Easier Said-91-92-CGZY.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=54 hivel=92 offset=896 end=232363 loop_mode=no_loop
+<region> sample=Easier Said-91-127-RCXR.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=93 hivel=127 offset=750 end=232832 loop_mode=no_loop
+<region> sample=Easier Said-92-53-W1MF.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=53 offset=716 end=220038 loop_mode=no_loop
+<region> sample=Easier Said-92-92-OLKV.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=54 hivel=92 offset=559 end=237845 loop_mode=no_loop
+<region> sample=Easier Said-92-127-50IA.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=93 hivel=127 offset=498 end=230670 loop_mode=no_loop
+<region> sample=Easier Said-93-53-JH5M.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=53 offset=574 end=221056 loop_mode=no_loop
+<region> sample=Easier Said-93-92-OPXN.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=54 hivel=92 offset=682 end=232606 loop_mode=no_loop
+<region> sample=Easier Said-93-127-SI6V.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=93 hivel=127 offset=579 end=232217 loop_mode=no_loop
+<region> sample=Easier Said-94-53-ZXQN.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=53 offset=652 end=215319 loop_mode=no_loop
+<region> sample=Easier Said-94-92-TYAL.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=54 hivel=92 offset=626 end=239250 loop_mode=no_loop
+<region> sample=Easier Said-94-127-YNJZ.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=93 hivel=127 offset=660 end=230291 loop_mode=no_loop
+<region> sample=Easier Said-95-53-LQ28.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=53 offset=665 loop_mode=no_loop
+<region> sample=Easier Said-95-92-U0U5.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=54 hivel=92 offset=642 end=231952 loop_mode=no_loop
+<region> sample=Easier Said-95-127-10K4.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=93 hivel=127 offset=824 end=232203 loop_mode=no_loop
+<region> sample=Easier Said-96-53-E331.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=0 hivel=53 offset=747 end=218269 loop_mode=no_loop
+<region> sample=Easier Said-96-92-HCTO.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=54 hivel=92 offset=638 end=237851 loop_mode=no_loop
+<region> sample=Easier Said-96-127-TGHH.wav key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=93 hivel=127 offset=808 end=230152 loop_mode=no_loop
+<region> sample=Easier Said-97-53-91Y4.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=0 hivel=53 offset=677 loop_mode=no_loop
+<region> sample=Easier Said-97-92-U76X.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=54 hivel=92 offset=669 end=231707 loop_mode=no_loop
+<region> sample=Easier Said-97-127-93VO.wav key=97 lokey=97 hikey=97  amp_veltrack=30 lovel=93 hivel=127 offset=650 loop_mode=no_loop
+<region> sample=Easier Said-98-53-7LYL.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=0 hivel=53 offset=623 end=218112 loop_mode=no_loop
+<region> sample=Easier Said-98-92-RBVK.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=54 hivel=92 offset=633 loop_mode=no_loop
+<region> sample=Easier Said-98-127-PDIO.wav key=98 lokey=98 hikey=98  amp_veltrack=30 lovel=93 hivel=127 offset=613 end=230418 loop_mode=no_loop
+<region> sample=Easier Said-99-53-4IFI.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=0 hivel=53 offset=636 end=221090 loop_mode=no_loop
+<region> sample=Easier Said-99-92-WIFU.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=54 hivel=92 offset=708 loop_mode=no_loop
+<region> sample=Easier Said-99-127-3V7P.wav key=99 lokey=99 hikey=99  amp_veltrack=30 lovel=93 hivel=127 offset=642 end=231948 loop_mode=no_loop
+<region> sample=Easier Said-100-53-3BUM.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=0 hivel=53 offset=715 end=220169 loop_mode=no_loop
+<region> sample=Easier Said-100-92-K03P.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=54 hivel=92 offset=551 end=238617 loop_mode=no_loop
+<region> sample=Easier Said-100-127-DBYZ.wav key=100 lokey=100 hikey=100  amp_veltrack=30 lovel=93 hivel=127 offset=704 end=230033 loop_mode=no_loop
+<region> sample=Easier Said-101-53-YXT4.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=0 hivel=53 offset=551 end=220289 loop_mode=no_loop
+<region> sample=Easier Said-101-92-QHVA.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=54 hivel=92 offset=600 end=233485 loop_mode=no_loop
+<region> sample=Easier Said-101-127-C5EK.wav key=101 lokey=101 hikey=101  amp_veltrack=30 lovel=93 hivel=127 offset=729 end=232710 loop_mode=no_loop
+<region> sample=Easier Said-102-53-S3Q8.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=0 hivel=53 offset=668 end=220675 loop_mode=no_loop
+<region> sample=Easier Said-102-92-OBQ2.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=54 hivel=92 offset=731 end=240394 loop_mode=no_loop
+<region> sample=Easier Said-102-127-Y9W7.wav key=102 lokey=102 hikey=102  amp_veltrack=30 lovel=93 hivel=127 offset=535 end=231552 loop_mode=no_loop
+<region> sample=Easier Said-103-53-1T3U.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=0 hivel=53 offset=691 loop_mode=no_loop
+<region> sample=Easier Said-103-92-4E6J.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=54 hivel=92 offset=742 end=232962 loop_mode=no_loop
+<region> sample=Easier Said-103-127-85OK.wav key=103 lokey=103 hikey=103  amp_veltrack=30 lovel=93 hivel=127 offset=518 end=232066 loop_mode=no_loop
+<region> sample=Easier Said-104-53-AGRM.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=0 hivel=53 offset=532 end=218391 loop_mode=no_loop
+<region> sample=Easier Said-104-92-HI45.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=54 hivel=92 offset=751 end=238464 loop_mode=no_loop
+<region> sample=Easier Said-104-127-D9CR.wav key=104 lokey=104 hikey=104  amp_veltrack=30 lovel=93 hivel=127 offset=632 loop_mode=no_loop
+<region> sample=Easier Said-105-53-BORS.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=0 hivel=53 offset=677 end=229527 loop_mode=no_loop
+<region> sample=Easier Said-105-92-PTL0.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=54 hivel=92 offset=651 end=233601 loop_mode=no_loop
+<region> sample=Easier Said-105-127-KELA.wav key=105 lokey=105 hikey=105  amp_veltrack=30 lovel=93 hivel=127 offset=823 end=232576 loop_mode=no_loop
+<region> sample=Easier Said-106-53-8YGT.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=0 hivel=53 offset=641 end=217615 loop_mode=no_loop
+<region> sample=Easier Said-106-92-HKBB.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=54 hivel=92 offset=659 end=240384 loop_mode=no_loop
+<region> sample=Easier Said-106-127-2Z4O.wav key=106 lokey=106 hikey=106  amp_veltrack=30 lovel=93 hivel=127 offset=627 end=230674 loop_mode=no_loop
+<region> sample=Easier Said-107-53-DSXP.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=0 hivel=53 offset=756 end=225284 loop_mode=no_loop
+<region> sample=Easier Said-107-92-UJA7.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=54 hivel=92 offset=780 end=233231 loop_mode=no_loop
+<region> sample=Easier Said-107-127-SVTK.wav key=107 lokey=107 hikey=107  amp_veltrack=30 lovel=93 hivel=127 offset=645 loop_mode=no_loop
+<region> sample=Easier Said-108-53-D1C0.wav key=108 lokey=108 hikey=127  amp_veltrack=30 lovel=0 hivel=53 offset=699 end=226183 loop_mode=no_loop
+<region> sample=Easier Said-108-92-2WSM.wav key=108 lokey=108 hikey=127  amp_veltrack=30 lovel=54 hivel=92 offset=662 loop_mode=no_loop
+<region> sample=Easier Said-108-127-7LIJ.wav key=108 lokey=108 hikey=127  amp_veltrack=30 lovel=93 hivel=127 offset=742 end=231814 loop_mode=no_loop

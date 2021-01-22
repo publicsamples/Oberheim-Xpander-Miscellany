@@ -1,0 +1,79 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MultiSub.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/MultiSub/
+
+<group>        // MultiSub
+<region> sample=MultiSub-48-53-ZDXN.wav key=48 lokey=4 hikey=48  amp_veltrack=30 lovel=1 hivel=53 offset=722 end=978590 loop_mode=no_loop
+<region> sample=MultiSub-48-92-YX8P.wav key=48 lokey=4 hikey=48  amp_veltrack=30 lovel=54 hivel=92 offset=651 loop_mode=no_loop
+<region> sample=MultiSub-48-127-FGWE.wav key=48 lokey=4 hikey=48  amp_veltrack=30 lovel=93 hivel=127 offset=554 end=964685 loop_mode=no_loop
+<region> sample=MultiSub-49-53-78HY.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=53 offset=749 end=982040 loop_mode=no_loop
+<region> sample=MultiSub-49-92-4ZGC.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=54 hivel=92 offset=593 loop_mode=no_loop
+<region> sample=MultiSub-49-127-PQ0H.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=93 hivel=127 offset=683 end=979574 loop_mode=no_loop
+<region> sample=MultiSub-50-53-8XOO.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=53 offset=708 end=974080 loop_mode=no_loop
+<region> sample=MultiSub-50-92-LD0O.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=54 hivel=92 offset=688 end=976580 loop_mode=no_loop
+<region> sample=MultiSub-50-127-NAI1.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=93 hivel=127 offset=697 end=982879 loop_mode=no_loop
+<region> sample=MultiSub-51-53-SW3C.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=53 offset=801 loop_mode=no_loop
+<region> sample=MultiSub-51-92-W6R0.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=54 hivel=92 offset=540 end=968632 loop_mode=no_loop
+<region> sample=MultiSub-51-127-CPPK.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=93 hivel=127 offset=657 end=978705 loop_mode=no_loop
+<region> sample=MultiSub-52-53-PJ9K.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=53 offset=697 end=980749 loop_mode=no_loop
+<region> sample=MultiSub-52-92-RK1N.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=54 hivel=92 offset=660 end=964930 loop_mode=no_loop
+<region> sample=MultiSub-52-127-BZZU.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=93 hivel=127 offset=709 end=965054 loop_mode=no_loop
+<region> sample=MultiSub-53-53-T3JF.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=53 offset=678 end=970694 loop_mode=no_loop
+<region> sample=MultiSub-53-92-4G43.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=54 hivel=92 offset=549 end=973571 loop_mode=no_loop
+<region> sample=MultiSub-53-127-2DSH.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=93 hivel=127 offset=816 end=970675 loop_mode=no_loop
+<region> sample=MultiSub-54-53-X1AX.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=53 offset=515 end=973453 loop_mode=no_loop
+<region> sample=MultiSub-54-92-VMNC.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=54 hivel=92 offset=648 end=978469 loop_mode=no_loop
+<region> sample=MultiSub-54-127-HICU.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=93 hivel=127 offset=707 end=981153 loop_mode=no_loop
+<region> sample=MultiSub-55-53-LZSE.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=53 offset=580 end=972255 loop_mode=no_loop
+<region> sample=MultiSub-55-92-4IYM.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=54 hivel=92 offset=532 loop_mode=no_loop
+<region> sample=MultiSub-55-127-J6Q5.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=93 hivel=127 offset=564 end=969951 loop_mode=no_loop
+<region> sample=MultiSub-56-53-EHXA.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=53 offset=613 end=978935 loop_mode=no_loop
+<region> sample=MultiSub-56-92-AQLX.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=54 hivel=92 offset=686 loop_mode=no_loop
+<region> sample=MultiSub-56-127-3XX5.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=93 hivel=127 offset=702 end=965732 loop_mode=no_loop
+<region> sample=MultiSub-57-53-1X9Y.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=53 offset=707 end=976564 loop_mode=no_loop
+<region> sample=MultiSub-57-92-35MT.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=54 hivel=92 offset=726 loop_mode=no_loop
+<region> sample=MultiSub-57-127-BYJF.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=93 hivel=127 offset=874 end=964808 loop_mode=no_loop
+<region> sample=MultiSub-58-53-DA6D.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=53 offset=736 end=973120 loop_mode=no_loop
+<region> sample=MultiSub-58-92-MSLJ.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=54 hivel=92 offset=587 end=966173 loop_mode=no_loop
+<region> sample=MultiSub-58-127-GF24.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=93 hivel=127 offset=565 loop_mode=no_loop
+<region> sample=MultiSub-59-53-ANBP.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=53 offset=655 end=972301 loop_mode=no_loop
+<region> sample=MultiSub-59-92-0LZJ.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=54 hivel=92 offset=604 end=977024 loop_mode=no_loop
+<region> sample=MultiSub-59-127-C858.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=93 hivel=127 offset=650 end=974270 loop_mode=no_loop
+<region> sample=MultiSub-60-53-0WOT.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=53 offset=629 loop_mode=no_loop
+<region> sample=MultiSub-60-92-2GK7.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=54 hivel=92 offset=656 end=965516 loop_mode=no_loop
+<region> sample=MultiSub-60-127-QAHE.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=93 hivel=127 offset=669 end=973377 loop_mode=no_loop
+<region> sample=MultiSub-61-53-KMP9.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=53 offset=661 loop_mode=no_loop
+<region> sample=MultiSub-61-92-3ULP.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=54 hivel=92 offset=547 end=979398 loop_mode=no_loop
+<region> sample=MultiSub-61-127-T17H.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=93 hivel=127 offset=580 end=978164 loop_mode=no_loop
+<region> sample=MultiSub-62-53-589A.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=53 offset=671 end=977330 loop_mode=no_loop
+<region> sample=MultiSub-62-92-IWX6.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=54 hivel=92 offset=693 end=971959 loop_mode=no_loop
+<region> sample=MultiSub-62-127-LHXL.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=93 hivel=127 offset=679 loop_mode=no_loop
+<region> sample=MultiSub-63-53-ONK6.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=53 offset=613 end=976420 loop_mode=no_loop
+<region> sample=MultiSub-63-92-XWPB.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=54 hivel=92 offset=714 end=974885 loop_mode=no_loop
+<region> sample=MultiSub-63-127-WL9A.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=93 hivel=127 offset=710 end=966379 loop_mode=no_loop
+<region> sample=MultiSub-64-53-Q6WG.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=53 offset=633 end=965773 loop_mode=no_loop
+<region> sample=MultiSub-64-92-1N50.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=54 hivel=92 offset=586 end=966910 loop_mode=no_loop
+<region> sample=MultiSub-64-127-6A7G.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=93 hivel=127 offset=643 end=979119 loop_mode=no_loop
+<region> sample=MultiSub-65-53-ZZK0.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=53 offset=723 loop_mode=no_loop
+<region> sample=MultiSub-65-92-WJQO.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=54 hivel=92 offset=706 end=975571 loop_mode=no_loop
+<region> sample=MultiSub-65-127-NDK6.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=93 hivel=127 offset=535 end=972869 loop_mode=no_loop
+<region> sample=MultiSub-66-53-FG3W.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=53 offset=584 end=976477 loop_mode=no_loop
+<region> sample=MultiSub-66-92-ZOVV.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=54 hivel=92 offset=740 end=968299 loop_mode=no_loop
+<region> sample=MultiSub-66-127-616U.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=93 hivel=127 offset=645 end=970211 loop_mode=no_loop
+<region> sample=MultiSub-67-53-L5SS.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=53 offset=735 end=965823 loop_mode=no_loop
+<region> sample=MultiSub-67-92-ZYIF.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=54 hivel=92 offset=611 end=976765 loop_mode=no_loop
+<region> sample=MultiSub-67-127-5DXI.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=93 hivel=127 offset=804 end=977017 loop_mode=no_loop
+<region> sample=MultiSub-68-53-G8N0.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=53 offset=642 end=976640 loop_mode=no_loop
+<region> sample=MultiSub-68-92-XAOM.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=54 hivel=92 offset=552 end=970102 loop_mode=no_loop
+<region> sample=MultiSub-68-127-V32Q.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=93 hivel=127 offset=533 end=977704 loop_mode=no_loop
+<region> sample=MultiSub-69-53-J0JU.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=53 offset=644 loop_mode=no_loop
+<region> sample=MultiSub-69-92-GZ94.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=54 hivel=92 offset=496 end=977779 loop_mode=no_loop
+<region> sample=MultiSub-69-127-XSH5.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=93 hivel=127 offset=684 end=975406 loop_mode=no_loop
+<region> sample=MultiSub-70-53-RZNU.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=53 offset=558 end=975683 loop_mode=no_loop
+<region> sample=MultiSub-70-92-VJ45.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=54 hivel=92 offset=672 loop_mode=no_loop
+<region> sample=MultiSub-70-127-VUMH.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=93 hivel=127 offset=557 end=970406 loop_mode=no_loop
+<region> sample=MultiSub-71-53-946V.wav key=71 lokey=71 hikey=127  amp_veltrack=30 lovel=1 hivel=53 offset=559 loop_mode=no_loop
+<region> sample=MultiSub-71-92-DYKX.wav key=71 lokey=71 hikey=127  amp_veltrack=30 lovel=54 hivel=92 offset=739 end=966465 loop_mode=no_loop
+<region> sample=MultiSub-71-127-Q8TB.wav key=71 lokey=71 hikey=127  amp_veltrack=30 lovel=93 hivel=127 offset=571 loop_mode=no_loop

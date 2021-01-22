@@ -1,6 +1,4 @@
 # Oberheim Xpander Miscellany
- 
-Audio: https://www.dropbox.com/sh/2pfl21whj2xvvl3/AAD3ipDE8RpIs8GBy8ICG8A0a?dl=0
 
 
 Layered PWM & FM Sounds and over 100 recordings of patches made directly on the Xpander.
@@ -9,6 +7,11 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 18GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
+
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/2pfl21whj2xvvl3/AAD3ipDE8RpIs8GBy8ICG8A0a?dl=0)
+
 
 # Loading
 
@@ -27,8 +30,10 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

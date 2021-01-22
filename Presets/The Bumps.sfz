@@ -1,0 +1,82 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - The Bumps.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/The Bumps/(2016229 181633)/
+
+<group>        // The Bumps
+<region> sample=The Bumps-36-42-YLHM.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=42 volume=21 loop_mode=loop_continuous loop_start=11662 loop_end=395665
+<region> sample=The Bumps-36-85-N48A.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=43 hivel=85 volume=20 loop_mode=loop_continuous loop_start=93788 loop_end=340570
+<region> sample=The Bumps-36-127-9PJD.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=86 hivel=127 volume=20 loop_mode=loop_continuous loop_start=151065 loop_end=273494
+<region> sample=The Bumps-37-42-VHDK.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=42 volume=20 loop_mode=loop_continuous loop_start=173921 loop_end=365066
+<region> sample=The Bumps-37-85-DVFX.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=43 hivel=85 volume=19 loop_mode=loop_continuous loop_start=122280 loop_end=382381
+<region> sample=The Bumps-37-127-10M4.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=86 hivel=127 volume=20 loop_mode=loop_continuous loop_start=74301 loop_end=386283
+<region> sample=The Bumps-38-42-A8WN.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=42 volume=20 loop_mode=loop_continuous loop_start=241045 loop_end=371091
+<region> sample=The Bumps-38-85-Z56N.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=43 hivel=85 volume=19 loop_mode=loop_continuous loop_start=8823 loop_end=388459
+<region> sample=The Bumps-38-127-1I8X.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=86 hivel=127 volume=20 loop_mode=loop_continuous loop_start=58362 loop_end=310266
+<region> sample=The Bumps-39-42-ZOPY.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=42 volume=19 loop_mode=loop_continuous loop_start=152314 loop_end=278462
+<region> sample=The Bumps-39-85-WB6F.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=43 hivel=85 volume=18 loop_mode=loop_continuous loop_start=107603 loop_end=357381
+<region> sample=The Bumps-39-127-H090.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=86 hivel=127 volume=20 loop_mode=loop_continuous loop_start=2507 loop_end=384479
+<region> sample=The Bumps-40-42-SQPP.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=42 volume=19 loop_mode=loop_continuous loop_start=180740 loop_end=364928
+<region> sample=The Bumps-40-85-PHHM.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=43 hivel=85 volume=19 loop_mode=loop_continuous loop_start=263055 loop_end=386961
+<region> sample=The Bumps-40-127-2Z0D.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=86 hivel=127 volume=19 loop_mode=loop_continuous loop_start=269659 loop_end=395726
+<region> sample=The Bumps-41-42-LZZ5.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=42 volume=17 loop_mode=loop_continuous loop_start=44137 loop_end=359436
+<region> sample=The Bumps-41-85-Q936.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=43 hivel=85 volume=18 loop_mode=loop_continuous loop_start=60541 loop_end=372762
+<region> sample=The Bumps-41-127-DJ3R.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=138143 loop_end=390070
+<region> sample=The Bumps-42-42-1HHY.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=42 volume=18 loop_mode=loop_continuous loop_start=67648 loop_end=193530
+<region> sample=The Bumps-42-85-NARJ.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=43 hivel=85 volume=17 loop_mode=loop_continuous loop_start=15739 loop_end=141583
+<region> sample=The Bumps-42-127-QRIZ.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=74802 loop_end=263337
+<region> sample=The Bumps-43-42-9YEI.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=42 volume=17 loop_mode=loop_continuous loop_start=113863 loop_end=365562
+<region> sample=The Bumps-43-85-RQ3G.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=43 hivel=85 volume=17 loop_mode=loop_continuous loop_start=141999 loop_end=393853
+<region> sample=The Bumps-43-127-1W4H.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=10130 loop_end=388008
+<region> sample=The Bumps-44-42-1O5U.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=42 volume=17 loop_mode=loop_continuous loop_start=201761 loop_end=327738
+<region> sample=The Bumps-44-85-DDW3.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=43 hivel=85 volume=17 loop_mode=loop_continuous loop_start=166152 loop_end=292080
+<region> sample=The Bumps-44-127-PRW3.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=170442 loop_end=296233
+<region> sample=The Bumps-45-42-94TG.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=42 volume=16 loop_mode=loop_continuous loop_start=62661 loop_end=314674
+<region> sample=The Bumps-45-85-3AEN.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=43 hivel=85 volume=17 loop_mode=loop_continuous loop_start=16725 loop_end=394551
+<region> sample=The Bumps-45-127-ZKPU.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=88523 loop_end=340397
+<region> sample=The Bumps-46-42-1OFM.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=42 volume=17 loop_mode=loop_continuous loop_start=16708 loop_end=142849
+<region> sample=The Bumps-46-85-GY1J.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=43 hivel=85 volume=17 loop_mode=loop_continuous loop_start=41208 loop_end=167269
+<region> sample=The Bumps-46-127-14VS.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=175475 loop_end=301418
+<region> sample=The Bumps-47-42-INPY.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=42 volume=15 loop_mode=loop_continuous loop_start=10684 loop_end=136435
+<region> sample=The Bumps-47-85-VI4Z.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=43 hivel=85 volume=16 loop_mode=loop_continuous loop_start=28957 loop_end=154758
+<region> sample=The Bumps-47-127-SGNJ.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=17363 loop_end=395197
+<region> sample=The Bumps-48-42-WP82.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=42 volume=16 loop_mode=loop_continuous loop_start=5783 loop_end=383745
+<region> sample=The Bumps-48-85-VNLT.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=43 hivel=85 volume=17 loop_mode=loop_continuous loop_start=167936 loop_end=294097
+<region> sample=The Bumps-48-127-K01V.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=86 hivel=127 volume=18 loop_mode=loop_continuous loop_start=50751 loop_end=176797
+<region> sample=The Bumps-49-42-SUIA.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=42 volume=15 loop_mode=loop_continuous loop_start=262793 loop_end=388559
+<region> sample=The Bumps-49-85-D23B.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=43 hivel=85 volume=16 loop_mode=loop_continuous loop_start=18727 loop_end=144551
+<region> sample=The Bumps-49-127-YBIN.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=86 hivel=127 volume=17 loop_mode=loop_continuous loop_start=16925 loop_end=394739
+<region> sample=The Bumps-50-42-6BZC.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=42 volume=15 loop_mode=loop_continuous loop_start=140838 loop_end=266282
+<region> sample=The Bumps-50-85-0CAD.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=43 hivel=85 volume=16 loop_mode=loop_continuous loop_start=103964 loop_end=229974
+<region> sample=The Bumps-50-127-ES3Z.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=86 hivel=127 volume=17 loop_mode=loop_continuous loop_start=84513 loop_end=210404
+<region> sample=The Bumps-51-42-SVGU.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=42 volume=14 loop_mode=loop_continuous loop_start=173566 loop_end=299069
+<region> sample=The Bumps-51-85-4GPN.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=123075 loop_end=249245
+<region> sample=The Bumps-51-127-VZ84.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=86 hivel=127 volume=17 loop_mode=loop_continuous loop_start=252469 loop_end=377935
+<region> sample=The Bumps-52-42-KCNH.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=42 volume=15 loop_mode=loop_continuous loop_start=18212 loop_end=395972
+<region> sample=The Bumps-52-85-0BA3.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=43 hivel=85 volume=16 loop_mode=loop_continuous loop_start=115941 loop_end=367897
+<region> sample=The Bumps-52-127-8NRH.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=86 hivel=127 volume=17 loop_mode=loop_continuous loop_start=252184 loop_end=378843
+<region> sample=The Bumps-53-42-0P7E.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=42 volume=14 loop_mode=loop_continuous loop_start=144392 loop_end=270431
+<region> sample=The Bumps-53-85-PNYC.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=42070 loop_end=168127
+<region> sample=The Bumps-53-127-UL46.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=86 hivel=127 volume=17 loop_mode=loop_continuous loop_start=224262 loop_end=350246
+<region> sample=The Bumps-54-42-9EL3.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=42 volume=14 loop_mode=loop_continuous loop_start=112459 loop_end=238385
+<region> sample=The Bumps-54-85-C2D2.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=39959 loop_end=166285
+<region> sample=The Bumps-54-127-QLPO.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=99575 loop_end=351506
+<region> sample=The Bumps-55-42-PGVX.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=42 volume=14 loop_mode=loop_continuous loop_start=237782 loop_end=363672
+<region> sample=The Bumps-55-85-K42W.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=64754 loop_end=190662
+<region> sample=The Bumps-55-127-4C9P.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=205786 loop_end=394750
+<region> sample=The Bumps-56-42-DELE.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=42 volume=14 loop_mode=loop_continuous loop_start=249089 loop_end=375049
+<region> sample=The Bumps-56-85-IC1R.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=208158 loop_end=333998
+<region> sample=The Bumps-56-127-NYYZ.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=142344 loop_end=394270
+<region> sample=The Bumps-57-42-3660.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=42 volume=13 loop_mode=loop_continuous loop_start=146316 loop_end=272307
+<region> sample=The Bumps-57-85-MUBM.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=57641 loop_end=183648
+<region> sample=The Bumps-57-127-EKJL.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=258274 loop_end=384197
+<region> sample=The Bumps-58-42-5F04.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=42 volume=14 loop_mode=loop_continuous loop_start=149319 loop_end=275456
+<region> sample=The Bumps-58-85-GODX.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=148655 loop_end=274655
+<region> sample=The Bumps-58-127-26IC.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=142351 loop_end=268671
+<region> sample=The Bumps-59-42-RENT.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=42 volume=13 loop_mode=loop_continuous loop_start=46074 loop_end=172185
+<region> sample=The Bumps-59-85-RZGM.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=43 hivel=85 volume=14 loop_mode=loop_continuous loop_start=105528 loop_end=357400
+<region> sample=The Bumps-59-127-A126.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=180581 loop_end=306244
+<region> sample=The Bumps-60-42-KS4F.wav key=60 lokey=60 hikey=127  amp_veltrack=30 lovel=0 hivel=42 volume=31 loop_mode=loop_continuous loop_start=5476 loop_end=8680
+<region> sample=The Bumps-60-85-T1EV.wav key=60 lokey=60 hikey=127  amp_veltrack=30 lovel=43 hivel=85 volume=15 loop_mode=loop_continuous loop_start=40064 loop_end=166216
+<region> sample=The Bumps-60-127-1R3Q.wav key=60 lokey=60 hikey=127  amp_veltrack=30 lovel=86 hivel=127 volume=16 loop_mode=loop_continuous loop_start=236801 loop_end=362501

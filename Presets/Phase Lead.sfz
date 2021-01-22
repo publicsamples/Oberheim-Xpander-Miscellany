@@ -1,0 +1,104 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Phase Lead.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Phase Lead/
+
+<group>        // Phase Lead
+<region> sample=Phase Lead-36-64-UOM4.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=64 offset=621 end=494304 loop_mode=no_loop
+<region> sample=Phase Lead-36-127-1CV3.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=65 hivel=127 offset=653 end=493237 loop_mode=no_loop
+<region> sample=Phase Lead-37-64-QJNH.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=64 offset=742 end=493312 loop_mode=no_loop
+<region> sample=Phase Lead-37-127-0VT8.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=65 hivel=127 offset=672 end=492819 loop_mode=no_loop
+<region> sample=Phase Lead-38-64-97JZ.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=64 offset=536 end=493443 loop_mode=no_loop
+<region> sample=Phase Lead-38-127-DH02.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=65 hivel=127 offset=628 end=492754 loop_mode=no_loop
+<region> sample=Phase Lead-39-64-VS8R.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=64 offset=757 end=495240 loop_mode=no_loop
+<region> sample=Phase Lead-39-127-9IJR.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=65 hivel=127 offset=736 end=493321 loop_mode=no_loop
+<region> sample=Phase Lead-40-64-GFNB.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=64 offset=610 end=493894 loop_mode=no_loop
+<region> sample=Phase Lead-40-127-2XCL.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=65 hivel=127 offset=669 loop_mode=no_loop
+<region> sample=Phase Lead-41-64-GKD7.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=64 offset=559 end=493196 loop_mode=no_loop
+<region> sample=Phase Lead-41-127-QOG7.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=65 hivel=127 offset=494 end=493116 loop_mode=no_loop
+<region> sample=Phase Lead-42-64-NNQL.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=64 offset=580 end=494888 loop_mode=no_loop
+<region> sample=Phase Lead-42-127-484J.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=65 hivel=127 offset=710 end=492966 loop_mode=no_loop
+<region> sample=Phase Lead-43-64-5K33.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=64 offset=541 end=493989 loop_mode=no_loop
+<region> sample=Phase Lead-43-127-64HD.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=65 hivel=127 offset=701 end=493952 loop_mode=no_loop
+<region> sample=Phase Lead-44-64-Q7IY.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=64 offset=620 end=493336 loop_mode=no_loop
+<region> sample=Phase Lead-44-127-1JMI.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=65 hivel=127 offset=634 end=493568 loop_mode=no_loop
+<region> sample=Phase Lead-45-64-BMDO.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=64 offset=682 end=495360 loop_mode=no_loop
+<region> sample=Phase Lead-45-127-X32I.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=65 hivel=127 offset=680 end=492844 loop_mode=no_loop
+<region> sample=Phase Lead-46-64-NHVJ.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=64 offset=585 end=493338 loop_mode=no_loop
+<region> sample=Phase Lead-46-127-2ZNV.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=65 hivel=127 offset=785 end=494353 loop_mode=no_loop
+<region> sample=Phase Lead-47-64-58DO.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=64 offset=549 end=493453 loop_mode=no_loop
+<region> sample=Phase Lead-47-127-JTS8.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=65 hivel=127 offset=646 loop_mode=no_loop
+<region> sample=Phase Lead-48-64-0085.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=64 offset=698 loop_mode=no_loop
+<region> sample=Phase Lead-48-127-E883.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=65 hivel=127 offset=712 end=493460 loop_mode=no_loop
+<region> sample=Phase Lead-49-64-MH1Y.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=64 offset=674 end=493312 loop_mode=no_loop
+<region> sample=Phase Lead-49-127-PTCI.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=127 offset=654 end=493712 loop_mode=no_loop
+<region> sample=Phase Lead-50-64-67H4.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=64 offset=703 end=493462 loop_mode=no_loop
+<region> sample=Phase Lead-50-127-GH7Q.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=127 offset=546 end=493599 loop_mode=no_loop
+<region> sample=Phase Lead-51-64-46OK.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=64 offset=647 end=494997 loop_mode=no_loop
+<region> sample=Phase Lead-51-127-HZTX.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=127 offset=604 end=493605 loop_mode=no_loop
+<region> sample=Phase Lead-52-64-OP0V.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=64 offset=645 end=494111 loop_mode=no_loop
+<region> sample=Phase Lead-52-127-1T7S.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=127 offset=596 end=493184 loop_mode=no_loop
+<region> sample=Phase Lead-53-64-TP1X.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=64 offset=576 loop_mode=no_loop
+<region> sample=Phase Lead-53-127-8632.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=127 offset=700 end=493824 loop_mode=no_loop
+<region> sample=Phase Lead-54-64-O2V8.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=64 offset=649 loop_mode=no_loop
+<region> sample=Phase Lead-54-127-8M84.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=127 offset=668 end=493056 loop_mode=no_loop
+<region> sample=Phase Lead-55-64-79QI.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=64 offset=681 end=494106 loop_mode=no_loop
+<region> sample=Phase Lead-55-127-YA7E.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=127 offset=778 end=493700 loop_mode=no_loop
+<region> sample=Phase Lead-56-64-R908.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=64 offset=668 end=493824 loop_mode=no_loop
+<region> sample=Phase Lead-56-127-ZHQZ.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=127 offset=603 end=493824 loop_mode=no_loop
+<region> sample=Phase Lead-57-64-FMRQ.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=64 offset=770 end=495618 loop_mode=no_loop
+<region> sample=Phase Lead-57-127-8OQZ.wav key=57 lokey=57 hikey=58  amp_veltrack=30 lovel=65 hivel=127 offset=681 end=493568 loop_mode=no_loop
+<region> sample=Phase Lead-58-64-67S1.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=64 offset=655 end=493824 loop_mode=no_loop
+<region> sample=Phase Lead-59-64-9AZD.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=64 offset=723 end=493831 loop_mode=no_loop
+<region> sample=Phase Lead-59-127-XIXH.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=127 offset=722 end=493825 loop_mode=no_loop
+<region> sample=Phase Lead-60-64-6FM5.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=64 offset=777 loop_mode=no_loop
+<region> sample=Phase Lead-60-127-66BZ.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=127 offset=694 loop_mode=no_loop
+<region> sample=Phase Lead-61-64-GXSX.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=64 offset=572 end=493445 loop_mode=no_loop
+<region> sample=Phase Lead-61-127-7BMZ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=127 offset=462 end=493462 loop_mode=no_loop
+<region> sample=Phase Lead-62-64-O0CO.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=64 offset=598 end=493440 loop_mode=no_loop
+<region> sample=Phase Lead-62-127-28VB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=127 offset=671 loop_mode=no_loop
+<region> sample=Phase Lead-63-64-9V3D.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=64 offset=640 loop_mode=no_loop
+<region> sample=Phase Lead-63-127-VZ3H.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=127 offset=705 end=493184 loop_mode=no_loop
+<region> sample=Phase Lead-64-64-Y1E3.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=64 offset=556 end=493569 loop_mode=no_loop
+<region> sample=Phase Lead-64-127-HWSS.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=127 offset=674 loop_mode=no_loop
+<region> sample=Phase Lead-65-64-QX35.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=64 offset=494 end=493057 loop_mode=no_loop
+<region> sample=Phase Lead-65-127-LCV2.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=127 offset=772 end=493442 loop_mode=no_loop
+<region> sample=Phase Lead-66-64-NI5M.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=64 offset=650 loop_mode=no_loop
+<region> sample=Phase Lead-66-127-EXEL.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=127 offset=665 end=493203 loop_mode=no_loop
+<region> sample=Phase Lead-67-64-FOXG.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=64 offset=666 end=493824 loop_mode=no_loop
+<region> sample=Phase Lead-67-127-ZJE6.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=127 offset=735 end=493440 loop_mode=no_loop
+<region> sample=Phase Lead-68-64-W8R9.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=64 offset=765 end=493952 loop_mode=no_loop
+<region> sample=Phase Lead-68-127-T8RO.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=127 offset=535 end=493570 loop_mode=no_loop
+<region> sample=Phase Lead-69-64-BLPU.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=64 offset=628 loop_mode=no_loop
+<region> sample=Phase Lead-69-127-URSR.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=127 offset=616 loop_mode=no_loop
+<region> sample=Phase Lead-70-64-X40J.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=64 offset=518 end=493952 loop_mode=no_loop
+<region> sample=Phase Lead-70-127-7RQI.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=127 offset=534 end=493971 loop_mode=no_loop
+<region> sample=Phase Lead-71-64-5AX3.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=64 offset=721 end=493446 loop_mode=no_loop
+<region> sample=Phase Lead-71-127-CX6G.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=127 offset=742 end=493568 loop_mode=no_loop
+<region> sample=Phase Lead-72-64-7KFK.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=64 offset=646 end=495616 loop_mode=no_loop
+<region> sample=Phase Lead-72-127-CZ9E.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=127 offset=757 end=493192 loop_mode=no_loop
+<region> sample=Phase Lead-73-64-ADZ2.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=64 offset=539 end=493846 loop_mode=no_loop
+<region> sample=Phase Lead-73-127-K9SA.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=127 offset=671 loop_mode=no_loop
+<region> sample=Phase Lead-74-64-O91H.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=64 offset=572 loop_mode=no_loop
+<region> sample=Phase Lead-74-127-E13N.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=127 offset=649 loop_mode=no_loop
+<region> sample=Phase Lead-75-64-QZMI.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=64 offset=672 end=494978 loop_mode=no_loop
+<region> sample=Phase Lead-75-127-ZV9B.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=127 offset=658 end=492933 loop_mode=no_loop
+<region> sample=Phase Lead-76-64-DGV1.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=64 offset=709 end=494213 loop_mode=no_loop
+<region> sample=Phase Lead-76-127-Y1T4.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=127 offset=634 end=493702 loop_mode=no_loop
+<region> sample=Phase Lead-77-64-MTD4.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=64 offset=678 end=493313 loop_mode=no_loop
+<region> sample=Phase Lead-77-127-XAWQ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=127 offset=781 end=493830 loop_mode=no_loop
+<region> sample=Phase Lead-78-64-BL15.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=64 offset=672 loop_mode=no_loop
+<region> sample=Phase Lead-78-127-6H4W.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=127 offset=696 end=493312 loop_mode=no_loop
+<region> sample=Phase Lead-79-64-BYB2.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=64 offset=694 end=493703 loop_mode=no_loop
+<region> sample=Phase Lead-79-127-Y65K.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=127 offset=668 end=492929 loop_mode=no_loop
+<region> sample=Phase Lead-80-64-LF3E.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=64 offset=757 end=493824 loop_mode=no_loop
+<region> sample=Phase Lead-80-127-PU0I.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=127 offset=624 end=493442 loop_mode=no_loop
+<region> sample=Phase Lead-81-64-CX4H.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=64 offset=699 end=494468 loop_mode=no_loop
+<region> sample=Phase Lead-81-127-NKME.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=127 offset=734 end=493096 loop_mode=no_loop
+<region> sample=Phase Lead-82-64-6KVF.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=64 offset=540 end=493443 loop_mode=no_loop
+<region> sample=Phase Lead-82-127-KN5F.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=127 offset=618 end=493455 loop_mode=no_loop
+<region> sample=Phase Lead-83-64-QU0O.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=64 offset=600 end=493442 loop_mode=no_loop
+<region> sample=Phase Lead-83-127-V6TE.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=127 offset=643 end=493446 loop_mode=no_loop
+<region> sample=Phase Lead-84-64-W62N.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=0 hivel=64 offset=721 end=494994 loop_mode=no_loop
+<region> sample=Phase Lead-84-127-VB6K.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=65 hivel=127 offset=763 end=493188 loop_mode=no_loop

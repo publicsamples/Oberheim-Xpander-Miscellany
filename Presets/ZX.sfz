@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ZX.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Volumes/samplesz/Samples/Construction Kits/oberheim xpander construction kit/XPCKSoundsMisc/ZX/(201279 163740)/
+
+<group>        // ZX
+<region> sample=001 ZX-36-127-M639.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257484 loop_end=397809
+<region> sample=001 ZX-37-127-PSG1.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=251119 loop_end=392434
+<region> sample=001 ZX-38-127-38YJ.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=253615 loop_end=310843
+<region> sample=001 ZX-39-127-CTRE.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257412 loop_end=400316
+<region> sample=001 ZX-40-127-R9DW.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=252506 loop_end=393737
+<region> sample=001 ZX-41-127-HPJ8.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=226126 loop_end=366232
+<region> sample=001 ZX-42-127-L0JL.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257113 loop_end=399079
+<region> sample=001 ZX-43-127-L5QH.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256979 loop_end=398038
+<region> sample=001 ZX-44-127-03T5.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257663 loop_end=398549
+<region> sample=001 ZX-45-127-C6CW.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258003 loop_end=398792
+<region> sample=001 ZX-46-127-QY19.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256409 loop_end=397506
+<region> sample=001 ZX-47-127-GBJM.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257582 loop_end=398430
+<region> sample=001 ZX-48-127-D6O4.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257527 loop_end=398368
+<region> sample=001 ZX-49-127-VLQ7.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258456 loop_end=398548
+<region> sample=001 ZX-50-127-L5XK.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=226384 loop_end=367539
+<region> sample=001 ZX-51-127-289U.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=254962 loop_end=397144
+<region> sample=001 ZX-52-127-5ZUA.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=252590 loop_end=393181
+<region> sample=001 ZX-53-127-4IMD.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257777 loop_end=397937
+<region> sample=001 ZX-54-127-22WK.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224681 loop_end=365690
+<region> sample=001 ZX-55-127-7H8K.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257779 loop_end=398458
+<region> sample=001 ZX-56-127-WICJ.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=252669 loop_end=393942
+<region> sample=001 ZX-57-127-F7BR.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258469 loop_end=399425
+<region> sample=001 ZX-58-127-XG27.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257361 loop_end=398773
+<region> sample=001 ZX-59-127-BN28.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256084 loop_end=397278
+<region> sample=001 ZX-60-127-F01O.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=252718 loop_end=393783
+<region> sample=001 ZX-61-127-PTZR.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256391 loop_end=398103
+<region> sample=001 ZX-62-127-RSF9.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=223552 loop_end=364677
+<region> sample=001 ZX-63-127-O6H1.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=223745 loop_end=364813
+<region> sample=001 ZX-64-127-67VN.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257152 loop_end=398517
+<region> sample=001 ZX-65-127-J7KJ.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224334 loop_end=366056
+<region> sample=001 ZX-66-127-460S.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=223758 loop_end=364718
+<region> sample=001 ZX-67-127-RLWV.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258040 loop_end=398452
+<region> sample=001 ZX-68-127-A9MG.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224487 loop_end=364613
+<region> sample=001 ZX-69-127-CK46.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224562 loop_end=364619
+<region> sample=001 ZX-70-127-1X3D.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258126 loop_end=399096
+<region> sample=001 ZX-71-127-UG5Y.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=243723 loop_end=385006
+<region> sample=001 ZX-72-127-LHCU.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248028 loop_end=389266
+<region> sample=001 ZX-73-127-C7I2.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=244966 loop_end=386632
+<region> sample=001 ZX-74-127-25UD.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248339 loop_end=389630
+<region> sample=001 ZX-75-127-G360.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=244997 loop_end=386140
+<region> sample=001 ZX-76-127-0ULM.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257151 loop_end=397727
+<region> sample=001 ZX-77-127-LUES.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224051 loop_end=365177
+<region> sample=001 ZX-78-127-BF2V.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256445 loop_end=397388
+<region> sample=001 ZX-79-127-QCPB.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256658 loop_end=397624
+<region> sample=001 ZX-80-127-1JU2.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=247334 loop_end=388883
+<region> sample=001 ZX-81-127-U1BE.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224437 loop_end=365780
+<region> sample=001 ZX-82-127-U45Z.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257864 loop_end=399041
+<region> sample=001 ZX-83-127-R5KF.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=223983 loop_end=365473
+<region> sample=001 ZX-84-127-GHID.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=244689 loop_end=385638
+<region> sample=001 ZX-85-127-KUMJ.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258084 loop_end=398441
+<region> sample=001 ZX-86-127-JEK5.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248298 loop_end=389353
+<region> sample=001 ZX-87-127-W1CU.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256510 loop_end=397406
+<region> sample=001 ZX-88-127-FMWH.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=247834 loop_end=388451
+<region> sample=001 ZX-89-127-YSWR.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=245586 loop_end=386288
+<region> sample=001 ZX-90-127-6VTP.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=245396 loop_end=386190
+<region> sample=001 ZX-91-127-9PXH.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257964 loop_end=398882
+<region> sample=001 ZX-92-127-22VR.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246400 loop_end=387403
+<region> sample=001 ZX-93-127-DQSR.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256620 loop_end=397635
+<region> sample=001 ZX-94-127-FF6K.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=257788 loop_end=399022
+<region> sample=001 ZX-95-127-XU0Y.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246557 loop_end=387343
+<region> sample=001 ZX-96-127-UI4P.aif key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256939 loop_end=397879

@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Spring.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Waves/Spring/(2012621 154828)/
+
+<group>        // Spring
+<region> sample=Spring-36-127-NW1Z.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=251712 loop_end=328411
+<region> sample=Spring-37-127-7V08.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=291886 loop_end=368782
+<region> sample=Spring-38-127-GQAZ.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=281546 loop_end=355347
+<region> sample=Spring-39-127-MMBG.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=325737 loop_end=398491
+<region> sample=Spring-40-127-VIHL.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=252852 loop_end=392308
+<region> sample=Spring-41-127-4JQT.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=339304 loop_end=402316
+<region> sample=Spring-42-127-GEKS.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246396 loop_end=310907
+<region> sample=Spring-43-127-FVK7.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=313881 loop_end=374100
+<region> sample=Spring-44-127-MTYE.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=286656 loop_end=400348
+<region> sample=Spring-45-127-NXHS.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=290570 loop_end=404309
+<region> sample=Spring-46-127-62L7.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=270270 loop_end=377793
+<region> sample=Spring-47-127-7PZG.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=267277 loop_end=374669
+<region> sample=Spring-48-127-MKTZ.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=289713 loop_end=391084
+<region> sample=Spring-49-127-X7R2.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248795 loop_end=346062
+<region> sample=Spring-50-127-OTA7.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=265325 loop_end=313937
+<region> sample=Spring-51-127-BSMM.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=291850 loop_end=382899
+<region> sample=Spring-52-127-IX4T.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=309054 loop_end=398054
+<region> sample=Spring-53-127-SSRB.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246780 loop_end=335883
+<region> sample=Spring-54-127-GJTR.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=253907 loop_end=338856
+<region> sample=Spring-55-127-3K7W.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=330609 loop_end=372560
+<region> sample=Spring-56-127-RZOG.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=305109 loop_end=386001
+<region> sample=Spring-57-127-N5LY.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=270203 loop_end=347047
+<region> sample=Spring-58-127-OCFO.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=243455 loop_end=320330
+<region> sample=Spring-59-127-T9OW.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=268087 loop_end=373572
+<region> sample=Spring-60-127-0GTO.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=291685 loop_end=390994
+<region> sample=Spring-61-127-EWVQ.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=295817 loop_end=395173
+<region> sample=Spring-62-127-0SU4.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=273329 loop_end=369593
+<region> sample=Spring-63-127-S889.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=243694 loop_end=340097
+<region> sample=Spring-64-127-79DT.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=304569 loop_end=394725
+<region> sample=Spring-65-127-JM4U.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=278536 loop_end=362440
+<region> sample=Spring-66-127-1EZT.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=247561 loop_end=331173
+<region> sample=Spring-67-127-S4EW.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=253987 loop_end=331713
+<region> sample=Spring-68-127-QWOH.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=259863 loop_end=355138
+<region> sample=Spring-69-127-QJ4P.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=270226 loop_end=365819
+<region> sample=Spring-70-127-3C43.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=274336 loop_end=361367
+<region> sample=Spring-71-127-63XF.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=272202 loop_end=359190
+<region> sample=Spring-72-127-G4XZ.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=260202 loop_end=338837
+<region> sample=Spring-73-127-QFTZ.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=277279 loop_end=375652
+<region> sample=Spring-74-127-YN1V.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=280497 loop_end=378761
+<region> sample=Spring-75-127-L5QQ.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=286601 loop_end=392111
+<region> sample=Spring-76-127-14VJ.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=294813 loop_end=394110
+<region> sample=Spring-77-127-GJ0B.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=288525 loop_end=387796
+<region> sample=Spring-78-127-536Z.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=264414 loop_end=357484
+<region> sample=Spring-79-127-U4DE.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256024 loop_end=349368
+<region> sample=Spring-80-127-RN4Z.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248036 loop_end=349456
+<region> sample=Spring-81-127-5TSK.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=276386 loop_end=397177
+<region> sample=Spring-82-127-4GKV.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=280452 loop_end=401337
+<region> sample=Spring-83-127-DPVS.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248891 loop_end=348197
+<region> sample=Spring-84-127-3Y7H.aif key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261724 loop_end=375463

@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - leaf blower.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/leaf blower/
+
+<group>        // leaf blower
+<region> sample=leaf blower-48-127-C5NN.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=1 hivel=127 volume=12 offset=807 end=867232 loop_mode=no_loop
+<region> sample=leaf blower-49-127-K2HW.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=572 end=868506 loop_mode=no_loop
+<region> sample=leaf blower-50-127-VIEN.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 volume=11 offset=641 end=866956 loop_mode=no_loop
+<region> sample=leaf blower-51-127-W2DN.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 volume=12 offset=621 end=868097 loop_mode=no_loop
+<region> sample=leaf blower-52-127-7UTT.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 volume=11 offset=678 end=876686 loop_mode=no_loop
+<region> sample=leaf blower-53-127-5GL4.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=705 end=863912 loop_mode=no_loop
+<region> sample=leaf blower-54-127-U9V6.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 volume=12 offset=779 end=869248 loop_mode=no_loop
+<region> sample=leaf blower-55-127-GOBN.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=565 end=867875 loop_mode=no_loop
+<region> sample=leaf blower-56-127-G630.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=680 end=868026 loop_mode=no_loop
+<region> sample=leaf blower-57-127-49JX.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=622 end=870528 loop_mode=no_loop
+<region> sample=leaf blower-58-127-UEQN.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=688 end=878211 loop_mode=no_loop
+<region> sample=leaf blower-59-127-25AI.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=761 end=864291 loop_mode=no_loop
+<region> sample=leaf blower-60-127-GRIR.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 volume=11 offset=642 end=867712 loop_mode=no_loop
+<region> sample=leaf blower-61-127-YN71.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=641 end=870272 loop_mode=no_loop
+<region> sample=leaf blower-62-127-MR48.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=483 end=867200 loop_mode=no_loop
+<region> sample=leaf blower-63-127-7C4J.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=498 end=867716 loop_mode=no_loop
+<region> sample=leaf blower-64-127-6RUU.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=652 end=877184 loop_mode=no_loop
+<region> sample=leaf blower-65-127-Q9A1.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=706 end=865024 loop_mode=no_loop
+<region> sample=leaf blower-66-127-UG42.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 volume=10 offset=632 end=870272 loop_mode=no_loop
+<region> sample=leaf blower-67-127-74FY.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=639 end=868625 loop_mode=no_loop
+<region> sample=leaf blower-68-127-3ZJJ.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=681 end=866317 loop_mode=no_loop
+<region> sample=leaf blower-69-127-S9HE.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 volume=7 offset=676 end=869378 loop_mode=no_loop
+<region> sample=leaf blower-70-127-52OB.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=726 loop_mode=no_loop
+<region> sample=leaf blower-71-127-HM4P.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=806 loop_mode=no_loop
+<region> sample=leaf blower-72-127-YJ0C.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=833 end=866432 loop_mode=no_loop
+<region> sample=leaf blower-73-127-4HLC.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 volume=7 offset=540 loop_mode=no_loop
+<region> sample=leaf blower-74-127-3AJZ.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=636 end=866688 loop_mode=no_loop
+<region> sample=leaf blower-75-127-UEXZ.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=502 loop_mode=no_loop
+<region> sample=leaf blower-76-127-CP1U.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 volume=7 offset=511 end=878093 loop_mode=no_loop
+<region> sample=leaf blower-77-127-ZZU3.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=664 end=864384 loop_mode=no_loop
+<region> sample=leaf blower-78-127-IK5X.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=686 end=868992 loop_mode=no_loop
+<region> sample=leaf blower-79-127-U709.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=683 loop_mode=no_loop
+<region> sample=leaf blower-80-127-DO92.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=557 end=864911 loop_mode=no_loop
+<region> sample=leaf blower-81-127-SU45.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=653 end=868096 loop_mode=no_loop
+<region> sample=leaf blower-82-127-PYLP.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=767 end=875264 loop_mode=no_loop
+<region> sample=leaf blower-83-127-H1TJ.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 volume=8 offset=763 end=864128 loop_mode=no_loop
+<region> sample=leaf blower-84-127-1955.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=1 hivel=127 volume=9 offset=659 loop_mode=no_loop

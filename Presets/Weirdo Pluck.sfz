@@ -1,0 +1,399 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Weirdo Pluck.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Weirdo Pluck/
+
+<group> volume=11        // Weirdo Pluck
+<region> sample=Weirdo Pluck-48-16-DCW6.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=0 hivel=16 offset=712 end=96231 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-32-YWGM.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=17 hivel=32 offset=650 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-48-KSFA.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=33 hivel=48 offset=765 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-64-HZ02.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=49 hivel=64 offset=719 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-79-G7BW.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=65 hivel=79 offset=618 end=97143 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-95-BWAH.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=80 hivel=95 offset=545 end=99584 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-111-HRT4.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=96 hivel=111 offset=566 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-48-127-DLA4.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=112 hivel=127 offset=529 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-16-L9SA.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=16 offset=516 end=96832 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-32-42DQ.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=17 hivel=32 offset=720 end=94720 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-48-ZDLV.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=48 offset=584 end=96818 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-64-GOVU.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=49 hivel=64 offset=520 end=96005 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-79-1ZVH.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=79 offset=651 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-95-FY4G.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=80 hivel=95 offset=782 end=96579 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-111-1G0U.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=96 hivel=111 offset=602 end=95104 loop_mode=no_loop
+<region> sample=Weirdo Pluck-49-127-BJ8Z.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=112 hivel=127 offset=684 end=96130 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-16-0F8Q.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=16 offset=668 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-32-1AZP.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=17 hivel=32 offset=665 end=94665 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-48-QPL0.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=48 offset=645 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-64-G1G6.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=49 hivel=64 offset=791 end=96694 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-79-Q8TB.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=79 offset=594 end=97826 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-95-4W43.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=80 hivel=95 offset=722 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-111-E66E.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=96 hivel=111 offset=722 end=97030 loop_mode=no_loop
+<region> sample=Weirdo Pluck-50-127-EFCC.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=112 hivel=127 offset=518 end=96848 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-16-3E6K.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=16 offset=718 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-32-W8F4.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=17 hivel=32 offset=566 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-48-7SHT.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=48 offset=637 end=95946 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-64-CQT7.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=49 hivel=64 offset=657 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-79-X0XO.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=79 offset=659 end=96217 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-95-XR0H.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=80 hivel=95 offset=607 end=97082 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-111-LWKE.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=96 hivel=111 offset=463 end=96384 loop_mode=no_loop
+<region> sample=Weirdo Pluck-51-127-Y5KP.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=112 hivel=127 offset=694 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-16-P1F8.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=16 offset=619 end=96384 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-32-TSG6.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=17 hivel=32 offset=687 end=95311 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-48-XW4D.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=48 offset=705 end=97293 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-64-0JGB.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=49 hivel=64 offset=711 end=96420 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-79-47SZ.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=79 offset=520 end=97351 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-95-1UGX.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=80 hivel=95 offset=783 end=97230 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-111-58LE.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=96 hivel=111 offset=557 end=97357 loop_mode=no_loop
+<region> sample=Weirdo Pluck-52-127-FRYA.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=112 hivel=127 offset=532 end=96512 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-16-HSB9.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=16 offset=777 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-32-6UN3.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=17 hivel=32 offset=663 end=96574 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-48-KARP.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=48 offset=589 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-64-JTIO.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=49 hivel=64 offset=632 end=97057 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-79-R7RN.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=79 offset=727 end=96606 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-95-461S.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=80 hivel=95 offset=750 end=96384 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-111-EVMN.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=96 hivel=111 offset=585 end=96690 loop_mode=no_loop
+<region> sample=Weirdo Pluck-53-127-ZJP3.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=112 hivel=127 offset=637 end=96897 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-16-55Z3.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=16 offset=534 end=96385 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-32-EPWF.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=17 hivel=32 offset=739 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-48-1UDV.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=48 offset=692 end=96451 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-64-K9X3.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=49 hivel=64 offset=640 end=95411 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-79-SGEH.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=79 offset=688 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-95-PGH8.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=80 hivel=95 offset=662 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-111-XCZI.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=96 hivel=111 offset=636 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-54-127-QQ1N.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=112 hivel=127 offset=526 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-16-A6XJ.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=16 offset=592 end=96000 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-32-JLD0.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=17 hivel=32 offset=713 end=96715 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-48-BW4L.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=48 offset=724 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-64-54K1.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=49 hivel=64 offset=642 end=96000 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-79-GAL4.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=79 offset=666 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-95-24HU.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=80 hivel=95 offset=692 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-111-DSQK.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=96 hivel=111 offset=605 end=96306 loop_mode=no_loop
+<region> sample=Weirdo Pluck-55-127-V1E2.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=112 hivel=127 offset=647 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-16-MARE.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=16 offset=699 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-32-K4I4.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=17 hivel=32 offset=645 end=96256 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-48-EM7I.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=48 offset=669 end=96154 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-64-3U8Z.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=49 hivel=64 offset=606 end=96898 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-79-TBWV.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=79 offset=737 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-95-I52H.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=80 hivel=95 offset=671 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-111-8VP4.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=96 hivel=111 offset=547 end=97541 loop_mode=no_loop
+<region> sample=Weirdo Pluck-56-127-SHC5.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=112 hivel=127 offset=602 end=96512 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-16-F9YG.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=16 offset=749 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-32-QX7I.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=17 hivel=32 offset=695 end=96569 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-48-FWMI.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=48 offset=671 end=96256 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-64-SV5F.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=49 hivel=64 offset=692 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-79-IF96.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=79 offset=649 end=96542 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-95-8MF7.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=80 hivel=95 offset=705 end=96256 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-111-SZEP.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=96 hivel=111 offset=550 end=96579 loop_mode=no_loop
+<region> sample=Weirdo Pluck-57-127-KU4H.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=112 hivel=127 offset=634 end=96897 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-16-7K4S.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=16 offset=624 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-32-SOCW.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=17 hivel=32 offset=574 end=95890 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-48-2NM2.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=48 offset=651 end=96655 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-64-UXE5.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=49 hivel=64 offset=603 end=96463 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-79-D5E0.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=79 offset=780 end=96282 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-95-2MP2.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=80 hivel=95 offset=681 end=96914 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-111-IFGN.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=96 hivel=111 offset=777 end=96784 loop_mode=no_loop
+<region> sample=Weirdo Pluck-58-127-HAVV.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=112 hivel=127 offset=652 end=96686 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-16-B96Y.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=16 offset=590 end=96403 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-32-S169.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=17 hivel=32 offset=567 end=96787 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-48-8XEQ.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=48 offset=715 end=97310 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-64-UPBT.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=49 hivel=64 offset=692 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-79-XKQO.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=79 offset=559 end=96827 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-95-5VCB.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=80 hivel=95 offset=617 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-111-59SL.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=96 hivel=111 offset=784 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-59-127-V4LC.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=112 hivel=127 offset=690 end=96441 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-16-U6DG.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=16 offset=799 end=96512 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-32-IIHK.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=17 hivel=32 offset=633 end=96802 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-48-XJFQ.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=33 hivel=48 offset=600 end=97292 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-64-SJT7.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=49 hivel=64 offset=724 end=96436 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-79-C7QL.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=79 offset=579 end=96949 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-95-Z3GS.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=80 hivel=95 offset=684 end=96655 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-111-QI0E.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=96 hivel=111 offset=741 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-60-127-6Z40.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=112 hivel=127 offset=660 end=96671 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-16-C0XT.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=16 offset=625 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-32-JU3G.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=17 hivel=32 offset=704 end=96576 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-48-5MMG.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=48 offset=721 end=96801 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-64-3G2J.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=49 hivel=64 offset=548 end=96690 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-79-1YHC.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=79 offset=510 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-95-19VQ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=80 hivel=95 offset=551 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-111-N4GT.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=96 hivel=111 offset=799 end=96793 loop_mode=no_loop
+<region> sample=Weirdo Pluck-61-127-G0MC.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=112 hivel=127 offset=741 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-16-CS74.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=16 offset=760 end=97153 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-32-9M29.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=17 hivel=32 offset=751 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-48-UWPB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=48 offset=632 end=96926 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-64-N7I3.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=49 hivel=64 offset=619 end=97051 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-79-7Y4T.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=79 offset=637 end=96316 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-95-PU6P.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=80 hivel=95 offset=837 end=97163 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-111-HEUX.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=96 hivel=111 offset=610 end=96898 loop_mode=no_loop
+<region> sample=Weirdo Pluck-62-127-UG2D.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=112 hivel=127 offset=715 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-16-5QGY.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=16 offset=647 end=96180 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-32-NCWT.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=17 hivel=32 offset=675 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-48-78QZ.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=48 offset=586 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-64-QS1P.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=49 hivel=64 offset=631 end=97920 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-79-RBCB.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=79 offset=743 end=96828 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-95-ZPSE.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=80 hivel=95 offset=664 end=96898 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-111-6BOF.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=96 hivel=111 offset=720 end=96911 loop_mode=no_loop
+<region> sample=Weirdo Pluck-63-127-O91S.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=112 hivel=127 offset=722 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-16-ELQG.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=16 offset=759 end=96923 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-32-7EBH.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=17 hivel=32 offset=570 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-48-MXS1.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=48 offset=571 end=97448 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-64-1WZL.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=49 hivel=64 offset=646 end=96641 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-79-ALYC.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=79 offset=541 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-95-VR5Q.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=80 hivel=95 offset=516 end=97206 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-111-5LQX.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=96 hivel=111 offset=590 end=96431 loop_mode=no_loop
+<region> sample=Weirdo Pluck-64-127-BYIW.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=112 hivel=127 offset=649 end=97052 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-16-E216.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=16 offset=530 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-32-BDQW.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=17 hivel=32 offset=514 end=96384 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-48-6XW0.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=48 offset=727 end=96256 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-64-UCQ3.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=49 hivel=64 offset=528 end=96806 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-79-FLRR.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=79 offset=584 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-95-HSDY.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=80 hivel=95 offset=519 end=96519 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-111-NTS4.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=96 hivel=111 offset=616 end=96805 loop_mode=no_loop
+<region> sample=Weirdo Pluck-65-127-DOUE.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=112 hivel=127 offset=509 end=96683 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-16-WT47.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=16 offset=636 end=96513 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-32-OOM7.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=17 hivel=32 offset=489 end=96403 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-48-74WP.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=48 offset=580 end=97283 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-64-EFUP.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=49 hivel=64 offset=678 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-79-I5C7.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=79 offset=727 end=97171 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-95-MUVP.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=80 hivel=95 offset=606 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-111-1FLH.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=96 hivel=111 offset=663 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-66-127-E2YD.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=112 hivel=127 offset=561 end=96679 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-16-DL6F.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=16 offset=566 end=96654 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-32-LDVZ.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=17 hivel=32 offset=488 end=95645 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-48-Z3UB.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=48 offset=671 end=97593 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-64-WJ70.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=49 hivel=64 offset=703 end=97046 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-79-WFIQ.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=79 offset=642 end=97937 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-95-LDNQ.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=80 hivel=95 offset=649 end=97073 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-111-AHH7.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=96 hivel=111 offset=737 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-67-127-981D.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=112 hivel=127 offset=686 end=97688 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-16-B7P1.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=16 offset=748 end=97571 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-32-JUG0.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=17 hivel=32 offset=653 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-48-0RM0.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=48 offset=630 end=98191 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-64-2OHX.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=49 hivel=64 offset=590 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-79-DPKK.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=79 offset=599 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-95-I2MH.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=80 hivel=95 offset=670 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-111-04O6.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=96 hivel=111 offset=705 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-68-127-VLZJ.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=112 hivel=127 offset=683 end=96922 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-16-ULEQ.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=16 offset=611 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-32-AQEI.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=17 hivel=32 offset=621 end=97419 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-48-PWGH.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=48 offset=634 end=97299 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-64-5S2T.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=49 hivel=64 offset=645 end=98304 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-79-II7S.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=79 offset=525 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-95-PH26.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=80 hivel=95 offset=932 end=97701 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-111-YCMH.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=96 hivel=111 offset=681 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-69-127-YA7I.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=112 hivel=127 offset=685 end=97159 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-16-JQX7.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=16 offset=608 end=96922 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-32-HT3H.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=17 hivel=32 offset=698 end=97158 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-48-KPCP.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=48 offset=581 end=97554 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-64-KYPJ.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=49 hivel=64 offset=699 end=96793 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-79-OPXF.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=79 offset=711 end=97432 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-95-PKX7.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=80 hivel=95 offset=737 end=97677 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-111-2J1H.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=96 hivel=111 offset=614 end=97792 loop_mode=no_loop
+<region> sample=Weirdo Pluck-70-127-XVNK.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=112 hivel=127 offset=657 end=97825 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-16-5NHD.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=16 offset=502 end=97047 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-32-SNEH.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=17 hivel=32 offset=615 end=96921 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-48-9F4Z.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=48 offset=886 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-64-VWIJ.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=49 hivel=64 offset=677 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-79-FFII.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=79 offset=668 end=96785 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-95-R2Q0.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=80 hivel=95 offset=634 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-111-O9NF.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=96 hivel=111 offset=705 end=97815 loop_mode=no_loop
+<region> sample=Weirdo Pluck-71-127-OGXN.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=112 hivel=127 offset=579 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-16-9K75.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=16 offset=661 end=97178 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-32-2IN9.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=17 hivel=32 offset=589 end=32742 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-48-X9V3.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=48 offset=604 end=76421 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-64-E8AM.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=49 hivel=64 offset=700 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-79-L4QT.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=79 offset=714 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-95-W8L5.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=80 hivel=95 offset=687 end=10081 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-111-R0KF.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=96 hivel=111 offset=705 end=47023 loop_mode=no_loop
+<region> sample=Weirdo Pluck-72-127-O8ZE.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=112 hivel=127 offset=801 end=96654 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-16-1UPJ.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=16 offset=755 end=96128 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-32-RL9L.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=17 hivel=32 offset=607 end=104704 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-48-HLN0.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=48 offset=702 end=97426 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-64-FV0A.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=49 hivel=64 offset=744 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-79-DX1Q.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=79 offset=778 end=97290 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-95-KZ3V.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=80 hivel=95 offset=635 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-111-1O3Z.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=96 hivel=111 offset=781 loop_mode=no_loop
+<region> sample=Weirdo Pluck-73-127-92OU.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=112 hivel=127 offset=642 end=96928 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-16-4GRA.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=16 offset=692 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-32-WFKA.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=17 hivel=32 offset=743 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-48-I5GV.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=48 offset=509 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-64-0K7K.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=49 hivel=64 offset=754 end=97410 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-79-WT6C.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=79 offset=709 end=96776 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-95-O7G5.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=80 hivel=95 offset=673 end=98176 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-111-7J9Y.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=96 hivel=111 offset=699 end=103841 loop_mode=no_loop
+<region> sample=Weirdo Pluck-74-127-3ZFM.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=112 hivel=127 offset=694 end=97043 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-16-IVCS.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=16 offset=692 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-32-4JUP.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=17 hivel=32 offset=563 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-48-T84H.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=48 offset=679 end=95872 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-64-ZBG1.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=49 hivel=64 offset=619 end=97167 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-79-03NH.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=79 offset=770 end=98453 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-95-EEOD.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=80 hivel=95 offset=690 end=97282 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-111-CAU0.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=96 hivel=111 offset=579 end=96267 loop_mode=no_loop
+<region> sample=Weirdo Pluck-75-127-ASPG.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=112 hivel=127 offset=508 end=98560 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-16-A9VT.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=16 offset=689 end=97536 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-32-VMAC.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=17 hivel=32 offset=695 end=96642 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-48-9VVW.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=48 offset=725 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-64-FZ6D.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=49 hivel=64 offset=667 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-79-RBD5.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=79 offset=533 end=98050 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-95-GM8X.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=80 hivel=95 offset=659 end=96900 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-111-XK8S.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=96 hivel=111 offset=712 end=97410 loop_mode=no_loop
+<region> sample=Weirdo Pluck-76-127-ASJ2.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=112 hivel=127 offset=691 end=97557 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-16-UYZM.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=16 offset=684 end=98048 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-32-GCA1.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=17 hivel=32 offset=673 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-48-1QU7.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=48 offset=698 end=5555 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-64-AP5Q.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=49 hivel=64 offset=665 end=96395 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-79-XFVA.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=79 offset=592 end=98442 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-95-YRTX.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=80 hivel=95 offset=732 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-111-HEUU.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=96 hivel=111 offset=663 loop_mode=no_loop
+<region> sample=Weirdo Pluck-77-127-1H7D.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=112 hivel=127 offset=540 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-16-I95I.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=16 offset=728 end=97539 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-32-XT72.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=17 hivel=32 offset=841 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-48-SUY5.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=48 offset=595 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-64-B6KO.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=49 hivel=64 offset=728 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-79-I2V6.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=79 offset=555 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-95-Q3X7.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=80 hivel=95 offset=545 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-111-EH33.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=96 hivel=111 offset=584 loop_mode=no_loop
+<region> sample=Weirdo Pluck-78-127-PE61.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=112 hivel=127 offset=748 end=97291 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-16-DHVS.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=16 offset=490 end=97035 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-32-XEVA.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=17 hivel=32 offset=602 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-48-EOL0.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=48 offset=602 end=101767 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-64-BH3E.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=49 hivel=64 offset=686 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-79-8LXH.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=79 offset=762 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-95-0634.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=80 hivel=95 offset=673 end=97306 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-111-XZM2.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=96 hivel=111 offset=675 end=97028 loop_mode=no_loop
+<region> sample=Weirdo Pluck-79-127-DL63.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=112 hivel=127 offset=612 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-16-628B.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=16 offset=637 end=97415 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-32-ODDB.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=17 hivel=32 offset=684 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-48-OC1B.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=48 offset=598 end=97418 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-64-420D.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=49 hivel=64 offset=673 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-79-523T.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=79 offset=723 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-95-885B.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=80 hivel=95 offset=567 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-111-MAJ7.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=96 hivel=111 offset=689 end=97038 loop_mode=no_loop
+<region> sample=Weirdo Pluck-80-127-QJ6P.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=112 hivel=127 offset=798 end=97536 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-16-KB6S.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=16 offset=648 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-32-2BHE.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=17 hivel=32 offset=761 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-48-KJJS.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=48 offset=629 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-64-ZBEF.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=49 hivel=64 offset=734 end=96915 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-79-KOVL.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=79 offset=651 end=97426 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-95-D4H0.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=80 hivel=95 offset=523 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-111-CAEJ.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=96 hivel=111 offset=694 end=97920 loop_mode=no_loop
+<region> sample=Weirdo Pluck-81-127-GHLX.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=112 hivel=127 offset=511 end=45826 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-16-JYMB.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=16 offset=628 end=96384 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-32-IZKN.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=17 hivel=32 offset=595 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-48-HWUA.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=48 offset=658 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-64-628H.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=49 hivel=64 offset=540 end=96770 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-79-A8E2.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=79 offset=637 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-95-E8K5.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=80 hivel=95 offset=644 end=96781 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-111-CPAG.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=96 hivel=111 offset=690 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-82-127-U431.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=112 hivel=127 offset=665 end=96900 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-16-N659.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=16 offset=643 end=96401 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-32-LFFC.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=17 hivel=32 offset=842 end=96775 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-48-6BF4.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=48 offset=692 end=7885 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-64-VNI9.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=49 hivel=64 offset=604 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-79-GAEO.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=79 offset=793 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-95-W5NA.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=80 hivel=95 offset=662 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-111-F3JS.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=96 hivel=111 offset=565 end=96899 loop_mode=no_loop
+<region> sample=Weirdo Pluck-83-127-EHD3.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=112 hivel=127 offset=697 end=97156 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-16-GLF4.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=16 offset=747 end=5185 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-32-RHB3.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=17 hivel=32 offset=637 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-48-DUUW.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=33 hivel=48 offset=617 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-64-S8JA.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=49 hivel=64 offset=689 end=96902 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-79-GOYG.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=65 hivel=79 offset=724 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-95-QRRF.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=80 hivel=95 offset=740 end=97415 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-111-QYLO.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=96 hivel=111 offset=669 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-84-127-3C3N.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=112 hivel=127 offset=760 end=96655 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-16-415Q.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=16 offset=798 end=97154 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-32-QZQU.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=17 hivel=32 offset=607 end=96128 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-48-BOPF.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=33 hivel=48 offset=611 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-64-A5IG.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=49 hivel=64 offset=699 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-79-NA63.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=65 hivel=79 offset=656 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-95-BB9Q.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=80 hivel=95 offset=563 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-111-7PV2.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=96 hivel=111 offset=629 loop_mode=no_loop
+<region> sample=Weirdo Pluck-85-127-PQF8.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=112 hivel=127 offset=697 end=96902 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-16-FLB3.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=16 offset=674 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-32-G0FA.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=17 hivel=32 offset=574 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-48-XI3G.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=33 hivel=48 offset=535 end=96909 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-64-BKV3.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=49 hivel=64 offset=791 end=96640 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-79-NRR2.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=65 hivel=79 offset=672 end=96774 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-95-H40H.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=80 hivel=95 offset=646 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-111-DHT8.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=96 hivel=111 offset=654 end=96905 loop_mode=no_loop
+<region> sample=Weirdo Pluck-86-127-JYXN.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=112 hivel=127 offset=561 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-16-M2C5.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=16 offset=700 end=97536 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-32-CXE4.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=17 hivel=32 offset=695 end=96897 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-48-LK5G.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=33 hivel=48 offset=619 end=96512 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-64-ARFU.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=49 hivel=64 offset=792 end=96910 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-79-A4DU.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=65 hivel=79 offset=665 end=96906 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-95-1KO6.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=80 hivel=95 offset=588 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-111-9OXP.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=96 hivel=111 offset=680 end=96898 loop_mode=no_loop
+<region> sample=Weirdo Pluck-87-127-4C9I.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=112 hivel=127 offset=746 end=97156 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-16-H6H3.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=16 offset=688 end=96775 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-32-G0RV.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=17 hivel=32 offset=570 end=97414 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-48-S5T7.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=33 hivel=48 offset=683 end=96900 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-64-W60D.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=49 hivel=64 offset=585 end=96512 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-79-TVIF.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=65 hivel=79 offset=643 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-95-DES6.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=80 hivel=95 offset=721 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-111-R7B9.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=96 hivel=111 offset=675 end=97414 loop_mode=no_loop
+<region> sample=Weirdo Pluck-88-127-EYON.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=112 hivel=127 offset=620 end=97800 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-16-0S97.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=16 offset=759 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-32-FD5F.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=17 hivel=32 offset=677 end=98688 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-48-R2QB.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=33 hivel=48 offset=636 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-64-2448.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=49 hivel=64 offset=747 end=97418 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-79-L370.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=65 hivel=79 offset=596 end=97536 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-95-DUC9.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=80 hivel=95 offset=633 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-111-5X9B.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=96 hivel=111 offset=697 end=97408 loop_mode=no_loop
+<region> sample=Weirdo Pluck-89-127-5MIV.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=112 hivel=127 offset=706 end=99712 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-16-UBML.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=16 offset=616 end=98176 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-32-NU5K.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=17 hivel=32 offset=674 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-48-EMU0.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=33 hivel=48 offset=538 end=97028 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-64-6NOT.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=49 hivel=64 offset=732 end=97932 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-79-A7IF.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=65 hivel=79 offset=615 end=97291 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-95-1T8N.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=80 hivel=95 offset=665 end=96774 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-111-4AYA.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=96 hivel=111 offset=630 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-90-127-XCBX.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=112 hivel=127 offset=715 end=97420 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-16-7FCH.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=16 offset=760 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-32-SQ1E.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=17 hivel=32 offset=630 end=96778 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-48-QUSM.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=33 hivel=48 offset=687 end=96898 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-64-9EI4.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=49 hivel=64 offset=670 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-79-WV7I.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=65 hivel=79 offset=535 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-95-V492.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=80 hivel=95 offset=645 end=97792 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-111-2MZW.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=96 hivel=111 offset=647 loop_mode=no_loop
+<region> sample=Weirdo Pluck-91-127-2U1P.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=112 hivel=127 offset=666 end=97536 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-16-EB56.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=16 offset=693 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-32-7YFY.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=17 hivel=32 offset=565 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-48-0E5I.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=33 hivel=48 offset=684 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-64-YJNQ.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=49 hivel=64 offset=623 end=98304 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-79-WJVG.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=65 hivel=79 offset=577 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-95-ZBI3.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=80 hivel=95 offset=588 end=97664 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-111-47I3.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=96 hivel=111 offset=700 end=97540 loop_mode=no_loop
+<region> sample=Weirdo Pluck-92-127-SEZO.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=112 hivel=127 offset=767 end=96524 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-16-7B14.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=16 offset=682 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-32-FZIB.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=17 hivel=32 offset=771 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-48-8ZMT.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=33 hivel=48 offset=717 end=97286 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-64-472D.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=49 hivel=64 offset=597 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-79-TUC8.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=65 hivel=79 offset=750 end=97409 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-95-NZVM.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=80 hivel=95 offset=600 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-111-TY06.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=96 hivel=111 offset=583 end=96777 loop_mode=no_loop
+<region> sample=Weirdo Pluck-93-127-FLAK.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=112 hivel=127 offset=665 end=97409 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-16-A83Y.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=16 offset=702 end=96514 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-32-9DL9.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=17 hivel=32 offset=711 end=97542 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-48-Q7SL.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=33 hivel=48 offset=700 end=97413 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-64-KPS6.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=49 hivel=64 offset=639 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-79-OEKM.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=65 hivel=79 offset=645 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-95-5E8O.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=80 hivel=95 offset=708 end=96903 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-111-EX16.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=96 hivel=111 offset=637 end=97280 loop_mode=no_loop
+<region> sample=Weirdo Pluck-94-127-SK0D.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=112 hivel=127 offset=548 end=97161 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-16-TJKV.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=16 offset=611 end=97410 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-32-RCFB.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=17 hivel=32 offset=619 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-48-ED8Z.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=33 hivel=48 offset=662 end=96896 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-64-7QS6.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=49 hivel=64 offset=529 end=97152 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-79-60DE.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=65 hivel=79 offset=652 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-95-S4BW.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=80 hivel=95 offset=800 end=96906 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-111-DA28.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=96 hivel=111 offset=612 end=97927 loop_mode=no_loop
+<region> sample=Weirdo Pluck-95-127-D9I9.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=112 hivel=127 offset=677 end=97024 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-16-BGZZ.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=16 offset=492 end=97669 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-32-G1DL.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=17 hivel=32 offset=698 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-48-0HXW.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=33 hivel=48 offset=728 end=96768 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-64-X56M.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=49 hivel=64 offset=605 end=97282 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-79-Y5CR.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=65 hivel=79 offset=710 end=97031 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-95-S00B.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=80 hivel=95 offset=801 end=98432 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-111-N0MM.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=96 hivel=111 offset=590 end=97414 loop_mode=no_loop
+<region> sample=Weirdo Pluck-96-127-F0SU.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=112 hivel=127 offset=587 end=96898 loop_mode=no_loop

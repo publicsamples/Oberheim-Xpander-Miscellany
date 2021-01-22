@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Big Stack.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Big Stack/(2012619 221412)/
+
+<group>        // Big Stack
+<region> sample=Big Stack-36-127-V4MX.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245079 loop_end=338548
+<region> sample=Big Stack-37-127-4KCL.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=251895 loop_end=402599
+<region> sample=Big Stack-38-127-O5UY.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=321713 loop_end=402594
+<region> sample=Big Stack-39-127-9O0N.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=268225 loop_end=402437
+<region> sample=Big Stack-40-127-9D0R.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=246201 loop_end=294449
+<region> sample=Big Stack-41-127-AW8T.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=272438 loop_end=357522
+<region> sample=Big Stack-42-127-7JJR.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=272185 loop_end=336394
+<region> sample=Big Stack-43-127-9VJS.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=260235 loop_end=298100
+<region> sample=Big Stack-44-127-RZYF.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=247031 loop_end=287876
+<region> sample=Big Stack-45-127-B9H0.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=243409 loop_end=404201
+<region> sample=Big Stack-46-127-UQ9Z.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=338746 loop_end=372846
+<region> sample=Big Stack-47-127-GNQU.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=280199 loop_end=395531
+<region> sample=Big Stack-48-127-BOUS.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=333186 loop_end=366941
+<region> sample=Big Stack-49-127-LQ34.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=314565 loop_end=388623
+<region> sample=Big Stack-50-127-5F2P.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=323967 loop_end=393883
+<region> sample=Big Stack-51-127-SX4M.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=259876 loop_end=303079
+<region> sample=Big Stack-52-127-BOAK.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=264516 loop_end=310127
+<region> sample=Big Stack-53-127-6A3Y.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=251651 loop_end=356993
+<region> sample=Big Stack-54-127-QKTR.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=269149 loop_end=307349
+<region> sample=Big Stack-55-127-5T51.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=250992 loop_end=287548
+<region> sample=Big Stack-56-127-BW1L.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=287966 loop_end=322429
+<region> sample=Big Stack-57-127-MXYU.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=341468 loop_end=374005
+<region> sample=Big Stack-58-127-IBZC.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=256037 loop_end=402152
+<region> sample=Big Stack-59-127-4TB0.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=327521 loop_end=404164
+<region> sample=Big Stack-60-127-JIZC.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=297741 loop_end=369413
+<region> sample=Big Stack-61-127-U1EF.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=344658 loop_end=383891
+<region> sample=Big Stack-62-127-LZSD.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=298573 loop_end=336805
+<region> sample=Big Stack-63-127-OJJ2.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=283307 loop_end=331360
+<region> sample=Big Stack-64-127-Y33Z.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=333226 loop_end=393051
+<region> sample=Big Stack-65-127-ZQVM.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=295990 loop_end=341828
+<region> sample=Big Stack-66-127-52QD.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=257103 loop_end=381881
+<region> sample=Big Stack-67-127-Q4PM.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=295836 loop_end=336433
+<region> sample=Big Stack-68-127-IP4P.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245186 loop_end=368470
+<region> sample=Big Stack-69-127-TZYE.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=314740 loop_end=394931
+<region> sample=Big Stack-70-127-I0FJ.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=270495 loop_end=390170
+<region> sample=Big Stack-71-127-PO8S.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=308146 loop_end=402857
+<region> sample=Big Stack-72-127-16TY.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=249233 loop_end=287428
+<region> sample=Big Stack-73-127-IUFK.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=271081 loop_end=403267
+<region> sample=Big Stack-74-127-BCJW.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=271124 loop_end=311789
+<region> sample=Big Stack-75-127-AB1L.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=257661 loop_end=402465
+<region> sample=Big Stack-76-127-AJZG.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=256338 loop_end=347282
+<region> sample=Big Stack-77-127-U8E9.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=331030 loop_end=370663
+<region> sample=Big Stack-78-127-Z1QY.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=288737 loop_end=338556
+<region> sample=Big Stack-79-127-79WU.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=278290 loop_end=398155
+<region> sample=Big Stack-80-127-BIVA.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=319101 loop_end=400198
+<region> sample=Big Stack-81-127-E0YN.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=268513 loop_end=386544
+<region> sample=Big Stack-82-127-9ILF.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=279821 loop_end=400082
+<region> sample=Big Stack-83-127-X7D0.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=323918 loop_end=404118
+<region> sample=Big Stack-84-127-SEXY.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=290627 loop_end=403235
+<region> sample=Big Stack-85-127-AUYU.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=321363 loop_end=358996
+<region> sample=Big Stack-86-127-KHUU.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=243976 loop_end=392798
+<region> sample=Big Stack-87-127-VQ5W.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=286238 loop_end=366388
+<region> sample=Big Stack-88-127-XK9K.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=362936 loop_end=403844
+<region> sample=Big Stack-89-127-LQZ1.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=307172 loop_end=344903
+<region> sample=Big Stack-90-127-N4YV.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=269325 loop_end=360371
+<region> sample=Big Stack-91-127-Y1XO.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=258459 loop_end=393635
+<region> sample=Big Stack-92-127-D8HY.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=329263 loop_end=390979
+<region> sample=Big Stack-93-127-QJRE.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=253176 loop_end=403707
+<region> sample=Big Stack-94-127-RRNV.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=347416 loop_end=399737
+<region> sample=Big Stack-95-127-XZKC.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=287452 loop_end=326986
+<region> sample=Big Stack-96-127-H3F2.aif key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=255320 loop_end=359522

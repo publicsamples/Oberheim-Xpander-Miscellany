@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Some Bass.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Some Bass/
+
+<group>        // Some Bass
+<region> sample=Some Bass-48-127.aif key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=1 hivel=127 offset=774 end=451351 loop_mode=loop_continuous loop_start=233052 loop_end=367185
+<region> sample=Some Bass-49-127.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 offset=575 loop_mode=loop_continuous loop_start=260638 loop_end=361767
+<region> sample=Some Bass-50-127.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 offset=560 loop_mode=loop_continuous loop_start=295672 loop_end=378621
+<region> sample=Some Bass-51-127.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 offset=350 end=451014 loop_mode=loop_continuous loop_start=240216 loop_end=304268
+<region> sample=Some Bass-52-127.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 offset=379 loop_mode=loop_continuous loop_start=253583 loop_end=334921
+<region> sample=Some Bass-53-127.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 offset=442 loop_mode=loop_continuous loop_start=244211 loop_end=394218
+<region> sample=Some Bass-54-127.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 offset=716 end=451729 loop_mode=loop_continuous loop_start=251273 loop_end=374700
+<region> sample=Some Bass-55-127.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 offset=623 loop_mode=loop_continuous loop_start=277984 loop_end=330207
+<region> sample=Some Bass-56-127.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 offset=773 end=450337 loop_mode=loop_continuous loop_start=256599 loop_end=400976
+<region> sample=Some Bass-57-127.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 offset=674 loop_mode=loop_continuous loop_start=293168 loop_end=330441
+<region> sample=Some Bass-58-127.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 offset=360 end=449977 loop_mode=loop_continuous loop_start=275172 loop_end=317157
+<region> sample=Some Bass-59-127.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 offset=512 loop_mode=loop_continuous loop_start=315809 loop_end=400403
+<region> sample=Some Bass-60-127.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 offset=782 end=451200 loop_mode=loop_continuous loop_start=334033 loop_end=392379
+<region> sample=Some Bass-61-127.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 offset=586 end=450688 loop_mode=loop_continuous loop_start=283745 loop_end=391596
+<region> sample=Some Bass-62-127.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 offset=430 end=450816 loop_mode=loop_continuous loop_start=228165 loop_end=394225
+<region> sample=Some Bass-63-127.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 offset=382 loop_mode=loop_continuous loop_start=329072 loop_end=379520
+<region> sample=Some Bass-64-127.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 offset=384 loop_mode=loop_continuous loop_start=231327 loop_end=280272
+<region> sample=Some Bass-65-127.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 offset=354 end=450944 loop_mode=loop_continuous loop_start=327524 loop_end=364395
+<region> sample=Some Bass-66-127.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 offset=650 loop_mode=loop_continuous loop_start=288480 loop_end=380702
+<region> sample=Some Bass-67-127.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 offset=801 loop_mode=loop_continuous loop_start=314809 loop_end=364740
+<region> sample=Some Bass-68-127.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 offset=466 loop_mode=loop_continuous loop_start=295978 loop_end=346520
+<region> sample=Some Bass-69-127.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 offset=797 end=451968 loop_mode=loop_continuous loop_start=222644 loop_end=401415
+<region> sample=Some Bass-70-127.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 offset=643 loop_mode=loop_continuous loop_start=275669 loop_end=333374
+<region> sample=Some Bass-71-127.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 offset=541 loop_mode=loop_continuous loop_start=318530 loop_end=400309
+<region> sample=Some Bass-72-127.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 offset=528 end=450189 loop_mode=loop_continuous loop_start=304436 loop_end=398969
+<region> sample=Some Bass-73-127.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 offset=346 end=450070 loop_mode=loop_continuous loop_start=239024 loop_end=400454
+<region> sample=Some Bass-74-127.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 offset=597 loop_mode=loop_continuous loop_start=270833 loop_end=397216
+<region> sample=Some Bass-75-127.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 offset=734 end=450432 loop_mode=loop_continuous loop_start=239366 loop_end=396895
+<region> sample=Some Bass-76-127.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 offset=634 loop_mode=loop_continuous loop_start=248312 loop_end=400419
+<region> sample=Some Bass-77-127.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 offset=680 end=450304 loop_mode=loop_continuous loop_start=319170 loop_end=355276
+<region> sample=Some Bass-78-127.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 offset=451 end=450315 loop_mode=loop_continuous loop_start=268299 loop_end=326093
+<region> sample=Some Bass-79-127.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 offset=409 end=451727 loop_mode=loop_continuous loop_start=277949 loop_end=392443
+<region> sample=Some Bass-80-127.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 offset=456 loop_mode=loop_continuous loop_start=271326 loop_end=402173
+<region> sample=Some Bass-81-127.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 offset=322 end=450321 loop_mode=loop_continuous loop_start=345143 loop_end=385415
+<region> sample=Some Bass-82-127.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 offset=625 loop_mode=loop_continuous loop_start=345603 loop_end=401946
+<region> sample=Some Bass-83-127.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 offset=641 loop_mode=loop_continuous loop_start=228589 loop_end=280967
+<region> sample=Some Bass-84-127.aif key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=1 hivel=127 offset=540 loop_mode=loop_continuous loop_start=352572 loop_end=391330

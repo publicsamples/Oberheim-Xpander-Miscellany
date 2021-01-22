@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ARP ME.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Waves/Sine 2 FM/Sine 2 FM/
+
+<group>        // Sine 2 FM
+<region> sample=Sine 2 FM116038-RBLN.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=1 hivel=16 offset=396 end=704431 loop_mode=no_loop
+<region> sample=Sine 2 FM1732038-D7PM.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=17 hivel=32 offset=561 end=705259 loop_mode=no_loop
+<region> sample=Sine 2 FM3348038-OQOS.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=33 hivel=48 offset=775 end=709686 loop_mode=no_loop
+<region> sample=Sine 2 FM4964038-DOZA.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=49 hivel=64 offset=544 loop_mode=no_loop
+<region> sample=Sine 2 FM6579038-TIW4.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=65 hivel=79 offset=772 end=706553 loop_mode=no_loop
+<region> sample=Sine 2 FM8095038-SW5Y.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=80 hivel=95 offset=550 loop_mode=no_loop
+<region> sample=Sine 2 FM96111038-SQHD.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=96 hivel=111 offset=756 end=705205 loop_mode=no_loop
+<region> sample=Sine 2 FM112127038-FV1N.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=112 hivel=127 offset=615 end=705027 loop_mode=no_loop
+<region> sample=Sine 2 FM1163945-C9VJ.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=1 hivel=16 offset=587 end=709428 loop_mode=no_loop
+<region> sample=Sine 2 FM17323945-ARCA.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=17 hivel=32 offset=445 loop_mode=no_loop
+<region> sample=Sine 2 FM33483945-1POS.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=33 hivel=48 offset=768 end=706537 loop_mode=no_loop
+<region> sample=Sine 2 FM49643945-F6F7.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=49 hivel=64 offset=540 loop_mode=no_loop
+<region> sample=Sine 2 FM65793945-6TJI.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=65 hivel=79 offset=654 end=704833 loop_mode=no_loop
+<region> sample=Sine 2 FM80953945-6P50.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=80 hivel=95 offset=490 end=705067 loop_mode=no_loop
+<region> sample=Sine 2 FM961113945-MTPY.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=96 hivel=111 offset=575 end=709950 loop_mode=no_loop
+<region> sample=Sine 2 FM1121273945-EXE7.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=112 hivel=127 offset=679 end=704157 loop_mode=no_loop
+<region> sample=Sine 2 FM1164652-SSHL.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=1 hivel=16 offset=683 end=706449 loop_mode=no_loop
+<region> sample=Sine 2 FM17324652-FHBD.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=17 hivel=32 offset=461 end=705252 loop_mode=no_loop
+<region> sample=Sine 2 FM33484652-B9AG.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=33 hivel=48 offset=499 end=704758 loop_mode=no_loop
+<region> sample=Sine 2 FM49644652-HMKJ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=49 hivel=64 offset=506 end=705074 loop_mode=no_loop
+<region> sample=Sine 2 FM65794652-Y23A.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=65 hivel=79 offset=410 end=709476 loop_mode=no_loop
+<region> sample=Sine 2 FM80954652-5XOQ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=80 hivel=95 offset=754 end=704102 loop_mode=no_loop
+<region> sample=Sine 2 FM961114652-TGHP.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=96 hivel=111 offset=531 loop_mode=no_loop
+<region> sample=Sine 2 FM1121274652-IUSA.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=112 hivel=127 offset=718 loop_mode=no_loop
+<region> sample=Sine 2 FM1165359-204M.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=1 hivel=16 offset=615 loop_mode=no_loop
+<region> sample=Sine 2 FM17325359-FT6B.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=17 hivel=32 offset=671 end=704788 loop_mode=no_loop
+<region> sample=Sine 2 FM33485359-A0FA.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=33 hivel=48 offset=336 end=709744 loop_mode=no_loop
+<region> sample=Sine 2 FM49645359-R2SZ.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=49 hivel=64 offset=413 end=704163 loop_mode=no_loop
+<region> sample=Sine 2 FM65795359-CYLQ.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=65 hivel=79 offset=846 end=706568 loop_mode=no_loop
+<region> sample=Sine 2 FM80955359-XYB3.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=80 hivel=95 offset=323 loop_mode=no_loop
+<region> sample=Sine 2 FM961115359-NAUJ.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=96 hivel=111 offset=585 end=705038 loop_mode=no_loop
+<region> sample=Sine 2 FM1121275359-EQ11.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=112 hivel=127 offset=423 end=705810 loop_mode=no_loop
+<region> sample=Sine 2 FM1166066-N7LR.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=1 hivel=16 offset=802 end=710322 loop_mode=no_loop
+<region> sample=Sine 2 FM17326066-KSQ7.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=17 hivel=32 offset=400 end=703882 loop_mode=no_loop
+<region> sample=Sine 2 FM33486066-08R1.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=33 hivel=48 offset=596 loop_mode=no_loop
+<region> sample=Sine 2 FM49646066-8J9I.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=49 hivel=64 offset=663 end=705479 loop_mode=no_loop
+<region> sample=Sine 2 FM65796066-PH7L.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=65 hivel=79 offset=522 end=705596 loop_mode=no_loop
+<region> sample=Sine 2 FM80956066-E6OX.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=80 hivel=95 offset=746 loop_mode=no_loop
+<region> sample=Sine 2 FM961116066-B1NV.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=96 hivel=111 offset=669 end=710197 loop_mode=no_loop
+<region> sample=Sine 2 FM1121276066-RJ1H.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=112 hivel=127 offset=680 end=703865 loop_mode=no_loop
+<region> sample=Sine 2 FM1166773-WIF3.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=1 hivel=16 offset=554 end=706605 loop_mode=no_loop
+<region> sample=Sine 2 FM17326773-FHQ1.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=17 hivel=32 offset=331 end=705162 loop_mode=no_loop
+<region> sample=Sine 2 FM33486773-P8D9.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=33 hivel=48 offset=598 loop_mode=no_loop
+<region> sample=Sine 2 FM49646773-A836.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=49 hivel=64 offset=396 end=705772 loop_mode=no_loop
+<region> sample=Sine 2 FM65796773-47J5.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=65 hivel=79 offset=465 end=709614 loop_mode=no_loop
+<region> sample=Sine 2 FM80956773-X2Q8.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=80 hivel=95 offset=426 end=703856 loop_mode=no_loop
+<region> sample=Sine 2 FM961116773-R168.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=96 hivel=111 offset=379 end=706294 loop_mode=no_loop
+<region> sample=Sine 2 FM1121276773-5MIT.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=112 hivel=127 offset=581 end=705193 loop_mode=no_loop
+<region> sample=Sine 2 FM1167480-R41S.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=1 hivel=16 offset=799 loop_mode=no_loop
+<region> sample=Sine 2 FM17327480-OTLI.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=17 hivel=32 offset=348 end=704653 loop_mode=no_loop
+<region> sample=Sine 2 FM33487480-9CL0.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=33 hivel=48 offset=430 end=709402 loop_mode=no_loop
+<region> sample=Sine 2 FM49647480-I2JE.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=49 hivel=64 offset=307 end=704221 loop_mode=no_loop
+<region> sample=Sine 2 FM65797480-XIY8.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=65 hivel=79 offset=387 end=706657 loop_mode=no_loop
+<region> sample=Sine 2 FM80957480-9DML.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=80 hivel=95 offset=401 end=705103 loop_mode=no_loop
+<region> sample=Sine 2 FM961117480-IDHC.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=96 hivel=111 offset=374 loop_mode=no_loop
+<region> sample=Sine 2 FM1121277480-PU01.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=112 hivel=127 offset=802 loop_mode=no_loop
+<region> sample=Sine 2 FM1168187-E9RT.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=1 hivel=16 offset=602 loop_mode=no_loop
+<region> sample=Sine 2 FM17328187-7C8Y.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=17 hivel=32 offset=328 end=703812 loop_mode=no_loop
+<region> sample=Sine 2 FM33488187-5TUW.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=33 hivel=48 offset=558 loop_mode=no_loop
+<region> sample=Sine 2 FM49648187-8NLR.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=49 hivel=64 offset=692 end=705047 loop_mode=no_loop
+<region> sample=Sine 2 FM65798187-VOBI.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=65 hivel=79 offset=364 end=705484 loop_mode=no_loop
+<region> sample=Sine 2 FM80958187-HMW6.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=80 hivel=95 offset=544 end=705254 loop_mode=no_loop
+<region> sample=Sine 2 FM961118187-TUMR.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=96 hivel=111 offset=499 loop_mode=no_loop
+<region> sample=Sine 2 FM1121278187-I8EC.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=112 hivel=127 offset=563 end=703930 loop_mode=no_loop
+<region> sample=Sine 2 FM1168894-IH39.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=1 hivel=16 offset=684 end=706353 loop_mode=no_loop
+<region> sample=Sine 2 FM17328894-WVYY.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=17 hivel=32 offset=595 end=704589 loop_mode=no_loop
+<region> sample=Sine 2 FM33488894-QPY8.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=33 hivel=48 offset=607 end=705025 loop_mode=no_loop
+<region> sample=Sine 2 FM49648894-F3VF.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=49 hivel=64 offset=476 end=705496 loop_mode=no_loop
+<region> sample=Sine 2 FM65798894-X42J.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=65 hivel=79 offset=363 end=709150 loop_mode=no_loop
+<region> sample=Sine 2 FM80958894-OLT5.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=80 hivel=95 offset=356 end=704059 loop_mode=no_loop
+<region> sample=Sine 2 FM961118894-132J.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=96 hivel=111 offset=764 end=706605 loop_mode=no_loop
+<region> sample=Sine 2 FM1121278894-PP30.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=112 hivel=127 offset=561 loop_mode=no_loop
+<region> sample=Sine 2 FM11695127-7RD7.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=1 hivel=16 offset=786 end=705478 loop_mode=no_loop
+<region> sample=Sine 2 FM173295127-MYRU.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=17 hivel=32 offset=816 end=705920 loop_mode=no_loop
+<region> sample=Sine 2 FM334895127-GXU3.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=33 hivel=48 offset=306 end=709330 loop_mode=no_loop
+<region> sample=Sine 2 FM496495127-ICVZ.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=49 hivel=64 offset=803 end=704155 loop_mode=no_loop
+<region> sample=Sine 2 FM657995127-AYM6.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=65 hivel=79 offset=500 end=705772 loop_mode=no_loop
+<region> sample=Sine 2 FM809595127-OKOM.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=80 hivel=95 offset=683 end=705136 loop_mode=no_loop
+<region> sample=Sine 2 FM9611195127-1R1O.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=96 hivel=111 offset=478 end=705077 loop_mode=no_loop
+<region> sample=Sine 2 FM11212795127-BDML.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=112 hivel=127 offset=383 loop_mode=no_loop

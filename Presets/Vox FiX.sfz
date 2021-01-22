@@ -1,0 +1,154 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Vox FiX.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Vox FX/
+
+<group>        // Vox FX
+<region> sample=Vox FX-48-42-EH08.wav key=48 lokey=1 hikey=48  amp_veltrack=30 lovel=1 hivel=42 offset=1043 end=909290 loop_mode=no_loop
+<region> sample=Vox FX-48-85-3EE0.wav key=48 lokey=1 hikey=48  amp_veltrack=30 lovel=43 hivel=85 offset=1013 loop_mode=no_loop
+<region> sample=Vox FX-48-127-RQLX.wav key=48 lokey=1 hikey=48  amp_veltrack=30 lovel=86 hivel=127 offset=907 end=909312 loop_mode=no_loop
+<region> sample=Vox FX-49-42-DUXO.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=42 offset=1001 end=908545 loop_mode=no_loop
+<region> sample=Vox FX-49-85-CUOY.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=43 hivel=85 offset=1144 loop_mode=no_loop
+<region> sample=Vox FX-49-127-RRAQ.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=86 hivel=127 offset=1297 loop_mode=no_loop
+<region> sample=Vox FX-50-42-1IGI.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=42 offset=925 loop_mode=no_loop
+<region> sample=Vox FX-50-85-46F4.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=43 hivel=85 offset=1068 end=909242 loop_mode=no_loop
+<region> sample=Vox FX-50-127-OUMK.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=86 hivel=127 offset=955 end=909826 loop_mode=no_loop
+<region> sample=Vox FX-51-42-1D0R.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=42 offset=804 end=908672 loop_mode=no_loop
+<region> sample=Vox FX-51-85-UM9Z.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=43 hivel=85 offset=1004 end=916352 loop_mode=no_loop
+<region> sample=Vox FX-51-127-7QTD.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=86 hivel=127 offset=943 end=906376 loop_mode=no_loop
+<region> sample=Vox FX-52-42-E4FC.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=42 offset=941 end=910416 loop_mode=no_loop
+<region> sample=Vox FX-52-85-XITC.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=43 hivel=85 offset=797 end=908618 loop_mode=no_loop
+<region> sample=Vox FX-52-127-625C.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=86 hivel=127 offset=1049 end=909312 loop_mode=no_loop
+<region> sample=Vox FX-53-42-M4M5.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=42 offset=928 end=909653 loop_mode=no_loop
+<region> sample=Vox FX-53-85-K5TK.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=43 hivel=85 offset=1151 loop_mode=no_loop
+<region> sample=Vox FX-53-127-OXY2.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=86 hivel=127 offset=961 end=907648 loop_mode=no_loop
+<region> sample=Vox FX-54-42-S83G.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=42 offset=1050 end=911154 loop_mode=no_loop
+<region> sample=Vox FX-54-85-M1K6.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=43 hivel=85 offset=965 end=909058 loop_mode=no_loop
+<region> sample=Vox FX-54-127-N329.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=86 hivel=127 offset=1112 end=909743 loop_mode=no_loop
+<region> sample=Vox FX-55-42-4TEY.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=42 offset=1131 end=908551 loop_mode=no_loop
+<region> sample=Vox FX-55-85-BYZ5.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=43 hivel=85 offset=873 end=916864 loop_mode=no_loop
+<region> sample=Vox FX-55-127-R2VT.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=86 hivel=127 offset=936 end=907539 loop_mode=no_loop
+<region> sample=Vox FX-56-42-5GXN.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=42 offset=965 end=910296 loop_mode=no_loop
+<region> sample=Vox FX-56-85-N8ZT.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=43 hivel=85 offset=973 end=908977 loop_mode=no_loop
+<region> sample=Vox FX-56-127-I7M3.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=86 hivel=127 offset=1110 loop_mode=no_loop
+<region> sample=Vox FX-57-42-7BDC.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=42 offset=856 end=910038 loop_mode=no_loop
+<region> sample=Vox FX-57-85-4X8M.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=43 hivel=85 offset=960 loop_mode=no_loop
+<region> sample=Vox FX-57-127-56SM.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=86 hivel=127 offset=1142 end=908290 loop_mode=no_loop
+<region> sample=Vox FX-58-42-A8FN.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=42 offset=894 end=909986 loop_mode=no_loop
+<region> sample=Vox FX-58-85-ITKI.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=43 hivel=85 offset=1135 end=909261 loop_mode=no_loop
+<region> sample=Vox FX-58-127-WHWI.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=86 hivel=127 offset=857 end=909222 loop_mode=no_loop
+<region> sample=Vox FX-59-42-OC1V.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=42 offset=1135 end=909103 loop_mode=no_loop
+<region> sample=Vox FX-59-85-2T9G.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=43 hivel=85 offset=991 end=916224 loop_mode=no_loop
+<region> sample=Vox FX-59-127-LNLJ.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=86 hivel=127 offset=1098 end=908453 loop_mode=no_loop
+<region> sample=Vox FX-60-42-X1EH.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=42 offset=1119 end=909826 loop_mode=no_loop
+<region> sample=Vox FX-60-85-UPB3.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=43 hivel=85 offset=931 end=909570 loop_mode=no_loop
+<region> sample=Vox FX-60-127-QN85.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=86 hivel=127 offset=1131 end=909312 loop_mode=no_loop
+<region> sample=Vox FX-61-42-TUZR.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=42 offset=1074 loop_mode=no_loop
+<region> sample=Vox FX-61-85-IIYF.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=43 hivel=85 offset=1110 loop_mode=no_loop
+<region> sample=Vox FX-61-127-L7FJ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=86 hivel=127 offset=827 end=907776 loop_mode=no_loop
+<region> sample=Vox FX-62-42-504C.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=42 offset=1144 end=909312 loop_mode=no_loop
+<region> sample=Vox FX-62-85-KKCA.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=43 hivel=85 offset=1102 end=909568 loop_mode=no_loop
+<region> sample=Vox FX-62-127-VSXK.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=86 hivel=127 offset=1125 loop_mode=no_loop
+<region> sample=Vox FX-63-42-Y8WC.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=42 offset=1011 loop_mode=no_loop
+<region> sample=Vox FX-63-85-57YP.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=43 hivel=85 offset=945 loop_mode=no_loop
+<region> sample=Vox FX-63-127-TOWW.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=86 hivel=127 offset=1394 end=907663 loop_mode=no_loop
+<region> sample=Vox FX-64-42-TP88.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=42 offset=1120 end=910464 loop_mode=no_loop
+<region> sample=Vox FX-64-85-41OE.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=43 hivel=85 offset=1094 loop_mode=no_loop
+<region> sample=Vox FX-64-127-V80W.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=86 hivel=127 offset=991 end=909696 loop_mode=no_loop
+<region> sample=Vox FX-65-42-L6L5.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=42 offset=1127 end=909184 loop_mode=no_loop
+<region> sample=Vox FX-65-85-0OKA.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=43 hivel=85 offset=1023 end=916097 loop_mode=no_loop
+<region> sample=Vox FX-65-127-VZ0K.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=86 hivel=127 offset=1133 loop_mode=no_loop
+<region> sample=Vox FX-66-42-DTMD.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=42 offset=990 loop_mode=no_loop
+<region> sample=Vox FX-66-85-B55D.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=43 hivel=85 offset=980 end=908820 loop_mode=no_loop
+<region> sample=Vox FX-66-127-C23I.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=86 hivel=127 offset=1133 loop_mode=no_loop
+<region> sample=Vox FX-67-42-PSOI.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=42 offset=966 end=909349 loop_mode=no_loop
+<region> sample=Vox FX-67-85-3X0R.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=43 hivel=85 offset=1021 loop_mode=no_loop
+<region> sample=Vox FX-67-127-EIPB.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=86 hivel=127 offset=1007 end=907904 loop_mode=no_loop
+<region> sample=Vox FX-68-42-9FAS.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=42 offset=1110 end=910757 loop_mode=no_loop
+<region> sample=Vox FX-68-85-HFPH.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=43 hivel=85 offset=1133 loop_mode=no_loop
+<region> sample=Vox FX-68-127-XQNB.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=86 hivel=127 offset=1132 end=909440 loop_mode=no_loop
+<region> sample=Vox FX-69-42-YJ4D.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=42 offset=1006 end=909696 loop_mode=no_loop
+<region> sample=Vox FX-69-85-WDJR.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=43 hivel=85 offset=868 loop_mode=no_loop
+<region> sample=Vox FX-69-127-YM7M.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=86 hivel=127 offset=1115 end=907904 loop_mode=no_loop
+<region> sample=Vox FX-70-42-6KB2.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=42 offset=1140 loop_mode=no_loop
+<region> sample=Vox FX-70-85-NHTO.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=43 hivel=85 offset=1014 end=909056 loop_mode=no_loop
+<region> sample=Vox FX-70-127-ON6T.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=86 hivel=127 offset=1146 end=909444 loop_mode=no_loop
+<region> sample=Vox FX-71-42-9PGF.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=42 offset=1053 loop_mode=no_loop
+<region> sample=Vox FX-71-85-6OQG.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=43 hivel=85 offset=982 loop_mode=no_loop
+<region> sample=Vox FX-71-127-HCYE.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=86 hivel=127 offset=1023 end=908818 loop_mode=no_loop
+<region> sample=Vox FX-72-42-NFRJ.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=42 offset=1011 end=909454 loop_mode=no_loop
+<region> sample=Vox FX-72-85-UAS5.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=43 hivel=85 offset=873 end=910981 loop_mode=no_loop
+<region> sample=Vox FX-72-127-C2J2.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=86 hivel=127 offset=1144 loop_mode=no_loop
+<region> sample=Vox FX-73-42-HJDC.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=42 offset=1124 end=909440 loop_mode=no_loop
+<region> sample=Vox FX-73-85-PBTV.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=43 hivel=85 offset=857 end=915884 loop_mode=no_loop
+<region> sample=Vox FX-73-127-SD23.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=86 hivel=127 offset=947 end=908288 loop_mode=no_loop
+<region> sample=Vox FX-74-42-ZLAW.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=42 offset=1007 end=909956 loop_mode=no_loop
+<region> sample=Vox FX-74-85-OU9Q.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=43 hivel=85 offset=1090 loop_mode=no_loop
+<region> sample=Vox FX-74-127-QIND.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=86 hivel=127 offset=1126 loop_mode=no_loop
+<region> sample=Vox FX-75-42-C4E7.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=42 offset=1111 loop_mode=no_loop
+<region> sample=Vox FX-75-85-68YQ.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=43 hivel=85 offset=943 end=916496 loop_mode=no_loop
+<region> sample=Vox FX-75-127-QS35.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=86 hivel=127 offset=989 end=908032 loop_mode=no_loop
+<region> sample=Vox FX-76-42-KP79.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=42 offset=991 loop_mode=no_loop
+<region> sample=Vox FX-76-85-EU4I.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=43 hivel=85 offset=1008 end=909584 loop_mode=no_loop
+<region> sample=Vox FX-76-127-ZT7Y.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=86 hivel=127 offset=1131 end=909068 loop_mode=no_loop
+<region> sample=Vox FX-77-42-GQ0I.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=42 offset=1003 loop_mode=no_loop
+<region> sample=Vox FX-77-85-DUNE.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=43 hivel=85 offset=885 end=918656 loop_mode=no_loop
+<region> sample=Vox FX-77-127-8ITO.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=86 hivel=127 offset=994 loop_mode=no_loop
+<region> sample=Vox FX-78-42-VYPV.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=42 offset=1021 loop_mode=no_loop
+<region> sample=Vox FX-78-85-9ODD.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=43 hivel=85 offset=1012 end=909824 loop_mode=no_loop
+<region> sample=Vox FX-78-127-RY7T.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=86 hivel=127 offset=1146 end=908800 loop_mode=no_loop
+<region> sample=Vox FX-79-42-NT0H.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=42 offset=1002 end=909327 loop_mode=no_loop
+<region> sample=Vox FX-79-85-82ZY.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=43 hivel=85 offset=982 loop_mode=no_loop
+<region> sample=Vox FX-79-127-I68L.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=86 hivel=127 offset=1121 loop_mode=no_loop
+<region> sample=Vox FX-80-42-ZOZG.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=42 offset=979 end=910336 loop_mode=no_loop
+<region> sample=Vox FX-80-85-D8YO.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=43 hivel=85 offset=1139 end=909457 loop_mode=no_loop
+<region> sample=Vox FX-80-127-PYSZ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=86 hivel=127 offset=1023 end=909696 loop_mode=no_loop
+<region> sample=Vox FX-81-42-YBIQ.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=42 offset=978 end=909185 loop_mode=no_loop
+<region> sample=Vox FX-81-85-R2BY.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=43 hivel=85 offset=747 end=916480 loop_mode=no_loop
+<region> sample=Vox FX-81-127-G27G.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=86 hivel=127 offset=1014 end=907520 loop_mode=no_loop
+<region> sample=Vox FX-82-42-BB4Q.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=42 offset=967 loop_mode=no_loop
+<region> sample=Vox FX-82-85-GZRC.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=43 hivel=85 offset=1009 loop_mode=no_loop
+<region> sample=Vox FX-82-127-YF98.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=86 hivel=127 offset=959 end=909952 loop_mode=no_loop
+<region> sample=Vox FX-83-42-IZLH.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=42 offset=1151 loop_mode=no_loop
+<region> sample=Vox FX-83-85-PKUL.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=43 hivel=85 offset=877 end=916490 loop_mode=no_loop
+<region> sample=Vox FX-83-127-V4EB.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=86 hivel=127 offset=1009 end=908160 loop_mode=no_loop
+<region> sample=Vox FX-84-42-NISN.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=42 offset=1112 loop_mode=no_loop
+<region> sample=Vox FX-84-85-9GO0.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=43 hivel=85 offset=1007 end=910470 loop_mode=no_loop
+<region> sample=Vox FX-84-127-JSGB.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=86 hivel=127 offset=1020 end=909698 loop_mode=no_loop
+<region> sample=Vox FX-85-42-0I47.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=42 offset=992 loop_mode=no_loop
+<region> sample=Vox FX-85-85-J2ZD.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=43 hivel=85 offset=994 end=916875 loop_mode=no_loop
+<region> sample=Vox FX-85-127-ECM8.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=86 hivel=127 offset=1052 end=908160 loop_mode=no_loop
+<region> sample=Vox FX-86-42-SANP.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=42 offset=1149 loop_mode=no_loop
+<region> sample=Vox FX-86-85-WE2Q.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=43 hivel=85 offset=865 loop_mode=no_loop
+<region> sample=Vox FX-86-127-8KF5.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=86 hivel=127 offset=1083 end=909312 loop_mode=no_loop
+<region> sample=Vox FX-87-42-HMFX.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=42 offset=992 end=909319 loop_mode=no_loop
+<region> sample=Vox FX-87-85-V6RY.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=43 hivel=85 offset=1123 end=916489 loop_mode=no_loop
+<region> sample=Vox FX-87-127-TRAV.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=86 hivel=127 offset=1146 end=908934 loop_mode=no_loop
+<region> sample=Vox FX-88-42-IZ1S.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=42 offset=1023 end=910338 loop_mode=no_loop
+<region> sample=Vox FX-88-85-ZJDW.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=43 hivel=85 offset=960 end=910477 loop_mode=no_loop
+<region> sample=Vox FX-88-127-97BC.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=86 hivel=127 offset=1006 loop_mode=no_loop
+<region> sample=Vox FX-89-42-7W7N.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=42 offset=991 loop_mode=no_loop
+<region> sample=Vox FX-89-85-36ZF.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=43 hivel=85 offset=849 loop_mode=no_loop
+<region> sample=Vox FX-89-127-GH2S.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=86 hivel=127 offset=988 end=908420 loop_mode=no_loop
+<region> sample=Vox FX-90-42-NS05.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=42 offset=1104 end=910723 loop_mode=no_loop
+<region> sample=Vox FX-90-85-IVAN.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=43 hivel=85 offset=946 end=910216 loop_mode=no_loop
+<region> sample=Vox FX-90-127-9SIC.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=86 hivel=127 offset=1133 end=909315 loop_mode=no_loop
+<region> sample=Vox FX-91-42-4WBN.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=42 offset=843 loop_mode=no_loop
+<region> sample=Vox FX-91-85-Y80R.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=43 hivel=85 offset=881 end=917121 loop_mode=no_loop
+<region> sample=Vox FX-91-127-HECK.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=86 hivel=127 offset=1061 end=908034 loop_mode=no_loop
+<region> sample=Vox FX-92-42-RJAJ.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=42 offset=991 end=909971 loop_mode=no_loop
+<region> sample=Vox FX-92-85-1GQQ.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=43 hivel=85 offset=1125 loop_mode=no_loop
+<region> sample=Vox FX-92-127-ZAM1.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=86 hivel=127 offset=1126 loop_mode=no_loop
+<region> sample=Vox FX-93-42-63IX.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=42 offset=1007 loop_mode=no_loop
+<region> sample=Vox FX-93-85-WZ3V.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=43 hivel=85 offset=976 end=917137 loop_mode=no_loop
+<region> sample=Vox FX-93-127-2LY7.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=86 hivel=127 offset=1224 loop_mode=no_loop
+<region> sample=Vox FX-94-42-Y2KW.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=42 offset=1116 end=911247 loop_mode=no_loop
+<region> sample=Vox FX-94-85-R0XA.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=43 hivel=85 offset=1028 loop_mode=no_loop
+<region> sample=Vox FX-94-127-V7GG.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=86 hivel=127 offset=938 end=909450 loop_mode=no_loop
+<region> sample=Vox FX-95-42-AV23.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=42 offset=881 end=909187 loop_mode=no_loop
+<region> sample=Vox FX-95-85-YMH2.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=43 hivel=85 offset=1017 end=916738 loop_mode=no_loop
+<region> sample=Vox FX-95-127-EURT.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=86 hivel=127 offset=1066 loop_mode=no_loop
+<region> sample=Vox FX-96-42-EARQ.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=1 hivel=42 offset=1147 loop_mode=no_loop
+<region> sample=Vox FX-96-85-Y69T.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=43 hivel=85 offset=1015 end=909569 loop_mode=no_loop
+<region> sample=Vox FX-96-127-KQUJ.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=86 hivel=127 offset=989 end=909956 loop_mode=no_loop

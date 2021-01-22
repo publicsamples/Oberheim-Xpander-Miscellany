@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sweet Sync.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Sweeped Sync/Sweeped Sync/
+
+<group>        // Sweeped Sync
+<region> sample=Sweeped Sync116038-N72M.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=1 hivel=16 offset=514 end=718568 loop_mode=no_loop
+<region> sample=Sweeped Sync1732038-JFJE.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=17 hivel=32 offset=436 loop_mode=no_loop
+<region> sample=Sweeped Sync3348038-CJB7.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=33 hivel=48 offset=402 end=717024 loop_mode=no_loop
+<region> sample=Sweeped Sync4964038-BOF6.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=49 hivel=64 offset=728 end=718030 loop_mode=no_loop
+<region> sample=Sweeped Sync6579038-DVFB.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=65 hivel=79 offset=731 loop_mode=no_loop
+<region> sample=Sweeped Sync8095038-X2GQ.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=80 hivel=95 offset=643 end=714214 loop_mode=no_loop
+<region> sample=Sweeped Sync96111038-ZXK8.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=96 hivel=111 offset=541 end=714640 loop_mode=no_loop
+<region> sample=Sweeped Sync112127038-4KMJ.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=112 hivel=127 offset=415 loop_mode=no_loop
+<region> sample=Sweeped Sync1163945-540K.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=1 hivel=16 offset=449 end=716591 loop_mode=no_loop
+<region> sample=Sweeped Sync17323945-16FD.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=17 hivel=32 offset=414 end=718232 loop_mode=no_loop
+<region> sample=Sweeped Sync33483945-5NM1.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=33 hivel=48 offset=843 loop_mode=no_loop
+<region> sample=Sweeped Sync49643945-3OAX.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=49 hivel=64 offset=229 loop_mode=no_loop
+<region> sample=Sweeped Sync65793945-EBQ6.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=65 hivel=79 offset=443 end=717482 loop_mode=no_loop
+<region> sample=Sweeped Sync80953945-LDKV.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=80 hivel=95 offset=738 end=715805 loop_mode=no_loop
+<region> sample=Sweeped Sync961113945-NRZ6.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=96 hivel=111 offset=533 loop_mode=no_loop
+<region> sample=Sweeped Sync1121273945-YDTW.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=112 hivel=127 offset=857 end=716463 loop_mode=no_loop
+<region> sample=Sweeped Sync1164652-1IXJ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=1 hivel=16 offset=505 loop_mode=no_loop
+<region> sample=Sweeped Sync17324652-KOCQ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=17 hivel=32 offset=643 end=716091 loop_mode=no_loop
+<region> sample=Sweeped Sync33484652-XL4B.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=33 hivel=48 offset=662 end=718817 loop_mode=no_loop
+<region> sample=Sweeped Sync49644652-NVDN.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=49 hivel=64 offset=415 end=717356 loop_mode=no_loop
+<region> sample=Sweeped Sync65794652-FCDT.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=65 hivel=79 offset=872 loop_mode=no_loop
+<region> sample=Sweeped Sync80954652-GEP9.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=80 hivel=95 offset=594 end=716648 loop_mode=no_loop
+<region> sample=Sweeped Sync961114652-YFAZ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=96 hivel=111 offset=801 end=721068 loop_mode=no_loop
+<region> sample=Sweeped Sync1121274652-SDTX.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=112 hivel=127 offset=433 end=714495 loop_mode=no_loop
+<region> sample=Sweeped Sync1165359-Z370.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=1 hivel=16 offset=492 loop_mode=no_loop
+<region> sample=Sweeped Sync17325359-EFUN.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=17 hivel=32 offset=557 end=717523 loop_mode=no_loop
+<region> sample=Sweeped Sync33485359-ITSL.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=33 hivel=48 offset=475 loop_mode=no_loop
+<region> sample=Sweeped Sync49645359-TLIV.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=49 hivel=64 offset=618 end=717986 loop_mode=no_loop
+<region> sample=Sweeped Sync65795359-4YNP.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=65 hivel=79 offset=400 end=723455 loop_mode=no_loop
+<region> sample=Sweeped Sync80955359-I2HX.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=80 hivel=95 offset=806 end=715300 loop_mode=no_loop
+<region> sample=Sweeped Sync961115359-KD2P.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=96 hivel=111 offset=534 end=716372 loop_mode=no_loop
+<region> sample=Sweeped Sync1121275359-TCAU.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=112 hivel=127 offset=601 end=716276 loop_mode=no_loop
+<region> sample=Sweeped Sync1166066-6LOE.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=1 hivel=16 offset=260 end=717471 loop_mode=no_loop
+<region> sample=Sweeped Sync17326066-XC8P.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=17 hivel=32 offset=619 end=717586 loop_mode=no_loop
+<region> sample=Sweeped Sync33486066-5K71.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=33 hivel=48 offset=486 end=723147 loop_mode=no_loop
+<region> sample=Sweeped Sync49646066-LH4J.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=49 hivel=64 offset=540 end=716145 loop_mode=no_loop
+<region> sample=Sweeped Sync65796066-UCSY.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=65 hivel=79 offset=252 end=717648 loop_mode=no_loop
+<region> sample=Sweeped Sync80956066-82CP.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=80 hivel=95 offset=385 end=715926 loop_mode=no_loop
+<region> sample=Sweeped Sync961116066-2B1V.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=96 hivel=111 offset=808 end=715597 loop_mode=no_loop
+<region> sample=Sweeped Sync1121276066-G735.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=112 hivel=127 offset=671 loop_mode=no_loop
+<region> sample=Sweeped Sync1166773-CAHV.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=1 hivel=16 offset=451 loop_mode=no_loop
+<region> sample=Sweeped Sync17326773-AW7T.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=17 hivel=32 offset=611 loop_mode=no_loop
+<region> sample=Sweeped Sync33486773-JM5M.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=33 hivel=48 offset=443 end=717975 loop_mode=no_loop
+<region> sample=Sweeped Sync49646773-QI8U.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=49 hivel=64 offset=517 end=717596 loop_mode=no_loop
+<region> sample=Sweeped Sync65796773-JGES.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=65 hivel=79 offset=503 end=716668 loop_mode=no_loop
+<region> sample=Sweeped Sync80956773-YJOP.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=80 hivel=95 offset=427 end=716420 loop_mode=no_loop
+<region> sample=Sweeped Sync961116773-3M58.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=96 hivel=111 offset=897 end=720693 loop_mode=no_loop
+<region> sample=Sweeped Sync1121276773-10LH.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=112 hivel=127 offset=849 end=714787 loop_mode=no_loop
+<region> sample=Sweeped Sync1167480-5EMV.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=1 hivel=16 offset=775 loop_mode=no_loop
+<region> sample=Sweeped Sync17327480-JHK4.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=17 hivel=32 offset=738 loop_mode=no_loop
+<region> sample=Sweeped Sync33487480-C6PF.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=33 hivel=48 offset=816 loop_mode=no_loop
+<region> sample=Sweeped Sync49647480-KSUL.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=49 hivel=64 offset=662 end=717810 loop_mode=no_loop
+<region> sample=Sweeped Sync65797480-NU4X.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=65 hivel=79 offset=640 end=722718 loop_mode=no_loop
+<region> sample=Sweeped Sync80957480-9H65.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=80 hivel=95 offset=426 end=714125 loop_mode=no_loop
+<region> sample=Sweeped Sync961117480-04MS.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=96 hivel=111 offset=171 loop_mode=no_loop
+<region> sample=Sweeped Sync1121277480-2JPW.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=112 hivel=127 offset=689 loop_mode=no_loop
+<region> sample=Sweeped Sync1168187-RL0F.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=1 hivel=16 offset=647 end=715992 loop_mode=no_loop
+<region> sample=Sweeped Sync17328187-TG8G.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=17 hivel=32 offset=310 end=717711 loop_mode=no_loop
+<region> sample=Sweeped Sync33488187-KHBH.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=33 hivel=48 offset=872 loop_mode=no_loop
+<region> sample=Sweeped Sync49648187-YVXA.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=49 hivel=64 offset=245 loop_mode=no_loop
+<region> sample=Sweeped Sync65798187-9JHP.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=65 hivel=79 offset=596 end=717377 loop_mode=no_loop
+<region> sample=Sweeped Sync80958187-97FQ.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=80 hivel=95 offset=310 loop_mode=no_loop
+<region> sample=Sweeped Sync961118187-LPLO.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=96 hivel=111 offset=729 end=714077 loop_mode=no_loop
+<region> sample=Sweeped Sync1121278187-N7C6.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=112 hivel=127 offset=493 end=716190 loop_mode=no_loop
+<region> sample=Sweeped Sync1168894-IK19.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=1 hivel=16 offset=624 end=722835 loop_mode=no_loop
+<region> sample=Sweeped Sync17328894-HCVK.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=17 hivel=32 offset=500 end=714650 loop_mode=no_loop
+<region> sample=Sweeped Sync33488894-04O9.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=33 hivel=48 offset=699 loop_mode=no_loop
+<region> sample=Sweeped Sync49648894-RUT5.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=49 hivel=64 offset=318 loop_mode=no_loop
+<region> sample=Sweeped Sync65798894-MRXY.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=65 hivel=79 offset=603 end=715706 loop_mode=no_loop
+<region> sample=Sweeped Sync80958894-C6VD.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=80 hivel=95 offset=699 end=716355 loop_mode=no_loop
+<region> sample=Sweeped Sync961118894-LBBV.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=96 hivel=111 offset=538 loop_mode=no_loop
+<region> sample=Sweeped Sync1121278894-P9AL.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=112 hivel=127 offset=711 end=713805 loop_mode=no_loop
+<region> sample=Sweeped Sync11695127-ABKW.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=1 hivel=16 offset=741 end=716225 loop_mode=no_loop
+<region> sample=Sweeped Sync173295127-J3OT.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=17 hivel=32 offset=399 end=717223 loop_mode=no_loop
+<region> sample=Sweeped Sync334895127-PN9A.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=33 hivel=48 offset=854 loop_mode=no_loop
+<region> sample=Sweeped Sync496495127-MZXR.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=49 hivel=64 offset=534 end=716929 loop_mode=no_loop
+<region> sample=Sweeped Sync657995127-E9Z3.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=65 hivel=79 offset=392 end=721748 loop_mode=no_loop
+<region> sample=Sweeped Sync809595127-3664.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=80 hivel=95 offset=283 loop_mode=no_loop
+<region> sample=Sweeped Sync9611195127-99E1.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=96 hivel=111 offset=677 end=714435 loop_mode=no_loop
+<region> sample=Sweeped Sync11212795#124268B.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=112 hivel=127 offset=741 end=715515 loop_mode=no_loop

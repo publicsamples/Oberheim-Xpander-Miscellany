@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - ADDVERB.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/ADDVERB/(201279 17429)/
+
+<group>        // ADDVERB
+<region> sample=003 ADDVERB-24-127-4C28.aif key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=362917 loop_end=380458
+<region> sample=003 ADDVERB-25-127-YLLQ.aif key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=345235 loop_end=370706
+<region> sample=003 ADDVERB-26-127-HB5L.aif key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=345304 loop_end=365721
+<region> sample=003 ADDVERB-27-127-2X6L.aif key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=399791 loop_end=421303
+<region> sample=003 ADDVERB-28-127-UKRI.aif key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=347526 loop_end=409002
+<region> sample=003 ADDVERB-29-127-GMHA.aif key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=390149 loop_end=407316
+<region> sample=003 ADDVERB-30-127-E5ZZ.aif key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=351382 loop_end=372819
+<region> sample=003 ADDVERB-31-127-4H5X.aif key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=346391 loop_end=367528
+<region> sample=003 ADDVERB-32-127-PHTP.aif key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=369962 loop_end=385232
+<region> sample=003 ADDVERB-33-127-H0GA.aif key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=385935 loop_end=400338
+<region> sample=003 ADDVERB-34-127-WDZ4.aif key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=403900 loop_end=421253
+<region> sample=003 ADDVERB-35-127-4WJT.aif key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=349872 loop_end=364853
+<region> sample=003 ADDVERB-36-127-5YOQ.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=370526 loop_end=391068
+<region> sample=003 ADDVERB-37-127-Z1KG.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=372168 loop_end=418277
+<region> sample=003 ADDVERB-38-127-MB7R.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=368174 loop_end=388571
+<region> sample=003 ADDVERB-39-127-JMT3.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=382822 loop_end=411398
+<region> sample=003 ADDVERB-40-127-ICNM.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=359092 loop_end=375389
+<region> sample=003 ADDVERB-41-127-K4SI.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=361262 loop_end=375889
+<region> sample=003 ADDVERB-42-127-BR58.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=343492 loop_end=360640
+<region> sample=003 ADDVERB-43-127-H58N.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=399164 loop_end=413995
+<region> sample=003 ADDVERB-44-127-25D0.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=370955 loop_end=421630
+<region> sample=003 ADDVERB-45-127-LNLE.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=387784 loop_end=402590
+<region> sample=003 ADDVERB-46-127-BXPI.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=377753 loop_end=392482
+<region> sample=003 ADDVERB-47-127-NJ2Z.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=357964 loop_end=374552
+<region> sample=003 ADDVERB-48-127-79UU.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=346783 loop_end=412574
+<region> sample=003 ADDVERB-49-127-NVFZ.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=401134 loop_end=415748
+<region> sample=003 ADDVERB-50-127-HZFK.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=363359 loop_end=419724
+<region> sample=003 ADDVERB-51-127-AN0H.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=356650 loop_end=421587
+<region> sample=003 ADDVERB-52-127-IPG1.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=344741 loop_end=359957
+<region> sample=003 ADDVERB-53-127-KFCZ.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=370582 loop_end=385202
+<region> sample=003 ADDVERB-54-127-X5IY.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=360159 loop_end=380739
+<region> sample=003 ADDVERB-55-127-QOJ4.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=371531 loop_end=386129
+<region> sample=003 ADDVERB-56-127-D6LX.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=343077 loop_end=419921
+<region> sample=003 ADDVERB-57-127-UIWZ.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=344889 loop_end=416620
+<region> sample=003 ADDVERB-58-127-2RU6.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=349599 loop_end=407288
+<region> sample=003 ADDVERB-59-127-Z1DR.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=362282 loop_end=419583
+<region> sample=003 ADDVERB-60-127-9ZDG.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=343085 loop_end=395322
+<region> sample=003 ADDVERB-61-127-R01J.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=349700 loop_end=407728
+<region> sample=003 ADDVERB-62-127-CPG9.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=361345 loop_end=411471
+<region> sample=003 ADDVERB-63-127-8EVR.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=353417 loop_end=398173
+<region> sample=003 ADDVERB-64-127-G4PQ.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=365559 loop_end=408615
+<region> sample=003 ADDVERB-65-127-4M0D.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=353171 loop_end=395080
+<region> sample=003 ADDVERB-66-127-6YOM.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=364458 loop_end=401744
+<region> sample=003 ADDVERB-67-127-M3VL.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=369565 loop_end=411954
+<region> sample=003 ADDVERB-68-127-4YYC.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=368390 loop_end=403307
+<region> sample=003 ADDVERB-69-127-3XQT.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=355270 loop_end=419634
+<region> sample=003 ADDVERB-70-127-BY4P.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=383669 loop_end=412505
+<region> sample=003 ADDVERB-71-127-BI3B.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=362456 loop_end=391186
+<region> sample=003 ADDVERB-72-127-86RA.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=368281 loop_end=395832
+<region> sample=003 ADDVERB-73-127-Q29U.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=384894 loop_end=413518
+<region> sample=003 ADDVERB-74-127-ASYC.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=379568 loop_end=401264
+<region> sample=003 ADDVERB-75-127-46P0.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=397257 loop_end=418797
+<region> sample=003 ADDVERB-76-127-V53T.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=398201 loop_end=419729
+<region> sample=003 ADDVERB-77-127-3DY6.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=356229 loop_end=377618
+<region> sample=003 ADDVERB-78-127-X0YG.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=354045 loop_end=390022
+<region> sample=003 ADDVERB-79-127-S1LE.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=393091 loop_end=414559
+<region> sample=003 ADDVERB-80-127-04TP.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=370557 loop_end=420713
+<region> sample=003 ADDVERB-81-127-H6CT.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=384151 loop_end=415627
+<region> sample=003 ADDVERB-82-127-3K77.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=370352 loop_end=399242
+<region> sample=003 ADDVERB-83-127-GMPG.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=386951 loop_end=415423
+<region> sample=003 ADDVERB-84-127-X2SF.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=349838 loop_end=414284
+<region> sample=003 ADDVERB-85-127-FTYZ.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=388670 loop_end=416654
+<region> sample=003 ADDVERB-86-127-9YVQ.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=355193 loop_end=412375
+<region> sample=003 ADDVERB-87-127-ZILQ.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=358033 loop_end=379564
+<region> sample=003 ADDVERB-88-127-MYWA.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=389029 loop_end=410322
+<region> sample=003 ADDVERB-89-127-JCQR.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=346981 loop_end=396838
+<region> sample=003 ADDVERB-90-127-MSSM.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=348988 loop_end=413501
+<region> sample=003 ADDVERB-91-127-30CQ.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=383230 loop_end=411896
+<region> sample=003 ADDVERB-92-127-7794.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=344999 loop_end=413932
+<region> sample=003 ADDVERB-93-127-VXE6.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=396992 loop_end=419032
+<region> sample=003 ADDVERB-94-127-J6YF.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=373526 loop_end=394828
+<region> sample=003 ADDVERB-95-127-5GWN.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=382879 loop_end=404167
+<region> sample=003 ADDVERB-96-127-H8UP.aif key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=364952 loop_end=385813

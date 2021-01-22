@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PHASEDPAD.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/PHASEDPAD/(201279 171756)/
+
+<group>        // PHASEDPAD
+<region> sample=004 PHASEDPAD-36-127-3NKY.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=328766 loop_end=367881
+<region> sample=004 PHASEDPAD-37-127-ORVC.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=310148 loop_end=390316
+<region> sample=004 PHASEDPAD-38-127-LHMI.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=238880 loop_end=318680
+<region> sample=004 PHASEDPAD-39-127-E9DN.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=347333 loop_end=387015
+<region> sample=004 PHASEDPAD-40-127-HG5C.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=220185 loop_end=259784
+<region> sample=004 PHASEDPAD-41-127-1CRW.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=315218 loop_end=355617
+<region> sample=004 PHASEDPAD-42-127-TN9P.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=329997 loop_end=369090
+<region> sample=004 PHASEDPAD-43-127-OUTC.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=315286 loop_end=394888
+<region> sample=004 PHASEDPAD-44-127-FN6B.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=223429 loop_end=263313
+<region> sample=004 PHASEDPAD-45-127-5K5S.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=270911 loop_end=310980
+<region> sample=004 PHASEDPAD-46-127-K71I.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=263129 loop_end=303206
+<region> sample=004 PHASEDPAD-47-127-YZBJ.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=281236 loop_end=321199
+<region> sample=004 PHASEDPAD-48-127-6K5U.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=289775 loop_end=329541
+<region> sample=004 PHASEDPAD-49-127-7ID7.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=295602 loop_end=335035
+<region> sample=004 PHASEDPAD-50-127-ARKZ.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=239211 loop_end=279417
+<region> sample=004 PHASEDPAD-51-127-1Z2W.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=248511 loop_end=288172
+<region> sample=004 PHASEDPAD-52-127-AMES.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=241359 loop_end=281466
+<region> sample=004 PHASEDPAD-53-127-8GFP.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=300268 loop_end=340137
+<region> sample=004 PHASEDPAD-54-127-5IPR.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258615 loop_end=298630
+<region> sample=004 PHASEDPAD-55-127-WO21.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=251071 loop_end=291085
+<region> sample=004 PHASEDPAD-56-127-LJ8R.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=249209 loop_end=289535
+<region> sample=004 PHASEDPAD-57-127-EMAR.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=310307 loop_end=349973
+<region> sample=004 PHASEDPAD-58-127-B1FG.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=341120 loop_end=381201
+<region> sample=004 PHASEDPAD-59-127-7FT1.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=280731 loop_end=320703
+<region> sample=004 PHASEDPAD-60-127-97HE.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=356773 loop_end=396685
+<region> sample=004 PHASEDPAD-61-127-OZPU.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=333072 loop_end=372813
+<region> sample=004 PHASEDPAD-62-127-94UE.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=361101 loop_end=401008
+<region> sample=004 PHASEDPAD-63-127-UDHW.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=251208 loop_end=290852
+<region> sample=004 PHASEDPAD-64-127-42SJ.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=323961 loop_end=363802
+<region> sample=004 PHASEDPAD-65-127-6QNW.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=222510 loop_end=262391
+<region> sample=004 PHASEDPAD-66-127-WL49.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=350687 loop_end=390351
+<region> sample=004 PHASEDPAD-67-127-DOGW.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=346620 loop_end=386530
+<region> sample=004 PHASEDPAD-68-127-VX8F.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=263805 loop_end=303805
+<region> sample=004 PHASEDPAD-69-127-QFCN.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=219481 loop_end=259434
+<region> sample=004 PHASEDPAD-70-127-PZUR.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=305653 loop_end=345629
+<region> sample=004 PHASEDPAD-71-127-8SNM.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=243342 loop_end=283397
+<region> sample=004 PHASEDPAD-72-127-PBA9.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=293775 loop_end=333616
+<region> sample=004 PHASEDPAD-73-127-7HJV.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=259367 loop_end=299200
+<region> sample=004 PHASEDPAD-74-127-7GHX.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=275871 loop_end=315794
+<region> sample=004 PHASEDPAD-75-127-6R9S.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=282982 loop_end=322924
+<region> sample=004 PHASEDPAD-76-127-A024.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=241953 loop_end=281852
+<region> sample=004 PHASEDPAD-77-127-WQG9.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224567 loop_end=264499
+<region> sample=004 PHASEDPAD-78-127-GOO5.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=314110 loop_end=353819
+<region> sample=004 PHASEDPAD-79-127-NSVH.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=351740 loop_end=391585
+<region> sample=004 PHASEDPAD-80-127-IFV5.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=266473 loop_end=306434
+<region> sample=004 PHASEDPAD-81-127-KWDS.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=234959 loop_end=274776
+<region> sample=004 PHASEDPAD-82-127-FLEW.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=260489 loop_end=300433
+<region> sample=004 PHASEDPAD-83-127-SMA9.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=320944 loop_end=361056
+<region> sample=004 PHASEDPAD-84-127-RE6Q.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=356479 loop_end=396557
+<region> sample=004 PHASEDPAD-85-127-RLVF.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=299388 loop_end=341276
+<region> sample=004 PHASEDPAD-86-127-SQGA.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=272659 loop_end=312643
+<region> sample=004 PHASEDPAD-87-127-7XEM.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261210 loop_end=301353
+<region> sample=004 PHASEDPAD-88-127-STLD.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=247141 loop_end=287081
+<region> sample=004 PHASEDPAD-89-127-J6B7.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=314662 loop_end=353688
+<region> sample=004 PHASEDPAD-90-127-6NE7.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246071 loop_end=284056
+<region> sample=004 PHASEDPAD-91-127-8MTC.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=328056 loop_end=368017
+<region> sample=004 PHASEDPAD-92-127-O84E.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=243976 loop_end=282334
+<region> sample=004 PHASEDPAD-93-127-ND14.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=352936 loop_end=392696
+<region> sample=004 PHASEDPAD-94-127-TU12.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=323084 loop_end=362883
+<region> sample=004 PHASEDPAD-95-127-V5YX.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=225640 loop_end=264592
+<region> sample=004 PHASEDPAD-96-127-9NIL.aif key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=263718 loop_end=303059

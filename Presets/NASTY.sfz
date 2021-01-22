@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - NASTY.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/NASTY/
+
+<group>        // NASTY
+<region> sample=002 NASTY-36-127.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 offset=622 end=361700 loop_mode=no_loop
+<region> sample=002 NASTY-37-127.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 offset=646 loop_mode=no_loop
+<region> sample=002 NASTY-38-127.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 offset=559 end=362872 loop_mode=no_loop
+<region> sample=002 NASTY-39-127.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 offset=718 end=358041 loop_mode=no_loop
+<region> sample=002 NASTY-40-127.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 offset=740 end=356574 loop_mode=no_loop
+<region> sample=002 NASTY-41-127.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 offset=607 end=361142 loop_mode=no_loop
+<region> sample=002 NASTY-42-127.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 offset=360 end=362383 loop_mode=no_loop
+<region> sample=002 NASTY-43-127.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 offset=736 end=358244 loop_mode=no_loop
+<region> sample=002 NASTY-44-127.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 offset=515 end=359069 loop_mode=no_loop
+<region> sample=002 NASTY-45-127.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 offset=457 end=357245 loop_mode=no_loop
+<region> sample=002 NASTY-46-127.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 offset=554 end=358813 loop_mode=no_loop
+<region> sample=002 NASTY-47-127.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 offset=441 loop_mode=no_loop
+<region> sample=002 NASTY-48-127.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 offset=630 end=359497 loop_mode=no_loop
+<region> sample=002 NASTY-49-127.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 offset=724 end=358132 loop_mode=no_loop
+<region> sample=002 NASTY-50-127.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 offset=462 end=358757 loop_mode=no_loop
+<region> sample=002 NASTY-51-127.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 offset=721 end=356909 loop_mode=no_loop
+<region> sample=002 NASTY-52-127.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 offset=711 loop_mode=no_loop
+<region> sample=002 NASTY-53-127.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 offset=460 end=362206 loop_mode=no_loop
+<region> sample=002 NASTY-54-127.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 offset=680 end=357966 loop_mode=no_loop
+<region> sample=002 NASTY-55-127.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 offset=638 end=358255 loop_mode=no_loop
+<region> sample=002 NASTY-56-127.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 offset=729 loop_mode=no_loop
+<region> sample=002 NASTY-57-127.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 offset=729 end=357320 loop_mode=no_loop
+<region> sample=002 NASTY-58-127.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 offset=450 end=353938 loop_mode=no_loop
+<region> sample=002 NASTY-59-127.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 offset=718 end=361789 loop_mode=no_loop
+<region> sample=002 NASTY-60-127.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 offset=840 end=360096 loop_mode=no_loop
+<region> sample=002 NASTY-61-127.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 offset=676 end=360960 loop_mode=no_loop
+<region> sample=002 NASTY-62-127.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 offset=491 end=359352 loop_mode=no_loop
+<region> sample=002 NASTY-63-127.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 offset=701 end=356970 loop_mode=no_loop
+<region> sample=002 NASTY-64-127.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 offset=757 loop_mode=no_loop
+<region> sample=002 NASTY-65-127.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 offset=396 end=360583 loop_mode=no_loop
+<region> sample=002 NASTY-66-127.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 offset=672 end=360911 loop_mode=no_loop
+<region> sample=002 NASTY-67-127.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 offset=641 end=359261 loop_mode=no_loop
+<region> sample=002 NASTY-68-127.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 offset=669 end=361104 loop_mode=no_loop
+<region> sample=002 NASTY-69-127.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 offset=521 end=357962 loop_mode=no_loop
+<region> sample=002 NASTY-70-127.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 offset=650 loop_mode=no_loop
+<region> sample=002 NASTY-71-127.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 offset=624 end=360819 loop_mode=no_loop
+<region> sample=002 NASTY-72-127.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 offset=637 end=360179 loop_mode=no_loop
+<region> sample=002 NASTY-73-127.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 offset=646 end=360967 loop_mode=no_loop
+<region> sample=002 NASTY-74-127.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 offset=334 end=360964 loop_mode=no_loop
+<region> sample=002 NASTY-75-127.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 offset=633 end=355966 loop_mode=no_loop
+<region> sample=002 NASTY-76-127.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 offset=310 loop_mode=no_loop
+<region> sample=002 NASTY-77-127.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 offset=621 end=360602 loop_mode=no_loop
+<region> sample=002 NASTY-78-127.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 offset=347 loop_mode=no_loop
+<region> sample=002 NASTY-79-127.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 offset=358 end=360011 loop_mode=no_loop
+<region> sample=002 NASTY-80-127.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 offset=410 end=359679 loop_mode=no_loop
+<region> sample=002 NASTY-81-127.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 offset=734 end=355753 loop_mode=no_loop
+<region> sample=002 NASTY-82-127.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 offset=698 end=356563 loop_mode=no_loop
+<region> sample=002 NASTY-83-127.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 offset=685 end=361483 loop_mode=no_loop
+<region> sample=002 NASTY-84-127.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 offset=434 loop_mode=no_loop
+<region> sample=002 NASTY-85-127.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 offset=502 end=360344 loop_mode=no_loop
+<region> sample=002 NASTY-86-127.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 offset=751 loop_mode=no_loop
+<region> sample=002 NASTY-87-127.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 offset=761 loop_mode=no_loop
+<region> sample=002 NASTY-88-127.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 offset=752 loop_mode=no_loop
+<region> sample=002 NASTY-89-127.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 offset=709 end=360645 loop_mode=no_loop
+<region> sample=002 NASTY-90-127.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 offset=525 loop_mode=no_loop
+<region> sample=002 NASTY-91-127.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 offset=814 loop_mode=no_loop
+<region> sample=002 NASTY-92-127.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 offset=495 end=359891 loop_mode=no_loop
+<region> sample=002 NASTY-93-127.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 offset=583 end=357363 loop_mode=no_loop
+<region> sample=002 NASTY-94-127.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 offset=517 end=356393 loop_mode=no_loop
+<region> sample=002 NASTY-95-127.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 offset=525 end=362587 loop_mode=no_loop
+<region> sample=002 NASTY-96-127.aif key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=127 offset=391 end=360882 loop_mode=no_loop

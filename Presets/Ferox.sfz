@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Ferox.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Waves/pw 0-64/(2016331 3040)/
+
+<group> volume=12        // pw 0-64
+<region> sample=xp-38-38-ORGE.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=94192 loop_end=399340
+<region> sample=xp-38-51-764Q.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=133261 loop_end=438413
+<region> sample=xp-38-64-N2XO.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=97177 loop_end=432028
+<region> sample=xp-38-76-2L1H.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=43261 loop_end=348413
+<region> sample=xp-38-89-4M84.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=269020 loop_end=393249
+<region> sample=xp-38-102-RP6Q.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=82746 loop_end=206978
+<region> sample=xp-38-114-GXRO.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=48429 loop_end=417068
+<region> sample=xp-38-127-WTP3.wav key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=77145 loop_end=351252
+<region> sample=xp-45-38-K1X1.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=94471 loop_end=311557
+<region> sample=xp-45-51-WM1K.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=153124 loop_end=372009
+<region> sample=xp-45-64-B187.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=46558 loop_end=263644
+<region> sample=xp-45-76-FBMZ.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=105960 loop_end=441952
+<region> sample=xp-45-89-YBP8.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=310930 loop_end=431637
+<region> sample=xp-45-102-LPF5.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=119241 loop_end=239951
+<region> sample=xp-45-114-GZUW.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=263559 loop_end=406796
+<region> sample=xp-45-127-MKDR.wav key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=95606 loop_end=432501
+<region> sample=xp-52-38-M463.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=332170 loop_end=415121
+<region> sample=xp-52-51-EOZH.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=276003 loop_end=358352
+<region> sample=xp-52-64-XYUI.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=118139 loop_end=201090
+<region> sample=xp-52-76-PVUV.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=55988 loop_end=140143
+<region> sample=xp-52-89-DP5X.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=211776 loop_end=293527
+<region> sample=xp-52-102-8LE3.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=95476 loop_end=243957
+<region> sample=xp-52-114-CTHS.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=193223 loop_end=433685
+<region> sample=xp-52-127-6XJ9.wav key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=287792 loop_end=369542
+<region> sample=xp-59-38-CUQF.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=274876 loop_end=422903
+<region> sample=xp-59-51-U4GS.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=275907 loop_end=422329
+<region> sample=xp-59-64-K754.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=279147 loop_end=427175
+<region> sample=xp-59-76-659L.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=289354 loop_end=435779
+<region> sample=xp-59-89-28CY.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=64780 loop_end=171092
+<region> sample=xp-59-102-40D5.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=155381 loop_end=409336
+<region> sample=xp-59-114-1LLQ.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=334416 loop_end=441137
+<region> sample=xp-59-127-5G0E.wav key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=254689 loop_end=362203
+<region> sample=xp-66-38-B93S.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=120283 loop_end=418273
+<region> sample=xp-66-51-P9CF.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=198556 loop_end=408463
+<region> sample=xp-66-64-8KGI.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=42552 loop_end=342153
+<region> sample=xp-66-76-YDHO.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=162174 loop_end=250529
+<region> sample=xp-66-89-7PBA.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=355270 loop_end=444697
+<region> sample=xp-66-102-VEUD.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=232340 loop_end=442528
+<region> sample=xp-66-114-CIAG.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=307498 loop_end=441113
+<region> sample=xp-66-127-U6R3.wav key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=284067 loop_end=383667
+<region> sample=xp-73-38-C2WO.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=74591 loop_end=252758
+<region> sample=xp-73-51-8QDH.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=67853 loop_end=238516
+<region> sample=xp-73-64-N2SD.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=49093 loop_end=138983
+<region> sample=xp-73-76-IP6K.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=178588 loop_end=433069
+<region> sample=xp-73-89-1CV3.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=224058 loop_end=440657
+<region> sample=xp-73-102-FWL3.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=57316 loop_end=140242
+<region> sample=xp-73-114-M0RJ.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=270374 loop_end=358843
+<region> sample=xp-73-127-7YA1.wav key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=300270 loop_end=418572
+<region> sample=xp-80-38-LPZB.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=293800 loop_end=399348
+<region> sample=xp-80-51-4FTW.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=256146 loop_end=340704
+<region> sample=xp-80-64-O91C.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=61338 loop_end=250253
+<region> sample=xp-80-76-I6DR.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=206926 loop_end=329771
+<region> sample=xp-80-89-Y5DI.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=104920 loop_end=405958
+<region> sample=xp-80-102-MRF2.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=113052 loop_end=223380
+<region> sample=xp-80-114-HTFC.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=306298 loop_end=398738
+<region> sample=xp-80-127-R1AX.wav key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=65101 loop_end=151925
+<region> sample=xp-87-38-ZL0Z.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=227417 loop_end=324629
+<region> sample=xp-87-51-A0DY.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=72412 loop_end=439847
+<region> sample=xp-87-64-4F5T.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=50288 loop_end=441215
+<region> sample=xp-87-76-91LN.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=299660 loop_end=443214
+<region> sample=xp-87-89-IIT9.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=166624 loop_end=264319
+<region> sample=xp-87-102-RIAN.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=352838 loop_end=443928
+<region> sample=xp-87-114-ET5X.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=239124 loop_end=337860
+<region> sample=xp-87-127-BD96.wav key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=153512 loop_end=265373
+<region> sample=xp-94-38-RJA6.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=119498 loop_end=432220
+<region> sample=xp-94-51-CNSW.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=175886 loop_end=344943
+<region> sample=xp-94-64-3Z98.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=94778 loop_end=444735
+<region> sample=xp-94-76-5SMC.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=81798 loop_end=442860
+<region> sample=xp-94-89-FTV2.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=130594 loop_end=235601
+<region> sample=xp-94-102-5TI7.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=86948 loop_end=171456
+<region> sample=xp-94-114-W3IW.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=149032 loop_end=253780
+<region> sample=xp-94-127-ID1Q.wav key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=154382 loop_end=250407
+<region> sample=xp-121-38-PR0K.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=0 hivel=38 volume=12 loop_mode=loop_continuous loop_start=357104 loop_end=442446
+<region> sample=xp-121-51-97QX.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=39 hivel=51 volume=12 loop_mode=loop_continuous loop_start=263730 loop_end=374835
+<region> sample=xp-121-64-2CJJ.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=52 hivel=64 volume=12 loop_mode=loop_continuous loop_start=74843 loop_end=430805
+<region> sample=xp-121-76-QYHF.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=65 hivel=76 volume=12 loop_mode=loop_continuous loop_start=124646 loop_end=208682
+<region> sample=xp-121-89-FO22.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=77 hivel=89 volume=12 loop_mode=loop_continuous loop_start=111998 loop_end=437274
+<region> sample=xp-121-102-7DVB.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=90 hivel=102 volume=12 loop_mode=loop_continuous loop_start=201286 loop_end=426761
+<region> sample=xp-121-114-ERJ9.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=103 hivel=114 volume=12 loop_mode=loop_continuous loop_start=242978 loop_end=366787
+<region> sample=xp-121-127-VE0V.wav key=96 lokey=95 hikey=121  amp_veltrack=30 lovel=115 hivel=127 volume=12 loop_mode=loop_continuous loop_start=121994 loop_end=424695

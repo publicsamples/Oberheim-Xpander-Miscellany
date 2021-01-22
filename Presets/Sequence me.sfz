@@ -1,0 +1,105 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sequence me.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Stupid Machines/
+
+<group> volume=12        // Stupid Machines
+<region> sample=Stupid Machines-36-32-HBVA.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=853 end=32456 loop_mode=no_loop
+<region> sample=Stupid Machines-36-127-6XFS.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=786 end=36900 loop_mode=no_loop
+<region> sample=Stupid Machines-37-32-XOV0.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=573 end=30516 loop_mode=no_loop
+<region> sample=Stupid Machines-37-127-2LX1.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=664 end=31768 loop_mode=no_loop
+<region> sample=Stupid Machines-38-32-BNFZ.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=686 loop_mode=no_loop
+<region> sample=Stupid Machines-38-127-PP3L.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=642 end=29708 loop_mode=no_loop
+<region> sample=Stupid Machines-39-32-UP4Z.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=699 loop_mode=no_loop
+<region> sample=Stupid Machines-39-127-ECVH.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=764 loop_mode=no_loop
+<region> sample=Stupid Machines-40-32-YWXT.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=596 loop_mode=no_loop
+<region> sample=Stupid Machines-40-127-JWJJ.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=746 end=32512 loop_mode=no_loop
+<region> sample=Stupid Machines-41-32-7DUC.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=830 loop_mode=no_loop
+<region> sample=Stupid Machines-41-127-IKG4.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=740 end=30848 loop_mode=no_loop
+<region> sample=Stupid Machines-42-32-K12P.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=557 end=31746 loop_mode=no_loop
+<region> sample=Stupid Machines-42-127-3Q2N.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=764 end=36224 loop_mode=no_loop
+<region> sample=Stupid Machines-43-32-CB9R.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=753 end=31263 loop_mode=no_loop
+<region> sample=Stupid Machines-43-127-DA43.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=699 loop_mode=no_loop
+<region> sample=Stupid Machines-44-32-17N0.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=676 end=32640 loop_mode=no_loop
+<region> sample=Stupid Machines-44-127-7KYN.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=583 end=30473 loop_mode=no_loop
+<region> sample=Stupid Machines-45-32-3CC1.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=778 end=31506 loop_mode=no_loop
+<region> sample=Stupid Machines-45-127-C9NJ.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=591 end=36224 loop_mode=no_loop
+<region> sample=Stupid Machines-46-32-BRMI.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=708 loop_mode=no_loop
+<region> sample=Stupid Machines-46-127-K32P.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=586 end=31384 loop_mode=no_loop
+<region> sample=Stupid Machines-47-32-LC7U.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=778 end=30858 loop_mode=no_loop
+<region> sample=Stupid Machines-47-127-34JA.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=803 end=31744 loop_mode=no_loop
+<region> sample=Stupid Machines-48-32-L4C8.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=546 end=32128 loop_mode=no_loop
+<region> sample=Stupid Machines-48-127-X370.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=749 end=35336 loop_mode=no_loop
+<region> sample=Stupid Machines-49-32-IYP7.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=764 end=30727 loop_mode=no_loop
+<region> sample=Stupid Machines-49-127-DSZN.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=578 end=32512 loop_mode=no_loop
+<region> sample=Stupid Machines-50-32-U9AK.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=543 end=30976 loop_mode=no_loop
+<region> sample=Stupid Machines-50-127-D4H7.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=620 end=31510 loop_mode=no_loop
+<region> sample=Stupid Machines-51-32-GVA1.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=641 loop_mode=no_loop
+<region> sample=Stupid Machines-51-127-S9BJ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=671 end=34816 loop_mode=no_loop
+<region> sample=Stupid Machines-52-32-WVZK.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=615 loop_mode=no_loop
+<region> sample=Stupid Machines-52-127-9QFX.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=589 end=32650 loop_mode=no_loop
+<region> sample=Stupid Machines-53-32-AGMD.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=749 end=30992 loop_mode=no_loop
+<region> sample=Stupid Machines-53-127-KW0R.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=719 loop_mode=no_loop
+<region> sample=Stupid Machines-54-32-WWOP.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=666 end=32000 loop_mode=no_loop
+<region> sample=Stupid Machines-54-127-6FBT.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=565 end=35840 loop_mode=no_loop
+<region> sample=Stupid Machines-55-32-SW0X.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=723 end=30336 loop_mode=no_loop
+<region> sample=Stupid Machines-55-127-YUZM.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=702 end=32128 loop_mode=no_loop
+<region> sample=Stupid Machines-56-32-UASO.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=729 loop_mode=no_loop
+<region> sample=Stupid Machines-56-127-L3EB.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=660 end=31488 loop_mode=no_loop
+<region> sample=Stupid Machines-57-32-4ICY.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=644 end=31872 loop_mode=no_loop
+<region> sample=Stupid Machines-57-127-OI85.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=805 end=36480 loop_mode=no_loop
+<region> sample=Stupid Machines-58-32-TFDZ.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=697 end=30592 loop_mode=no_loop
+<region> sample=Stupid Machines-58-127-URJZ.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=617 end=32640 loop_mode=no_loop
+<region> sample=Stupid Machines-59-32-FF4U.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=589 end=32768 loop_mode=no_loop
+<region> sample=Stupid Machines-59-127-LWLK.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=609 end=31744 loop_mode=no_loop
+<region> sample=Stupid Machines-60-32-GZO6.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=620 end=32128 loop_mode=no_loop
+<region> sample=Stupid Machines-60-127-9GSZ.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=497 end=35712 loop_mode=no_loop
+<region> sample=Stupid Machines-61-32-SIG7.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=753 end=31872 loop_mode=no_loop
+<region> sample=Stupid Machines-61-127-WRCQ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=530 end=32640 loop_mode=no_loop
+<region> sample=Stupid Machines-62-32-160P.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=492 loop_mode=no_loop
+<region> sample=Stupid Machines-62-127-RQEI.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=736 end=32265 loop_mode=no_loop
+<region> sample=Stupid Machines-63-32-16YT.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=661 end=32384 loop_mode=no_loop
+<region> sample=Stupid Machines-63-127-I0VQ.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=589 end=35328 loop_mode=no_loop
+<region> sample=Stupid Machines-64-32-EVPG.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=785 end=30976 loop_mode=no_loop
+<region> sample=Stupid Machines-64-127-QUMK.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=475 loop_mode=no_loop
+<region> sample=Stupid Machines-65-32-H9JZ.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=561 end=32000 loop_mode=no_loop
+<region> sample=Stupid Machines-65-127-LL1C.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=598 loop_mode=no_loop
+<region> sample=Stupid Machines-66-32-AGW0.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=683 end=31876 loop_mode=no_loop
+<region> sample=Stupid Machines-66-127-MGX7.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=713 end=35584 loop_mode=no_loop
+<region> sample=Stupid Machines-67-32-74ZY.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=698 end=30592 loop_mode=no_loop
+<region> sample=Stupid Machines-67-127-VGBN.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=664 loop_mode=no_loop
+<region> sample=Stupid Machines-68-32-TKG8.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=679 end=31396 loop_mode=no_loop
+<region> sample=Stupid Machines-68-127-K460.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=753 end=31104 loop_mode=no_loop
+<region> sample=Stupid Machines-69-32-HV9K.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=612 end=33024 loop_mode=no_loop
+<region> sample=Stupid Machines-69-127-2N0V.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=661 end=35840 loop_mode=no_loop
+<region> sample=Stupid Machines-70-32-HXIH.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=736 loop_mode=no_loop
+<region> sample=Stupid Machines-70-127-94IU.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=682 end=30469 loop_mode=no_loop
+<region> sample=Stupid Machines-71-32-L2IU.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=587 end=32384 loop_mode=no_loop
+<region> sample=Stupid Machines-71-127-BH7P.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=654 end=31872 loop_mode=no_loop
+<region> sample=Stupid Machines-72-32-PKGC.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=670 end=31488 loop_mode=no_loop
+<region> sample=Stupid Machines-72-127-01EE.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=742 loop_mode=no_loop
+<region> sample=Stupid Machines-73-32-88OK.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=685 end=30848 loop_mode=no_loop
+<region> sample=Stupid Machines-73-127-E8H8.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=683 end=31616 loop_mode=no_loop
+<region> sample=Stupid Machines-74-32-L4DL.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=623 loop_mode=no_loop
+<region> sample=Stupid Machines-74-127-K09G.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=577 end=29312 loop_mode=no_loop
+<region> sample=Stupid Machines-75-32-1B9L.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=631 end=31744 loop_mode=no_loop
+<region> sample=Stupid Machines-75-127-PQM1.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=736 end=35840 loop_mode=no_loop
+<region> sample=Stupid Machines-76-32-354L.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=516 end=31104 loop_mode=no_loop
+<region> sample=Stupid Machines-76-127-8L4Z.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=542 end=31744 loop_mode=no_loop
+<region> sample=Stupid Machines-77-32-KUNG.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=776 end=31752 loop_mode=no_loop
+<region> sample=Stupid Machines-77-127-MK25.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=727 end=31488 loop_mode=no_loop
+<region> sample=Stupid Machines-78-32-OZJE.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=691 loop_mode=no_loop
+<region> sample=Stupid Machines-78-127-AVXT.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=660 end=35328 loop_mode=no_loop
+<region> sample=Stupid Machines-79-32-OONX.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=669 loop_mode=no_loop
+<region> sample=Stupid Machines-79-127-VBZF.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=634 end=33536 loop_mode=no_loop
+<region> sample=Stupid Machines-80-32-2UMD.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=617 end=32768 loop_mode=no_loop
+<region> sample=Stupid Machines-80-127-GIP0.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=658 loop_mode=no_loop
+<region> sample=Stupid Machines-81-32-ZMLI.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=722 end=31616 loop_mode=no_loop
+<region> sample=Stupid Machines-81-127-IRJV.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=519 end=33152 loop_mode=no_loop
+<region> sample=Stupid Machines-82-32-BPB0.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=622 loop_mode=no_loop
+<region> sample=Stupid Machines-82-127-CXIE.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=584 end=31872 loop_mode=no_loop
+<region> sample=Stupid Machines-83-32-DVAE.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=705 end=32512 loop_mode=no_loop
+<region> sample=Stupid Machines-83-127-ZLNH.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=724 loop_mode=no_loop
+<region> sample=Stupid Machines-84-32-O3RY.wav key=84 lokey=84 hikey=126  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=565 end=30848 loop_mode=no_loop
+<region> sample=Stupid Machines-84-127-RD75.wav key=84 lokey=84 hikey=126  amp_veltrack=30 lovel=33 hivel=127 volume=12 offset=507 end=35200 loop_mode=no_loop

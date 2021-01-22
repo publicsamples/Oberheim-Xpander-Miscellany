@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MPesque.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/MPesque/(2012621 144834)/
+
+<group>        // MPesque
+<region> sample=MPesque-24-127-P5TA.aif key=24 lokey=0 hikey=24  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=310893 loop_end=361796
+<region> sample=MPesque-25-127-7QEI.aif key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256472 loop_end=344646
+<region> sample=MPesque-26-127-74FF.aif key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=286648 loop_end=324627
+<region> sample=MPesque-27-127-V5JN.aif key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=350953 loop_end=401720
+<region> sample=MPesque-28-127-UFM0.aif key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=279001 loop_end=321498
+<region> sample=MPesque-29-127-QWUW.aif key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=282280 loop_end=317291
+<region> sample=MPesque-30-127-WL2A.aif key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=268081 loop_end=391262
+<region> sample=MPesque-31-127-FR29.aif key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258572 loop_end=305379
+<region> sample=MPesque-32-127-2UYM.aif key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=296791 loop_end=330532
+<region> sample=MPesque-33-127-ED89.aif key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=242622 loop_end=373989
+<region> sample=MPesque-34-127-UF7Q.aif key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=255281 loop_end=386308
+<region> sample=MPesque-35-127-1WBJ.aif key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=265764 loop_end=387244
+<region> sample=MPesque-36-127-UOX7.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=282549 loop_end=393629
+<region> sample=MPesque-37-127-SE9A.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=272601 loop_end=306287
+<region> sample=MPesque-38-127-UOR9.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=316325 loop_end=392388
+<region> sample=MPesque-39-127-GW5G.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=247629 loop_end=338766
+<region> sample=MPesque-40-127-BV6F.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=260224 loop_end=382274
+<region> sample=MPesque-41-127-1FKG.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=283110 loop_end=324451
+<region> sample=MPesque-42-127-9ON6.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246723 loop_end=378773
+<region> sample=MPesque-43-127-G4KF.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=245092 loop_end=369296
+<region> sample=MPesque-44-127-NO3V.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261209 loop_end=382207
+<region> sample=MPesque-45-127-X8UI.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=325957 loop_end=401851
+<region> sample=MPesque-46-127-DLT9.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=278835 loop_end=385090
+<region> sample=MPesque-47-127-OD41.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=262996 loop_end=364699
+<region> sample=MPesque-48-127-S61Z.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=267709 loop_end=362732
+<region> sample=MPesque-49-127-K9WU.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=243348 loop_end=369702
+<region> sample=MPesque-50-127-RYMQ.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=301177 loop_end=385816
+<region> sample=MPesque-51-127-ST4N.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=254762 loop_end=393029
+<region> sample=MPesque-52-127-RF73.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=288248 loop_end=395821
+<region> sample=MPesque-53-127-CM6Z.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=275932 loop_end=347350
+<region> sample=MPesque-54-127-AUAA.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258882 loop_end=397200
+<region> sample=MPesque-55-127-I78H.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261034 loop_end=350120
+<region> sample=MPesque-56-127-6QIW.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=246712 loop_end=333765
+<region> sample=MPesque-57-127-WEXT.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=253692 loop_end=391136
+<region> sample=MPesque-58-127-5ATW.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=265017 loop_end=396065
+<region> sample=MPesque-59-127-02VV.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=271286 loop_end=343053
+<region> sample=MPesque-60-127-H6TP.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=249045 loop_end=402604
+<region> sample=MPesque-61-127-5BK3.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=245297 loop_end=326917
+<region> sample=MPesque-62-127-PRMR.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=316251 loop_end=394029
+<region> sample=MPesque-63-127-TLB9.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=327438 loop_end=400151
+<region> sample=MPesque-64-127-EVA2.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=281907 loop_end=351885
+<region> sample=MPesque-65-127-O6HS.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=260109 loop_end=325402
+<region> sample=MPesque-66-127-ZJGY.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258097 loop_end=334278
+<region> sample=MPesque-67-127-0SZJ.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=314877 loop_end=372822
+<region> sample=MPesque-68-127-3X8O.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=258130 loop_end=311975
+<region> sample=MPesque-69-127-UAQ2.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=317020 loop_end=379874
+<region> sample=MPesque-70-127-KQPS.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=279945 loop_end=377557
+<region> sample=MPesque-71-127-MPH0.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=312263 loop_end=359824
+<region> sample=MPesque-72-127-P81I.aif key=72 lokey=72 hikey=127  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=274196 loop_end=338107

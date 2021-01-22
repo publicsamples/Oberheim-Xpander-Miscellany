@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MELODIRT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/MELODIRT/
+
+<group>        // MELODIRT
+<region> sample=005 MELODIRT-36-127.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 offset=361 end=443966 loop_mode=loop_continuous loop_start=146448 loop_end=353175
+<region> sample=005 MELODIRT-37-127.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 offset=522 end=442289 loop_mode=loop_continuous loop_start=13872 loop_end=364068
+<region> sample=005 MELODIRT-38-127.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 offset=578 loop_mode=loop_continuous loop_start=5051 loop_end=326463
+<region> sample=005 MELODIRT-39-127.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 offset=388 end=444226 loop_mode=loop_continuous loop_start=88377 loop_end=338224
+<region> sample=005 MELODIRT-40-127.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 offset=785 end=444508 loop_mode=loop_continuous loop_start=153282 loop_end=360106
+<region> sample=005 MELODIRT-41-127.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 offset=775 end=442250 loop_mode=loop_continuous loop_start=53940 loop_end=325175
+<region> sample=005 MELODIRT-42-127.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 offset=592 end=445053 loop_mode=loop_continuous loop_start=55046 loop_end=362325
+<region> sample=005 MELODIRT-43-127.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 offset=423 end=444603 loop_mode=loop_continuous loop_start=79793 loop_end=286750
+<region> sample=005 MELODIRT-44-127.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 offset=756 end=446379 loop_mode=loop_continuous loop_start=31352 loop_end=338500
+<region> sample=005 MELODIRT-45-127.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 offset=352 end=444793 loop_mode=loop_continuous loop_start=95767 loop_end=359893
+<region> sample=005 MELODIRT-46-127.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 offset=559 end=444535 loop_mode=loop_continuous loop_start=99946 loop_end=364336
+<region> sample=005 MELODIRT-47-127.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 offset=440 end=444506 loop_mode=loop_continuous loop_start=59709 loop_end=329984
+<region> sample=005 MELODIRT-48-127.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 offset=322 end=443341 loop_mode=loop_continuous loop_start=84097 loop_end=362769
+<region> sample=005 MELODIRT-49-127.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 offset=448 end=444157 loop_mode=loop_continuous loop_start=108809 loop_end=365917
+<region> sample=005 MELODIRT-50-127.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 offset=783 end=446480 loop_mode=loop_continuous loop_start=86341 loop_end=365283
+<region> sample=005 MELODIRT-51-127.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 offset=452 end=444003 loop_mode=loop_continuous loop_start=42860 loop_end=299847
+<region> sample=005 MELODIRT-52-127.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 offset=725 end=444801 loop_mode=loop_continuous loop_start=65189 loop_end=365139
+<region> sample=005 MELODIRT-53-127.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 offset=616 end=444143 loop_mode=loop_continuous loop_start=70050 loop_end=354223
+<region> sample=005 MELODIRT-54-127.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 offset=713 loop_mode=loop_continuous loop_start=32280 loop_end=325254
+<region> sample=005 MELODIRT-55-127.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 offset=660 end=443803 loop_mode=loop_continuous loop_start=98911 loop_end=362209
+<region> sample=005 MELODIRT-56-127.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 offset=480 end=442402 loop_mode=loop_continuous loop_start=71752 loop_end=363265
+<region> sample=005 MELODIRT-57-127.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 offset=417 end=441875 loop_mode=loop_continuous loop_start=2278 loop_end=309506
+<region> sample=005 MELODIRT-58-127.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 offset=697 end=443714 loop_mode=loop_continuous loop_start=21216 loop_end=321402
+<region> sample=005 MELODIRT-59-127.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 offset=340 end=443191 loop_mode=loop_continuous loop_start=51663 loop_end=315755
+<region> sample=005 MELODIRT-60-127.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 offset=695 end=444315 loop_mode=loop_continuous loop_start=34262 loop_end=341567
+<region> sample=005 MELODIRT-61-127.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 offset=357 end=443349 loop_mode=loop_continuous loop_start=45297 loop_end=338131
+<region> sample=005 MELODIRT-62-127.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 offset=653 end=444194 loop_mode=loop_continuous loop_start=57268 loop_end=364390
+<region> sample=005 MELODIRT-63-127.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 offset=687 end=443594 loop_mode=loop_continuous loop_start=39004 loop_end=339058
+<region> sample=005 MELODIRT-64-127.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 offset=559 end=442589 loop_mode=loop_continuous loop_start=79899 loop_end=366080
+<region> sample=005 MELODIRT-65-127.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 offset=445 end=443883 loop_mode=loop_continuous loop_start=47650 loop_end=347586
+<region> sample=005 MELODIRT-66-127.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 offset=253 end=441494 loop_mode=loop_continuous loop_start=22588 loop_end=322569
+<region> sample=005 MELODIRT-67-127.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 offset=720 end=442708 loop_mode=loop_continuous loop_start=50473 loop_end=357626
+<region> sample=005 MELODIRT-68-127.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 offset=779 end=443867 loop_mode=loop_continuous loop_start=19554 loop_end=290890
+<region> sample=005 MELODIRT-69-127.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 offset=363 end=442052 loop_mode=loop_continuous loop_start=59111 loop_end=344880
+<region> sample=005 MELODIRT-70-127.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 offset=430 end=442624 loop_mode=loop_continuous loop_start=83227 loop_end=354336
+<region> sample=005 MELODIRT-71-127.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 offset=360 end=443485 loop_mode=loop_continuous loop_start=64873 loop_end=364657
+<region> sample=005 MELODIRT-72-127.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 offset=586 end=443504 loop_mode=loop_continuous loop_start=63059 loop_end=348710
+<region> sample=005 MELODIRT-73-127.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 offset=491 end=442621 loop_mode=loop_continuous loop_start=42046 loop_end=342010
+<region> sample=005 MELODIRT-74-127.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 offset=814 end=442957 loop_mode=loop_continuous loop_start=33402 loop_end=326274
+<region> sample=005 MELODIRT-75-127.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 offset=401 end=441913 loop_mode=loop_continuous loop_start=54459 loop_end=354409
+<region> sample=005 MELODIRT-76-127.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 offset=763 end=443120 loop_mode=loop_continuous loop_start=61020 loop_end=339477
+<region> sample=005 MELODIRT-77-127.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 offset=504 end=442014 loop_mode=loop_continuous loop_start=2142 loop_end=294976
+<region> sample=005 MELODIRT-78-127.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 offset=334 end=441774 loop_mode=loop_continuous loop_start=44161 loop_end=337165
+<region> sample=005 MELODIRT-79-127.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 offset=494 end=442090 loop_mode=loop_continuous loop_start=60834 loop_end=353690
+<region> sample=005 MELODIRT-80-127.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 offset=494 end=445992 loop_mode=loop_continuous loop_start=22538 loop_end=308120
+<region> sample=005 MELODIRT-81-127.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 offset=315 end=442480 loop_mode=loop_continuous loop_start=35375 loop_end=321179
+<region> sample=005 MELODIRT-82-127.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 offset=567 loop_mode=loop_continuous loop_start=5957 loop_end=305934
+<region> sample=005 MELODIRT-83-127.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 offset=753 end=442439 loop_mode=loop_continuous loop_start=27817 loop_end=313577
+<region> sample=005 MELODIRT-84-127.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 offset=698 end=441930 loop_mode=loop_continuous loop_start=61308 loop_end=346961
+<region> sample=005 MELODIRT-85-127.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 offset=592 end=443215 loop_mode=loop_continuous loop_start=38771 loop_end=324530
+<region> sample=005 MELODIRT-86-127.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 offset=711 end=443004 loop_mode=loop_continuous loop_start=24443 loop_end=303040
+<region> sample=005 MELODIRT-87-127.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 offset=755 loop_mode=loop_continuous loop_start=19126 loop_end=297550
+<region> sample=005 MELODIRT-88-127.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 offset=636 loop_mode=loop_continuous loop_start=45607 loop_end=331353
+<region> sample=005 MELODIRT-89-127.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 offset=691 end=442736 loop_mode=loop_continuous loop_start=84898 loop_end=363368
+<region> sample=005 MELODIRT-90-127.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 offset=703 loop_mode=loop_continuous loop_start=77223 loop_end=369970
+<region> sample=005 MELODIRT-91-127.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 offset=588 end=442771 loop_mode=loop_continuous loop_start=62591 loop_end=348312
+<region> sample=005 MELODIRT-92-127.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 offset=745 end=443254 loop_mode=loop_continuous loop_start=70273 loop_end=348748
+<region> sample=005 MELODIRT-93-127.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 offset=645 loop_mode=loop_continuous loop_start=69164 loop_end=354849
+<region> sample=005 MELODIRT-94-127.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 offset=441 end=442558 loop_mode=loop_continuous loop_start=75058 loop_end=360835
+<region> sample=005 MELODIRT-95-127.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 offset=668 loop_mode=loop_continuous loop_start=12376 loop_end=290965
+<region> sample=005 MELODIRT-96-127.aif key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=127 offset=549 loop_mode=loop_continuous loop_start=85965 loop_end=371688

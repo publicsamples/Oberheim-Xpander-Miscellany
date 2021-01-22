@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Rezzle.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Rezzle/
+
+<group>        // Rezzle
+<region> sample=Rezzle-48-127-2AK6.wav key=48 lokey=1 hikey=48  amp_veltrack=30 lovel=1 hivel=127 offset=586 end=841121 loop_mode=no_loop
+<region> sample=Rezzle-49-127-3BPF.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 offset=458 end=838212 loop_mode=no_loop
+<region> sample=Rezzle-50-127-KHA0.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 offset=593 end=852204 loop_mode=no_loop
+<region> sample=Rezzle-51-127-IZ1U.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 offset=516 end=837749 loop_mode=no_loop
+<region> sample=Rezzle-52-127-KV69.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 offset=647 end=844567 loop_mode=no_loop
+<region> sample=Rezzle-53-127-1H9V.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 offset=809 loop_mode=no_loop
+<region> sample=Rezzle-54-127-29Z3.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 offset=573 loop_mode=no_loop
+<region> sample=Rezzle-55-127-A7XP.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 offset=588 end=834937 loop_mode=no_loop
+<region> sample=Rezzle-56-127-Q8VF.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 offset=646 loop_mode=no_loop
+<region> sample=Rezzle-57-127-WSKX.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 offset=927 end=832615 loop_mode=no_loop
+<region> sample=Rezzle-58-127-P2D7.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 offset=513 end=839939 loop_mode=no_loop
+<region> sample=Rezzle-59-127-H5N2.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 offset=655 end=837446 loop_mode=no_loop
+<region> sample=Rezzle-60-127-DJNS.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 offset=451 loop_mode=no_loop
+<region> sample=Rezzle-61-127-12SE.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 offset=646 loop_mode=no_loop
+<region> sample=Rezzle-62-127-FK23.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 offset=673 end=837490 loop_mode=no_loop
+<region> sample=Rezzle-63-127-J7A5.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 offset=675 end=823157 loop_mode=no_loop
+<region> sample=Rezzle-64-127-1NNL.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 offset=488 end=827391 loop_mode=no_loop
+<region> sample=Rezzle-65-127-AL1H.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 offset=638 end=831391 loop_mode=no_loop
+<region> sample=Rezzle-66-127-K8WF.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 offset=650 loop_mode=no_loop
+<region> sample=Rezzle-67-127-7MKU.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 offset=818 end=830685 loop_mode=no_loop
+<region> sample=Rezzle-68-127-IUOA.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 offset=743 end=843653 loop_mode=no_loop
+<region> sample=Rezzle-69-127-A8NT.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 offset=547 end=835333 loop_mode=no_loop
+<region> sample=Rezzle-70-127-MLHG.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 offset=479 end=841647 loop_mode=no_loop
+<region> sample=Rezzle-71-127-HCEI.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 offset=719 loop_mode=no_loop
+<region> sample=Rezzle-72-127-9O4G.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 offset=690 end=840457 loop_mode=no_loop
+<region> sample=Rezzle-73-127-0QI0.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 offset=716 end=829902 loop_mode=no_loop
+<region> sample=Rezzle-74-127-J79E.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 offset=688 loop_mode=no_loop
+<region> sample=Rezzle-75-127-PV1E.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 offset=511 end=823648 loop_mode=no_loop
+<region> sample=Rezzle-76-127-P4DR.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 offset=656 end=824127 loop_mode=no_loop
+<region> sample=Rezzle-77-127-2FT4.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 offset=534 end=817286 loop_mode=no_loop
+<region> sample=Rezzle-78-127-151C.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 offset=636 end=810026 loop_mode=no_loop
+<region> sample=Rezzle-79-127-MC99.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 offset=745 loop_mode=no_loop
+<region> sample=Rezzle-80-127-S8JJ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 offset=592 loop_mode=no_loop
+<region> sample=Rezzle-81-127-CY0F.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 offset=696 end=795582 loop_mode=no_loop
+<region> sample=Rezzle-82-127-YGWA.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 offset=686 loop_mode=no_loop
+<region> sample=Rezzle-83-127-4HS1.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 offset=733 end=790541 loop_mode=no_loop
+<region> sample=Rezzle-84-127-HXRR.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=1 hivel=127 offset=606 end=786817 loop_mode=no_loop

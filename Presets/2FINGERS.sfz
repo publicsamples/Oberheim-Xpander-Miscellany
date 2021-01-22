@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 2FINGERS.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/2FINGERS/(201279 18448)/
+
+<group>        // 2FINGERS
+<region> sample=011 2FINGERS-36-127-OZNA.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=239487 loop_end=397176
+<region> sample=011 2FINGERS-37-127-4ARD.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245696 loop_end=328636
+<region> sample=011 2FINGERS-38-127-08G4.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=238490 loop_end=400320
+<region> sample=011 2FINGERS-39-127-NDV8.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=223126 loop_end=318324
+<region> sample=011 2FINGERS-40-127-VVXM.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=251596 loop_end=375098
+<region> sample=011 2FINGERS-41-127-HJQD.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=223138 loop_end=351770
+<region> sample=011 2FINGERS-42-127-RHZ4.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=272104 loop_end=386398
+<region> sample=011 2FINGERS-43-127-S0AV.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=332316 loop_end=390943
+<region> sample=011 2FINGERS-44-127-5I5R.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245697 loop_end=366475
+<region> sample=011 2FINGERS-45-127-NK90.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=258767 loop_end=380672
+<region> sample=011 2FINGERS-46-127-MA72.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=290276 loop_end=376402
+<region> sample=011 2FINGERS-47-127-1SSX.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=252189 loop_end=289105
+<region> sample=011 2FINGERS-48-127-QUIE.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=238927 loop_end=389447
+<region> sample=011 2FINGERS-49-127-KBCA.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=249374 loop_end=400924
+<region> sample=011 2FINGERS-50-127-RT58.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=280622 loop_end=321532
+<region> sample=011 2FINGERS-51-127-8ARD.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=235243 loop_end=327365
+<region> sample=011 2FINGERS-52-127-1HLY.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=254001 loop_end=381388
+<region> sample=011 2FINGERS-53-127-YT49.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=271818 loop_end=393565
+<region> sample=011 2FINGERS-54-127-9GQ7.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=305422 loop_end=391441
+<region> sample=011 2FINGERS-55-127-WVUF.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=238261 loop_end=395938
+<region> sample=011 2FINGERS-56-127-Y94Y.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=256395 loop_end=392153
+<region> sample=011 2FINGERS-57-127-63LZ.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=335456 loop_end=400596
+<region> sample=011 2FINGERS-58-127-STPG.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=234604 loop_end=391811
+<region> sample=011 2FINGERS-59-127-VCHA.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=244644 loop_end=366039
+<region> sample=011 2FINGERS-60-127-OYFU.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=253086 loop_end=331827
+<region> sample=011 2FINGERS-61-127-MFOF.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=344247 loop_end=401644
+<region> sample=011 2FINGERS-62-127-5ANN.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=227264 loop_end=391115
+<region> sample=011 2FINGERS-63-127-LD1H.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=307706 loop_end=351218
+<region> sample=011 2FINGERS-64-127-27TX.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=230348 loop_end=323689
+<region> sample=011 2FINGERS-65-127-OWCG.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=225298 loop_end=267845
+<region> sample=011 2FINGERS-66-127-Z2P3.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=254036 loop_end=297042
+<region> sample=011 2FINGERS-67-127-9FMX.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=246048 loop_end=396107
+<region> sample=011 2FINGERS-68-127-LYMN.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=230314 loop_end=295005
+<region> sample=011 2FINGERS-69-127-Z68O.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=257237 loop_end=314401
+<region> sample=011 2FINGERS-70-127-SEW4.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=287200 loop_end=387299
+<region> sample=011 2FINGERS-71-127-L4FJ.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=308420 loop_end=373001
+<region> sample=011 2FINGERS-72-127-UC1E.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=307995 loop_end=401244
+<region> sample=011 2FINGERS-73-127-03IO.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=320386 loop_end=377557
+<region> sample=011 2FINGERS-74-127-1HQ4.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=320716 loop_end=391987
+<region> sample=011 2FINGERS-75-127-MRWE.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=349387 loop_end=399463
+<region> sample=011 2FINGERS-76-127-DSTV.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=293012 loop_end=393038
+<region> sample=011 2FINGERS-77-127-FWWI.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=241949 loop_end=284670
+<region> sample=011 2FINGERS-78-127-0SMQ.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=333425 loop_end=375168
+<region> sample=011 2FINGERS-79-127-2HQP.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=323216 loop_end=394644
+<region> sample=011 2FINGERS-80-127-88NG.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=239796 loop_end=282650
+<region> sample=011 2FINGERS-81-127-XTRA.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=229450 loop_end=293754
+<region> sample=011 2FINGERS-82-127-LTW2.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=358520 loop_end=401435
+<region> sample=011 2FINGERS-83-127-BIWX.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=293745 loop_end=386518
+<region> sample=011 2FINGERS-84-127-7QVA.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=276105 loop_end=347503
+<region> sample=011 2FINGERS-85-127-Q6XE.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=336188 loop_end=393534
+<region> sample=011 2FINGERS-86-127-V6ZU.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=277652 loop_end=327896
+<region> sample=011 2FINGERS-87-127-JX5L.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=350923 loop_end=392953
+<region> sample=011 2FINGERS-88-127-6SWB.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=265472 loop_end=322511
+<region> sample=011 2FINGERS-89-127-D5KU.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=313706 loop_end=393880
+<region> sample=011 2FINGERS-90-127-C91G.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=291048 loop_end=391013
+<region> sample=011 2FINGERS-91-127-RMN0.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=326751 loop_end=369700
+<region> sample=011 2FINGERS-92-127-T84N.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=357165 loop_end=400164
+<region> sample=011 2FINGERS-93-127-7X3W.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=282269 loop_end=325292
+<region> sample=011 2FINGERS-94-127-I6XL.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=237501 loop_end=286277
+<region> sample=011 2FINGERS-95-127-N6LT.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=304809 loop_end=347630
+<region> sample=011 2FINGERS-96-127-ERLJ.aif key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=248138 loop_end=290435

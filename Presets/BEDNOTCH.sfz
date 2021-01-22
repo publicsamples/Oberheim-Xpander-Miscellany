@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - BEDNOTCH.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/BEDNOTCH/(201279 162618)/
+
+<group>        // BEDNOTCH
+<region> sample=000 BEDNOTCH-24-127-EJ3I.aif key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=238904 loop_end=399666
+<region> sample=000 BEDNOTCH-25-127-S4FH.aif key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=273822 loop_end=382110
+<region> sample=000 BEDNOTCH-26-127-62CW.aif key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=309541 loop_end=398643
+<region> sample=000 BEDNOTCH-27-127-RBTK.aif key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=226403 loop_end=299128
+<region> sample=000 BEDNOTCH-28-127-3RBO.aif key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=228725 loop_end=273758
+<region> sample=000 BEDNOTCH-29-127-WOVR.aif key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=219817 loop_end=390859
+<region> sample=000 BEDNOTCH-30-127-727U.aif key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=300335 loop_end=398676
+<region> sample=000 BEDNOTCH-31-127-YPRQ.aif key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=218495 loop_end=397671
+<region> sample=000 BEDNOTCH-32-127-4D2K.aif key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=270719 loop_end=315805
+<region> sample=000 BEDNOTCH-33-127-81YQ.aif key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=232752 loop_end=385332
+<region> sample=000 BEDNOTCH-34-127-F4JU.aif key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=282490 loop_end=399206
+<region> sample=000 BEDNOTCH-35-127-CQE8.aif key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=300446 loop_end=345504
+<region> sample=000 BEDNOTCH-36-127-UDH7.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=307186 loop_end=378715
+<region> sample=000 BEDNOTCH-37-127-Z2YP.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=270095 loop_end=378310
+<region> sample=000 BEDNOTCH-38-127-HUZK.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=289970 loop_end=397582
+<region> sample=000 BEDNOTCH-39-127-UCTR.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=247098 loop_end=399716
+<region> sample=000 BEDNOTCH-40-127-UWC5.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=226385 loop_end=297621
+<region> sample=000 BEDNOTCH-41-127-BKFU.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=239518 loop_end=311306
+<region> sample=000 BEDNOTCH-42-127-Z0S1.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=243831 loop_end=315386
+<region> sample=000 BEDNOTCH-43-127-E87P.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=239589 loop_end=392144
+<region> sample=000 BEDNOTCH-44-127-AB00.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=302725 loop_end=374110
+<region> sample=000 BEDNOTCH-45-127-VZUW.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=226061 loop_end=297849
+<region> sample=000 BEDNOTCH-46-127-ZXDI.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=278311 loop_end=350228
+<region> sample=000 BEDNOTCH-47-127-2RAS.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=220153 loop_end=291590
+<region> sample=000 BEDNOTCH-48-127-MEHN.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=261384 loop_end=332868
+<region> sample=000 BEDNOTCH-49-127-7698.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=258276 loop_end=330186
+<region> sample=000 BEDNOTCH-50-127-SCJA.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=241802 loop_end=394396
+<region> sample=000 BEDNOTCH-51-127-M0C5.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=316279 loop_end=388009
+<region> sample=000 BEDNOTCH-52-127-IEZ2.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=217299 loop_end=289020
+<region> sample=000 BEDNOTCH-53-127-LTR1.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=230467 loop_end=383009
+<region> sample=000 BEDNOTCH-54-127-4K3P.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=233697 loop_end=386246
+<region> sample=000 BEDNOTCH-55-127-7EB3.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=230580 loop_end=383064
+<region> sample=000 BEDNOTCH-56-127-AMDS.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=221227 loop_end=373902
+<region> sample=000 BEDNOTCH-57-127-3JUS.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=244864 loop_end=397412
+<region> sample=000 BEDNOTCH-58-127-PDJF.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=225426 loop_end=377949
+<region> sample=000 BEDNOTCH-59-127-MLCG.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=247708 loop_end=400386
+<region> sample=000 BEDNOTCH-60-127-C685.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=218134 loop_end=370823
+<region> sample=000 BEDNOTCH-61-127-S5QR.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=247746 loop_end=400250
+<region> sample=000 BEDNOTCH-62-127-Y4U4.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=233587 loop_end=386232
+<region> sample=000 BEDNOTCH-63-127-T6JZ.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=230430 loop_end=383002
+<region> sample=000 BEDNOTCH-64-127-DHSI.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=246775 loop_end=399272
+<region> sample=000 BEDNOTCH-65-127-6W6U.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=234293 loop_end=386816
+<region> sample=000 BEDNOTCH-66-127-4KKQ.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=238112 loop_end=390648
+<region> sample=000 BEDNOTCH-67-127-MYFB.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=234427 loop_end=386934
+<region> sample=000 BEDNOTCH-68-127-AQCY.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=242651 loop_end=395178
+<region> sample=000 BEDNOTCH-69-127-2W6D.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245212 loop_end=397785
+<region> sample=000 BEDNOTCH-70-127-BSVX.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=228319 loop_end=380954
+<region> sample=000 BEDNOTCH-71-127-A8IU.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=233976 loop_end=386491
+<region> sample=000 BEDNOTCH-72-127-1T27.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245244 loop_end=397572
+<region> sample=000 BEDNOTCH-73-127-726E.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=239565 loop_end=392106
+<region> sample=000 BEDNOTCH-74-127-8EDE.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=228987 loop_end=381508
+<region> sample=000 BEDNOTCH-75-127-742S.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245734 loop_end=398327
+<region> sample=000 BEDNOTCH-76-127-E5LF.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245705 loop_end=398243
+<region> sample=000 BEDNOTCH-77-127-GB0V.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=227926 loop_end=380447
+<region> sample=000 BEDNOTCH-78-127-OU7F.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=247416 loop_end=399959
+<region> sample=000 BEDNOTCH-79-127-LPDO.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=226819 loop_end=379387
+<region> sample=000 BEDNOTCH-80-127-SJZT.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=243541 loop_end=396103
+<region> sample=000 BEDNOTCH-81-127-E8H9.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=242617 loop_end=395166
+<region> sample=000 BEDNOTCH-82-127-1PUR.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=233055 loop_end=385621
+<region> sample=000 BEDNOTCH-83-127-SKJC.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=246871 loop_end=399407
+<region> sample=000 BEDNOTCH-84-127-682K.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=222870 loop_end=375392
+<region> sample=000 BEDNOTCH-85-127-2ABG.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=219762 loop_end=372324
+<region> sample=000 BEDNOTCH-86-127-UL76.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=239155 loop_end=391693
+<region> sample=000 BEDNOTCH-87-127-96W9.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=246094 loop_end=398638
+<region> sample=000 BEDNOTCH-88-127-TRBY.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245571 loop_end=398129
+<region> sample=000 BEDNOTCH-89-127-MCIC.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=246146 loop_end=398736
+<region> sample=000 BEDNOTCH-90-127-N17O.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=238014 loop_end=390530
+<region> sample=000 BEDNOTCH-91-127-K9RE.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245481 loop_end=398027
+<region> sample=000 BEDNOTCH-92-127-Z1JA.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=245197 loop_end=397721
+<region> sample=000 BEDNOTCH-93-127-OUN6.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=243342 loop_end=395863
+<region> sample=000 BEDNOTCH-94-127-C0CH.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=243280 loop_end=395848
+<region> sample=000 BEDNOTCH-95-127-1YGI.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=277476 loop_end=394150
+<region> sample=000 BEDNOTCH-96-127-9O7F.aif key=96 lokey=96 hikey=96  amp_veltrack=30 lovel=1 hivel=127 loop_mode=loop_continuous loop_start=234950 loop_end=387513

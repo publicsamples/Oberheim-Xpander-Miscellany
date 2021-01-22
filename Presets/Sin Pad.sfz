@@ -1,0 +1,154 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sin Pad.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Sin Pad/
+
+<group>        // Sin Pad
+<region> sample=Sin Pad-36-32_0001.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=765 loop_mode=loop_continuous loop_start=220346 loop_end=257099
+<region> sample=Sin Pad-36-63_0001.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=53 end=529382 loop_mode=loop_continuous loop_start=328556 loop_end=381553
+<region> sample=Sin Pad-36-95_0001.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=126 end=529369 loop_mode=loop_continuous loop_start=336976 loop_end=389921
+<region> sample=Sin Pad-37-32.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 loop_mode=loop_continuous loop_start=221466 loop_end=256828
+<region> sample=Sin Pad-37-63.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=51 end=530187 loop_mode=loop_continuous loop_start=278677 loop_end=331837
+<region> sample=Sin Pad-37-95.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=72 loop_mode=loop_continuous loop_start=260928 loop_end=314039
+<region> sample=Sin Pad-38-32.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=16 end=530269 loop_mode=loop_continuous loop_start=221418 loop_end=257209
+<region> sample=Sin Pad-38-63.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=51 end=530778 loop_mode=loop_continuous loop_start=251136 loop_end=304264
+<region> sample=Sin Pad-38-95.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=27 end=529674 loop_mode=loop_continuous loop_start=261810 loop_end=314952
+<region> sample=Sin Pad-39-32.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=93 end=530291 loop_mode=loop_continuous loop_start=221436 loop_end=258051
+<region> sample=Sin Pad-39-63.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=529684 loop_mode=loop_continuous loop_start=330578 loop_end=383515
+<region> sample=Sin Pad-39-95.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=120 end=529701 loop_mode=loop_continuous loop_start=315038 loop_end=368611
+<region> sample=Sin Pad-40-32.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=55 end=529179 loop_mode=loop_continuous loop_start=270681 loop_end=323876
+<region> sample=Sin Pad-40-63.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=530688 loop_mode=loop_continuous loop_start=228631 loop_end=281847
+<region> sample=Sin Pad-40-95.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=530866 loop_mode=loop_continuous loop_start=267060 loop_end=320277
+<region> sample=Sin Pad-41-32.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=530839 loop_mode=loop_continuous loop_start=245263 loop_end=298460
+<region> sample=Sin Pad-41-63.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=3 end=529805 loop_mode=loop_continuous loop_start=229533 loop_end=282790
+<region> sample=Sin Pad-41-95.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=95 end=529809 loop_mode=loop_continuous loop_start=239425 loop_end=292644
+<region> sample=Sin Pad-42-32.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=71 loop_mode=loop_continuous loop_start=250060 loop_end=303143
+<region> sample=Sin Pad-42-63.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=29 end=530714 loop_mode=loop_continuous loop_start=339939 loop_end=393024
+<region> sample=Sin Pad-42-95.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=17 end=529664 loop_mode=loop_continuous loop_start=267644 loop_end=321176
+<region> sample=Sin Pad-43-32.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=529726 loop_mode=loop_continuous loop_start=302691 loop_end=355489
+<region> sample=Sin Pad-43-63.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 loop_mode=loop_continuous loop_start=311609 loop_end=364824
+<region> sample=Sin Pad-43-95.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=529156 loop_mode=loop_continuous loop_start=320632 loop_end=373859
+<region> sample=Sin Pad-44-32.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=18 end=530700 loop_mode=loop_continuous loop_start=254625 loop_end=307821
+<region> sample=Sin Pad-44-63.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=51 end=529834 loop_mode=loop_continuous loop_start=340309 loop_end=393480
+<region> sample=Sin Pad-44-95.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=26 end=530200 loop_mode=loop_continuous loop_start=324658 loop_end=377864
+<region> sample=Sin Pad-45-32.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=3 end=529681 loop_mode=loop_continuous loop_start=280613 loop_end=333986
+<region> sample=Sin Pad-45-63.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=528831 loop_mode=loop_continuous loop_start=290033 loop_end=343418
+<region> sample=Sin Pad-45-95.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=84 end=529177 loop_mode=loop_continuous loop_start=236897 loop_end=290284
+<region> sample=Sin Pad-46-32.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=1 end=530736 loop_mode=loop_continuous loop_start=308481 loop_end=361479
+<region> sample=Sin Pad-46-63.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 loop_mode=loop_continuous loop_start=292048 loop_end=345079
+<region> sample=Sin Pad-46-95.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=3 end=530208 loop_mode=loop_continuous loop_start=248609 loop_end=301611
+<region> sample=Sin Pad-47-32.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=4 end=530326 loop_mode=loop_continuous loop_start=309120 loop_end=362351
+<region> sample=Sin Pad-47-63.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=55 end=530851 loop_mode=loop_continuous loop_start=347164 loop_end=400755
+<region> sample=Sin Pad-47-95.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=115 end=530766 loop_mode=loop_continuous loop_start=274204 loop_end=327416
+<region> sample=Sin Pad-48-32.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=529716 loop_mode=loop_continuous loop_start=257089 loop_end=310379
+<region> sample=Sin Pad-48-63.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=86 end=530800 loop_mode=loop_continuous loop_start=266969 loop_end=319899
+<region> sample=Sin Pad-48-95.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=115 end=529727 loop_mode=loop_continuous loop_start=332291 loop_end=385568
+<region> sample=Sin Pad-49-32.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=575 end=529759 loop_mode=loop_continuous loop_start=293093 loop_end=346221
+<region> sample=Sin Pad-49-63.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=50 end=530216 loop_mode=loop_continuous loop_start=326772 loop_end=380206
+<region> sample=Sin Pad-49-95.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=55 end=529269 loop_mode=loop_continuous loop_start=345635 loop_end=398776
+<region> sample=Sin Pad-50-32.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=46 end=529727 loop_mode=loop_continuous loop_start=318648 loop_end=372062
+<region> sample=Sin Pad-50-63.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=108 loop_mode=loop_continuous loop_start=340247 loop_end=393372
+<region> sample=Sin Pad-50-95.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=98 end=529248 loop_mode=loop_continuous loop_start=259372 loop_end=312500
+<region> sample=Sin Pad-51-32.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=79 loop_mode=loop_continuous loop_start=347269 loop_end=400497
+<region> sample=Sin Pad-51-63.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=37 loop_mode=loop_continuous loop_start=342273 loop_end=395524
+<region> sample=Sin Pad-51-95.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=17 end=530313 loop_mode=loop_continuous loop_start=318678 loop_end=371908
+<region> sample=Sin Pad-52-32.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=94 end=529729 loop_mode=loop_continuous loop_start=326899 loop_end=380076
+<region> sample=Sin Pad-52-63.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=125 end=530185 loop_mode=loop_continuous loop_start=312061 loop_end=365238
+<region> sample=Sin Pad-52-95.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=57 end=529731 loop_mode=loop_continuous loop_start=346511 loop_end=399675
+<region> sample=Sin Pad-53-32.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=110 end=530787 loop_mode=loop_continuous loop_start=222456 loop_end=275664
+<region> sample=Sin Pad-53-63.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=60 end=529155 loop_mode=loop_continuous loop_start=337814 loop_end=391000
+<region> sample=Sin Pad-53-95.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 loop_mode=loop_continuous loop_start=347291 loop_end=400488
+<region> sample=Sin Pad-54-32.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=72 end=529216 loop_mode=loop_continuous loop_start=345407 loop_end=398704
+<region> sample=Sin Pad-54-63.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=529711 loop_mode=loop_continuous loop_start=313049 loop_end=366334
+<region> sample=Sin Pad-54-95.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=124 end=530803 loop_mode=loop_continuous loop_start=332266 loop_end=385561
+<region> sample=Sin Pad-55-32.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=47 end=530688 loop_mode=loop_continuous loop_start=348469 loop_end=401657
+<region> sample=Sin Pad-55-63.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=120 end=529711 loop_mode=loop_continuous loop_start=346446 loop_end=399645
+<region> sample=Sin Pad-55-95.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=60 end=529671 loop_mode=loop_continuous loop_start=332391 loop_end=385595
+<region> sample=Sin Pad-56-32.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 loop_mode=loop_continuous loop_start=312411 loop_end=365594
+<region> sample=Sin Pad-56-63.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=57 end=529241 loop_mode=loop_continuous loop_start=348346 loop_end=401749
+<region> sample=Sin Pad-56-95.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=46 loop_mode=loop_continuous loop_start=336423 loop_end=389600
+<region> sample=Sin Pad-57-32.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=80 loop_mode=loop_continuous loop_start=346401 loop_end=399581
+<region> sample=Sin Pad-57-63.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=69 end=528658 loop_mode=loop_continuous loop_start=347455 loop_end=400645
+<region> sample=Sin Pad-57-95.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 loop_mode=loop_continuous loop_start=314724 loop_end=367906
+<region> sample=Sin Pad-58-32.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=104 end=529798 loop_mode=loop_continuous loop_start=244037 loop_end=297243
+<region> sample=Sin Pad-58-63.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=125 end=530705 loop_mode=loop_continuous loop_start=231342 loop_end=284725
+<region> sample=Sin Pad-58-95.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=530260 loop_mode=loop_continuous loop_start=346519 loop_end=399724
+<region> sample=Sin Pad-59-32.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=79 end=530231 loop_mode=loop_continuous loop_start=278903 loop_end=331961
+<region> sample=Sin Pad-59-63.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=82 end=528668 loop_mode=loop_continuous loop_start=259377 loop_end=312605
+<region> sample=Sin Pad-59-95.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=61 end=530215 loop_mode=loop_continuous loop_start=295431 loop_end=348662
+<region> sample=Sin Pad-60-32.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=66 end=530251 loop_mode=loop_continuous loop_start=348554 loop_end=401797
+<region> sample=Sin Pad-60-63.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=529799 loop_mode=loop_continuous loop_start=237256 loop_end=290502
+<region> sample=Sin Pad-60-95.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=117 end=530281 loop_mode=loop_continuous loop_start=329278 loop_end=382364
+<region> sample=Sin Pad-61-32.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 loop_mode=loop_continuous loop_start=257366 loop_end=310633
+<region> sample=Sin Pad-61-63.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=112 end=529253 loop_mode=loop_continuous loop_start=342346 loop_end=395607
+<region> sample=Sin Pad-61-95.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=255 end=529700 loop_mode=loop_continuous loop_start=223495 loop_end=276589
+<region> sample=Sin Pad-62-32.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=119 end=529812 loop_mode=loop_continuous loop_start=250326 loop_end=303574
+<region> sample=Sin Pad-62-63.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=530228 loop_mode=loop_continuous loop_start=321854 loop_end=375112
+<region> sample=Sin Pad-62-95.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=529290 loop_mode=loop_continuous loop_start=302459 loop_end=355715
+<region> sample=Sin Pad-63-32.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=86 end=530298 loop_mode=loop_continuous loop_start=283581 loop_end=336798
+<region> sample=Sin Pad-63-63.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=530692 loop_mode=loop_continuous loop_start=324712 loop_end=377921
+<region> sample=Sin Pad-63-95.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=529854 loop_mode=loop_continuous loop_start=242444 loop_end=295522
+<region> sample=Sin Pad-64-32.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=617 end=529277 loop_mode=loop_continuous loop_start=347818 loop_end=400866
+<region> sample=Sin Pad-64-63.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=110 end=530746 loop_mode=loop_continuous loop_start=341301 loop_end=394611
+<region> sample=Sin Pad-64-95.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=96 end=529685 loop_mode=loop_continuous loop_start=306498 loop_end=359807
+<region> sample=Sin Pad-65-32.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=102 end=529889 loop_mode=loop_continuous loop_start=347469 loop_end=400788
+<region> sample=Sin Pad-65-63.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=102 end=530257 loop_mode=loop_continuous loop_start=301908 loop_end=355107
+<region> sample=Sin Pad-65-95.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=529836 loop_mode=loop_continuous loop_start=233426 loop_end=286626
+<region> sample=Sin Pad-66-32.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=80 end=530401 loop_mode=loop_continuous loop_start=320700 loop_end=373755
+<region> sample=Sin Pad-66-63.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=95 loop_mode=loop_continuous loop_start=248611 loop_end=301783
+<region> sample=Sin Pad-66-95.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=103 end=529851 loop_mode=loop_continuous loop_start=340989 loop_end=394153
+<region> sample=Sin Pad-67-32.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=81 end=529671 loop_mode=loop_continuous loop_start=348545 loop_end=401749
+<region> sample=Sin Pad-67-63.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=127 end=530812 loop_mode=loop_continuous loop_start=346517 loop_end=399721
+<region> sample=Sin Pad-67-95.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=118 end=531743 loop_mode=loop_continuous loop_start=313737 loop_end=366939
+<region> sample=Sin Pad-68-32.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=529390 loop_mode=loop_continuous loop_start=344631 loop_end=397792
+<region> sample=Sin Pad-68-63.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=118 end=530817 loop_mode=loop_continuous loop_start=347480 loop_end=400745
+<region> sample=Sin Pad-68-95.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=530891 loop_mode=loop_continuous loop_start=342435 loop_end=395599
+<region> sample=Sin Pad-69-32.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=107 end=529346 loop_mode=loop_continuous loop_start=339327 loop_end=392596
+<region> sample=Sin Pad-69-63.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=113 end=530821 loop_mode=loop_continuous loop_start=311197 loop_end=364371
+<region> sample=Sin Pad-69-95.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=113 end=529178 loop_mode=loop_continuous loop_start=309905 loop_end=363066
+<region> sample=Sin Pad-70-32.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=530189 loop_mode=loop_continuous loop_start=227660 loop_end=280933
+<region> sample=Sin Pad-70-63.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=97 end=529363 loop_mode=loop_continuous loop_start=289516 loop_end=342700
+<region> sample=Sin Pad-70-95.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=505 end=528792 loop_mode=loop_continuous loop_start=251672 loop_end=304863
+<region> sample=Sin Pad-71-32.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 loop_mode=loop_continuous loop_start=339720 loop_end=392853
+<region> sample=Sin Pad-71-63.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=98 end=530206 loop_mode=loop_continuous loop_start=268122 loop_end=321333
+<region> sample=Sin Pad-71-95.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=530399 loop_mode=loop_continuous loop_start=307595 loop_end=360803
+<region> sample=Sin Pad-72-32.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=94 end=529723 loop_mode=loop_continuous loop_start=314127 loop_end=367303
+<region> sample=Sin Pad-72-63.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=619 end=530180 loop_mode=loop_continuous loop_start=343965 loop_end=397232
+<region> sample=Sin Pad-72-95.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=109 end=530240 loop_mode=loop_continuous loop_start=223756 loop_end=277107
+<region> sample=Sin Pad-73-32.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=530201 loop_mode=loop_continuous loop_start=345472 loop_end=398739
+<region> sample=Sin Pad-73-63.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=120 loop_mode=loop_continuous loop_start=344420 loop_end=397687
+<region> sample=Sin Pad-73-95.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=120 end=529784 loop_mode=loop_continuous loop_start=234862 loop_end=288136
+<region> sample=Sin Pad-74-32.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=998 end=529198 loop_mode=loop_continuous loop_start=305232 loop_end=358276
+<region> sample=Sin Pad-74-63.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=122 end=529288 loop_mode=loop_continuous loop_start=233192 loop_end=286238
+<region> sample=Sin Pad-74-95.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=530884 loop_mode=loop_continuous loop_start=285843 loop_end=338953
+<region> sample=Sin Pad-75-32.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 loop_mode=loop_continuous loop_start=307502 loop_end=360586
+<region> sample=Sin Pad-75-63.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=108 end=530832 loop_mode=loop_continuous loop_start=262394 loop_end=315836
+<region> sample=Sin Pad-75-95.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=743 end=530312 loop_mode=loop_continuous loop_start=276482 loop_end=329711
+<region> sample=Sin Pad-76-32.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=103 end=529820 loop_mode=loop_continuous loop_start=311707 loop_end=364944
+<region> sample=Sin Pad-76-63.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=109 loop_mode=loop_continuous loop_start=346415 loop_end=399566
+<region> sample=Sin Pad-76-95.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=105 end=530405 loop_mode=loop_continuous loop_start=243998 loop_end=297084
+<region> sample=Sin Pad-77-32.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=121 end=529229 loop_mode=loop_continuous loop_start=307665 loop_end=360911
+<region> sample=Sin Pad-77-63.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=1010 loop_mode=loop_continuous loop_start=304714 loop_end=357898
+<region> sample=Sin Pad-77-95.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=112 loop_mode=loop_continuous loop_start=232776 loop_end=286031
+<region> sample=Sin Pad-78-32.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 end=530358 loop_mode=loop_continuous loop_start=320844 loop_end=373994
+<region> sample=Sin Pad-78-63.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=113 end=530912 loop_mode=loop_continuous loop_start=308726 loop_end=362052
+<region> sample=Sin Pad-78-95.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 end=529833 loop_mode=loop_continuous loop_start=262528 loop_end=315686
+<region> sample=Sin Pad-79-32.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=618 end=529756 loop_mode=loop_continuous loop_start=331535 loop_end=384723
+<region> sample=Sin Pad-79-63.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=116 loop_mode=loop_continuous loop_start=313576 loop_end=366827
+<region> sample=Sin Pad-79-95.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=127 loop_mode=loop_continuous loop_start=313836 loop_end=367071
+<region> sample=Sin Pad-80-32.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=127 loop_mode=loop_continuous loop_start=228594 loop_end=281711
+<region> sample=Sin Pad-80-63.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=120 end=529735 loop_mode=loop_continuous loop_start=290141 loop_end=343370
+<region> sample=Sin Pad-80-95.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=503 loop_mode=loop_continuous loop_start=251651 loop_end=304932
+<region> sample=Sin Pad-81-32.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=114 end=530408 loop_mode=loop_continuous loop_start=288158 loop_end=341289
+<region> sample=Sin Pad-81-63.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=118 end=530419 loop_mode=loop_continuous loop_start=321670 loop_end=375041
+<region> sample=Sin Pad-81-95.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=111 end=529912 loop_mode=loop_continuous loop_start=255391 loop_end=308608
+<region> sample=Sin Pad-82-32.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=112 loop_mode=loop_continuous loop_start=265594 loop_end=318883
+<region> sample=Sin Pad-82-63.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=603 end=529179 loop_mode=loop_continuous loop_start=347043 loop_end=400288
+<region> sample=Sin Pad-82-95.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=120 end=531242 loop_mode=loop_continuous loop_start=262499 loop_end=315745
+<region> sample=Sin Pad-83-32.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=124 end=530221 loop_mode=loop_continuous loop_start=348551 loop_end=401725
+<region> sample=Sin Pad-83-63.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=124 end=530326 loop_mode=loop_continuous loop_start=348549 loop_end=401807
+<region> sample=Sin Pad-83-95.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=116 end=529206 loop_mode=loop_continuous loop_start=290203 loop_end=343427
+<region> sample=Sin Pad-84-32.aif key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=1 hivel=32 volume=12 offset=743 end=531420 loop_mode=loop_continuous loop_start=306169 loop_end=359331
+<region> sample=Sin Pad-84-63.aif key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=33 hivel=63 volume=12 offset=120 end=529748 loop_mode=loop_continuous loop_start=231817 loop_end=285101
+<region> sample=Sin Pad-84-95.aif key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=64 hivel=126 volume=12 offset=124 end=531215 loop_mode=loop_continuous loop_start=249298 loop_end=302579

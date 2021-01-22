@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Another Time.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Another Time/(201631 92224)/
+
+<group>        // Another Time
+<region> sample=Another Time-60-127-ZCQM.wav key=35 lokey=1 hikey=36  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=331345 loop_end=470505
+<region> sample=Another Time-61-127-1OM8.wav key=36 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=184337 loop_end=300939
+<region> sample=Another Time-62-127-79XS.wav key=37 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=216187 loop_end=333048
+<region> sample=Another Time-63-127-YGS7.wav key=38 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=207845 loop_end=331057
+<region> sample=Another Time-64-127-RK5W.wav key=39 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=48572 loop_end=180621
+<region> sample=Another Time-65-127-EP6V.wav key=40 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=111172 loop_end=235218
+<region> sample=Another Time-66-127-2Q5F.wav key=41 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=201016 loop_end=317602
+<region> sample=Another Time-67-127-1W0U.wav key=42 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=34857 loop_end=166955
+<region> sample=Another Time-68-127-M2MG.wav key=43 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=57932 loop_end=194778
+<region> sample=Another Time-69-127-2HFT.wav key=44 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=214448 loop_end=346203
+<region> sample=Another Time-70-127-S1IK.wav key=45 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=238036 loop_end=354901
+<region> sample=Another Time-71-127-CKFA.wav key=46 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=46555 loop_end=170518
+<region> sample=Another Time-72-127-4HXR.wav key=47 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=169459 loop_end=309308
+<region> sample=Another Time-73-127-4THJ.wav key=48 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=47016 loop_end=179305
+<region> sample=Another Time-74-127-A96F.wav key=49 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=282260 loop_end=405587
+<region> sample=Another Time-75-127-LGH5.wav key=50 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=51247 loop_end=192998
+<region> sample=Another Time-76-127-I9XV.wav key=51 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=355133 loop_end=495019
+<region> sample=Another Time-77-127-7YIB.wav key=52 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=140882 loop_end=288374
+<region> sample=Another Time-78-127-FCRF.wav key=53 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=124152 loop_end=256035
+<region> sample=Another Time-79-127-6HLD.wav key=54 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=29713 loop_end=161748
+<region> sample=Another Time-80-127-7RX1.wav key=55 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=400059 loop_end=517852
+<region> sample=Another Time-81-127-NZVY.wav key=56 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=37380 loop_end=184898
+<region> sample=Another Time-82-127-XFQ2.wav key=57 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=30595 loop_end=255928
+<region> sample=Another Time-83-127-75IO.wav key=58 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=76423 loop_end=286420
+<region> sample=Another Time-84-127-12IL.wav key=59 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=426743 loop_end=550694
+<region> sample=Another Time-85-127-RHEM.wav key=60 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=41997 loop_end=160706
+<region> sample=Another Time-86-127-GWJG.wav key=61 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=49481 loop_end=235958
+<region> sample=Another Time-87-127-0VCZ.wav key=62 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=44702 loop_end=160235
+<region> sample=Another Time-88-127-1Q37.wav key=63 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=265743 loop_end=421144
+<region> sample=Another Time-89-127-0J28.wav key=64 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=266002 loop_end=421546
+<region> sample=Another Time-90-127-8AM4.wav key=65 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=293651 loop_end=464705
+<region> sample=Another Time-91-127-RJZV.wav key=66 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=222095 loop_end=346067
+<region> sample=Another Time-92-127-9HNN.wav key=67 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=105812 loop_end=261295
+<region> sample=Another Time-93-127-RYMR.wav key=68 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=395825 loop_end=528049
+<region> sample=Another Time-94-127-B1YW.wav key=69 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=344588 loop_end=500274
+<region> sample=Another Time-95-127-DUJ9.wav key=70 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=283024 loop_end=492923
+<region> sample=Another Time-96-127-QK9D.wav key=71 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=434821 loop_end=582373
+<region> sample=Another Time-97-127-T18I.wav key=72 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=62467 loop_end=178256
+<region> sample=Another Time-98-127-L21Y.wav key=73 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=304646 loop_end=592401
+<region> sample=Another Time-99-127-D4KG.wav key=74 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=285251 loop_end=401971
+<region> sample=Another Time-100-127-Q6FO.wav key=75 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=44238 loop_end=238722
+<region> sample=Another Time-101-127-VZE6.wav key=76 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=128113 loop_end=268211
+<region> sample=Another Time-102-127-B7KZ.wav key=77 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=371780 loop_end=597032
+<region> sample=Another Time-103-127-SN4W.wav key=78 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=75828 loop_end=192578
+<region> sample=Another Time-104-127-7ILW.wav key=79 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=213411 loop_end=501113
+<region> sample=Another Time-105-127-ZYQQ.wav key=80 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=135191 loop_end=259121
+<region> sample=Another Time-106-127-7A48.wav key=81 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=58850 loop_end=245195
+<region> sample=Another Time-107-127-5J7M.wav key=82 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=359702 loop_end=530707
+<region> sample=Another Time-108-127-14IE.wav key=83 lokey=84 hikey=127  amp_veltrack=30 lovel=1 hivel=127 transpose=-1 loop_mode=loop_continuous loop_start=105672 loop_end=237774

@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Monster Chord.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Monster Chord/
+
+<group>        // Monster Chord
+<region> sample=Monster Chord-36-127.aif key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 offset=551 end=530584 loop_mode=loop_continuous loop_start=379902 loop_end=466223
+<region> sample=Monster Chord-37-127.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 offset=777 end=531709 loop_mode=loop_continuous loop_start=388165 loop_end=462008
+<region> sample=Monster Chord-38-127.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 offset=512 end=530226 loop_mode=loop_continuous loop_start=372550 loop_end=483074
+<region> sample=Monster Chord-39-127.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 offset=664 end=530754 loop_mode=loop_continuous loop_start=376604 loop_end=462776
+<region> sample=Monster Chord-40-127.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 offset=637 loop_mode=loop_continuous loop_start=377417 loop_end=452371
+<region> sample=Monster Chord-41-127.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 offset=865 end=531313 loop_mode=loop_continuous loop_start=403454 loop_end=499443
+<region> sample=Monster Chord-42-127.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 offset=841 loop_mode=loop_continuous loop_start=410866 loop_end=497184
+<region> sample=Monster Chord-43-127.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 offset=830 end=531646 loop_mode=loop_continuous loop_start=437492 loop_end=497791
+<region> sample=Monster Chord-44-127.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 offset=693 end=531058 loop_mode=loop_continuous loop_start=404915 loop_end=490699
+<region> sample=Monster Chord-45-127.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 offset=446 end=530429 loop_mode=loop_continuous loop_start=418504 loop_end=491457
+<region> sample=Monster Chord-46-127.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 offset=379 end=530057 loop_mode=loop_continuous loop_start=413443 loop_end=450503
+<region> sample=Monster Chord-47-127.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 offset=775 end=530645 loop_mode=loop_continuous loop_start=376200 loop_end=425105
+<region> sample=Monster Chord-48-127.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 offset=747 end=531048 loop_mode=loop_continuous loop_start=412276 loop_end=449347
+<region> sample=Monster Chord-49-127.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 offset=624 end=531419 loop_mode=loop_continuous loop_start=417465 loop_end=455310
+<region> sample=Monster Chord-50-127.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 offset=543 end=530376 loop_mode=loop_continuous loop_start=407140 loop_end=443761
+<region> sample=Monster Chord-51-127.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 offset=582 end=530492 loop_mode=loop_continuous loop_start=443100 loop_end=491256
+<region> sample=Monster Chord-52-127.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 offset=575 end=530554 loop_mode=loop_continuous loop_start=445472 loop_end=481309
+<region> sample=Monster Chord-53-127.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 offset=388 end=530957 loop_mode=loop_continuous loop_start=415267 loop_end=452114
+<region> sample=Monster Chord-54-127.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 offset=883 end=530755 loop_mode=loop_continuous loop_start=421493 loop_end=459124
+<region> sample=Monster Chord-55-127.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 offset=773 loop_mode=loop_continuous loop_start=415685 loop_end=452548
+<region> sample=Monster Chord-56-127.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 offset=612 loop_mode=loop_continuous loop_start=402499 loop_end=451738
+<region> sample=Monster Chord-57-127.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 offset=506 end=530404 loop_mode=loop_continuous loop_start=395255 loop_end=422095
+<region> sample=Monster Chord-58-127.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 offset=845 end=531328 loop_mode=loop_continuous loop_start=406263 loop_end=455793
+<region> sample=Monster Chord-59-127.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 offset=870 end=530846 loop_mode=loop_continuous loop_start=385340 loop_end=471520
+<region> sample=Monster Chord-60-127.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 offset=362 loop_mode=loop_continuous loop_start=462370 loop_end=499241
+<region> sample=Monster Chord-61-127.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 offset=775 end=531633 loop_mode=loop_continuous loop_start=413909 loop_end=451414
+<region> sample=Monster Chord-62-127.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 offset=366 loop_mode=loop_continuous loop_start=439709 loop_end=500156
+<region> sample=Monster Chord-63-127.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 offset=427 end=531279 loop_mode=loop_continuous loop_start=390788 loop_end=418252
+<region> sample=Monster Chord-64-127.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 offset=848 end=530798 loop_mode=loop_continuous loop_start=380627 loop_end=418455
+<region> sample=Monster Chord-65-127.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 offset=599 end=530554 loop_mode=loop_continuous loop_start=386800 loop_end=449243
+<region> sample=Monster Chord-66-127.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 offset=616 end=530513 loop_mode=loop_continuous loop_start=404851 loop_end=442118
+<region> sample=Monster Chord-67-127.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 offset=815 loop_mode=loop_continuous loop_start=444324 loop_end=492306
+<region> sample=Monster Chord-68-127.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 offset=412 loop_mode=loop_continuous loop_start=409523 loop_end=458627
+<region> sample=Monster Chord-69-127.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 offset=420 end=530918 loop_mode=loop_continuous loop_start=446595 loop_end=494740
+<region> sample=Monster Chord-70-127.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 offset=397 end=530993 loop_mode=loop_continuous loop_start=447999 loop_end=496556
+<region> sample=Monster Chord-71-127.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 offset=735 end=531133 loop_mode=loop_continuous loop_start=462136 loop_end=498609
+<region> sample=Monster Chord-72-127.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 offset=770 end=531164 loop_mode=loop_continuous loop_start=401925 loop_end=439562
+<region> sample=Monster Chord-73-127.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 offset=528 end=530362 loop_mode=loop_continuous loop_start=390085 loop_end=416150
+<region> sample=Monster Chord-74-127.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 offset=455 loop_mode=loop_continuous loop_start=416245 loop_end=453819
+<region> sample=Monster Chord-75-127.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 offset=218 end=531138 loop_mode=loop_continuous loop_start=426858 loop_end=463665
+<region> sample=Monster Chord-76-127.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 offset=749 end=531472 loop_mode=loop_continuous loop_start=376802 loop_end=426905
+<region> sample=Monster Chord-77-127.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 offset=387 end=530449 loop_mode=loop_continuous loop_start=429577 loop_end=466146
+<region> sample=Monster Chord-78-127.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 offset=526 end=531105 loop_mode=loop_continuous loop_start=418473 loop_end=491913
+<region> sample=Monster Chord-79-127.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 offset=359 loop_mode=loop_continuous loop_start=405719 loop_end=434926
+<region> sample=Monster Chord-80-127.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 offset=380 end=530970 loop_mode=loop_continuous loop_start=444843 loop_end=491989
+<region> sample=Monster Chord-81-127.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 offset=693 end=530556 loop_mode=loop_continuous loop_start=408267 loop_end=434848
+<region> sample=Monster Chord-82-127.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 offset=339 end=530171 loop_mode=loop_continuous loop_start=383234 loop_end=432699
+<region> sample=Monster Chord-83-127.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 offset=688 end=531440 loop_mode=loop_continuous loop_start=463256 loop_end=497768
+<region> sample=Monster Chord-84-127.aif key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=0 hivel=127 offset=821 end=531453 loop_mode=loop_continuous loop_start=372649 loop_end=422814

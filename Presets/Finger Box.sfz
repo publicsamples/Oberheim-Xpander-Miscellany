@@ -1,0 +1,190 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Finger Box.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Jab at me/
+
+<group>        // Jab at me
+<region> sample=Jab at me-36-14-PKKV.wav key=36 lokey=3 hikey=36  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=718 end=110739 loop_mode=no_loop
+<region> sample=Jab at me-36-56-NDX2.wav key=36 lokey=3 hikey=36  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=619 end=115091 loop_mode=no_loop
+<region> sample=Jab at me-36-127-869I.wav key=36 lokey=3 hikey=36  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=608 end=112940 loop_mode=no_loop
+<region> sample=Jab at me-37-14-HWI2.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=699 end=113290 loop_mode=no_loop
+<region> sample=Jab at me-37-56-NE2G.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=583 end=112702 loop_mode=no_loop
+<region> sample=Jab at me-37-127-MZ1W.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=566 end=124033 loop_mode=no_loop
+<region> sample=Jab at me-38-14-UYQ8.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=484 end=111535 loop_mode=no_loop
+<region> sample=Jab at me-38-56-5B4E.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=551 end=116327 loop_mode=no_loop
+<region> sample=Jab at me-38-127-HSEV.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=507 loop_mode=no_loop
+<region> sample=Jab at me-39-14-NM76.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=668 loop_mode=no_loop
+<region> sample=Jab at me-39-56-HSAT.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=625 end=111664 loop_mode=no_loop
+<region> sample=Jab at me-39-127-EGD0.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=637 loop_mode=no_loop
+<region> sample=Jab at me-40-14-4JDD.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=647 loop_mode=no_loop
+<region> sample=Jab at me-40-56-JQD2.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=621 end=114564 loop_mode=no_loop
+<region> sample=Jab at me-40-127-GZOL.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=762 loop_mode=no_loop
+<region> sample=Jab at me-41-14-RV5U.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=490 loop_mode=no_loop
+<region> sample=Jab at me-41-56-6MWS.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=653 loop_mode=no_loop
+<region> sample=Jab at me-41-127-94BP.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=539 end=121574 loop_mode=no_loop
+<region> sample=Jab at me-42-14-M1BX.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=765 end=112141 loop_mode=no_loop
+<region> sample=Jab at me-42-56-VA5P.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=470 end=116143 loop_mode=no_loop
+<region> sample=Jab at me-42-127-4AD7.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=644 end=115723 loop_mode=no_loop
+<region> sample=Jab at me-43-14-KC2B.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=587 end=111638 loop_mode=no_loop
+<region> sample=Jab at me-43-56-L5E1.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=591 loop_mode=no_loop
+<region> sample=Jab at me-43-127-49JX.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=604 end=122368 loop_mode=no_loop
+<region> sample=Jab at me-44-14-6RQT.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=732 end=112917 loop_mode=no_loop
+<region> sample=Jab at me-44-56-QG4C.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=495 end=112768 loop_mode=no_loop
+<region> sample=Jab at me-44-127-4LNH.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=648 end=114775 loop_mode=no_loop
+<region> sample=Jab at me-45-14-3XDJ.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=632 end=114417 loop_mode=no_loop
+<region> sample=Jab at me-45-56-B7EK.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=638 end=111608 loop_mode=no_loop
+<region> sample=Jab at me-45-127-DTDK.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=549 end=118910 loop_mode=no_loop
+<region> sample=Jab at me-46-14-O2CD.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=626 end=111057 loop_mode=no_loop
+<region> sample=Jab at me-46-56-OUOA.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=709 loop_mode=no_loop
+<region> sample=Jab at me-46-127-QYMU.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=687 end=112653 loop_mode=no_loop
+<region> sample=Jab at me-47-14-6KCN.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=540 end=107932 loop_mode=no_loop
+<region> sample=Jab at me-47-56-R4EY.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=687 loop_mode=no_loop
+<region> sample=Jab at me-47-127-WNIB.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=661 loop_mode=no_loop
+<region> sample=Jab at me-48-14-BKI0.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=589 loop_mode=no_loop
+<region> sample=Jab at me-48-56-I269.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=727 end=116026 loop_mode=no_loop
+<region> sample=Jab at me-48-127-6AJL.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=575 end=116864 loop_mode=no_loop
+<region> sample=Jab at me-49-14-3JX8.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=478 loop_mode=no_loop
+<region> sample=Jab at me-49-56-ABNZ.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=569 loop_mode=no_loop
+<region> sample=Jab at me-49-127-AROO.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=491 end=123404 loop_mode=no_loop
+<region> sample=Jab at me-50-14-2JK7.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=435 loop_mode=no_loop
+<region> sample=Jab at me-50-56-DX9M.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=571 end=115906 loop_mode=no_loop
+<region> sample=Jab at me-50-127-PXIA.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=652 loop_mode=no_loop
+<region> sample=Jab at me-51-14-PT2S.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=569 end=112786 loop_mode=no_loop
+<region> sample=Jab at me-51-56-B4SI.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=602 end=116112 loop_mode=no_loop
+<region> sample=Jab at me-51-127-6YCD.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=474 end=123392 loop_mode=no_loop
+<region> sample=Jab at me-52-14-Z30N.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=623 end=113556 loop_mode=no_loop
+<region> sample=Jab at me-52-56-URTR.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=666 end=116508 loop_mode=no_loop
+<region> sample=Jab at me-52-127-VA0M.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=558 loop_mode=no_loop
+<region> sample=Jab at me-53-14-1JNP.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=560 loop_mode=no_loop
+<region> sample=Jab at me-53-56-1JEM.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=758 end=113792 loop_mode=no_loop
+<region> sample=Jab at me-53-127-NPOI.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=508 loop_mode=no_loop
+<region> sample=Jab at me-54-14-Z6DN.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=750 end=110202 loop_mode=no_loop
+<region> sample=Jab at me-54-56-BTCA.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=704 loop_mode=no_loop
+<region> sample=Jab at me-54-127-KH78.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=632 loop_mode=no_loop
+<region> sample=Jab at me-55-14-P509.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=640 loop_mode=no_loop
+<region> sample=Jab at me-55-56-J8NA.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=696 loop_mode=no_loop
+<region> sample=Jab at me-55-127-S305.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=439 end=123293 loop_mode=no_loop
+<region> sample=Jab at me-56-14-XLXS.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=621 end=115751 loop_mode=no_loop
+<region> sample=Jab at me-56-56-PLZ7.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=603 loop_mode=no_loop
+<region> sample=Jab at me-56-127-8KL0.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=665 end=116227 loop_mode=no_loop
+<region> sample=Jab at me-57-14-KA5L.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=634 loop_mode=no_loop
+<region> sample=Jab at me-57-56-0Y78.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=611 loop_mode=no_loop
+<region> sample=Jab at me-57-127-MIGK.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=517 end=122496 loop_mode=no_loop
+<region> sample=Jab at me-58-14-UKNC.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=702 end=109609 loop_mode=no_loop
+<region> sample=Jab at me-58-56-2AA1.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=745 end=113126 loop_mode=no_loop
+<region> sample=Jab at me-58-127-QKIL.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=633 end=114315 loop_mode=no_loop
+<region> sample=Jab at me-59-14-D6DF.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=631 end=112768 loop_mode=no_loop
+<region> sample=Jab at me-59-56-1GH0.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=606 loop_mode=no_loop
+<region> sample=Jab at me-59-127-6LKP.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=486 loop_mode=no_loop
+<region> sample=Jab at me-60-14-1ZJ5.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=668 end=109490 loop_mode=no_loop
+<region> sample=Jab at me-60-56-C43B.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=609 end=119808 loop_mode=no_loop
+<region> sample=Jab at me-60-127-O6HV.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=560 loop_mode=no_loop
+<region> sample=Jab at me-61-14-270P.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=647 end=112885 loop_mode=no_loop
+<region> sample=Jab at me-61-56-UAJ9.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=714 loop_mode=no_loop
+<region> sample=Jab at me-61-127-3U9I.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=590 loop_mode=no_loop
+<region> sample=Jab at me-62-14-HEA3.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=663 loop_mode=no_loop
+<region> sample=Jab at me-62-56-Y7AF.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=568 end=115762 loop_mode=no_loop
+<region> sample=Jab at me-62-127-CRHB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=581 end=116480 loop_mode=no_loop
+<region> sample=Jab at me-63-14-6N4P.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=650 end=112330 loop_mode=no_loop
+<region> sample=Jab at me-63-56-WEBR.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=578 end=111931 loop_mode=no_loop
+<region> sample=Jab at me-63-127-ZLWC.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=652 end=122722 loop_mode=no_loop
+<region> sample=Jab at me-64-14-UFY8.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=736 loop_mode=no_loop
+<region> sample=Jab at me-64-56-8QQI.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=621 loop_mode=no_loop
+<region> sample=Jab at me-64-127-R4UZ.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=599 loop_mode=no_loop
+<region> sample=Jab at me-65-14-1KY9.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=550 loop_mode=no_loop
+<region> sample=Jab at me-65-56-6AOG.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=683 loop_mode=no_loop
+<region> sample=Jab at me-65-127-NATC.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=560 end=118980 loop_mode=no_loop
+<region> sample=Jab at me-66-14-AKR4.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=564 loop_mode=no_loop
+<region> sample=Jab at me-66-56-ZAJ9.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=602 end=112053 loop_mode=no_loop
+<region> sample=Jab at me-66-127-TQ24.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=694 end=114975 loop_mode=no_loop
+<region> sample=Jab at me-67-14-O7P0.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=626 end=111806 loop_mode=no_loop
+<region> sample=Jab at me-67-56-MA72.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=576 loop_mode=no_loop
+<region> sample=Jab at me-67-127-013O.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=618 loop_mode=no_loop
+<region> sample=Jab at me-68-14-AX6D.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=625 loop_mode=no_loop
+<region> sample=Jab at me-68-56-L7X0.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=609 end=115457 loop_mode=no_loop
+<region> sample=Jab at me-68-127-ISM7.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=630 loop_mode=no_loop
+<region> sample=Jab at me-69-14-CGTQ.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=643 end=112081 loop_mode=no_loop
+<region> sample=Jab at me-69-56-O927.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=669 end=112770 loop_mode=no_loop
+<region> sample=Jab at me-69-127-CL9D.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=546 end=126848 loop_mode=no_loop
+<region> sample=Jab at me-70-14-86ET.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=772 end=113345 loop_mode=no_loop
+<region> sample=Jab at me-70-56-823Q.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=722 loop_mode=no_loop
+<region> sample=Jab at me-70-127-HQ92.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=634 end=112304 loop_mode=no_loop
+<region> sample=Jab at me-71-14-EU5Z.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=626 end=112691 loop_mode=no_loop
+<region> sample=Jab at me-71-56-TWGN.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=664 end=111407 loop_mode=no_loop
+<region> sample=Jab at me-71-127-6HGR.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=653 loop_mode=no_loop
+<region> sample=Jab at me-72-14-S5I1.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=568 end=109130 loop_mode=no_loop
+<region> sample=Jab at me-72-56-EBXX.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=653 end=117381 loop_mode=no_loop
+<region> sample=Jab at me-72-127-WSA9.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=674 end=116746 loop_mode=no_loop
+<region> sample=Jab at me-73-14-5PVS.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=737 loop_mode=no_loop
+<region> sample=Jab at me-73-56-PB44.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=651 end=113046 loop_mode=no_loop
+<region> sample=Jab at me-73-127-H34E.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=624 end=121351 loop_mode=no_loop
+<region> sample=Jab at me-74-14-LUKY.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=508 end=112269 loop_mode=no_loop
+<region> sample=Jab at me-74-56-4OTQ.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=777 end=117529 loop_mode=no_loop
+<region> sample=Jab at me-74-127-4I7T.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=489 end=114560 loop_mode=no_loop
+<region> sample=Jab at me-75-14-QXYB.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=749 end=112168 loop_mode=no_loop
+<region> sample=Jab at me-75-56-HIJF.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=592 end=111771 loop_mode=no_loop
+<region> sample=Jab at me-75-127-5QPR.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=708 end=121365 loop_mode=no_loop
+<region> sample=Jab at me-76-14-H5VD.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=610 loop_mode=no_loop
+<region> sample=Jab at me-76-56-4AFL.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=567 end=116996 loop_mode=no_loop
+<region> sample=Jab at me-76-127-MBL1.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=718 end=114688 loop_mode=no_loop
+<region> sample=Jab at me-77-14-Z0JV.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=788 end=111874 loop_mode=no_loop
+<region> sample=Jab at me-77-56-CXYQ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=676 end=113811 loop_mode=no_loop
+<region> sample=Jab at me-77-127-FVOY.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=679 end=125185 loop_mode=no_loop
+<region> sample=Jab at me-78-14-SNZB.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=618 end=109701 loop_mode=no_loop
+<region> sample=Jab at me-78-56-3NZE.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=604 loop_mode=no_loop
+<region> sample=Jab at me-78-127-1AKI.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=590 end=113418 loop_mode=no_loop
+<region> sample=Jab at me-79-14-RHKQ.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=662 end=109854 loop_mode=no_loop
+<region> sample=Jab at me-79-56-YPVH.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=740 end=112384 loop_mode=no_loop
+<region> sample=Jab at me-79-127-WG0O.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=596 end=124171 loop_mode=no_loop
+<region> sample=Jab at me-80-14-6C2Y.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=673 loop_mode=no_loop
+<region> sample=Jab at me-80-56-ZMLQ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=645 loop_mode=no_loop
+<region> sample=Jab at me-80-127-V71H.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=658 end=114688 loop_mode=no_loop
+<region> sample=Jab at me-81-14-4O50.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=775 end=111518 loop_mode=no_loop
+<region> sample=Jab at me-81-56-VB38.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=611 end=108928 loop_mode=no_loop
+<region> sample=Jab at me-81-127-KUVP.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=470 loop_mode=no_loop
+<region> sample=Jab at me-82-14-1JBX.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=738 end=111232 loop_mode=no_loop
+<region> sample=Jab at me-82-56-6375.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=626 end=116646 loop_mode=no_loop
+<region> sample=Jab at me-82-127-Q4N4.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=605 end=115075 loop_mode=no_loop
+<region> sample=Jab at me-83-14-CO44.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=674 end=113428 loop_mode=no_loop
+<region> sample=Jab at me-83-56-38X8.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=682 end=111012 loop_mode=no_loop
+<region> sample=Jab at me-83-127-VBEY.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=661 end=122399 loop_mode=no_loop
+<region> sample=Jab at me-84-14-I782.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=753 loop_mode=no_loop
+<region> sample=Jab at me-84-56-AZ68.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=670 end=115615 loop_mode=no_loop
+<region> sample=Jab at me-84-127-P17R.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=545 end=116353 loop_mode=no_loop
+<region> sample=Jab at me-85-14-4A0N.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=662 loop_mode=no_loop
+<region> sample=Jab at me-85-56-7BBA.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=646 loop_mode=no_loop
+<region> sample=Jab at me-85-127-4VBU.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=693 end=120320 loop_mode=no_loop
+<region> sample=Jab at me-86-14-OJA1.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=494 loop_mode=no_loop
+<region> sample=Jab at me-86-56-X9N7.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=568 end=113409 loop_mode=no_loop
+<region> sample=Jab at me-86-127-E6QY.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=536 loop_mode=no_loop
+<region> sample=Jab at me-87-14-PCDA.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=807 end=118926 loop_mode=no_loop
+<region> sample=Jab at me-87-56-41I8.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=536 loop_mode=no_loop
+<region> sample=Jab at me-87-127-65K1.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=636 end=123264 loop_mode=no_loop
+<region> sample=Jab at me-88-14-TN78.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=539 end=110088 loop_mode=no_loop
+<region> sample=Jab at me-88-56-93M1.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=670 loop_mode=no_loop
+<region> sample=Jab at me-88-127-OCQU.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=583 end=115200 loop_mode=no_loop
+<region> sample=Jab at me-89-14-R0AT.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=638 loop_mode=no_loop
+<region> sample=Jab at me-89-56-XFKX.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=640 loop_mode=no_loop
+<region> sample=Jab at me-89-127-2IZV.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=623 loop_mode=no_loop
+<region> sample=Jab at me-90-14-ZTSN.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=761 end=110739 loop_mode=no_loop
+<region> sample=Jab at me-90-56-YNVD.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=530 end=114439 loop_mode=no_loop
+<region> sample=Jab at me-90-127-ECJT.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=558 end=114305 loop_mode=no_loop
+<region> sample=Jab at me-91-14-5JHL.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=589 end=114201 loop_mode=no_loop
+<region> sample=Jab at me-91-56-VPR2.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=582 end=111635 loop_mode=no_loop
+<region> sample=Jab at me-91-127-GC8C.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=621 loop_mode=no_loop
+<region> sample=Jab at me-92-14-ONEV.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=559 end=111635 loop_mode=no_loop
+<region> sample=Jab at me-92-56-4T49.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=536 loop_mode=no_loop
+<region> sample=Jab at me-92-127-PXDE.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=599 loop_mode=no_loop
+<region> sample=Jab at me-93-14-0I9V.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=510 loop_mode=no_loop
+<region> sample=Jab at me-93-56-MGEK.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=505 end=109717 loop_mode=no_loop
+<region> sample=Jab at me-93-127-YJHN.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=662 end=121112 loop_mode=no_loop
+<region> sample=Jab at me-94-14-DLZW.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=534 loop_mode=no_loop
+<region> sample=Jab at me-94-56-UI1N.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=486 end=113302 loop_mode=no_loop
+<region> sample=Jab at me-94-127-ZBD6.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=547 end=112512 loop_mode=no_loop
+<region> sample=Jab at me-95-14-6L3W.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=666 loop_mode=no_loop
+<region> sample=Jab at me-95-56-LS7Q.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=580 loop_mode=no_loop
+<region> sample=Jab at me-95-127-CHRJ.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=699 end=122265 loop_mode=no_loop
+<region> sample=Jab at me-96-14-LMPV.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=0 hivel=127 volume=12 offset=619 end=111616 loop_mode=no_loop
+<region> sample=Jab at me-96-56-80KH.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=42 hivel=83 volume=12 offset=679 end=116357 loop_mode=no_loop
+<region> sample=Jab at me-96-127-VT2J.wav key=96 lokey=96 hikey=122  amp_veltrack=30 lovel=84 hivel=127 volume=12 offset=531 end=113540 loop_mode=no_loop

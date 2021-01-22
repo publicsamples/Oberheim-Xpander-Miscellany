@@ -1,0 +1,399 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Off Your Perch.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Users/rick/Music/Audio Music Apps/Sampler Instruments/oberheim xpander construction kit/XPCKSoundsMisc/Death Perc/
+
+<group>        // Death Perc
+<region> sample=Death Perc-12-16-D5NE.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=1 hivel=16 offset=602 end=23218 loop_mode=no_loop
+<region> sample=Death Perc-12-32-FKC7.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=17 hivel=32 offset=663 end=26230 loop_mode=no_loop
+<region> sample=Death Perc-12-48-ZC65.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=33 hivel=48 offset=540 end=29380 loop_mode=no_loop
+<region> sample=Death Perc-12-64-CFKN.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=49 hivel=64 offset=635 loop_mode=no_loop
+<region> sample=Death Perc-12-79-Z508.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=65 hivel=79 offset=711 end=29879 loop_mode=no_loop
+<region> sample=Death Perc-12-95-VF5I.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=80 hivel=95 offset=797 loop_mode=no_loop
+<region> sample=Death Perc-12-111-B6BS.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=96 hivel=111 offset=639 end=62921 loop_mode=no_loop
+<region> sample=Death Perc-12-127-ORN6.wav key=12 lokey=0 hikey=12  amp_veltrack=30 lovel=112 hivel=127 offset=629 loop_mode=no_loop
+<region> sample=Death Perc-13-16-UF45.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=1 hivel=16 offset=525 end=24920 loop_mode=no_loop
+<region> sample=Death Perc-13-32-4SGO.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=17 hivel=32 offset=622 end=25472 loop_mode=no_loop
+<region> sample=Death Perc-13-48-15VD.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=33 hivel=48 offset=657 end=24833 loop_mode=no_loop
+<region> sample=Death Perc-13-64-LO54.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=49 hivel=64 offset=660 end=32517 loop_mode=no_loop
+<region> sample=Death Perc-13-79-A1GP.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=65 hivel=79 offset=464 end=28522 loop_mode=no_loop
+<region> sample=Death Perc-13-95-3AWK.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=80 hivel=95 offset=556 end=45805 loop_mode=no_loop
+<region> sample=Death Perc-13-111-3RR8.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=96 hivel=111 offset=613 end=65154 loop_mode=no_loop
+<region> sample=Death Perc-13-127-6MSR.wav key=13 lokey=13 hikey=13  amp_veltrack=30 lovel=112 hivel=127 offset=644 end=70586 loop_mode=no_loop
+<region> sample=Death Perc-14-16-ECWI.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=1 hivel=16 offset=673 end=23810 loop_mode=no_loop
+<region> sample=Death Perc-14-32-6SQH.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=17 hivel=32 offset=687 end=30133 loop_mode=no_loop
+<region> sample=Death Perc-14-48-BBJM.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=33 hivel=48 offset=651 end=24158 loop_mode=no_loop
+<region> sample=Death Perc-14-64-Z5EA.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=49 hivel=64 offset=563 end=27788 loop_mode=no_loop
+<region> sample=Death Perc-14-79-0TB9.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=65 hivel=79 offset=612 end=39542 loop_mode=no_loop
+<region> sample=Death Perc-14-95-9DJX.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=80 hivel=95 offset=771 loop_mode=no_loop
+<region> sample=Death Perc-14-111-YP7T.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=96 hivel=111 offset=874 loop_mode=no_loop
+<region> sample=Death Perc-14-127-M149.wav key=14 lokey=14 hikey=14  amp_veltrack=30 lovel=112 hivel=127 offset=609 end=75396 loop_mode=no_loop
+<region> sample=Death Perc-15-16-F0ML.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=1 hivel=16 offset=635 end=22402 loop_mode=no_loop
+<region> sample=Death Perc-15-32-MADL.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=17 hivel=32 offset=617 end=26322 loop_mode=no_loop
+<region> sample=Death Perc-15-48-TWIW.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=33 hivel=48 offset=687 loop_mode=no_loop
+<region> sample=Death Perc-15-64-C558.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=49 hivel=64 offset=717 end=26988 loop_mode=no_loop
+<region> sample=Death Perc-15-79-A0SH.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=65 hivel=79 offset=716 loop_mode=no_loop
+<region> sample=Death Perc-15-95-479K.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=80 hivel=95 offset=708 end=50847 loop_mode=no_loop
+<region> sample=Death Perc-15-111-HWBZ.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=96 hivel=111 offset=733 loop_mode=no_loop
+<region> sample=Death Perc-15-127-W4G2.wav key=15 lokey=15 hikey=15  amp_veltrack=30 lovel=112 hivel=127 offset=585 end=70296 loop_mode=no_loop
+<region> sample=Death Perc-16-16-4PDX.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=1 hivel=16 offset=555 end=24941 loop_mode=no_loop
+<region> sample=Death Perc-16-32-9QQY.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=17 hivel=32 offset=696 end=25867 loop_mode=no_loop
+<region> sample=Death Perc-16-48-8GZL.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=33 hivel=48 offset=658 end=25276 loop_mode=no_loop
+<region> sample=Death Perc-16-64-9XI0.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=49 hivel=64 offset=651 end=32011 loop_mode=no_loop
+<region> sample=Death Perc-16-79-BOKO.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=65 hivel=79 offset=771 loop_mode=no_loop
+<region> sample=Death Perc-16-95-BA6I.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=80 hivel=95 offset=590 loop_mode=no_loop
+<region> sample=Death Perc-16-111-N28I.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=96 hivel=111 offset=623 loop_mode=no_loop
+<region> sample=Death Perc-16-127-A79G.wav key=16 lokey=16 hikey=16  amp_veltrack=30 lovel=112 hivel=127 offset=687 loop_mode=no_loop
+<region> sample=Death Perc-17-16-M9KW.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=1 hivel=16 offset=484 end=24123 loop_mode=no_loop
+<region> sample=Death Perc-17-32-IHW8.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=17 hivel=32 offset=642 end=30583 loop_mode=no_loop
+<region> sample=Death Perc-17-48-5RY9.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=33 hivel=48 offset=627 end=23696 loop_mode=no_loop
+<region> sample=Death Perc-17-64-7MBJ.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=49 hivel=64 offset=685 end=27776 loop_mode=no_loop
+<region> sample=Death Perc-17-79-DSM3.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=65 hivel=79 offset=638 end=30946 loop_mode=no_loop
+<region> sample=Death Perc-17-95-UIZK.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=80 hivel=95 offset=578 end=44723 loop_mode=no_loop
+<region> sample=Death Perc-17-111-H39V.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=96 hivel=111 offset=682 loop_mode=no_loop
+<region> sample=Death Perc-17-127-N2PN.wav key=17 lokey=17 hikey=17  amp_veltrack=30 lovel=112 hivel=127 offset=538 end=75520 loop_mode=no_loop
+<region> sample=Death Perc-18-16-GL8Y.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=1 hivel=16 offset=697 end=22843 loop_mode=no_loop
+<region> sample=Death Perc-18-32-5OOH.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=17 hivel=32 offset=466 end=26276 loop_mode=no_loop
+<region> sample=Death Perc-18-48-GW27.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=33 hivel=48 offset=579 end=25986 loop_mode=no_loop
+<region> sample=Death Perc-18-64-WGRF.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=49 hivel=64 offset=533 end=27008 loop_mode=no_loop
+<region> sample=Death Perc-18-79-1Q4H.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=65 hivel=79 offset=701 end=30302 loop_mode=no_loop
+<region> sample=Death Perc-18-95-EQUU.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=80 hivel=95 offset=688 loop_mode=no_loop
+<region> sample=Death Perc-18-111-W4G2.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=96 hivel=111 offset=698 loop_mode=no_loop
+<region> sample=Death Perc-18-127-4M2C.wav key=18 lokey=18 hikey=18  amp_veltrack=30 lovel=112 hivel=127 offset=665 loop_mode=no_loop
+<region> sample=Death Perc-19-16-6331.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=1 hivel=16 offset=561 end=25180 loop_mode=no_loop
+<region> sample=Death Perc-19-32-AU37.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=17 hivel=32 offset=677 loop_mode=no_loop
+<region> sample=Death Perc-19-48-F3RN.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=33 hivel=48 offset=637 end=24890 loop_mode=no_loop
+<region> sample=Death Perc-19-64-9PDT.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=49 hivel=64 offset=622 end=32368 loop_mode=no_loop
+<region> sample=Death Perc-19-79-YQFC.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=65 hivel=79 offset=591 end=28288 loop_mode=no_loop
+<region> sample=Death Perc-19-95-PQVR.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=80 hivel=95 offset=674 end=46008 loop_mode=no_loop
+<region> sample=Death Perc-19-111-YN0J.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=96 hivel=111 offset=687 loop_mode=no_loop
+<region> sample=Death Perc-19-127-CD7E.wav key=19 lokey=19 hikey=19  amp_veltrack=30 lovel=112 hivel=127 offset=605 loop_mode=no_loop
+<region> sample=Death Perc-20-16-VKRU.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=1 hivel=16 offset=686 end=23936 loop_mode=no_loop
+<region> sample=Death Perc-20-32-VSNX.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=17 hivel=32 offset=529 end=30647 loop_mode=no_loop
+<region> sample=Death Perc-20-48-XWXD.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=33 hivel=48 offset=645 end=23868 loop_mode=no_loop
+<region> sample=Death Perc-20-64-F5JC.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=49 hivel=64 offset=564 end=27776 loop_mode=no_loop
+<region> sample=Death Perc-20-79-NRVP.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=65 hivel=79 offset=695 end=30720 loop_mode=no_loop
+<region> sample=Death Perc-20-95-VK6V.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=80 hivel=95 offset=468 end=44932 loop_mode=no_loop
+<region> sample=Death Perc-20-111-L2Y6.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=96 hivel=111 offset=661 end=64131 loop_mode=no_loop
+<region> sample=Death Perc-20-127-KNQG.wav key=20 lokey=20 hikey=20  amp_veltrack=30 lovel=112 hivel=127 offset=739 end=75784 loop_mode=no_loop
+<region> sample=Death Perc-21-16-DR2C.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=1 hivel=16 offset=647 loop_mode=no_loop
+<region> sample=Death Perc-21-32-90BY.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=17 hivel=32 offset=565 loop_mode=no_loop
+<region> sample=Death Perc-21-48-HY4R.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=33 hivel=48 offset=661 loop_mode=no_loop
+<region> sample=Death Perc-21-64-NMIY.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=49 hivel=64 offset=533 end=26939 loop_mode=no_loop
+<region> sample=Death Perc-21-79-7K0K.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=65 hivel=79 offset=681 end=29874 loop_mode=no_loop
+<region> sample=Death Perc-21-95-CNRN.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=80 hivel=95 offset=747 end=50877 loop_mode=no_loop
+<region> sample=Death Perc-21-111-CF1Z.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=96 hivel=111 offset=552 loop_mode=no_loop
+<region> sample=Death Perc-21-127-D49I.wav key=21 lokey=21 hikey=21  amp_veltrack=30 lovel=112 hivel=127 offset=613 loop_mode=no_loop
+<region> sample=Death Perc-22-16-M5OT.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=1 hivel=16 offset=636 end=25088 loop_mode=no_loop
+<region> sample=Death Perc-22-32-AP87.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=17 hivel=32 offset=564 end=25344 loop_mode=no_loop
+<region> sample=Death Perc-22-48-J8CH.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=33 hivel=48 offset=728 end=24961 loop_mode=no_loop
+<region> sample=Death Perc-22-64-0GUC.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=49 hivel=64 offset=613 end=32306 loop_mode=no_loop
+<region> sample=Death Perc-22-79-M6JM.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=65 hivel=79 offset=539 end=28183 loop_mode=no_loop
+<region> sample=Death Perc-22-95-KDB3.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=80 hivel=95 offset=611 end=46021 loop_mode=no_loop
+<region> sample=Death Perc-22-111-M2IJ.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=96 hivel=111 offset=503 loop_mode=no_loop
+<region> sample=Death Perc-22-127-6KJD.wav key=22 lokey=22 hikey=22  amp_veltrack=30 lovel=112 hivel=127 offset=646 loop_mode=no_loop
+<region> sample=Death Perc-23-16-56NY.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=1 hivel=16 offset=530 end=23863 loop_mode=no_loop
+<region> sample=Death Perc-23-32-FELB.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=17 hivel=32 offset=627 end=30527 loop_mode=no_loop
+<region> sample=Death Perc-23-48-SLKV.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=33 hivel=48 offset=636 end=24192 loop_mode=no_loop
+<region> sample=Death Perc-23-64-A8LB.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=49 hivel=64 offset=598 end=27938 loop_mode=no_loop
+<region> sample=Death Perc-23-79-PSTB.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=65 hivel=79 offset=478 end=30265 loop_mode=no_loop
+<region> sample=Death Perc-23-95-EQLZ.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=80 hivel=95 offset=588 end=45275 loop_mode=no_loop
+<region> sample=Death Perc-23-111-3YU2.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=96 hivel=111 offset=657 loop_mode=no_loop
+<region> sample=Death Perc-23-127-412N.wav key=23 lokey=23 hikey=23  amp_veltrack=30 lovel=112 hivel=127 offset=677 loop_mode=no_loop
+<region> sample=Death Perc-24-16-J1V2.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=1 hivel=16 offset=459 end=22683 loop_mode=no_loop
+<region> sample=Death Perc-24-32-8GYI.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=17 hivel=32 offset=516 end=26295 loop_mode=no_loop
+<region> sample=Death Perc-24-48-ZG6H.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=33 hivel=48 offset=633 end=25939 loop_mode=no_loop
+<region> sample=Death Perc-24-64-6RFE.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=49 hivel=64 offset=494 end=26928 loop_mode=no_loop
+<region> sample=Death Perc-24-79-51ZK.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=65 hivel=79 offset=685 end=30030 loop_mode=no_loop
+<region> sample=Death Perc-24-95-YKRT.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=80 hivel=95 offset=669 loop_mode=no_loop
+<region> sample=Death Perc-24-111-61A0.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=96 hivel=111 offset=557 loop_mode=no_loop
+<region> sample=Death Perc-24-127-72WZ.wav key=24 lokey=24 hikey=24  amp_veltrack=30 lovel=112 hivel=127 offset=670 end=71471 loop_mode=no_loop
+<region> sample=Death Perc-25-16-N024.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=1 hivel=16 offset=641 end=25096 loop_mode=no_loop
+<region> sample=Death Perc-25-32-ZUG1.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=17 hivel=32 offset=729 end=25615 loop_mode=no_loop
+<region> sample=Death Perc-25-48-UF7E.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=33 hivel=48 offset=672 end=24993 loop_mode=no_loop
+<region> sample=Death Perc-25-64-6LSA.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=49 hivel=64 offset=704 end=32429 loop_mode=no_loop
+<region> sample=Death Perc-25-79-IF80.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=65 hivel=79 offset=630 end=27905 loop_mode=no_loop
+<region> sample=Death Perc-25-95-HBLL.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=80 hivel=95 offset=743 end=46148 loop_mode=no_loop
+<region> sample=Death Perc-25-111-A2DK.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=96 hivel=111 offset=579 end=65824 loop_mode=no_loop
+<region> sample=Death Perc-25-127-VZCS.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=112 hivel=127 offset=621 loop_mode=no_loop
+<region> sample=Death Perc-26-16-P9FX.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=1 hivel=16 offset=585 end=24089 loop_mode=no_loop
+<region> sample=Death Perc-26-32-D97T.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=17 hivel=32 offset=691 end=30236 loop_mode=no_loop
+<region> sample=Death Perc-26-48-YXWG.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=33 hivel=48 offset=530 end=23590 loop_mode=no_loop
+<region> sample=Death Perc-26-64-V8GR.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=49 hivel=64 offset=708 end=28197 loop_mode=no_loop
+<region> sample=Death Perc-26-79-LA95.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=65 hivel=79 offset=637 end=30386 loop_mode=no_loop
+<region> sample=Death Perc-26-95-OH18.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=80 hivel=95 offset=717 end=44803 loop_mode=no_loop
+<region> sample=Death Perc-26-111-GCKA.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=96 hivel=111 offset=567 loop_mode=no_loop
+<region> sample=Death Perc-26-127-W7JT.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=112 hivel=127 offset=760 end=76452 loop_mode=no_loop
+<region> sample=Death Perc-27-16-IN3T.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=1 hivel=16 offset=764 loop_mode=no_loop
+<region> sample=Death Perc-27-32-YCS1.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=17 hivel=32 offset=695 end=26496 loop_mode=no_loop
+<region> sample=Death Perc-27-48-02BS.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=33 hivel=48 offset=631 end=26063 loop_mode=no_loop
+<region> sample=Death Perc-27-64-3CAK.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=49 hivel=64 offset=760 end=27264 loop_mode=no_loop
+<region> sample=Death Perc-27-79-VZLD.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=65 hivel=79 offset=664 end=29754 loop_mode=no_loop
+<region> sample=Death Perc-27-95-939J.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=80 hivel=95 offset=743 loop_mode=no_loop
+<region> sample=Death Perc-27-111-VQR8.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=96 hivel=111 offset=580 loop_mode=no_loop
+<region> sample=Death Perc-27-127-AM5Q.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=112 hivel=127 offset=626 end=70921 loop_mode=no_loop
+<region> sample=Death Perc-28-16-916I.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=1 hivel=16 offset=721 end=24960 loop_mode=no_loop
+<region> sample=Death Perc-28-32-FE5S.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=17 hivel=32 offset=662 end=25531 loop_mode=no_loop
+<region> sample=Death Perc-28-48-37LI.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=33 hivel=48 offset=620 end=25010 loop_mode=no_loop
+<region> sample=Death Perc-28-64-XNDW.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=49 hivel=64 offset=579 end=32521 loop_mode=no_loop
+<region> sample=Death Perc-28-79-HPHG.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=65 hivel=79 offset=645 end=28060 loop_mode=no_loop
+<region> sample=Death Perc-28-95-OKOF.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=80 hivel=95 offset=478 end=45612 loop_mode=no_loop
+<region> sample=Death Perc-28-111-9JGE.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=96 hivel=111 offset=474 end=65152 loop_mode=no_loop
+<region> sample=Death Perc-28-127-KFIE.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=112 hivel=127 offset=637 loop_mode=no_loop
+<region> sample=Death Perc-29-16-X3MU.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=1 hivel=16 offset=700 end=24373 loop_mode=no_loop
+<region> sample=Death Perc-29-32-IB3X.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=17 hivel=32 offset=573 end=30257 loop_mode=no_loop
+<region> sample=Death Perc-29-48-CWYY.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=33 hivel=48 offset=563 end=23693 loop_mode=no_loop
+<region> sample=Death Perc-29-64-0VP8.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=49 hivel=64 offset=538 end=28035 loop_mode=no_loop
+<region> sample=Death Perc-29-79-8XCX.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=65 hivel=79 offset=474 end=30222 loop_mode=no_loop
+<region> sample=Death Perc-29-95-ZSO5.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=80 hivel=95 offset=664 end=44778 loop_mode=no_loop
+<region> sample=Death Perc-29-111-HN2I.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=96 hivel=111 offset=723 loop_mode=no_loop
+<region> sample=Death Perc-29-127-H6MM.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=112 hivel=127 offset=564 end=75394 loop_mode=no_loop
+<region> sample=Death Perc-30-16-M4LR.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=1 hivel=16 offset=666 loop_mode=no_loop
+<region> sample=Death Perc-30-32-2UGT.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=17 hivel=32 offset=617 loop_mode=no_loop
+<region> sample=Death Perc-30-48-54HZ.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=33 hivel=48 offset=796 loop_mode=no_loop
+<region> sample=Death Perc-30-64-15PY.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=49 hivel=64 offset=675 end=27151 loop_mode=no_loop
+<region> sample=Death Perc-30-79-M6V3.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=65 hivel=79 offset=498 end=29345 loop_mode=no_loop
+<region> sample=Death Perc-30-95-BLY3.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=80 hivel=95 offset=647 end=50971 loop_mode=no_loop
+<region> sample=Death Perc-30-111-OLS8.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=96 hivel=111 offset=691 loop_mode=no_loop
+<region> sample=Death Perc-30-127-SUEX.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=112 hivel=127 offset=554 loop_mode=no_loop
+<region> sample=Death Perc-31-16-A7D0.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=1 hivel=16 offset=481 end=24463 loop_mode=no_loop
+<region> sample=Death Perc-31-32-FQE4.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=17 hivel=32 offset=630 end=25347 loop_mode=no_loop
+<region> sample=Death Perc-31-48-2EO0.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=33 hivel=48 offset=542 loop_mode=no_loop
+<region> sample=Death Perc-31-64-QINR.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=49 hivel=64 offset=613 end=32423 loop_mode=no_loop
+<region> sample=Death Perc-31-79-QPYQ.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=65 hivel=79 offset=689 end=28288 loop_mode=no_loop
+<region> sample=Death Perc-31-95-J790.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=80 hivel=95 offset=655 loop_mode=no_loop
+<region> sample=Death Perc-31-111-I5I6.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=96 hivel=111 offset=592 loop_mode=no_loop
+<region> sample=Death Perc-31-127-J9OV.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=112 hivel=127 offset=666 end=69575 loop_mode=no_loop
+<region> sample=Death Perc-32-16-D6H7.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=1 hivel=16 offset=700 end=24354 loop_mode=no_loop
+<region> sample=Death Perc-32-32-44TC.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=17 hivel=32 offset=824 end=30616 loop_mode=no_loop
+<region> sample=Death Perc-32-48-Y8YI.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=33 hivel=48 offset=607 end=23837 loop_mode=no_loop
+<region> sample=Death Perc-32-64-GR5N.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=49 hivel=64 offset=606 end=27782 loop_mode=no_loop
+<region> sample=Death Perc-32-79-3MKW.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=65 hivel=79 offset=499 end=30374 loop_mode=no_loop
+<region> sample=Death Perc-32-95-16KX.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=80 hivel=95 offset=588 end=44544 loop_mode=no_loop
+<region> sample=Death Perc-32-111-ESS6.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=96 hivel=111 offset=689 end=64512 loop_mode=no_loop
+<region> sample=Death Perc-32-127-5U9H.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=112 hivel=127 offset=756 end=75824 loop_mode=no_loop
+<region> sample=Death Perc-33-16-JZW3.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=1 hivel=16 offset=768 end=22948 loop_mode=no_loop
+<region> sample=Death Perc-33-32-Y0M0.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=17 hivel=32 offset=804 end=26496 loop_mode=no_loop
+<region> sample=Death Perc-33-48-0QFP.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=33 hivel=48 offset=611 end=25728 loop_mode=no_loop
+<region> sample=Death Perc-33-64-QK9H.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=49 hivel=64 offset=668 end=27030 loop_mode=no_loop
+<region> sample=Death Perc-33-79-8TSI.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=65 hivel=79 offset=576 end=29612 loop_mode=no_loop
+<region> sample=Death Perc-33-95-FP9E.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=80 hivel=95 offset=677 end=50692 loop_mode=no_loop
+<region> sample=Death Perc-33-111-65OS.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=96 hivel=111 offset=543 end=62488 loop_mode=no_loop
+<region> sample=Death Perc-33-127-LH9V.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=112 hivel=127 offset=674 end=70501 loop_mode=no_loop
+<region> sample=Death Perc-34-16-YY24.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=1 hivel=16 offset=699 end=24977 loop_mode=no_loop
+<region> sample=Death Perc-34-32-T727.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=17 hivel=32 offset=479 end=25350 loop_mode=no_loop
+<region> sample=Death Perc-34-48-C1M1.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=33 hivel=48 offset=681 end=25089 loop_mode=no_loop
+<region> sample=Death Perc-34-64-AS5O.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=49 hivel=64 offset=525 end=31872 loop_mode=no_loop
+<region> sample=Death Perc-34-79-SJS7.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=65 hivel=79 offset=633 end=28315 loop_mode=no_loop
+<region> sample=Death Perc-34-95-ANO5.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=80 hivel=95 offset=465 end=45703 loop_mode=no_loop
+<region> sample=Death Perc-34-111-9UJB.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=96 hivel=111 offset=628 end=65157 loop_mode=no_loop
+<region> sample=Death Perc-34-127-R0PG.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=112 hivel=127 offset=707 end=70432 loop_mode=no_loop
+<region> sample=Death Perc-35-16-3XJW.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=1 hivel=16 offset=730 end=24472 loop_mode=no_loop
+<region> sample=Death Perc-35-32-IT6W.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=17 hivel=32 offset=587 end=30380 loop_mode=no_loop
+<region> sample=Death Perc-35-48-B29Y.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=33 hivel=48 offset=663 end=24097 loop_mode=no_loop
+<region> sample=Death Perc-35-64-T4IR.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=49 hivel=64 offset=633 end=27781 loop_mode=no_loop
+<region> sample=Death Perc-35-79-1VT6.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=65 hivel=79 offset=705 end=30873 loop_mode=no_loop
+<region> sample=Death Perc-35-95-CTAW.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=80 hivel=95 offset=511 end=44672 loop_mode=no_loop
+<region> sample=Death Perc-35-111-P2U8.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=96 hivel=111 offset=671 end=64384 loop_mode=no_loop
+<region> sample=Death Perc-35-127-BZY1.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=112 hivel=127 offset=645 loop_mode=no_loop
+<region> sample=Death Perc-36-16-S7CP.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=16 offset=601 end=22810 loop_mode=no_loop
+<region> sample=Death Perc-36-32-4ZKD.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=17 hivel=32 offset=733 end=26368 loop_mode=no_loop
+<region> sample=Death Perc-36-48-7EW1.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=33 hivel=48 offset=519 end=26011 loop_mode=no_loop
+<region> sample=Death Perc-36-64-RJL2.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=49 hivel=64 offset=620 loop_mode=no_loop
+<region> sample=Death Perc-36-79-X8JF.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=65 hivel=79 offset=675 end=29952 loop_mode=no_loop
+<region> sample=Death Perc-36-95-KWCR.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=80 hivel=95 offset=678 end=50844 loop_mode=no_loop
+<region> sample=Death Perc-36-111-BO2Y.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=96 hivel=111 offset=513 end=62237 loop_mode=no_loop
+<region> sample=Death Perc-36-127-T615.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=112 hivel=127 offset=648 end=71436 loop_mode=no_loop
+<region> sample=Death Perc-37-16-DCDD.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=16 offset=550 end=24720 loop_mode=no_loop
+<region> sample=Death Perc-37-32-U3UV.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=17 hivel=32 offset=595 end=25367 loop_mode=no_loop
+<region> sample=Death Perc-37-48-RECJ.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=33 hivel=48 offset=705 end=25129 loop_mode=no_loop
+<region> sample=Death Perc-37-64-YN7V.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=49 hivel=64 offset=520 end=32158 loop_mode=no_loop
+<region> sample=Death Perc-37-79-RKMG.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=65 hivel=79 offset=594 end=28197 loop_mode=no_loop
+<region> sample=Death Perc-37-95-LZIB.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=80 hivel=95 offset=626 loop_mode=no_loop
+<region> sample=Death Perc-37-111-6Z8J.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=96 hivel=111 offset=624 end=65446 loop_mode=no_loop
+<region> sample=Death Perc-37-127-3TOA.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=112 hivel=127 offset=693 end=69510 loop_mode=no_loop
+<region> sample=Death Perc-38-16-50LH.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=16 offset=516 end=23813 loop_mode=no_loop
+<region> sample=Death Perc-38-32-ZFGH.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=17 hivel=32 offset=685 end=30476 loop_mode=no_loop
+<region> sample=Death Perc-38-48-P6TB.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=33 hivel=48 offset=744 end=24067 loop_mode=no_loop
+<region> sample=Death Perc-38-64-AYWT.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=49 hivel=64 offset=664 end=28189 loop_mode=no_loop
+<region> sample=Death Perc-38-79-OOFC.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=65 hivel=79 offset=635 end=30897 loop_mode=no_loop
+<region> sample=Death Perc-38-95-2JOX.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=80 hivel=95 offset=727 end=44935 loop_mode=no_loop
+<region> sample=Death Perc-38-111-7401.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=96 hivel=111 offset=754 loop_mode=no_loop
+<region> sample=Death Perc-38-127-9SXT.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=112 hivel=127 offset=800 end=75784 loop_mode=no_loop
+<region> sample=Death Perc-39-16-RTKQ.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=16 offset=785 end=22657 loop_mode=no_loop
+<region> sample=Death Perc-39-32-8P8E.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=17 hivel=32 offset=551 loop_mode=no_loop
+<region> sample=Death Perc-39-48-K7V3.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=33 hivel=48 offset=645 loop_mode=no_loop
+<region> sample=Death Perc-39-64-MLRP.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=49 hivel=64 offset=613 end=27030 loop_mode=no_loop
+<region> sample=Death Perc-39-79-0HQQ.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=65 hivel=79 offset=659 end=29473 loop_mode=no_loop
+<region> sample=Death Perc-39-95-JMBB.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=80 hivel=95 offset=756 loop_mode=no_loop
+<region> sample=Death Perc-39-111-LHGY.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=96 hivel=111 offset=676 end=62475 loop_mode=no_loop
+<region> sample=Death Perc-39-127-M4AA.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=112 hivel=127 offset=881 end=70674 loop_mode=no_loop
+<region> sample=Death Perc-40-16-8U1C.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=16 offset=645 end=24986 loop_mode=no_loop
+<region> sample=Death Perc-40-32-1NQW.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=17 hivel=32 offset=483 end=25499 loop_mode=no_loop
+<region> sample=Death Perc-40-48-EOR0.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=33 hivel=48 offset=674 end=24968 loop_mode=no_loop
+<region> sample=Death Perc-40-64-J55S.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=49 hivel=64 offset=483 end=32008 loop_mode=no_loop
+<region> sample=Death Perc-40-79-M86W.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=65 hivel=79 offset=621 end=28160 loop_mode=no_loop
+<region> sample=Death Perc-40-95-1ZDC.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=80 hivel=95 offset=594 end=45754 loop_mode=no_loop
+<region> sample=Death Perc-40-111-89NI.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=96 hivel=111 offset=750 end=65540 loop_mode=no_loop
+<region> sample=Death Perc-40-127-INLG.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=112 hivel=127 offset=591 end=70144 loop_mode=no_loop
+<region> sample=Death Perc-41-16-UHEV.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=16 offset=662 end=23695 loop_mode=no_loop
+<region> sample=Death Perc-41-32-4XIF.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=17 hivel=32 offset=621 end=30218 loop_mode=no_loop
+<region> sample=Death Perc-41-48-JLFA.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=33 hivel=48 offset=562 end=23572 loop_mode=no_loop
+<region> sample=Death Perc-41-64-P059.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=49 hivel=64 offset=682 end=28055 loop_mode=no_loop
+<region> sample=Death Perc-41-79-403S.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=65 hivel=79 offset=529 end=30727 loop_mode=no_loop
+<region> sample=Death Perc-41-95-YU0E.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=80 hivel=95 offset=632 loop_mode=no_loop
+<region> sample=Death Perc-41-111-Y96Q.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=96 hivel=111 offset=735 end=64641 loop_mode=no_loop
+<region> sample=Death Perc-41-127-RMBF.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=112 hivel=127 offset=487 loop_mode=no_loop
+<region> sample=Death Perc-42-16-RNLB.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=16 offset=733 end=22912 loop_mode=no_loop
+<region> sample=Death Perc-42-32-OZRV.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=17 hivel=32 offset=545 end=26247 loop_mode=no_loop
+<region> sample=Death Perc-42-48-ID2H.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=33 hivel=48 offset=552 end=25728 loop_mode=no_loop
+<region> sample=Death Perc-42-64-OR6W.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=49 hivel=64 offset=684 end=26907 loop_mode=no_loop
+<region> sample=Death Perc-42-79-FRPF.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=65 hivel=79 offset=733 end=29835 loop_mode=no_loop
+<region> sample=Death Perc-42-95-0BMD.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=80 hivel=95 offset=473 loop_mode=no_loop
+<region> sample=Death Perc-42-111-ZVQB.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=96 hivel=111 offset=671 end=62736 loop_mode=no_loop
+<region> sample=Death Perc-42-127-1AH9.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=112 hivel=127 offset=784 end=70537 loop_mode=no_loop
+<region> sample=Death Perc-43-16-57J0.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=16 offset=597 end=24960 loop_mode=no_loop
+<region> sample=Death Perc-43-32-3IKH.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=17 hivel=32 offset=583 end=25349 loop_mode=no_loop
+<region> sample=Death Perc-43-48-O0HC.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=33 hivel=48 offset=675 end=24970 loop_mode=no_loop
+<region> sample=Death Perc-43-64-AC43.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=49 hivel=64 offset=682 loop_mode=no_loop
+<region> sample=Death Perc-43-79-EBGW.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=65 hivel=79 offset=642 end=28416 loop_mode=no_loop
+<region> sample=Death Perc-43-95-IN73.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=80 hivel=95 offset=644 end=45716 loop_mode=no_loop
+<region> sample=Death Perc-43-111-CO74.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=96 hivel=111 offset=493 end=65179 loop_mode=no_loop
+<region> sample=Death Perc-43-127-ZILN.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=112 hivel=127 offset=491 end=70069 loop_mode=no_loop
+<region> sample=Death Perc-44-16-EHK1.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=16 offset=678 end=23945 loop_mode=no_loop
+<region> sample=Death Perc-44-32-AZ3T.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=17 hivel=32 offset=522 end=30364 loop_mode=no_loop
+<region> sample=Death Perc-44-48-3JP0.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=33 hivel=48 offset=685 end=23700 loop_mode=no_loop
+<region> sample=Death Perc-44-64-Q6IL.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=49 hivel=64 offset=734 end=27930 loop_mode=no_loop
+<region> sample=Death Perc-44-79-KJN0.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=65 hivel=79 offset=611 end=30358 loop_mode=no_loop
+<region> sample=Death Perc-44-95-ZFCW.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=80 hivel=95 offset=581 end=44672 loop_mode=no_loop
+<region> sample=Death Perc-44-111-CZAX.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=96 hivel=111 offset=699 end=64782 loop_mode=no_loop
+<region> sample=Death Perc-44-127-6DU9.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=112 hivel=127 offset=522 end=76180 loop_mode=no_loop
+<region> sample=Death Perc-45-16-YWEQ.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=16 offset=793 loop_mode=no_loop
+<region> sample=Death Perc-45-32-NTE9.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=17 hivel=32 offset=616 end=26248 loop_mode=no_loop
+<region> sample=Death Perc-45-48-HW01.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=33 hivel=48 offset=554 end=26116 loop_mode=no_loop
+<region> sample=Death Perc-45-64-LBLI.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=49 hivel=64 offset=629 end=27136 loop_mode=no_loop
+<region> sample=Death Perc-45-79-VR61.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=65 hivel=79 offset=828 end=29828 loop_mode=no_loop
+<region> sample=Death Perc-45-95-AB43.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=80 hivel=95 offset=546 loop_mode=no_loop
+<region> sample=Death Perc-45-111-1FHX.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=96 hivel=111 offset=666 end=62475 loop_mode=no_loop
+<region> sample=Death Perc-45-127-883M.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=112 hivel=127 offset=821 loop_mode=no_loop
+<region> sample=Death Perc-46-16-2UQT.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=16 offset=555 end=24986 loop_mode=no_loop
+<region> sample=Death Perc-46-32-XPTN.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=17 hivel=32 offset=641 end=25365 loop_mode=no_loop
+<region> sample=Death Perc-46-48-7LD8.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=33 hivel=48 offset=557 end=24960 loop_mode=no_loop
+<region> sample=Death Perc-46-64-Z29P.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=49 hivel=64 offset=660 loop_mode=no_loop
+<region> sample=Death Perc-46-79-TVEJ.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=65 hivel=79 offset=681 end=28565 loop_mode=no_loop
+<region> sample=Death Perc-46-95-GR1I.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=80 hivel=95 offset=558 loop_mode=no_loop
+<region> sample=Death Perc-46-111-5W9B.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=96 hivel=111 offset=654 end=65413 loop_mode=no_loop
+<region> sample=Death Perc-46-127-1JMP.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=112 hivel=127 offset=519 end=69391 loop_mode=no_loop
+<region> sample=Death Perc-47-16-BT7G.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=16 offset=603 loop_mode=no_loop
+<region> sample=Death Perc-47-32-7BTW.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=17 hivel=32 offset=750 end=30223 loop_mode=no_loop
+<region> sample=Death Perc-47-48-SEWI.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=33 hivel=48 offset=524 end=23436 loop_mode=no_loop
+<region> sample=Death Perc-47-64-RCDR.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=49 hivel=64 offset=621 end=27779 loop_mode=no_loop
+<region> sample=Death Perc-47-79-6A0P.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=65 hivel=79 offset=610 end=30595 loop_mode=no_loop
+<region> sample=Death Perc-47-95-8BCA.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=80 hivel=95 offset=605 loop_mode=no_loop
+<region> sample=Death Perc-47-111-VT5C.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=96 hivel=111 offset=659 end=64275 loop_mode=no_loop
+<region> sample=Death Perc-47-127-O7I5.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=112 hivel=127 offset=631 end=76316 loop_mode=no_loop
+<region> sample=Death Perc-48-16-Y1A4.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=16 offset=665 loop_mode=no_loop
+<region> sample=Death Perc-48-32-Q5MX.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=17 hivel=32 offset=716 end=26385 loop_mode=no_loop
+<region> sample=Death Perc-48-48-QI5Q.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=33 hivel=48 offset=533 end=26003 loop_mode=no_loop
+<region> sample=Death Perc-48-64-GG5Q.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=49 hivel=64 offset=620 end=27008 loop_mode=no_loop
+<region> sample=Death Perc-48-79-8A4O.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=65 hivel=79 offset=580 end=29447 loop_mode=no_loop
+<region> sample=Death Perc-48-95-0BWP.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=80 hivel=95 offset=671 loop_mode=no_loop
+<region> sample=Death Perc-48-111-XIAF.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=96 hivel=111 offset=628 end=62602 loop_mode=no_loop
+<region> sample=Death Perc-48-127-W290.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=112 hivel=127 offset=733 end=71424 loop_mode=no_loop
+<region> sample=Death Perc-49-16-7DII.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=16 offset=598 end=24960 loop_mode=no_loop
+<region> sample=Death Perc-49-32-VOGQ.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=17 hivel=32 offset=664 end=25472 loop_mode=no_loop
+<region> sample=Death Perc-49-48-J333.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=48 offset=531 end=24986 loop_mode=no_loop
+<region> sample=Death Perc-49-64-VKHA.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=49 hivel=64 offset=666 end=32144 loop_mode=no_loop
+<region> sample=Death Perc-49-79-RZLZ.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=79 offset=606 end=28046 loop_mode=no_loop
+<region> sample=Death Perc-49-95-L8LY.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=80 hivel=95 offset=687 end=46095 loop_mode=no_loop
+<region> sample=Death Perc-49-111-KXCG.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=96 hivel=111 offset=620 end=65557 loop_mode=no_loop
+<region> sample=Death Perc-49-127-KU7G.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=112 hivel=127 offset=681 end=69513 loop_mode=no_loop
+<region> sample=Death Perc-50-16-AKJV.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=16 offset=626 end=24073 loop_mode=no_loop
+<region> sample=Death Perc-50-32-77RG.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=17 hivel=32 offset=643 end=30225 loop_mode=no_loop
+<region> sample=Death Perc-50-48-VM3T.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=48 offset=698 end=23826 loop_mode=no_loop
+<region> sample=Death Perc-50-64-BCZJ.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=49 hivel=64 offset=761 end=28160 loop_mode=no_loop
+<region> sample=Death Perc-50-79-PJI7.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=79 offset=828 end=30855 loop_mode=no_loop
+<region> sample=Death Perc-50-95-0NSY.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=80 hivel=95 offset=622 loop_mode=no_loop
+<region> sample=Death Perc-50-111-VIT8.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=96 hivel=111 offset=561 end=64000 loop_mode=no_loop
+<region> sample=Death Perc-50-127-BOB3.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=112 hivel=127 offset=716 end=75403 loop_mode=no_loop
+<region> sample=Death Perc-51-16-DGG1.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=16 offset=618 end=22528 loop_mode=no_loop
+<region> sample=Death Perc-51-32-HO8U.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=17 hivel=32 offset=608 end=26257 loop_mode=no_loop
+<region> sample=Death Perc-51-48-NS99.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=48 offset=515 end=25729 loop_mode=no_loop
+<region> sample=Death Perc-51-64-CA24.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=49 hivel=64 offset=628 end=27013 loop_mode=no_loop
+<region> sample=Death Perc-51-79-PZZ5.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=79 offset=660 end=29585 loop_mode=no_loop
+<region> sample=Death Perc-51-95-RQO9.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=80 hivel=95 offset=745 loop_mode=no_loop
+<region> sample=Death Perc-51-111-H11C.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=96 hivel=111 offset=586 end=62870 loop_mode=no_loop
+<region> sample=Death Perc-51-127-57JD.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=112 hivel=127 offset=699 end=70528 loop_mode=no_loop
+<region> sample=Death Perc-52-16-ITEX.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=16 offset=654 end=24973 loop_mode=no_loop
+<region> sample=Death Perc-52-32-YIRE.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=17 hivel=32 offset=753 end=25358 loop_mode=no_loop
+<region> sample=Death Perc-52-48-4O79.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=48 offset=708 loop_mode=no_loop
+<region> sample=Death Perc-52-64-A56R.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=49 hivel=64 offset=578 loop_mode=no_loop
+<region> sample=Death Perc-52-79-WG83.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=79 offset=648 end=28168 loop_mode=no_loop
+<region> sample=Death Perc-52-95-FOOD.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=80 hivel=95 offset=760 end=45971 loop_mode=no_loop
+<region> sample=Death Perc-52-111-32L0.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=96 hivel=111 offset=648 end=65284 loop_mode=no_loop
+<region> sample=Death Perc-52-127-56E8.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=112 hivel=127 offset=623 end=69642 loop_mode=no_loop
+<region> sample=Death Perc-53-16-9A43.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=16 offset=673 end=24194 loop_mode=no_loop
+<region> sample=Death Perc-53-32-95VJ.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=17 hivel=32 offset=624 end=30343 loop_mode=no_loop
+<region> sample=Death Perc-53-48-XXS8.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=48 offset=605 end=23938 loop_mode=no_loop
+<region> sample=Death Perc-53-64-D77X.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=49 hivel=64 offset=577 end=27650 loop_mode=no_loop
+<region> sample=Death Perc-53-79-WW6B.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=79 offset=688 end=30592 loop_mode=no_loop
+<region> sample=Death Perc-53-95-DQG5.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=80 hivel=95 offset=818 end=45058 loop_mode=no_loop
+<region> sample=Death Perc-53-111-OU1Y.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=96 hivel=111 offset=691 end=64514 loop_mode=no_loop
+<region> sample=Death Perc-53-127-MKLA.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=112 hivel=127 offset=600 end=76170 loop_mode=no_loop
+<region> sample=Death Perc-54-16-C1KY.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=16 offset=480 loop_mode=no_loop
+<region> sample=Death Perc-54-32-6OVT.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=17 hivel=32 offset=573 end=25984 loop_mode=no_loop
+<region> sample=Death Perc-54-48-7WMO.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=48 offset=544 end=25858 loop_mode=no_loop
+<region> sample=Death Perc-54-64-3YDO.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=49 hivel=64 offset=658 end=27392 loop_mode=no_loop
+<region> sample=Death Perc-54-79-3CQ7.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=79 offset=626 end=29450 loop_mode=no_loop
+<region> sample=Death Perc-54-95-PSSD.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=80 hivel=95 offset=549 end=50582 loop_mode=no_loop
+<region> sample=Death Perc-54-111-4FCP.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=96 hivel=111 offset=618 end=62851 loop_mode=no_loop
+<region> sample=Death Perc-54-127-5TFZ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=112 hivel=127 offset=632 end=70446 loop_mode=no_loop
+<region> sample=Death Perc-55-16-YJF3.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=16 offset=613 end=24969 loop_mode=no_loop
+<region> sample=Death Perc-55-32-Y290.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=17 hivel=32 offset=653 end=25611 loop_mode=no_loop
+<region> sample=Death Perc-55-48-WZRR.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=48 offset=714 end=24988 loop_mode=no_loop
+<region> sample=Death Perc-55-64-1S8M.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=49 hivel=64 offset=558 end=32263 loop_mode=no_loop
+<region> sample=Death Perc-55-79-XULH.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=79 offset=570 end=28160 loop_mode=no_loop
+<region> sample=Death Perc-55-95-KFP2.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=80 hivel=95 offset=482 end=45696 loop_mode=no_loop
+<region> sample=Death Perc-55-111-3CKB.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=96 hivel=111 offset=702 end=65422 loop_mode=no_loop
+<region> sample=Death Perc-55-127-7BP3.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=112 hivel=127 offset=634 end=69389 loop_mode=no_loop
+<region> sample=Death Perc-56-16-0WBC.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=16 offset=661 end=24071 loop_mode=no_loop
+<region> sample=Death Perc-56-32-8RZJ.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=17 hivel=32 offset=546 end=30080 loop_mode=no_loop
+<region> sample=Death Perc-56-48-U7MW.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=48 offset=658 end=23682 loop_mode=no_loop
+<region> sample=Death Perc-56-64-ZWGY.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=49 hivel=64 offset=671 end=27534 loop_mode=no_loop
+<region> sample=Death Perc-56-79-IBDN.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=79 offset=935 end=30869 loop_mode=no_loop
+<region> sample=Death Perc-56-95-CDLN.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=80 hivel=95 offset=599 end=45077 loop_mode=no_loop
+<region> sample=Death Perc-56-111-1OT2.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=96 hivel=111 offset=518 end=63893 loop_mode=no_loop
+<region> sample=Death Perc-56-127-DV8R.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=112 hivel=127 offset=517 end=76165 loop_mode=no_loop
+<region> sample=Death Perc-57-16-KTNE.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=16 offset=629 end=22664 loop_mode=no_loop
+<region> sample=Death Perc-57-32-AEL9.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=17 hivel=32 offset=664 end=26245 loop_mode=no_loop
+<region> sample=Death Perc-57-48-VZOX.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=48 offset=683 end=25985 loop_mode=no_loop
+<region> sample=Death Perc-57-64-9M6O.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=49 hivel=64 offset=608 end=26894 loop_mode=no_loop
+<region> sample=Death Perc-57-79-N59E.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=79 offset=722 end=29696 loop_mode=no_loop
+<region> sample=Death Perc-57-95-AOON.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=80 hivel=95 offset=613 end=51084 loop_mode=no_loop
+<region> sample=Death Perc-57-111-MB5N.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=96 hivel=111 offset=628 end=63141 loop_mode=no_loop
+<region> sample=Death Perc-57-127-TXSV.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=112 hivel=127 offset=725 loop_mode=no_loop
+<region> sample=Death Perc-58-16-LF49.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=16 offset=718 end=24832 loop_mode=no_loop
+<region> sample=Death Perc-58-32-LLSP.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=17 hivel=32 offset=632 loop_mode=no_loop
+<region> sample=Death Perc-58-48-V2AB.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=48 offset=522 end=24832 loop_mode=no_loop
+<region> sample=Death Perc-58-64-6Z2T.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=49 hivel=64 offset=793 end=32388 loop_mode=no_loop
+<region> sample=Death Perc-58-79-TVVK.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=79 offset=836 end=28419 loop_mode=no_loop
+<region> sample=Death Perc-58-95-NO5R.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=80 hivel=95 offset=518 end=45966 loop_mode=no_loop
+<region> sample=Death Perc-58-111-LKVN.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=96 hivel=111 offset=486 end=65680 loop_mode=no_loop
+<region> sample=Death Perc-58-127-851E.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=112 hivel=127 offset=673 end=69643 loop_mode=no_loop
+<region> sample=Death Perc-59-16-GQTI.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=16 offset=547 end=23942 loop_mode=no_loop
+<region> sample=Death Perc-59-32-2B2Z.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=17 hivel=32 offset=640 end=30208 loop_mode=no_loop
+<region> sample=Death Perc-59-48-D0XB.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=48 offset=628 end=23818 loop_mode=no_loop
+<region> sample=Death Perc-59-64-R0J6.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=49 hivel=64 offset=640 end=27804 loop_mode=no_loop
+<region> sample=Death Perc-59-79-202P.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=79 offset=479 end=30598 loop_mode=no_loop
+<region> sample=Death Perc-59-95-SNXX.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=80 hivel=95 offset=606 end=44686 loop_mode=no_loop
+<region> sample=Death Perc-59-111-MYH5.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=96 hivel=111 offset=652 end=63904 loop_mode=no_loop
+<region> sample=Death Perc-59-127-P64L.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=112 hivel=127 offset=507 end=75538 loop_mode=no_loop
+<region> sample=Death Perc-60-16-K5XN.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=1 hivel=16 offset=621 loop_mode=no_loop
+<region> sample=Death Perc-60-32-P9M7.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=17 hivel=32 offset=630 loop_mode=no_loop
+<region> sample=Death Perc-60-48-2VZL.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=33 hivel=48 offset=596 end=25755 loop_mode=no_loop
+<region> sample=Death Perc-60-64-H59T.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=49 hivel=64 offset=699 end=27275 loop_mode=no_loop
+<region> sample=Death Perc-60-79-2M4X.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=65 hivel=79 offset=646 end=29569 loop_mode=no_loop
+<region> sample=Death Perc-60-95-KA9F.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=80 hivel=95 offset=764 end=51347 loop_mode=no_loop
+<region> sample=Death Perc-60-111-1HBU.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=96 hivel=111 offset=776 end=62612 loop_mode=no_loop
+<region> sample=Death Perc-60-127-WUHH.wav key=60 lokey=60 hikey=121  amp_veltrack=30 lovel=112 hivel=127 offset=709 end=70428 loop_mode=no_loop

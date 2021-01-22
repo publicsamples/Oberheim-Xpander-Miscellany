@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mr Jiggles.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Waves/Mr Jiggles/
+
+<group>        // Mr Jiggles
+<region> sample=Mr Jiggles-36-127-R0PB.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=127 offset=580 end=680064 loop_mode=no_loop
+<region> sample=Mr Jiggles-37-127-GJOU.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 offset=680 end=678272 loop_mode=no_loop
+<region> sample=Mr Jiggles-38-127-BKXC.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 offset=667 loop_mode=no_loop
+<region> sample=Mr Jiggles-39-127-0I9G.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 offset=735 end=677493 loop_mode=no_loop
+<region> sample=Mr Jiggles-40-127-82V5.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 offset=756 end=676919 loop_mode=no_loop
+<region> sample=Mr Jiggles-41-127-IYJD.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 offset=658 end=683674 loop_mode=no_loop
+<region> sample=Mr Jiggles-42-127-ZZG3.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 offset=809 end=677451 loop_mode=no_loop
+<region> sample=Mr Jiggles-43-127-9MRH.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 offset=618 end=681884 loop_mode=no_loop
+<region> sample=Mr Jiggles-44-127-WAPV.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 offset=678 end=677268 loop_mode=no_loop
+<region> sample=Mr Jiggles-45-127-248U.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 offset=755 loop_mode=no_loop
+<region> sample=Mr Jiggles-46-127-NSU9.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 offset=619 end=676913 loop_mode=no_loop
+<region> sample=Mr Jiggles-47-127-V74J.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 offset=667 end=685357 loop_mode=no_loop
+<region> sample=Mr Jiggles-48-127-4YGU.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 offset=587 end=676224 loop_mode=no_loop
+<region> sample=Mr Jiggles-49-127-TEXR.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 offset=658 loop_mode=no_loop
+<region> sample=Mr Jiggles-50-127-UKNH.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 offset=744 end=677761 loop_mode=no_loop
+<region> sample=Mr Jiggles-51-127-L0EN.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 offset=801 end=676608 loop_mode=no_loop
+<region> sample=Mr Jiggles-52-127-B1PJ.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 offset=734 end=676105 loop_mode=no_loop
+<region> sample=Mr Jiggles-53-127-Z79W.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 offset=611 loop_mode=no_loop
+<region> sample=Mr Jiggles-54-127-YGS7.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 offset=790 end=676741 loop_mode=no_loop
+<region> sample=Mr Jiggles-55-127-CWIR.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 offset=811 end=678424 loop_mode=no_loop
+<region> sample=Mr Jiggles-56-127-D6HN.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 offset=755 loop_mode=no_loop
+<region> sample=Mr Jiggles-57-127-S8FG.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 offset=622 end=677026 loop_mode=no_loop
+<region> sample=Mr Jiggles-58-127-LYD4.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 offset=870 end=677138 loop_mode=no_loop
+<region> sample=Mr Jiggles-59-127-JMKP.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 offset=773 loop_mode=no_loop
+<region> sample=Mr Jiggles-60-127-2C0Z.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 offset=790 end=676355 loop_mode=no_loop
+<region> sample=Mr Jiggles-61-127-L0R3.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 offset=675 end=677388 loop_mode=no_loop
+<region> sample=Mr Jiggles-62-127-ALB3.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 offset=745 end=681729 loop_mode=no_loop
+<region> sample=Mr Jiggles-63-127-GLMB.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 offset=805 end=676864 loop_mode=no_loop
+<region> sample=Mr Jiggles-64-127-R7C5.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 offset=614 end=677376 loop_mode=no_loop
+<region> sample=Mr Jiggles-65-127-IRS0.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 offset=783 loop_mode=no_loop
+<region> sample=Mr Jiggles-66-127-5XK0.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 offset=789 end=677263 loop_mode=no_loop
+<region> sample=Mr Jiggles-67-127-V45U.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 offset=691 end=678272 loop_mode=no_loop
+<region> sample=Mr Jiggles-68-127-VWE1.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 offset=818 end=677510 loop_mode=no_loop
+<region> sample=Mr Jiggles-69-127-QG08.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 offset=816 end=677645 loop_mode=no_loop
+<region> sample=Mr Jiggles-70-127-C1TR.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 offset=826 end=676880 loop_mode=no_loop
+<region> sample=Mr Jiggles-71-127-WXVT.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 offset=631 end=688640 loop_mode=no_loop
+<region> sample=Mr Jiggles-72-127-RPJZ.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 offset=715 end=676489 loop_mode=no_loop
+<region> sample=Mr Jiggles-73-127-SBVU.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 offset=737 end=677256 loop_mode=no_loop
+<region> sample=Mr Jiggles-74-127-OX13.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 offset=713 end=681729 loop_mode=no_loop
+<region> sample=Mr Jiggles-75-127-MDQF.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 offset=504 end=677248 loop_mode=no_loop
+<region> sample=Mr Jiggles-76-127-PXA7.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 offset=686 loop_mode=no_loop
+<region> sample=Mr Jiggles-77-127-C3R5.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 offset=742 end=745864 loop_mode=no_loop
+<region> sample=Mr Jiggles-78-127-SZDC.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 offset=645 end=676996 loop_mode=no_loop
+<region> sample=Mr Jiggles-79-127-4KCK.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 offset=623 end=681600 loop_mode=no_loop
+<region> sample=Mr Jiggles-80-127-Z9KZ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 offset=552 loop_mode=no_loop
+<region> sample=Mr Jiggles-81-127-PHP7.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 offset=751 end=677260 loop_mode=no_loop
+<region> sample=Mr Jiggles-82-127-NTQD.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 offset=588 end=676632 loop_mode=no_loop
+<region> sample=Mr Jiggles-83-127-RSMQ.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 offset=669 loop_mode=no_loop
+<region> sample=Mr Jiggles-84-127-35EE.wav key=84 lokey=84 hikey=127  amp_veltrack=30 lovel=0 hivel=127 offset=871 end=677248 loop_mode=no_loop

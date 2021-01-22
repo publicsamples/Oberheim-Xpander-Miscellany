@@ -1,0 +1,81 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Disturber.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Disturber/
+
+<group>        // Disturber
+<region> sample=Disturber-36-32-EKM1.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=0 hivel=32 offset=677 end=225063 loop_mode=no_loop
+<region> sample=Disturber-36-127-BEQD.wav key=36 lokey=0 hikey=36  amp_veltrack=30 lovel=33 hivel=127 offset=469 loop_mode=no_loop
+<region> sample=Disturber-37-32-WHXB.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=32 offset=654 end=218211 loop_mode=no_loop
+<region> sample=Disturber-37-127-QFNW.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=33 hivel=127 offset=565 loop_mode=no_loop
+<region> sample=Disturber-38-32-5TN8.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=32 offset=662 end=215516 loop_mode=no_loop
+<region> sample=Disturber-38-127-MNEM.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=33 hivel=127 offset=539 end=229644 loop_mode=no_loop
+<region> sample=Disturber-39-32-QP1V.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=32 offset=481 end=227054 loop_mode=no_loop
+<region> sample=Disturber-39-127-P4AX.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=33 hivel=127 offset=504 end=226434 loop_mode=no_loop
+<region> sample=Disturber-40-32-05O3.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=32 offset=666 end=224683 loop_mode=no_loop
+<region> sample=Disturber-40-127-NJKU.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=33 hivel=127 offset=711 end=230912 loop_mode=no_loop
+<region> sample=Disturber-41-32-1AE4.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=32 offset=684 end=219590 loop_mode=no_loop
+<region> sample=Disturber-41-127-O4YS.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=33 hivel=127 offset=641 end=227991 loop_mode=no_loop
+<region> sample=Disturber-42-32-DEK2.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=32 offset=612 end=228383 loop_mode=no_loop
+<region> sample=Disturber-42-127-V5DB.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=33 hivel=127 offset=448 end=226722 loop_mode=no_loop
+<region> sample=Disturber-43-32-QVCW.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=32 offset=600 end=220616 loop_mode=no_loop
+<region> sample=Disturber-43-127-14WP.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=33 hivel=127 offset=742 end=230926 loop_mode=no_loop
+<region> sample=Disturber-44-32-GSEC.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=32 offset=643 end=218449 loop_mode=no_loop
+<region> sample=Disturber-44-127-ESCX.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=33 hivel=127 offset=625 end=228352 loop_mode=no_loop
+<region> sample=Disturber-45-32-25QF.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=32 offset=553 end=229588 loop_mode=no_loop
+<region> sample=Disturber-45-127-5ZYL.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=33 hivel=127 offset=605 end=225409 loop_mode=no_loop
+<region> sample=Disturber-46-32-SWCB.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=32 offset=721 end=224629 loop_mode=no_loop
+<region> sample=Disturber-46-127-6CHU.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=33 hivel=127 offset=458 loop_mode=no_loop
+<region> sample=Disturber-47-32-Z5L7.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=32 offset=819 loop_mode=no_loop
+<region> sample=Disturber-47-127-VIWG.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=33 hivel=127 offset=738 end=228618 loop_mode=no_loop
+<region> sample=Disturber-48-32-LEKP.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=32 offset=580 end=233278 loop_mode=no_loop
+<region> sample=Disturber-48-127-J5JD.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=33 hivel=127 offset=739 end=225202 loop_mode=no_loop
+<region> sample=Disturber-49-32-CZDN.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=32 offset=674 end=222220 loop_mode=no_loop
+<region> sample=Disturber-49-127-CWFC.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=33 hivel=127 offset=618 end=231299 loop_mode=no_loop
+<region> sample=Disturber-50-32-STZM.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=32 offset=653 end=221257 loop_mode=no_loop
+<region> sample=Disturber-50-127-5FQA.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=33 hivel=127 offset=537 end=228761 loop_mode=no_loop
+<region> sample=Disturber-51-32-1YWQ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=32 offset=670 end=235423 loop_mode=no_loop
+<region> sample=Disturber-51-127-I9M2.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=33 hivel=127 offset=667 end=226221 loop_mode=no_loop
+<region> sample=Disturber-52-32-H0QY.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=32 offset=636 end=226284 loop_mode=no_loop
+<region> sample=Disturber-52-127-4D4K.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=33 hivel=127 offset=631 loop_mode=no_loop
+<region> sample=Disturber-53-32-HGLY.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=32 offset=679 end=228376 loop_mode=no_loop
+<region> sample=Disturber-53-127-63U0.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=33 hivel=127 offset=621 end=228156 loop_mode=no_loop
+<region> sample=Disturber-54-32-OEB9.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=32 offset=568 end=231996 loop_mode=no_loop
+<region> sample=Disturber-54-127-RXLC.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=33 hivel=127 offset=647 end=224517 loop_mode=no_loop
+<region> sample=Disturber-55-32-RDEN.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=32 offset=788 end=224882 loop_mode=no_loop
+<region> sample=Disturber-55-127-BN4D.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=33 hivel=127 offset=632 end=231173 loop_mode=no_loop
+<region> sample=Disturber-56-32-B4D1.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=32 offset=529 end=223140 loop_mode=no_loop
+<region> sample=Disturber-56-127-OU7G.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=33 hivel=127 offset=760 end=228610 loop_mode=no_loop
+<region> sample=Disturber-57-32-DB6R.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=32 offset=705 end=235047 loop_mode=no_loop
+<region> sample=Disturber-57-127-O5Q9.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=33 hivel=127 offset=550 end=227230 loop_mode=no_loop
+<region> sample=Disturber-58-32-0W8Z.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=32 offset=672 end=228290 loop_mode=no_loop
+<region> sample=Disturber-58-127-VL3N.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=33 hivel=127 offset=634 end=230148 loop_mode=no_loop
+<region> sample=Disturber-59-32-CCF3.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=32 offset=666 end=227683 loop_mode=no_loop
+<region> sample=Disturber-59-127-K3Q5.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=33 hivel=127 offset=837 end=229231 loop_mode=no_loop
+<region> sample=Disturber-60-32-63U9.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=32 offset=476 end=233101 loop_mode=no_loop
+<region> sample=Disturber-60-127-FWKH.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=33 hivel=127 offset=627 end=225847 loop_mode=no_loop
+<region> sample=Disturber-61-32-4YMD.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=32 offset=616 end=226824 loop_mode=no_loop
+<region> sample=Disturber-61-127-VPM4.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=33 hivel=127 offset=528 end=229752 loop_mode=no_loop
+<region> sample=Disturber-62-32-WOVU.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=32 offset=498 end=224804 loop_mode=no_loop
+<region> sample=Disturber-62-127-NPUY.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=33 hivel=127 offset=472 end=228864 loop_mode=no_loop
+<region> sample=Disturber-63-32-HDK4.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=32 offset=572 end=233624 loop_mode=no_loop
+<region> sample=Disturber-63-127-7HY1.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=33 hivel=127 offset=604 end=225855 loop_mode=no_loop
+<region> sample=Disturber-64-32-EWGH.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=32 offset=655 end=227051 loop_mode=no_loop
+<region> sample=Disturber-64-127-SATR.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=33 hivel=127 offset=728 end=230989 loop_mode=no_loop
+<region> sample=Disturber-65-32-YDS1.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=32 offset=705 loop_mode=no_loop
+<region> sample=Disturber-65-127-ABEJ.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=33 hivel=127 offset=616 end=227360 loop_mode=no_loop
+<region> sample=Disturber-66-32-X3TQ.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=32 offset=752 loop_mode=no_loop
+<region> sample=Disturber-66-127-33SB.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=33 hivel=127 offset=573 end=225925 loop_mode=no_loop
+<region> sample=Disturber-67-32-ZWVK.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=32 offset=662 end=230797 loop_mode=no_loop
+<region> sample=Disturber-67-127-JL6F.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=33 hivel=127 offset=539 end=231309 loop_mode=no_loop
+<region> sample=Disturber-68-32-UMYD.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=32 offset=492 end=225490 loop_mode=no_loop
+<region> sample=Disturber-68-127-7KHG.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=33 hivel=127 offset=787 end=228076 loop_mode=no_loop
+<region> sample=Disturber-69-32-JL9R.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=32 offset=692 loop_mode=no_loop
+<region> sample=Disturber-69-127-2IF2.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=33 hivel=127 offset=616 end=224810 loop_mode=no_loop
+<region> sample=Disturber-70-32-PNYK.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=32 offset=715 end=226413 loop_mode=no_loop
+<region> sample=Disturber-70-127-ITVS.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=33 hivel=127 offset=608 end=230318 loop_mode=no_loop
+<region> sample=Disturber-71-32-IJVI.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=32 offset=771 loop_mode=no_loop
+<region> sample=Disturber-71-127-8YFS.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=33 hivel=127 offset=545 end=228101 loop_mode=no_loop
+<region> sample=Disturber-72-32-U073.wav key=72 lokey=72 hikey=127  amp_veltrack=30 lovel=0 hivel=32 offset=689 end=238208 loop_mode=no_loop
+<region> sample=Disturber-72-127-PVQI.wav key=72 lokey=72 hikey=127  amp_veltrack=30 lovel=33 hivel=127 offset=688 end=225348 loop_mode=no_loop

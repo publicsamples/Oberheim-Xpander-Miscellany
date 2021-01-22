@@ -1,0 +1,80 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - MELOWMOD.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/MELOWMOD/(201279 182145)/
+
+<group>        // MELOWMOD
+<region> sample=012 MELOWMOD-24-127-93WF.aif key=24 lokey=0 hikey=24  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=309949 loop_end=397763
+<region> sample=012 MELOWMOD-25-127-9A91.aif key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=300526 loop_end=387118
+<region> sample=012 MELOWMOD-26-127-Y5MS.aif key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261098 loop_end=367029
+<region> sample=012 MELOWMOD-27-127-HXX7.aif key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=241805 loop_end=396350
+<region> sample=012 MELOWMOD-28-127-KWP3.aif key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=309900 loop_end=348466
+<region> sample=012 MELOWMOD-29-127-BY6R.aif key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=223367 loop_end=329618
+<region> sample=012 MELOWMOD-30-127-I7XJ.aif key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=265233 loop_end=303419
+<region> sample=012 MELOWMOD-31-127-RI2C.aif key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=279470 loop_end=318151
+<region> sample=012 MELOWMOD-32-127-7ADD.aif key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261225 loop_end=300343
+<region> sample=012 MELOWMOD-33-127-NGGA.aif key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=299775 loop_end=395337
+<region> sample=012 MELOWMOD-34-127-CC4O.aif key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=340779 loop_end=380178
+<region> sample=012 MELOWMOD-35-127-NC5K.aif key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=256214 loop_end=342747
+<region> sample=012 MELOWMOD-36-127-0BZ9.aif key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=284472 loop_end=400521
+<region> sample=012 MELOWMOD-37-127-FO6R.aif key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=299512 loop_end=338324
+<region> sample=012 MELOWMOD-38-127-D670.aif key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=221084 loop_end=336517
+<region> sample=012 MELOWMOD-39-127-8F90.aif key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=226515 loop_end=313313
+<region> sample=012 MELOWMOD-40-127-JCXH.aif key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=285509 loop_end=401218
+<region> sample=012 MELOWMOD-41-127-ELGQ.aif key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261646 loop_end=367843
+<region> sample=012 MELOWMOD-42-127-X2QN.aif key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=259317 loop_end=345183
+<region> sample=012 MELOWMOD-43-127-8HIR.aif key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=251332 loop_end=338622
+<region> sample=012 MELOWMOD-44-127-9R97.aif key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=226605 loop_end=313299
+<region> sample=012 MELOWMOD-45-127-V4GO.aif key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=271018 loop_end=309515
+<region> sample=012 MELOWMOD-46-127-H1SJ.aif key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=311463 loop_end=398528
+<region> sample=012 MELOWMOD-47-127-FH8J.aif key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=299393 loop_end=338341
+<region> sample=012 MELOWMOD-48-127-DNPO.aif key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=294909 loop_end=381605
+<region> sample=012 MELOWMOD-49-127-LNSX.aif key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=226327 loop_end=265160
+<region> sample=012 MELOWMOD-50-127-DCGM.aif key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=283925 loop_end=370770
+<region> sample=012 MELOWMOD-51-127-B4RB.aif key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=221884 loop_end=309518
+<region> sample=012 MELOWMOD-52-127-2T21.aif key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=357288 loop_end=396101
+<region> sample=012 MELOWMOD-53-127-CO09.aif key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=225305 loop_end=263708
+<region> sample=012 MELOWMOD-54-127-EMOU.aif key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=224493 loop_end=311531
+<region> sample=012 MELOWMOD-55-127-PK9S.aif key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=241365 loop_end=328218
+<region> sample=012 MELOWMOD-56-127-44FR.aif key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=329213 loop_end=367479
+<region> sample=012 MELOWMOD-57-127-9MYP.aif key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=235704 loop_end=273806
+<region> sample=012 MELOWMOD-58-127-YB4B.aif key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=308744 loop_end=396017
+<region> sample=012 MELOWMOD-59-127-GNDJ.aif key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=270978 loop_end=309565
+<region> sample=012 MELOWMOD-60-127-QO5M.aif key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=358362 loop_end=396301
+<region> sample=012 MELOWMOD-61-127-PO4W.aif key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=290560 loop_end=329246
+<region> sample=012 MELOWMOD-62-127-TY3M.aif key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=270931 loop_end=309994
+<region> sample=012 MELOWMOD-63-127-GUVO.aif key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=253238 loop_end=340276
+<region> sample=012 MELOWMOD-64-127-N1U4.aif key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=338360 loop_end=377731
+<region> sample=012 MELOWMOD-65-127-7HK6.aif key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=263316 loop_end=350359
+<region> sample=012 MELOWMOD-66-127-QD71.aif key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=319636 loop_end=357797
+<region> sample=012 MELOWMOD-67-127-S9VF.aif key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=289180 loop_end=329248
+<region> sample=012 MELOWMOD-68-127-DVIC.aif key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=232658 loop_end=271114
+<region> sample=012 MELOWMOD-69-127-GKYO.aif key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=320790 loop_end=359686
+<region> sample=012 MELOWMOD-70-127-P9GH.aif key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=319615 loop_end=358328
+<region> sample=012 MELOWMOD-71-127-PGZ8.aif key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=358350 loop_end=395686
+<region> sample=012 MELOWMOD-72-127-PITH.aif key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=280196 loop_end=319590
+<region> sample=012 MELOWMOD-73-127-MOJP.aif key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=232001 loop_end=271253
+<region> sample=012 MELOWMOD-74-127-Z5UP.aif key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=309707 loop_end=395641
+<region> sample=012 MELOWMOD-75-127-OCNL.aif key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=320791 loop_end=359716
+<region> sample=012 MELOWMOD-76-127-2FPW.aif key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=319489 loop_end=358033
+<region> sample=012 MELOWMOD-77-127-OWFL.aif key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=331049 loop_end=369634
+<region> sample=012 MELOWMOD-78-127-N74J.aif key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=241024 loop_end=280858
+<region> sample=012 MELOWMOD-79-127-722F.aif key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=269726 loop_end=357057
+<region> sample=012 MELOWMOD-80-127-1LND.aif key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=262894 loop_end=350448
+<region> sample=012 MELOWMOD-81-127-9114.aif key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=251430 loop_end=289591
+<region> sample=012 MELOWMOD-82-127-2MC3.aif key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=280947 loop_end=319710
+<region> sample=012 MELOWMOD-83-127-R6C0.aif key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=312325 loop_end=351361
+<region> sample=012 MELOWMOD-84-127-UZ7F.aif key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=241274 loop_end=280232
+<region> sample=012 MELOWMOD-85-127-EVGS.aif key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=252018 loop_end=358500
+<region> sample=012 MELOWMOD-86-127-8AJL.aif key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=358146 loop_end=396149
+<region> sample=012 MELOWMOD-87-127-CITG.aif key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=244932 loop_end=282892
+<region> sample=012 MELOWMOD-88-127-C4PT.aif key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=222175 loop_end=261034
+<region> sample=012 MELOWMOD-89-127-6PBU.aif key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=280496 loop_end=318836
+<region> sample=012 MELOWMOD-90-127-72BZ.aif key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=261432 loop_end=300496
+<region> sample=012 MELOWMOD-91-127-1PSQ.aif key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=358470 loop_end=396937
+<region> sample=012 MELOWMOD-92-127-SAED.aif key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=350404 loop_end=388969
+<region> sample=012 MELOWMOD-93-127-BA66.aif key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=329227 loop_end=369948
+<region> sample=012 MELOWMOD-94-127-NBYP.aif key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=281017 loop_end=319786
+<region> sample=012 MELOWMOD-95-127-14KR.aif key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=272660 loop_end=311477
+<region> sample=012 MELOWMOD-96-127-D6WA.aif key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=319841 loop_end=359576

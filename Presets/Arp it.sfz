@@ -1,0 +1,87 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Arp it.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Detune Mod/
+
+<group>        // Detune Mod
+<region> sample=Detune Mod116038-RYX0.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=1 hivel=16 offset=654 end=706518 loop_mode=no_loop
+<region> sample=Detune Mod1732038-EFE4.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=17 hivel=32 offset=628 end=708042 loop_mode=no_loop
+<region> sample=Detune Mod3348038-LUZ5.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=33 hivel=48 offset=487 end=704981 loop_mode=no_loop
+<region> sample=Detune Mod4964038-PE63.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=49 hivel=64 offset=636 end=717258 loop_mode=no_loop
+<region> sample=Detune Mod6579038-1XLY.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=65 hivel=79 offset=429 loop_mode=no_loop
+<region> sample=Detune Mod8095038-BDFK.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=80 hivel=95 offset=455 end=707014 loop_mode=no_loop
+<region> sample=Detune Mod96111038-E91F.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=96 hivel=111 offset=785 end=707404 loop_mode=no_loop
+<region> sample=Detune Mod112127038-A93Q.aif key=36 lokey=0 hikey=38  amp_veltrack=30 lovel=112 hivel=127 offset=446 end=711566 loop_mode=no_loop
+<region> sample=Detune Mod1163945-9GZ6.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=1 hivel=16 offset=432 end=696778 loop_mode=no_loop
+<region> sample=Detune Mod17323945-XLCH.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=17 hivel=32 offset=649 end=716066 loop_mode=no_loop
+<region> sample=Detune Mod33483945-M1C2.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=33 hivel=48 offset=785 end=703074 loop_mode=no_loop
+<region> sample=Detune Mod49643945-861R.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=49 hivel=64 offset=567 end=707271 loop_mode=no_loop
+<region> sample=Detune Mod65793945-1XMP.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=65 hivel=79 offset=365 end=704058 loop_mode=no_loop
+<region> sample=Detune Mod80953945-AT8B.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=80 hivel=95 offset=347 loop_mode=no_loop
+<region> sample=Detune Mod961113945-A6KM.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=96 hivel=111 offset=538 end=705315 loop_mode=no_loop
+<region> sample=Detune Mod1121273945-AW7J.aif key=43 lokey=39 hikey=45  amp_veltrack=30 lovel=112 hivel=127 offset=457 end=717807 loop_mode=no_loop
+<region> sample=Detune Mod1164652-CCFP.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=1 hivel=16 offset=641 end=697440 loop_mode=no_loop
+<region> sample=Detune Mod17324652-FQ1U.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=17 hivel=32 offset=675 end=706162 loop_mode=no_loop
+<region> sample=Detune Mod33484652-ZHGZ.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=33 hivel=48 offset=615 end=702790 loop_mode=no_loop
+<region> sample=Detune Mod49644652-MC2Z.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=49 hivel=64 offset=821 end=712385 loop_mode=no_loop
+<region> sample=Detune Mod65794652-61YU.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=65 hivel=79 offset=523 end=705132 loop_mode=no_loop
+<region> sample=Detune Mod80954652-OVQ4.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=80 hivel=95 offset=367 end=717192 loop_mode=no_loop
+<region> sample=Detune Mod961114652-3W8E.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=96 hivel=111 offset=838 end=706652 loop_mode=no_loop
+<region> sample=Detune Mod1121274652-EWP9.aif key=50 lokey=46 hikey=52  amp_veltrack=30 lovel=112 hivel=127 offset=410 end=706318 loop_mode=no_loop
+<region> sample=Detune Mod1165359-OQZL.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=1 hivel=16 offset=651 loop_mode=no_loop
+<region> sample=Detune Mod17325359-80ZM.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=17 hivel=32 offset=409 loop_mode=no_loop
+<region> sample=Detune Mod33485359-7QIX.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=33 hivel=48 offset=573 end=702337 loop_mode=no_loop
+<region> sample=Detune Mod49645359-B3JH.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=49 hivel=64 offset=454 loop_mode=no_loop
+<region> sample=Detune Mod65795359-7D45.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=65 hivel=79 offset=573 end=703409 loop_mode=no_loop
+<region> sample=Detune Mod80955359-ACWK.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=80 hivel=95 offset=456 end=706308 loop_mode=no_loop
+<region> sample=Detune Mod961115359-55YF.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=96 hivel=111 offset=840 loop_mode=no_loop
+<region> sample=Detune Mod1121275359-MCHK.aif key=57 lokey=53 hikey=59  amp_veltrack=30 lovel=112 hivel=127 offset=587 end=712178 loop_mode=no_loop
+<region> sample=Detune Mod1166066-6267.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=1 hivel=16 offset=441 end=704221 loop_mode=no_loop
+<region> sample=Detune Mod17326066-NP7Q.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=17 hivel=32 offset=432 end=712458 loop_mode=no_loop
+<region> sample=Detune Mod33486066-D6W2.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=33 hivel=48 offset=392 end=704709 loop_mode=no_loop
+<region> sample=Detune Mod49646066-3WYL.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=49 hivel=64 offset=377 end=700897 loop_mode=no_loop
+<region> sample=Detune Mod65796066-5FTM.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=65 hivel=79 offset=750 end=706425 loop_mode=no_loop
+<region> sample=Detune Mod80956066-YGRD.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=80 hivel=95 offset=357 end=710728 loop_mode=no_loop
+<region> sample=Detune Mod961116066-JEMI.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=96 hivel=111 offset=650 loop_mode=no_loop
+<region> sample=Detune Mod1121276066-OMJ9.aif key=64 lokey=60 hikey=66  amp_veltrack=30 lovel=112 hivel=127 offset=702 end=715947 loop_mode=no_loop
+<region> sample=Detune Mod1166773-8M5C.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=1 hivel=16 offset=392 end=704711 loop_mode=no_loop
+<region> sample=Detune Mod17326773-0JFX.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=17 hivel=32 offset=724 loop_mode=no_loop
+<region> sample=Detune Mod33486773-O8YT.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=33 hivel=48 offset=372 end=703068 loop_mode=no_loop
+<region> sample=Detune Mod49646773-W1Z2.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=49 hivel=64 offset=639 end=712032 loop_mode=no_loop
+<region> sample=Detune Mod65796773-X14N.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=65 hivel=79 offset=729 end=701099 loop_mode=no_loop
+<region> sample=Detune Mod80956773-KECJ.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=80 hivel=95 offset=667 loop_mode=no_loop
+<region> sample=Detune Mod961116773-I2SF.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=96 hivel=111 offset=690 end=704366 loop_mode=no_loop
+<region> sample=Detune Mod1121276773-IYZ9.aif key=71 lokey=67 hikey=73  amp_veltrack=30 lovel=112 hivel=127 offset=613 loop_mode=no_loop
+<region> sample=Detune Mod1167480-V0NY.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=1 hivel=16 offset=196 end=707218 loop_mode=no_loop
+<region> sample=Detune Mod17327480-M01C.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=17 hivel=32 offset=522 loop_mode=no_loop
+<region> sample=Detune Mod33487480-7LQL.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=33 hivel=48 offset=567 end=705439 loop_mode=no_loop
+<region> sample=Detune Mod49647480-DSQP.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=49 hivel=64 offset=815 end=718582 loop_mode=no_loop
+<region> sample=Detune Mod65797480-56MU.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=65 hivel=79 offset=560 end=705177 loop_mode=no_loop
+<region> sample=Detune Mod80957480-1H0H.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=80 hivel=95 offset=521 loop_mode=no_loop
+<region> sample=Detune Mod961117480-FQAF.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=96 hivel=111 offset=426 loop_mode=no_loop
+<region> sample=Detune Mod1121277480-CPJQ.aif key=78 lokey=74 hikey=80  amp_veltrack=30 lovel=112 hivel=127 offset=688 end=711364 loop_mode=no_loop
+<region> sample=Detune Mod1168187-79P5.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=1 hivel=16 offset=806 loop_mode=no_loop
+<region> sample=Detune Mod17328187-YJR8.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=17 hivel=32 offset=220 loop_mode=no_loop
+<region> sample=Detune Mod33488187-6D97.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=33 hivel=48 offset=808 end=706142 loop_mode=no_loop
+<region> sample=Detune Mod49648187-9N1I.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=49 hivel=64 offset=639 end=706567 loop_mode=no_loop
+<region> sample=Detune Mod65798187-W4ZX.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=65 hivel=79 offset=369 loop_mode=no_loop
+<region> sample=Detune Mod80958187-7LRK.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=80 hivel=95 offset=678 end=711724 loop_mode=no_loop
+<region> sample=Detune Mod961118187-7028.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=96 hivel=111 offset=451 end=705341 loop_mode=no_loop
+<region> sample=Detune Mod1121278187-4IZG.aif key=85 lokey=81 hikey=87  amp_veltrack=30 lovel=112 hivel=127 offset=507 loop_mode=no_loop
+<region> sample=Detune Mod1168894-166H.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=1 hivel=16 offset=443 end=705946 loop_mode=no_loop
+<region> sample=Detune Mod17328894-L10R.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=17 hivel=32 offset=340 loop_mode=no_loop
+<region> sample=Detune Mod33488894-12TH.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=33 hivel=48 offset=815 loop_mode=no_loop
+<region> sample=Detune Mod49648894-EUP4.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=49 hivel=64 offset=370 end=711858 loop_mode=no_loop
+<region> sample=Detune Mod65798894-PB5I.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=65 hivel=79 offset=605 end=703267 loop_mode=no_loop
+<region> sample=Detune Mod80958894-W048.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=80 hivel=95 offset=905 end=717813 loop_mode=no_loop
+<region> sample=Detune Mod961118894-J5KQ.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=96 hivel=111 offset=637 loop_mode=no_loop
+<region> sample=Detune Mod1121278894-7IB5.aif key=92 lokey=88 hikey=94  amp_veltrack=30 lovel=112 hivel=127 offset=334 loop_mode=no_loop
+<region> sample=Detune Mod11695127-3THI.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=1 hivel=16 offset=703 end=705610 loop_mode=no_loop
+<region> sample=Detune Mod173295127-W47W.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=17 hivel=32 offset=835 loop_mode=no_loop
+<region> sample=Detune Mod334895127-KP37.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=33 hivel=48 offset=447 loop_mode=no_loop
+<region> sample=Detune Mod496495127-NRDN.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=49 hivel=64 offset=352 end=717523 loop_mode=no_loop
+<region> sample=Detune Mod657995127-87HK.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=65 hivel=79 offset=828 end=707380 loop_mode=no_loop
+<region> sample=Detune Mod809595127-IVGA.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=80 hivel=95 offset=784 end=706255 loop_mode=no_loop
+<region> sample=Detune Mod9611195127-1AEI.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=96 hivel=111 offset=491 end=706972 loop_mode=no_loop
+<region> sample=Detune Mod11212795127-DD1B.aif key=96 lokey=95 hikey=127  amp_veltrack=30 lovel=112 hivel=127 offset=652 end=712206 loop_mode=no_loop

@@ -1,0 +1,56 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Telapia.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Telapia/(2016229 203658)/
+
+<group>        // Telapia
+<region> sample=Telapia-48-127-ZG58.wav key=48 lokey=0 hikey=48  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=500887 loop_end=717964
+<region> sample=Telapia-49-127-3737.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=568950 loop_end=772716
+<region> sample=Telapia-50-127-KA3M.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=405818 loop_end=608843
+<region> sample=Telapia-51-127-OGNG.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=435625 loop_end=628341
+<region> sample=Telapia-52-127-EORI.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=442807 loop_end=629282
+<region> sample=Telapia-53-127-GYB7.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=667128 loop_end=860662
+<region> sample=Telapia-54-127-30R7.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=472512 loop_end=709027
+<region> sample=Telapia-55-127-FKCU.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=357366 loop_end=492652
+<region> sample=Telapia-56-127-V4S6.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=450625 loop_end=652346
+<region> sample=Telapia-57-127-KS2B.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=38028 loop_end=80946
+<region> sample=Telapia-58-127-55QR.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=529190 loop_end=731917
+<region> sample=Telapia-59-127-SN7U.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=419690 loop_end=555139
+<region> sample=Telapia-60-127-SW0X.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=239108 loop_end=332988
+<region> sample=Telapia-61-127-6I9M.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=539165 loop_end=722149
+<region> sample=Telapia-62-127-P045.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=75299 loop_end=132227
+<region> sample=Telapia-63-127-X6QV.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=79681 loop_end=145112
+<region> sample=Telapia-64-127-TR3T.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=518379 loop_end=702589
+<region> sample=Telapia-65-127-V1KM.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=76393 loop_end=130299
+<region> sample=Telapia-66-127-KRIF.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=555798 loop_end=740558
+<region> sample=Telapia-67-127-GB5N.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=49014 loop_end=92627
+<region> sample=Telapia-68-127-E1SU.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=481911 loop_end=683609
+<region> sample=Telapia-69-127-PMRU.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=265145 loop_end=382140
+<region> sample=Telapia-70-127-GPSU.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=31667 loop_end=67530
+<region> sample=Telapia-71-127-6DM7.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=567586 loop_end=755162
+<region> sample=Telapia-72-127-CVBC.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=549679 loop_end=734728
+<region> sample=Telapia-73-127-FIK8.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=463676 loop_end=649181
+<region> sample=Telapia-74-127-0MGF.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=573407 loop_end=758916
+<region> sample=Telapia-75-127-35DT.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=566460 loop_end=768992
+<region> sample=Telapia-76-127-4J8N.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=514411 loop_end=699488
+<region> sample=Telapia-77-127-6QF0.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=575342 loop_end=759988
+<region> sample=Telapia-78-127-CMJD.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=581935 loop_end=783599
+<region> sample=Telapia-79-127-MH1P.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=454760 loop_end=590036
+<region> sample=Telapia-80-127-WHLG.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=581653 loop_end=768381
+<region> sample=Telapia-81-127-1PAL.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=547822 loop_end=749763
+<region> sample=Telapia-82-127-67OJ.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=497164 loop_end=682628
+<region> sample=Telapia-83-127-SG1L.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=464126 loop_end=666092
+<region> sample=Telapia-84-127-3118.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=625524 loop_end=827998
+<region> sample=Telapia-85-127-ET6S.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=546890 loop_end=733154
+<region> sample=Telapia-86-127-553U.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=716012 loop_end=902333
+<region> sample=Telapia-87-127-8FQO.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=573374 loop_end=775480
+<region> sample=Telapia-88-127-ODEK.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=649487 loop_end=835340
+<region> sample=Telapia-89-127-5450.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=548325 loop_end=751398
+<region> sample=Telapia-90-127-L9VE.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=478027 loop_end=680710
+<region> sample=Telapia-91-127-P6W6.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=612483 loop_end=831244
+<region> sample=Telapia-92-127-OGMG.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=497263 loop_end=700276
+<region> sample=Telapia-93-127-RO7G.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=649712 loop_end=852168
+<region> sample=Telapia-94-127-RM52.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=725155 loop_end=911688
+<region> sample=Telapia-95-127-CT7E.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=530666 loop_end=733928
+<region> sample=Telapia-96-127-OQMA.wav key=96 lokey=96 hikey=127  amp_veltrack=30 lovel=0 hivel=127 loop_mode=loop_continuous loop_start=463684 loop_end=648341

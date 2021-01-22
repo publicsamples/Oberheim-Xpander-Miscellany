@@ -1,0 +1,154 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Confused Waves.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Static/Confused Waves/
+
+<group>        // Confused Waves
+<region> sample=Confused Waves-48-42-77RT.wav key=48 lokey=18 hikey=48  amp_veltrack=30 lovel=1 hivel=42 offset=800 end=858717 loop_mode=no_loop
+<region> sample=Confused Waves-48-85-0LAF.wav key=48 lokey=18 hikey=48  amp_veltrack=30 lovel=43 hivel=85 offset=621 end=863692 loop_mode=no_loop
+<region> sample=Confused Waves-48-127-R7DX.wav key=48 lokey=18 hikey=48  amp_veltrack=30 lovel=86 hivel=127 offset=604 loop_mode=no_loop
+<region> sample=Confused Waves-49-42-YP83.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=42 offset=483 end=859234 loop_mode=no_loop
+<region> sample=Confused Waves-49-85-6JFA.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=43 hivel=85 offset=642 end=857728 loop_mode=no_loop
+<region> sample=Confused Waves-49-127-V55X.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=86 hivel=127 offset=962 end=848977 loop_mode=no_loop
+<region> sample=Confused Waves-50-42-DZ5Z.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=42 offset=564 end=857208 loop_mode=no_loop
+<region> sample=Confused Waves-50-85-XSWT.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=43 hivel=85 offset=647 end=867201 loop_mode=no_loop
+<region> sample=Confused Waves-50-127-KOLR.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=86 hivel=127 offset=591 end=847040 loop_mode=no_loop
+<region> sample=Confused Waves-51-42-XXTF.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=42 offset=664 end=856329 loop_mode=no_loop
+<region> sample=Confused Waves-51-85-YU4P.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=43 hivel=85 offset=570 end=856497 loop_mode=no_loop
+<region> sample=Confused Waves-51-127-WTV3.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=86 hivel=127 offset=710 end=851720 loop_mode=no_loop
+<region> sample=Confused Waves-52-42-SPZ8.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=42 offset=591 loop_mode=no_loop
+<region> sample=Confused Waves-52-85-XJ1U.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=43 hivel=85 offset=760 end=865099 loop_mode=no_loop
+<region> sample=Confused Waves-52-127-8QZW.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=86 hivel=127 offset=502 loop_mode=no_loop
+<region> sample=Confused Waves-53-42-NR28.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=42 offset=608 end=856577 loop_mode=no_loop
+<region> sample=Confused Waves-53-85-DN8A.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=43 hivel=85 offset=801 end=859740 loop_mode=no_loop
+<region> sample=Confused Waves-53-127-569P.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=86 hivel=127 offset=570 end=850868 loop_mode=no_loop
+<region> sample=Confused Waves-54-42-L9Y6.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=42 offset=662 end=854912 loop_mode=no_loop
+<region> sample=Confused Waves-54-85-GLSR.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=43 hivel=85 offset=653 loop_mode=no_loop
+<region> sample=Confused Waves-54-127-YXXM.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=86 hivel=127 offset=668 end=849545 loop_mode=no_loop
+<region> sample=Confused Waves-55-42-QUU5.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=42 offset=742 end=859336 loop_mode=no_loop
+<region> sample=Confused Waves-55-85-U50I.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=43 hivel=85 offset=664 loop_mode=no_loop
+<region> sample=Confused Waves-55-127-XXJ4.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=86 hivel=127 offset=550 loop_mode=no_loop
+<region> sample=Confused Waves-56-42-SMIH.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=42 offset=592 end=855808 loop_mode=no_loop
+<region> sample=Confused Waves-56-85-6ROA.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=43 hivel=85 offset=632 loop_mode=no_loop
+<region> sample=Confused Waves-56-127-BVU2.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=86 hivel=127 offset=591 end=853241 loop_mode=no_loop
+<region> sample=Confused Waves-57-42-K8MM.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=42 offset=603 end=857092 loop_mode=no_loop
+<region> sample=Confused Waves-57-85-9ROE.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=43 hivel=85 offset=581 loop_mode=no_loop
+<region> sample=Confused Waves-57-127-7QTX.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=86 hivel=127 offset=675 end=859431 loop_mode=no_loop
+<region> sample=Confused Waves-58-42-CBTC.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=42 offset=644 end=859392 loop_mode=no_loop
+<region> sample=Confused Waves-58-85-9LPX.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=43 hivel=85 offset=546 end=863379 loop_mode=no_loop
+<region> sample=Confused Waves-58-127-C512.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=86 hivel=127 offset=589 end=853760 loop_mode=no_loop
+<region> sample=Confused Waves-59-42-4D8B.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=42 offset=625 loop_mode=no_loop
+<region> sample=Confused Waves-59-85-D9GR.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=43 hivel=85 offset=626 end=860841 loop_mode=no_loop
+<region> sample=Confused Waves-59-127-IDSG.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=86 hivel=127 offset=742 end=853122 loop_mode=no_loop
+<region> sample=Confused Waves-60-42-HKTD.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=42 offset=572 end=856154 loop_mode=no_loop
+<region> sample=Confused Waves-60-85-PBUJ.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=43 hivel=85 offset=566 loop_mode=no_loop
+<region> sample=Confused Waves-60-127-NJJG.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=86 hivel=127 offset=635 end=849849 loop_mode=no_loop
+<region> sample=Confused Waves-61-42-I1TV.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=42 offset=561 end=857498 loop_mode=no_loop
+<region> sample=Confused Waves-61-85-Y32I.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=43 hivel=85 offset=617 end=859667 loop_mode=no_loop
+<region> sample=Confused Waves-61-127-9WH7.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=86 hivel=127 offset=609 loop_mode=no_loop
+<region> sample=Confused Waves-62-42-N7LJ.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=42 offset=692 loop_mode=no_loop
+<region> sample=Confused Waves-62-85-5TSP.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=43 hivel=85 offset=685 end=863629 loop_mode=no_loop
+<region> sample=Confused Waves-62-127-8AKG.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=86 hivel=127 offset=701 end=856064 loop_mode=no_loop
+<region> sample=Confused Waves-63-42-PI0D.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=42 offset=578 end=855475 loop_mode=no_loop
+<region> sample=Confused Waves-63-85-ZCTF.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=43 hivel=85 offset=553 loop_mode=no_loop
+<region> sample=Confused Waves-63-127-QKRG.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=86 hivel=127 offset=669 end=851658 loop_mode=no_loop
+<region> sample=Confused Waves-64-42-0JNL.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=42 offset=636 end=858008 loop_mode=no_loop
+<region> sample=Confused Waves-64-85-PIM3.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=43 hivel=85 offset=597 loop_mode=no_loop
+<region> sample=Confused Waves-64-127-1JIR.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=86 hivel=127 offset=625 end=853570 loop_mode=no_loop
+<region> sample=Confused Waves-65-42-JSHW.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=42 offset=671 end=855681 loop_mode=no_loop
+<region> sample=Confused Waves-65-85-S084.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=43 hivel=85 offset=661 end=859284 loop_mode=no_loop
+<region> sample=Confused Waves-65-127-LZD2.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=86 hivel=127 offset=509 end=855516 loop_mode=no_loop
+<region> sample=Confused Waves-66-42-YWIC.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=42 offset=627 loop_mode=no_loop
+<region> sample=Confused Waves-66-85-J3ZQ.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=43 hivel=85 offset=626 end=864128 loop_mode=no_loop
+<region> sample=Confused Waves-66-127-2YGY.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=86 hivel=127 offset=618 end=849591 loop_mode=no_loop
+<region> sample=Confused Waves-67-42-LIP2.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=42 offset=556 end=855940 loop_mode=no_loop
+<region> sample=Confused Waves-67-85-NWW8.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=43 hivel=85 offset=578 end=860560 loop_mode=no_loop
+<region> sample=Confused Waves-67-127-4VR5.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=86 hivel=127 offset=510 end=855808 loop_mode=no_loop
+<region> sample=Confused Waves-68-42-IPNM.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=42 offset=625 end=857059 loop_mode=no_loop
+<region> sample=Confused Waves-68-85-O1GM.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=43 hivel=85 offset=536 loop_mode=no_loop
+<region> sample=Confused Waves-68-127-ZGOG.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=86 hivel=127 offset=535 loop_mode=no_loop
+<region> sample=Confused Waves-69-42-UOSB.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=42 offset=585 loop_mode=no_loop
+<region> sample=Confused Waves-69-85-J6PU.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=43 hivel=85 offset=504 end=858882 loop_mode=no_loop
+<region> sample=Confused Waves-69-127-O8JD.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=86 hivel=127 offset=498 end=856795 loop_mode=no_loop
+<region> sample=Confused Waves-70-42-UJTE.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=42 offset=772 end=854275 loop_mode=no_loop
+<region> sample=Confused Waves-70-85-9MUJ.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=43 hivel=85 offset=595 loop_mode=no_loop
+<region> sample=Confused Waves-70-127-V98G.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=86 hivel=127 offset=682 end=854784 loop_mode=no_loop
+<region> sample=Confused Waves-71-42-5BQG.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=42 offset=690 end=860161 loop_mode=no_loop
+<region> sample=Confused Waves-71-85-PC3L.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=43 hivel=85 offset=591 end=859227 loop_mode=no_loop
+<region> sample=Confused Waves-71-127-IPO2.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=86 hivel=127 offset=696 loop_mode=no_loop
+<region> sample=Confused Waves-72-42-PC7Y.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=42 offset=798 end=854791 loop_mode=no_loop
+<region> sample=Confused Waves-72-85-LUKK.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=43 hivel=85 offset=605 loop_mode=no_loop
+<region> sample=Confused Waves-72-127-3QVS.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=86 hivel=127 offset=677 end=849701 loop_mode=no_loop
+<region> sample=Confused Waves-73-42-KW51.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=42 offset=630 end=858206 loop_mode=no_loop
+<region> sample=Confused Waves-73-85-IMS4.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=43 hivel=85 offset=453 end=856372 loop_mode=no_loop
+<region> sample=Confused Waves-73-127-S4Q7.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=86 hivel=127 offset=704 end=855680 loop_mode=no_loop
+<region> sample=Confused Waves-74-42-TFHL.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=42 offset=647 end=854411 loop_mode=no_loop
+<region> sample=Confused Waves-74-85-ZW19.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=43 hivel=85 offset=564 end=864128 loop_mode=no_loop
+<region> sample=Confused Waves-74-127-5EIO.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=86 hivel=127 offset=720 end=854046 loop_mode=no_loop
+<region> sample=Confused Waves-75-42-GS5R.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=42 offset=502 end=857734 loop_mode=no_loop
+<region> sample=Confused Waves-75-85-KBSC.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=43 hivel=85 offset=537 end=858752 loop_mode=no_loop
+<region> sample=Confused Waves-75-127-V2NG.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=86 hivel=127 offset=695 end=855296 loop_mode=no_loop
+<region> sample=Confused Waves-76-42-26Q9.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=42 offset=579 loop_mode=no_loop
+<region> sample=Confused Waves-76-85-8QLM.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=43 hivel=85 offset=492 end=862592 loop_mode=no_loop
+<region> sample=Confused Waves-76-127-1U56.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=86 hivel=127 offset=577 end=854062 loop_mode=no_loop
+<region> sample=Confused Waves-77-42-GC1I.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=42 offset=647 end=855170 loop_mode=no_loop
+<region> sample=Confused Waves-77-85-KDRH.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=43 hivel=85 offset=575 loop_mode=no_loop
+<region> sample=Confused Waves-77-127-M3DD.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=86 hivel=127 offset=640 end=852114 loop_mode=no_loop
+<region> sample=Confused Waves-78-42-LPEY.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=42 offset=696 end=857091 loop_mode=no_loop
+<region> sample=Confused Waves-78-85-6FGQ.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=43 hivel=85 offset=578 loop_mode=no_loop
+<region> sample=Confused Waves-78-127-M9ES.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=86 hivel=127 offset=594 end=854093 loop_mode=no_loop
+<region> sample=Confused Waves-79-42-P1U2.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=42 offset=710 loop_mode=no_loop
+<region> sample=Confused Waves-79-85-KGC3.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=43 hivel=85 offset=672 end=859264 loop_mode=no_loop
+<region> sample=Confused Waves-79-127-D0GX.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=86 hivel=127 offset=629 end=857344 loop_mode=no_loop
+<region> sample=Confused Waves-80-42-4LSZ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=42 offset=680 end=855431 loop_mode=no_loop
+<region> sample=Confused Waves-80-85-L4EI.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=43 hivel=85 offset=741 loop_mode=no_loop
+<region> sample=Confused Waves-80-127-L2H8.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=86 hivel=127 offset=560 end=855808 loop_mode=no_loop
+<region> sample=Confused Waves-81-42-IRGB.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=42 offset=569 end=858510 loop_mode=no_loop
+<region> sample=Confused Waves-81-85-2H8H.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=43 hivel=85 offset=714 end=859650 loop_mode=no_loop
+<region> sample=Confused Waves-81-127-CBS5.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=86 hivel=127 offset=626 end=856194 loop_mode=no_loop
+<region> sample=Confused Waves-82-42-RQ9A.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=42 offset=521 end=855968 loop_mode=no_loop
+<region> sample=Confused Waves-82-85-RE4U.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=43 hivel=85 offset=685 end=863759 loop_mode=no_loop
+<region> sample=Confused Waves-82-127-90EO.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=86 hivel=127 offset=642 end=852655 loop_mode=no_loop
+<region> sample=Confused Waves-83-42-C07X.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=42 offset=506 loop_mode=no_loop
+<region> sample=Confused Waves-83-85-14TV.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=43 hivel=85 offset=682 end=857734 loop_mode=no_loop
+<region> sample=Confused Waves-83-127-3ZKV.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=86 hivel=127 offset=706 end=853276 loop_mode=no_loop
+<region> sample=Confused Waves-84-42-JPMD.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=42 offset=534 end=857360 loop_mode=no_loop
+<region> sample=Confused Waves-84-85-U00O.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=43 hivel=85 offset=573 end=864654 loop_mode=no_loop
+<region> sample=Confused Waves-84-127-6Z8R.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=86 hivel=127 offset=547 end=853252 loop_mode=no_loop
+<region> sample=Confused Waves-85-42-D72F.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=42 offset=642 end=856464 loop_mode=no_loop
+<region> sample=Confused Waves-85-85-AL84.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=43 hivel=85 offset=572 end=857984 loop_mode=no_loop
+<region> sample=Confused Waves-85-127-Y9YO.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=86 hivel=127 offset=692 end=854272 loop_mode=no_loop
+<region> sample=Confused Waves-86-42-HGZ7.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=42 offset=585 end=854788 loop_mode=no_loop
+<region> sample=Confused Waves-86-85-VUFR.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=43 hivel=85 offset=652 end=864583 loop_mode=no_loop
+<region> sample=Confused Waves-86-127-CK9I.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=86 hivel=127 offset=556 end=852906 loop_mode=no_loop
+<region> sample=Confused Waves-87-42-WVWE.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=42 offset=591 end=857126 loop_mode=no_loop
+<region> sample=Confused Waves-87-85-Y1QG.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=43 hivel=85 offset=638 end=857777 loop_mode=no_loop
+<region> sample=Confused Waves-87-127-D6XQ.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=86 hivel=127 offset=553 loop_mode=no_loop
+<region> sample=Confused Waves-88-42-0K9G.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=42 offset=748 loop_mode=no_loop
+<region> sample=Confused Waves-88-85-5XO2.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=43 hivel=85 offset=637 end=865548 loop_mode=no_loop
+<region> sample=Confused Waves-88-127-BQQS.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=86 hivel=127 offset=594 end=857555 loop_mode=no_loop
+<region> sample=Confused Waves-89-42-OHTP.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=42 offset=703 end=856226 loop_mode=no_loop
+<region> sample=Confused Waves-89-85-0QX0.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=43 hivel=85 offset=678 end=857729 loop_mode=no_loop
+<region> sample=Confused Waves-89-127-ZX87.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=86 hivel=127 offset=636 end=855041 loop_mode=no_loop
+<region> sample=Confused Waves-90-42-VYS6.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=42 offset=596 loop_mode=no_loop
+<region> sample=Confused Waves-90-85-VV1V.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=43 hivel=85 offset=586 loop_mode=no_loop
+<region> sample=Confused Waves-90-127-RZKO.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=86 hivel=127 offset=691 end=853130 loop_mode=no_loop
+<region> sample=Confused Waves-91-42-HJ6L.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=42 offset=657 loop_mode=no_loop
+<region> sample=Confused Waves-91-85-EFD0.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=43 hivel=85 offset=641 end=859144 loop_mode=no_loop
+<region> sample=Confused Waves-91-127-WL09.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=86 hivel=127 offset=742 end=858037 loop_mode=no_loop
+<region> sample=Confused Waves-92-42-OR4Q.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=42 offset=604 loop_mode=no_loop
+<region> sample=Confused Waves-92-85-U1X5.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=43 hivel=85 offset=504 end=864512 loop_mode=no_loop
+<region> sample=Confused Waves-92-127-LNXH.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=86 hivel=127 offset=748 end=854278 loop_mode=no_loop
+<region> sample=Confused Waves-93-42-OWBP.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=42 offset=646 end=859278 loop_mode=no_loop
+<region> sample=Confused Waves-93-85-U04Y.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=43 hivel=85 offset=504 end=857216 loop_mode=no_loop
+<region> sample=Confused Waves-93-127-CSD1.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=86 hivel=127 offset=626 end=855458 loop_mode=no_loop
+<region> sample=Confused Waves-94-42-ROJO.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=42 offset=707 loop_mode=no_loop
+<region> sample=Confused Waves-94-85-BVTQ.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=43 hivel=85 offset=466 loop_mode=no_loop
+<region> sample=Confused Waves-94-127-FPX5.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=86 hivel=127 offset=616 loop_mode=no_loop
+<region> sample=Confused Waves-95-42-POJD.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=42 offset=619 end=857856 loop_mode=no_loop
+<region> sample=Confused Waves-95-85-7YR7.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=43 hivel=85 offset=560 loop_mode=no_loop
+<region> sample=Confused Waves-95-127-4U7R.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=86 hivel=127 offset=717 loop_mode=no_loop
+<region> sample=Confused Waves-96-42-1CXB.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=1 hivel=42 offset=615 loop_mode=no_loop
+<region> sample=Confused Waves-96-85-A6SS.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=43 hivel=85 offset=653 loop_mode=no_loop
+<region> sample=Confused Waves-96-127-QWRJ.wav key=96 lokey=96 hikey=125  amp_veltrack=30 lovel=86 hivel=127 offset=573 loop_mode=no_loop

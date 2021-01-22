@@ -1,0 +1,373 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FM Piano.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/ManyMultiBlip/
+
+<group>        // ManyMultiBlip
+<region> sample=kettle-24-21-7Y4T.wav key=24 lokey=1 hikey=24  amp_veltrack=30 lovel=1 hivel=21 offset=648 end=211010 loop_mode=no_loop
+<region> sample=kettle-24-42-QVYO.wav key=24 lokey=1 hikey=24  amp_veltrack=30 lovel=22 hivel=42 offset=707 end=210598 loop_mode=no_loop
+<region> sample=kettle-24-64-I8I2.wav key=24 lokey=1 hikey=24  amp_veltrack=30 lovel=43 hivel=64 offset=748 end=222051 loop_mode=no_loop
+<region> sample=kettle-24-85-TTDR.wav key=24 lokey=1 hikey=24  amp_veltrack=30 lovel=65 hivel=85 offset=655 end=208822 loop_mode=no_loop
+<region> sample=kettle-24-106-LRYP.wav key=24 lokey=1 hikey=24  amp_veltrack=30 lovel=86 hivel=106 offset=628 end=146042 loop_mode=no_loop
+<region> sample=kettle-24-127-CBHI.wav key=24 lokey=1 hikey=24  amp_veltrack=30 lovel=107 hivel=127 offset=692 end=212522 loop_mode=no_loop
+<region> sample=kettle-25-21-3743.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=1 hivel=21 offset=622 end=213258 loop_mode=no_loop
+<region> sample=kettle-25-42-25S6.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=22 hivel=42 offset=775 end=211911 loop_mode=no_loop
+<region> sample=kettle-25-64-9R5X.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=43 hivel=64 offset=751 end=223326 loop_mode=no_loop
+<region> sample=kettle-25-85-ZHU5.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=65 hivel=85 offset=794 end=210173 loop_mode=no_loop
+<region> sample=kettle-25-106-V0Y6.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=86 hivel=106 offset=668 end=145613 loop_mode=no_loop
+<region> sample=kettle-25-127-OV4O.wav key=25 lokey=25 hikey=25  amp_veltrack=30 lovel=107 hivel=127 offset=716 end=214016 loop_mode=no_loop
+<region> sample=kettle-26-21-EOLO.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=1 hivel=21 offset=738 end=212487 loop_mode=no_loop
+<region> sample=kettle-26-42-F2PJ.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=22 hivel=42 offset=711 end=211300 loop_mode=no_loop
+<region> sample=kettle-26-64-ZKMQ.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=43 hivel=64 offset=767 loop_mode=no_loop
+<region> sample=kettle-26-85-L2IS.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=65 hivel=85 offset=684 end=208488 loop_mode=no_loop
+<region> sample=kettle-26-106-0S4G.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=86 hivel=106 offset=819 end=149832 loop_mode=no_loop
+<region> sample=kettle-26-127-5283.wav key=26 lokey=26 hikey=26  amp_veltrack=30 lovel=107 hivel=127 offset=745 end=213595 loop_mode=no_loop
+<region> sample=kettle-27-21-BKG4.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=1 hivel=21 offset=820 end=213229 loop_mode=no_loop
+<region> sample=kettle-27-42-S2JJ.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=22 hivel=42 offset=674 end=208871 loop_mode=no_loop
+<region> sample=kettle-27-64-O64O.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=43 hivel=64 offset=639 end=224012 loop_mode=no_loop
+<region> sample=kettle-27-85-263Q.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=65 hivel=85 offset=645 end=208271 loop_mode=no_loop
+<region> sample=kettle-27-106-BU50.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=86 hivel=106 offset=684 end=146216 loop_mode=no_loop
+<region> sample=kettle-27-127-4SZS.wav key=27 lokey=27 hikey=27  amp_veltrack=30 lovel=107 hivel=127 offset=716 end=212867 loop_mode=no_loop
+<region> sample=kettle-28-21-8FEG.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=1 hivel=21 offset=686 end=212785 loop_mode=no_loop
+<region> sample=kettle-28-42-38FC.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=22 hivel=42 offset=734 end=210945 loop_mode=no_loop
+<region> sample=kettle-28-64-TYT3.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=43 hivel=64 offset=655 end=223056 loop_mode=no_loop
+<region> sample=kettle-28-85-VL2O.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=65 hivel=85 offset=727 end=208387 loop_mode=no_loop
+<region> sample=kettle-28-106-FEZX.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=86 hivel=106 offset=808 end=146645 loop_mode=no_loop
+<region> sample=kettle-28-127-9TCX.wav key=28 lokey=28 hikey=28  amp_veltrack=30 lovel=107 hivel=127 offset=672 end=213730 loop_mode=no_loop
+<region> sample=kettle-29-21-HIZX.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=1 hivel=21 offset=727 end=212210 loop_mode=no_loop
+<region> sample=kettle-29-42-MPNZ.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=22 hivel=42 offset=688 end=212761 loop_mode=no_loop
+<region> sample=kettle-29-64-H6OX.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=43 hivel=64 offset=754 end=223663 loop_mode=no_loop
+<region> sample=kettle-29-85-L083.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=65 hivel=85 offset=804 end=208985 loop_mode=no_loop
+<region> sample=kettle-29-106-HV31.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=86 hivel=106 offset=722 end=146027 loop_mode=no_loop
+<region> sample=kettle-29-127-V7H7.wav key=29 lokey=29 hikey=29  amp_veltrack=30 lovel=107 hivel=127 offset=679 end=212571 loop_mode=no_loop
+<region> sample=kettle-30-21-1PMD.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=1 hivel=21 offset=725 end=211612 loop_mode=no_loop
+<region> sample=kettle-30-42-5OW0.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=22 hivel=42 offset=725 end=211132 loop_mode=no_loop
+<region> sample=kettle-30-64-MD1S.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=43 hivel=64 offset=668 end=221840 loop_mode=no_loop
+<region> sample=kettle-30-85-FBFF.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=65 hivel=85 offset=681 end=207925 loop_mode=no_loop
+<region> sample=kettle-30-106-JS01.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=86 hivel=106 offset=632 end=144154 loop_mode=no_loop
+<region> sample=kettle-30-127-924C.wav key=30 lokey=30 hikey=30  amp_veltrack=30 lovel=107 hivel=127 offset=636 end=212738 loop_mode=no_loop
+<region> sample=kettle-31-21-20DU.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=1 hivel=21 offset=658 end=213259 loop_mode=no_loop
+<region> sample=kettle-31-42-99GO.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=22 hivel=42 offset=785 end=211016 loop_mode=no_loop
+<region> sample=kettle-31-64-6CZD.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=43 hivel=64 offset=645 end=222179 loop_mode=no_loop
+<region> sample=kettle-31-85-0JRX.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=65 hivel=85 offset=680 end=209825 loop_mode=no_loop
+<region> sample=kettle-31-106-PIHZ.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=86 hivel=106 offset=668 end=145893 loop_mode=no_loop
+<region> sample=kettle-31-127-J1PB.wav key=31 lokey=31 hikey=31  amp_veltrack=30 lovel=107 hivel=127 offset=704 loop_mode=no_loop
+<region> sample=kettle-32-21-BFID.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=1 hivel=21 offset=598 end=213287 loop_mode=no_loop
+<region> sample=kettle-32-42-T2BF.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=22 hivel=42 offset=864 end=210903 loop_mode=no_loop
+<region> sample=kettle-32-64-7TGH.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=43 hivel=64 offset=722 loop_mode=no_loop
+<region> sample=kettle-32-85-I5AH.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=65 hivel=85 offset=859 end=208815 loop_mode=no_loop
+<region> sample=kettle-32-106-Y7R0.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=86 hivel=106 offset=716 end=146013 loop_mode=no_loop
+<region> sample=kettle-32-127-4CRU.wav key=32 lokey=32 hikey=32  amp_veltrack=30 lovel=107 hivel=127 offset=667 end=213635 loop_mode=no_loop
+<region> sample=kettle-33-21-F7H1.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=1 hivel=21 offset=641 end=212572 loop_mode=no_loop
+<region> sample=kettle-33-42-RH7B.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=22 hivel=42 offset=760 end=211516 loop_mode=no_loop
+<region> sample=kettle-33-64-D2NW.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=43 hivel=64 offset=633 end=222217 loop_mode=no_loop
+<region> sample=kettle-33-85-6KA7.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=65 hivel=85 offset=727 end=208819 loop_mode=no_loop
+<region> sample=kettle-33-106-UZAV.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=86 hivel=106 offset=715 end=145544 loop_mode=no_loop
+<region> sample=kettle-33-127-CQ5D.wav key=33 lokey=33 hikey=33  amp_veltrack=30 lovel=107 hivel=127 offset=672 end=212964 loop_mode=no_loop
+<region> sample=kettle-34-21-FK55.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=1 hivel=21 offset=682 end=212438 loop_mode=no_loop
+<region> sample=kettle-34-42-QG6K.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=22 hivel=42 offset=705 end=211518 loop_mode=no_loop
+<region> sample=kettle-34-64-VCT4.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=43 hivel=64 offset=761 end=222602 loop_mode=no_loop
+<region> sample=kettle-34-85-7Y3K.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=65 hivel=85 offset=728 end=208898 loop_mode=no_loop
+<region> sample=kettle-34-106-VW56.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=86 hivel=106 offset=678 end=145450 loop_mode=no_loop
+<region> sample=kettle-34-127-XPB2.wav key=34 lokey=34 hikey=34  amp_veltrack=30 lovel=107 hivel=127 offset=656 end=213477 loop_mode=no_loop
+<region> sample=kettle-35-21-5CTP.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=1 hivel=21 offset=770 end=211840 loop_mode=no_loop
+<region> sample=kettle-35-42-T07N.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=22 hivel=42 offset=724 loop_mode=no_loop
+<region> sample=kettle-35-64-Y2XS.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=43 hivel=64 offset=659 end=223109 loop_mode=no_loop
+<region> sample=kettle-35-85-NIJK.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=65 hivel=85 offset=633 end=208176 loop_mode=no_loop
+<region> sample=kettle-35-106-5385.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=86 hivel=106 offset=645 end=145044 loop_mode=no_loop
+<region> sample=kettle-35-127-YHKM.wav key=35 lokey=35 hikey=35  amp_veltrack=30 lovel=107 hivel=127 offset=676 end=213258 loop_mode=no_loop
+<region> sample=kettle-36-21-7ZL9.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=1 hivel=21 offset=528 end=212381 loop_mode=no_loop
+<region> sample=kettle-36-42-G2N1.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=22 hivel=42 offset=657 end=210860 loop_mode=no_loop
+<region> sample=kettle-36-64-0E3L.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=43 hivel=64 offset=851 end=223107 loop_mode=no_loop
+<region> sample=kettle-36-85-YVE8.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=65 hivel=85 offset=696 end=208001 loop_mode=no_loop
+<region> sample=kettle-36-106-UFNH.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=86 hivel=106 offset=687 end=144024 loop_mode=no_loop
+<region> sample=kettle-36-127-V0Z2.wav key=36 lokey=36 hikey=36  amp_veltrack=30 lovel=107 hivel=127 offset=722 end=212739 loop_mode=no_loop
+<region> sample=kettle-37-21-6S74.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=1 hivel=21 offset=745 end=213348 loop_mode=no_loop
+<region> sample=kettle-37-42-QW2T.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=22 hivel=42 offset=670 end=208335 loop_mode=no_loop
+<region> sample=kettle-37-64-UWPA.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=43 hivel=64 offset=844 end=222217 loop_mode=no_loop
+<region> sample=kettle-37-85-ZCLL.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=65 hivel=85 offset=774 end=208814 loop_mode=no_loop
+<region> sample=kettle-37-106-C914.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=86 hivel=106 offset=691 loop_mode=no_loop
+<region> sample=kettle-37-127-0Q8S.wav key=37 lokey=37 hikey=37  amp_veltrack=30 lovel=107 hivel=127 offset=687 end=213112 loop_mode=no_loop
+<region> sample=kettle-38-21-FE4P.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=1 hivel=21 offset=775 loop_mode=no_loop
+<region> sample=kettle-38-42-PNK4.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=22 hivel=42 offset=692 end=210974 loop_mode=no_loop
+<region> sample=kettle-38-64-TKD4.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=43 hivel=64 offset=683 end=222872 loop_mode=no_loop
+<region> sample=kettle-38-85-PPHG.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=65 hivel=85 offset=674 end=208703 loop_mode=no_loop
+<region> sample=kettle-38-106-QOYZ.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=86 hivel=106 offset=723 end=145557 loop_mode=no_loop
+<region> sample=kettle-38-127-1KOX.wav key=38 lokey=38 hikey=38  amp_veltrack=30 lovel=107 hivel=127 offset=648 end=213447 loop_mode=no_loop
+<region> sample=kettle-39-21-P20V.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=1 hivel=21 offset=643 end=213007 loop_mode=no_loop
+<region> sample=kettle-39-42-QV9E.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=22 hivel=42 offset=649 end=210063 loop_mode=no_loop
+<region> sample=kettle-39-64-EPJI.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=43 hivel=64 offset=540 end=222519 loop_mode=no_loop
+<region> sample=kettle-39-85-SI1I.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=65 hivel=85 offset=771 end=208575 loop_mode=no_loop
+<region> sample=kettle-39-106-2UQY.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=86 hivel=106 offset=698 end=144457 loop_mode=no_loop
+<region> sample=kettle-39-127-8AN0.wav key=39 lokey=39 hikey=39  amp_veltrack=30 lovel=107 hivel=127 offset=693 end=212480 loop_mode=no_loop
+<region> sample=kettle-40-21-WSNN.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=1 hivel=21 offset=640 end=213248 loop_mode=no_loop
+<region> sample=kettle-40-42-T2J3.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=22 hivel=42 offset=648 end=210849 loop_mode=no_loop
+<region> sample=kettle-40-64-4O0G.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=43 hivel=64 offset=780 end=222848 loop_mode=no_loop
+<region> sample=kettle-40-85-VTCB.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=65 hivel=85 offset=732 end=208022 loop_mode=no_loop
+<region> sample=kettle-40-106-O9I7.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=86 hivel=106 offset=686 end=144572 loop_mode=no_loop
+<region> sample=kettle-40-127-H665.wav key=40 lokey=40 hikey=40  amp_veltrack=30 lovel=107 hivel=127 offset=633 end=213403 loop_mode=no_loop
+<region> sample=kettle-41-21-PNXS.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=1 hivel=21 offset=635 end=213105 loop_mode=no_loop
+<region> sample=kettle-41-42-ZLV5.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=22 hivel=42 offset=767 end=210304 loop_mode=no_loop
+<region> sample=kettle-41-64-C23Y.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=43 hivel=64 offset=674 end=222252 loop_mode=no_loop
+<region> sample=kettle-41-85-O6XK.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=65 hivel=85 offset=677 end=208213 loop_mode=no_loop
+<region> sample=kettle-41-106-TVYF.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=86 hivel=106 offset=687 end=144901 loop_mode=no_loop
+<region> sample=kettle-41-127-C81Y.wav key=41 lokey=41 hikey=41  amp_veltrack=30 lovel=107 hivel=127 offset=633 end=213335 loop_mode=no_loop
+<region> sample=kettle-42-21-IC3W.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=1 hivel=21 offset=600 end=211418 loop_mode=no_loop
+<region> sample=kettle-42-42-DTDI.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=22 hivel=42 offset=662 end=213126 loop_mode=no_loop
+<region> sample=kettle-42-64-HQM6.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=43 hivel=64 offset=690 end=222362 loop_mode=no_loop
+<region> sample=kettle-42-85-MMIE.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=65 hivel=85 offset=863 end=208405 loop_mode=no_loop
+<region> sample=kettle-42-106-WGO4.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=86 hivel=106 offset=704 loop_mode=no_loop
+<region> sample=kettle-42-127-ITUF.wav key=42 lokey=42 hikey=42  amp_veltrack=30 lovel=107 hivel=127 offset=730 end=212900 loop_mode=no_loop
+<region> sample=kettle-43-21-MC6V.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=1 hivel=21 offset=701 end=211539 loop_mode=no_loop
+<region> sample=kettle-43-42-ASTF.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=22 hivel=42 offset=593 end=211988 loop_mode=no_loop
+<region> sample=kettle-43-64-YDG5.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=43 hivel=64 offset=857 loop_mode=no_loop
+<region> sample=kettle-43-85-FW2C.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=65 hivel=85 offset=778 end=207812 loop_mode=no_loop
+<region> sample=kettle-43-106-PQZ9.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=86 hivel=106 offset=796 end=145299 loop_mode=no_loop
+<region> sample=kettle-43-127-O9SS.wav key=43 lokey=43 hikey=43  amp_veltrack=30 lovel=107 hivel=127 offset=791 end=212452 loop_mode=no_loop
+<region> sample=kettle-44-21-GJM0.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=1 hivel=21 offset=670 loop_mode=no_loop
+<region> sample=kettle-44-42-J32N.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=22 hivel=42 offset=744 end=210960 loop_mode=no_loop
+<region> sample=kettle-44-64-7TWD.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=43 hivel=64 offset=679 end=222253 loop_mode=no_loop
+<region> sample=kettle-44-85-L294.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=65 hivel=85 offset=697 loop_mode=no_loop
+<region> sample=kettle-44-106-X3G9.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=86 hivel=106 offset=697 end=145152 loop_mode=no_loop
+<region> sample=kettle-44-127-GI1E.wav key=44 lokey=44 hikey=44  amp_veltrack=30 lovel=107 hivel=127 offset=641 end=213790 loop_mode=no_loop
+<region> sample=kettle-45-21-QLL1.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=1 hivel=21 offset=614 end=211727 loop_mode=no_loop
+<region> sample=kettle-45-42-I74P.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=22 hivel=42 offset=666 end=211791 loop_mode=no_loop
+<region> sample=kettle-45-64-XHOL.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=43 hivel=64 offset=702 end=223257 loop_mode=no_loop
+<region> sample=kettle-45-85-YNV3.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=65 hivel=85 offset=661 end=207689 loop_mode=no_loop
+<region> sample=kettle-45-106-F53X.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=86 hivel=106 offset=832 loop_mode=no_loop
+<region> sample=kettle-45-127-XF0F.wav key=45 lokey=45 hikey=45  amp_veltrack=30 lovel=107 hivel=127 offset=668 end=213378 loop_mode=no_loop
+<region> sample=kettle-46-21-7VC5.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=1 hivel=21 offset=700 end=212778 loop_mode=no_loop
+<region> sample=kettle-46-42-HDNN.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=22 hivel=42 offset=693 end=210636 loop_mode=no_loop
+<region> sample=kettle-46-64-VYHT.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=43 hivel=64 offset=774 loop_mode=no_loop
+<region> sample=kettle-46-85-XNIP.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=65 hivel=85 offset=813 end=209001 loop_mode=no_loop
+<region> sample=kettle-46-106-0UP8.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=86 hivel=106 offset=679 end=144770 loop_mode=no_loop
+<region> sample=kettle-46-127-7AGY.wav key=46 lokey=46 hikey=46  amp_veltrack=30 lovel=107 hivel=127 offset=683 end=212640 loop_mode=no_loop
+<region> sample=kettle-47-21-LKZD.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=1 hivel=21 offset=668 end=211907 loop_mode=no_loop
+<region> sample=kettle-47-42-OZ7V.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=22 hivel=42 offset=632 end=210631 loop_mode=no_loop
+<region> sample=kettle-47-64-R7YD.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=43 hivel=64 offset=795 end=222555 loop_mode=no_loop
+<region> sample=kettle-47-85-NSA1.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=65 hivel=85 offset=671 end=208714 loop_mode=no_loop
+<region> sample=kettle-47-106-RZUH.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=86 hivel=106 offset=685 loop_mode=no_loop
+<region> sample=kettle-47-127-2XTJ.wav key=47 lokey=47 hikey=47  amp_veltrack=30 lovel=107 hivel=127 offset=717 end=213137 loop_mode=no_loop
+<region> sample=kettle-48-21-OZFA.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=1 hivel=21 offset=802 end=213300 loop_mode=no_loop
+<region> sample=kettle-48-42-7J6M.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=22 hivel=42 offset=706 end=210502 loop_mode=no_loop
+<region> sample=kettle-48-64-GJA5.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=43 hivel=64 offset=562 loop_mode=no_loop
+<region> sample=kettle-48-85-I710.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=65 hivel=85 offset=722 end=208260 loop_mode=no_loop
+<region> sample=kettle-48-106-QYX3.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=86 hivel=106 offset=804 end=144910 loop_mode=no_loop
+<region> sample=kettle-48-127-PPDJ.wav key=48 lokey=48 hikey=48  amp_veltrack=30 lovel=107 hivel=127 offset=634 end=212381 loop_mode=no_loop
+<region> sample=kettle-49-21-M4AX.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=1 hivel=21 offset=700 end=212292 loop_mode=no_loop
+<region> sample=kettle-49-42-D9Z7.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=22 hivel=42 offset=782 end=211387 loop_mode=no_loop
+<region> sample=kettle-49-64-AOJH.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=43 hivel=64 offset=790 end=222668 loop_mode=no_loop
+<region> sample=kettle-49-85-88YH.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=65 hivel=85 offset=722 end=209298 loop_mode=no_loop
+<region> sample=kettle-49-106-P1XX.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=86 hivel=106 offset=710 loop_mode=no_loop
+<region> sample=kettle-49-127-MGTY.wav key=49 lokey=49 hikey=49  amp_veltrack=30 lovel=107 hivel=127 offset=627 end=212113 loop_mode=no_loop
+<region> sample=kettle-50-21-GS4G.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=1 hivel=21 offset=724 end=212409 loop_mode=no_loop
+<region> sample=kettle-50-42-3MZ3.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=22 hivel=42 offset=666 end=211515 loop_mode=no_loop
+<region> sample=kettle-50-64-ZICP.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=43 hivel=64 offset=608 end=223044 loop_mode=no_loop
+<region> sample=kettle-50-85-XEMH.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=65 hivel=85 offset=690 end=208003 loop_mode=no_loop
+<region> sample=kettle-50-106-4FZF.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=86 hivel=106 offset=759 end=144060 loop_mode=no_loop
+<region> sample=kettle-50-127-MFHS.wav key=50 lokey=50 hikey=50  amp_veltrack=30 lovel=107 hivel=127 offset=709 end=213159 loop_mode=no_loop
+<region> sample=kettle-51-21-V26I.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=1 hivel=21 offset=669 end=211801 loop_mode=no_loop
+<region> sample=kettle-51-42-A8ZJ.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=22 hivel=42 offset=667 end=210584 loop_mode=no_loop
+<region> sample=kettle-51-64-XSLD.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=43 hivel=64 offset=870 end=223906 loop_mode=no_loop
+<region> sample=kettle-51-85-XS6P.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=65 hivel=85 offset=677 end=208143 loop_mode=no_loop
+<region> sample=kettle-51-106-9I4R.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=86 hivel=106 offset=684 end=143747 loop_mode=no_loop
+<region> sample=kettle-51-127-A2NB.wav key=51 lokey=51 hikey=51  amp_veltrack=30 lovel=107 hivel=127 offset=848 end=213288 loop_mode=no_loop
+<region> sample=kettle-52-21-0856.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=1 hivel=21 offset=762 end=213813 loop_mode=no_loop
+<region> sample=kettle-52-42-I03M.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=22 hivel=42 offset=715 end=211474 loop_mode=no_loop
+<region> sample=kettle-52-64-2OOK.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=43 hivel=64 offset=669 end=222345 loop_mode=no_loop
+<region> sample=kettle-52-85-9EB8.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=65 hivel=85 offset=687 end=207772 loop_mode=no_loop
+<region> sample=kettle-52-106-RAO2.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=86 hivel=106 offset=672 end=144045 loop_mode=no_loop
+<region> sample=kettle-52-127-1CJV.wav key=52 lokey=52 hikey=52  amp_veltrack=30 lovel=107 hivel=127 offset=617 end=212410 loop_mode=no_loop
+<region> sample=kettle-53-21-F5E3.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=1 hivel=21 offset=701 end=212866 loop_mode=no_loop
+<region> sample=kettle-53-42-2XEN.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=22 hivel=42 offset=837 end=212011 loop_mode=no_loop
+<region> sample=kettle-53-64-9W0D.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=43 hivel=64 offset=649 end=223105 loop_mode=no_loop
+<region> sample=kettle-53-85-3M54.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=65 hivel=85 offset=701 end=207865 loop_mode=no_loop
+<region> sample=kettle-53-106-ITZ9.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=86 hivel=106 offset=825 end=144953 loop_mode=no_loop
+<region> sample=kettle-53-127-6X0S.wav key=53 lokey=53 hikey=53  amp_veltrack=30 lovel=107 hivel=127 offset=649 end=212294 loop_mode=no_loop
+<region> sample=kettle-54-21-JURM.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=1 hivel=21 offset=691 loop_mode=no_loop
+<region> sample=kettle-54-42-K3NZ.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=22 hivel=42 offset=793 end=210205 loop_mode=no_loop
+<region> sample=kettle-54-64-F1WA.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=43 hivel=64 offset=685 end=222601 loop_mode=no_loop
+<region> sample=kettle-54-85-C82X.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=65 hivel=85 offset=780 end=208258 loop_mode=no_loop
+<region> sample=kettle-54-106-68NL.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=86 hivel=106 offset=725 loop_mode=no_loop
+<region> sample=kettle-54-127-64ZK.wav key=54 lokey=54 hikey=54  amp_veltrack=30 lovel=107 hivel=127 offset=661 end=214026 loop_mode=no_loop
+<region> sample=kettle-55-21-J5L9.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=1 hivel=21 offset=700 end=212113 loop_mode=no_loop
+<region> sample=kettle-55-42-P9ER.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=22 hivel=42 offset=805 end=210735 loop_mode=no_loop
+<region> sample=kettle-55-64-J876.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=43 hivel=64 offset=672 end=222722 loop_mode=no_loop
+<region> sample=kettle-55-85-S8WX.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=65 hivel=85 offset=679 end=208173 loop_mode=no_loop
+<region> sample=kettle-55-106-IVDR.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=86 hivel=106 offset=653 loop_mode=no_loop
+<region> sample=kettle-55-127-2ZUD.wav key=55 lokey=55 hikey=55  amp_veltrack=30 lovel=107 hivel=127 offset=679 end=212608 loop_mode=no_loop
+<region> sample=kettle-56-21-V6YI.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=1 hivel=21 offset=671 end=213181 loop_mode=no_loop
+<region> sample=kettle-56-42-4HFS.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=22 hivel=42 offset=661 end=210944 loop_mode=no_loop
+<region> sample=kettle-56-64-57GI.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=43 hivel=64 offset=723 end=222689 loop_mode=no_loop
+<region> sample=kettle-56-85-J3X6.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=65 hivel=85 offset=695 end=208129 loop_mode=no_loop
+<region> sample=kettle-56-106-Q3S1.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=86 hivel=106 offset=860 loop_mode=no_loop
+<region> sample=kettle-56-127-405J.wav key=56 lokey=56 hikey=56  amp_veltrack=30 lovel=107 hivel=127 offset=734 loop_mode=no_loop
+<region> sample=kettle-57-21-PHU2.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=1 hivel=21 offset=652 end=212148 loop_mode=no_loop
+<region> sample=kettle-57-42-T72L.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=22 hivel=42 offset=664 end=212129 loop_mode=no_loop
+<region> sample=kettle-57-64-OOY4.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=43 hivel=64 offset=651 end=222125 loop_mode=no_loop
+<region> sample=kettle-57-85-END6.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=65 hivel=85 offset=663 end=208148 loop_mode=no_loop
+<region> sample=kettle-57-106-QXO9.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=86 hivel=106 offset=669 end=146572 loop_mode=no_loop
+<region> sample=kettle-57-127-5LM9.wav key=57 lokey=57 hikey=57  amp_veltrack=30 lovel=107 hivel=127 offset=644 end=212736 loop_mode=no_loop
+<region> sample=kettle-58-21-OJWZ.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=1 hivel=21 offset=824 end=212539 loop_mode=no_loop
+<region> sample=kettle-58-42-EGCG.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=22 hivel=42 offset=582 end=210764 loop_mode=no_loop
+<region> sample=kettle-58-64-2J36.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=43 hivel=64 offset=683 end=223537 loop_mode=no_loop
+<region> sample=kettle-58-85-P5V4.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=65 hivel=85 offset=583 end=207750 loop_mode=no_loop
+<region> sample=kettle-58-106-IVI0.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=86 hivel=106 offset=812 loop_mode=no_loop
+<region> sample=kettle-58-127-DA4F.wav key=58 lokey=58 hikey=58  amp_veltrack=30 lovel=107 hivel=127 offset=636 end=213003 loop_mode=no_loop
+<region> sample=kettle-59-21-Y52U.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=1 hivel=21 offset=705 end=211975 loop_mode=no_loop
+<region> sample=kettle-59-42-2CPN.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=22 hivel=42 offset=716 end=211242 loop_mode=no_loop
+<region> sample=kettle-59-64-VSH4.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=43 hivel=64 offset=641 end=222745 loop_mode=no_loop
+<region> sample=kettle-59-85-HKLB.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=65 hivel=85 offset=755 end=208396 loop_mode=no_loop
+<region> sample=kettle-59-106-S7N5.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=86 hivel=106 offset=750 loop_mode=no_loop
+<region> sample=kettle-59-127-RYEH.wav key=59 lokey=59 hikey=59  amp_veltrack=30 lovel=107 hivel=127 offset=649 loop_mode=no_loop
+<region> sample=kettle-60-21-6GW2.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=1 hivel=21 offset=736 end=212608 loop_mode=no_loop
+<region> sample=kettle-60-42-H748.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=22 hivel=42 offset=719 loop_mode=no_loop
+<region> sample=kettle-60-64-9Y56.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=43 hivel=64 offset=587 end=222083 loop_mode=no_loop
+<region> sample=kettle-60-85-OBCK.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=65 hivel=85 offset=631 end=207488 loop_mode=no_loop
+<region> sample=kettle-60-106-P6M5.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=86 hivel=106 offset=554 end=143872 loop_mode=no_loop
+<region> sample=kettle-60-127-1U5L.wav key=60 lokey=60 hikey=60  amp_veltrack=30 lovel=107 hivel=127 offset=636 end=213275 loop_mode=no_loop
+<region> sample=kettle-61-21-0VAY.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=21 offset=614 end=213134 loop_mode=no_loop
+<region> sample=kettle-61-42-4VE1.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=22 hivel=42 offset=685 end=210862 loop_mode=no_loop
+<region> sample=kettle-61-64-B4OC.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=43 hivel=64 offset=696 end=222733 loop_mode=no_loop
+<region> sample=kettle-61-85-ZYKW.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=65 hivel=85 offset=737 end=208006 loop_mode=no_loop
+<region> sample=kettle-61-106-1D3D.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=86 hivel=106 offset=593 loop_mode=no_loop
+<region> sample=kettle-61-127-01C9.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=107 hivel=127 offset=740 end=212736 loop_mode=no_loop
+<region> sample=kettle-62-21-QXMK.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=21 offset=701 end=211848 loop_mode=no_loop
+<region> sample=kettle-62-42-FIQX.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=22 hivel=42 offset=730 end=210564 loop_mode=no_loop
+<region> sample=kettle-62-64-E2LB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=43 hivel=64 offset=556 end=222376 loop_mode=no_loop
+<region> sample=kettle-62-85-JW7C.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=65 hivel=85 offset=697 end=208075 loop_mode=no_loop
+<region> sample=kettle-62-106-OVKW.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=86 hivel=106 offset=659 loop_mode=no_loop
+<region> sample=kettle-62-127-VULX.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=107 hivel=127 offset=686 loop_mode=no_loop
+<region> sample=kettle-63-21-RKRZ.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=21 offset=713 end=212019 loop_mode=no_loop
+<region> sample=kettle-63-42-QY3C.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=22 hivel=42 offset=764 end=211097 loop_mode=no_loop
+<region> sample=kettle-63-64-3JBD.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=43 hivel=64 offset=630 end=222336 loop_mode=no_loop
+<region> sample=kettle-63-85-VED4.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=65 hivel=85 offset=723 end=207616 loop_mode=no_loop
+<region> sample=kettle-63-106-574D.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=86 hivel=106 offset=653 end=143373 loop_mode=no_loop
+<region> sample=kettle-63-127-D7X0.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=107 hivel=127 offset=689 end=213277 loop_mode=no_loop
+<region> sample=kettle-64-21-QU2G.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=21 offset=681 loop_mode=no_loop
+<region> sample=kettle-64-42-MNQE.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=22 hivel=42 offset=758 end=211240 loop_mode=no_loop
+<region> sample=kettle-64-64-TDO4.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=43 hivel=64 offset=655 end=222234 loop_mode=no_loop
+<region> sample=kettle-64-85-1CDF.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=65 hivel=85 offset=667 end=207617 loop_mode=no_loop
+<region> sample=kettle-64-106-GFBV.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=86 hivel=106 offset=718 end=144897 loop_mode=no_loop
+<region> sample=kettle-64-127-9NWB.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=107 hivel=127 offset=770 end=213400 loop_mode=no_loop
+<region> sample=kettle-65-21-BTKP.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=21 offset=733 end=212358 loop_mode=no_loop
+<region> sample=kettle-65-42-YV9K.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=22 hivel=42 offset=776 end=210515 loop_mode=no_loop
+<region> sample=kettle-65-64-4BPX.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=43 hivel=64 offset=646 end=222081 loop_mode=no_loop
+<region> sample=kettle-65-85-Q221.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=65 hivel=85 offset=810 end=207841 loop_mode=no_loop
+<region> sample=kettle-65-106-PXKY.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=86 hivel=106 offset=797 end=143360 loop_mode=no_loop
+<region> sample=kettle-65-127-3FKH.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=107 hivel=127 offset=612 end=213134 loop_mode=no_loop
+<region> sample=kettle-66-21-KPOD.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=21 offset=838 end=211840 loop_mode=no_loop
+<region> sample=kettle-66-42-NA86.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=22 hivel=42 offset=577 end=210065 loop_mode=no_loop
+<region> sample=kettle-66-64-6SRW.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=43 hivel=64 offset=611 end=222090 loop_mode=no_loop
+<region> sample=kettle-66-85-5XZF.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=65 hivel=85 offset=806 end=207684 loop_mode=no_loop
+<region> sample=kettle-66-106-937O.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=86 hivel=106 offset=617 end=143105 loop_mode=no_loop
+<region> sample=kettle-66-127-QPAP.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=107 hivel=127 offset=750 end=212883 loop_mode=no_loop
+<region> sample=kettle-67-21-S3GA.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=21 offset=873 end=214288 loop_mode=no_loop
+<region> sample=kettle-67-42-SOS2.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=22 hivel=42 offset=699 end=211615 loop_mode=no_loop
+<region> sample=kettle-67-64-I9RE.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=43 hivel=64 offset=749 end=222211 loop_mode=no_loop
+<region> sample=kettle-67-85-NXIV.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=65 hivel=85 offset=622 end=208022 loop_mode=no_loop
+<region> sample=kettle-67-106-KTOE.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=86 hivel=106 offset=632 end=143001 loop_mode=no_loop
+<region> sample=kettle-67-127-0DIG.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=107 hivel=127 offset=726 loop_mode=no_loop
+<region> sample=kettle-68-21-82I0.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=21 offset=628 end=213018 loop_mode=no_loop
+<region> sample=kettle-68-42-B39I.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=22 hivel=42 offset=788 end=211367 loop_mode=no_loop
+<region> sample=kettle-68-64-3QEF.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=43 hivel=64 offset=712 loop_mode=no_loop
+<region> sample=kettle-68-85-18S8.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=65 hivel=85 offset=731 end=207788 loop_mode=no_loop
+<region> sample=kettle-68-106-TAVB.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=86 hivel=106 offset=746 end=148096 loop_mode=no_loop
+<region> sample=kettle-68-127-WS1P.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=107 hivel=127 offset=742 end=213123 loop_mode=no_loop
+<region> sample=kettle-69-21-U8X6.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=21 offset=722 end=212498 loop_mode=no_loop
+<region> sample=kettle-69-42-E35R.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=22 hivel=42 offset=728 end=210587 loop_mode=no_loop
+<region> sample=kettle-69-64-LSJ5.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=43 hivel=64 offset=650 end=222633 loop_mode=no_loop
+<region> sample=kettle-69-85-G9HC.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=65 hivel=85 offset=744 loop_mode=no_loop
+<region> sample=kettle-69-106-I8JJ.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=86 hivel=106 offset=1072 end=144812 loop_mode=no_loop
+<region> sample=kettle-69-127-FU3J.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=107 hivel=127 offset=846 end=213183 loop_mode=no_loop
+<region> sample=kettle-70-21-1Y6Y.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=21 offset=631 end=211613 loop_mode=no_loop
+<region> sample=kettle-70-42-SWAN.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=22 hivel=42 offset=735 end=210621 loop_mode=no_loop
+<region> sample=kettle-70-64-WJUZ.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=43 hivel=64 offset=610 end=221845 loop_mode=no_loop
+<region> sample=kettle-70-85-LG9J.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=65 hivel=85 offset=759 end=207897 loop_mode=no_loop
+<region> sample=kettle-70-106-G2R6.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=86 hivel=106 offset=779 end=142479 loop_mode=no_loop
+<region> sample=kettle-70-127-5KBE.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=107 hivel=127 offset=683 end=211737 loop_mode=no_loop
+<region> sample=kettle-71-21-9SEV.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=21 offset=819 end=211996 loop_mode=no_loop
+<region> sample=kettle-71-42-QJS2.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=22 hivel=42 offset=583 end=210834 loop_mode=no_loop
+<region> sample=kettle-71-64-OB3T.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=43 hivel=64 offset=793 end=222470 loop_mode=no_loop
+<region> sample=kettle-71-85-ESHS.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=65 hivel=85 offset=778 end=208047 loop_mode=no_loop
+<region> sample=kettle-71-106-1PIC.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=86 hivel=106 offset=728 loop_mode=no_loop
+<region> sample=kettle-71-127-V0QL.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=107 hivel=127 offset=697 end=213262 loop_mode=no_loop
+<region> sample=kettle-72-21-S7I3.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=21 offset=669 loop_mode=no_loop
+<region> sample=kettle-72-42-4NUZ.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=22 hivel=42 offset=704 end=211352 loop_mode=no_loop
+<region> sample=kettle-72-64-7MP5.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=43 hivel=64 offset=765 end=223629 loop_mode=no_loop
+<region> sample=kettle-72-85-6PJE.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=65 hivel=85 offset=734 end=208425 loop_mode=no_loop
+<region> sample=kettle-72-106-991R.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=86 hivel=106 offset=595 end=144256 loop_mode=no_loop
+<region> sample=kettle-72-127-NZTJ.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=107 hivel=127 offset=746 end=212481 loop_mode=no_loop
+<region> sample=kettle-73-21-729G.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=21 offset=718 end=211860 loop_mode=no_loop
+<region> sample=kettle-73-42-YOLD.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=22 hivel=42 offset=588 end=211203 loop_mode=no_loop
+<region> sample=kettle-73-64-67NO.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=43 hivel=64 offset=608 end=222373 loop_mode=no_loop
+<region> sample=kettle-73-85-JYJ7.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=65 hivel=85 offset=744 end=207775 loop_mode=no_loop
+<region> sample=kettle-73-106-VB4G.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=86 hivel=106 offset=711 loop_mode=no_loop
+<region> sample=kettle-73-127-LOD1.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=107 hivel=127 offset=557 end=212366 loop_mode=no_loop
+<region> sample=kettle-74-21-P38K.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=21 offset=662 end=212505 loop_mode=no_loop
+<region> sample=kettle-74-42-X6YH.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=22 hivel=42 offset=648 end=211712 loop_mode=no_loop
+<region> sample=kettle-74-64-VQ3H.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=43 hivel=64 offset=769 end=222513 loop_mode=no_loop
+<region> sample=kettle-74-85-QNGT.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=65 hivel=85 offset=770 loop_mode=no_loop
+<region> sample=kettle-74-106-SNZ6.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=86 hivel=106 offset=750 loop_mode=no_loop
+<region> sample=kettle-74-127-7MR6.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=107 hivel=127 offset=581 end=211467 loop_mode=no_loop
+<region> sample=kettle-75-21-UMYO.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=21 offset=696 end=211863 loop_mode=no_loop
+<region> sample=kettle-75-42-IWMY.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=22 hivel=42 offset=746 end=210707 loop_mode=no_loop
+<region> sample=kettle-75-64-QW84.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=43 hivel=64 offset=761 end=221961 loop_mode=no_loop
+<region> sample=kettle-75-85-IE3G.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=65 hivel=85 offset=815 end=207747 loop_mode=no_loop
+<region> sample=kettle-75-106-HYDN.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=86 hivel=106 offset=611 end=144384 loop_mode=no_loop
+<region> sample=kettle-75-127-3RWN.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=107 hivel=127 offset=701 end=212876 loop_mode=no_loop
+<region> sample=kettle-76-21-GQC5.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=21 offset=721 end=212499 loop_mode=no_loop
+<region> sample=kettle-76-42-O451.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=22 hivel=42 offset=636 end=210691 loop_mode=no_loop
+<region> sample=kettle-76-64-H448.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=43 hivel=64 offset=570 end=222593 loop_mode=no_loop
+<region> sample=kettle-76-85-KFEJ.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=65 hivel=85 offset=805 end=207908 loop_mode=no_loop
+<region> sample=kettle-76-106-CHME.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=86 hivel=106 offset=742 loop_mode=no_loop
+<region> sample=kettle-76-127-WJGA.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=107 hivel=127 offset=723 end=213014 loop_mode=no_loop
+<region> sample=kettle-77-21-M2GY.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=21 offset=753 loop_mode=no_loop
+<region> sample=kettle-77-42-4LTL.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=22 hivel=42 offset=808 end=211472 loop_mode=no_loop
+<region> sample=kettle-77-64-7IJL.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=43 hivel=64 offset=796 end=222604 loop_mode=no_loop
+<region> sample=kettle-77-85-HEIX.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=65 hivel=85 offset=700 end=208161 loop_mode=no_loop
+<region> sample=kettle-77-106-VHTJ.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=86 hivel=106 offset=625 loop_mode=no_loop
+<region> sample=kettle-77-127-MVQ5.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=107 hivel=127 offset=674 end=212248 loop_mode=no_loop
+<region> sample=kettle-78-21-P1Y0.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=21 offset=822 end=212510 loop_mode=no_loop
+<region> sample=kettle-78-42-1MCG.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=22 hivel=42 offset=763 end=210590 loop_mode=no_loop
+<region> sample=kettle-78-64-BTI2.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=43 hivel=64 offset=690 end=223746 loop_mode=no_loop
+<region> sample=kettle-78-85-ZU3M.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=65 hivel=85 offset=826 end=208807 loop_mode=no_loop
+<region> sample=kettle-78-106-68HO.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=86 hivel=106 offset=699 end=141737 loop_mode=no_loop
+<region> sample=kettle-78-127-N036.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=107 hivel=127 offset=656 end=211728 loop_mode=no_loop
+<region> sample=kettle-79-21-N220.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=21 offset=793 end=212482 loop_mode=no_loop
+<region> sample=kettle-79-42-827Z.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=22 hivel=42 offset=696 loop_mode=no_loop
+<region> sample=kettle-79-64-IE4C.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=43 hivel=64 offset=649 loop_mode=no_loop
+<region> sample=kettle-79-85-5GUG.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=65 hivel=85 offset=696 end=208794 loop_mode=no_loop
+<region> sample=kettle-79-106-N0DV.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=86 hivel=106 offset=725 loop_mode=no_loop
+<region> sample=kettle-79-127-S0OH.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=107 hivel=127 offset=785 end=211712 loop_mode=no_loop
+<region> sample=kettle-80-21-ZQFR.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=21 offset=591 end=211866 loop_mode=no_loop
+<region> sample=kettle-80-42-250E.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=22 hivel=42 offset=627 end=212352 loop_mode=no_loop
+<region> sample=kettle-80-64-C139.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=43 hivel=64 offset=786 end=222208 loop_mode=no_loop
+<region> sample=kettle-80-85-4UPD.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=65 hivel=85 offset=721 end=208296 loop_mode=no_loop
+<region> sample=kettle-80-106-9JOF.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=86 hivel=106 offset=722 loop_mode=no_loop
+<region> sample=kettle-80-127-U6AU.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=107 hivel=127 offset=772 end=212519 loop_mode=no_loop
+<region> sample=kettle-81-21-7CXX.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=21 offset=772 end=213337 loop_mode=no_loop
+<region> sample=kettle-81-42-K91A.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=22 hivel=42 offset=741 end=211970 loop_mode=no_loop
+<region> sample=kettle-81-64-H43T.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=43 hivel=64 offset=722 loop_mode=no_loop
+<region> sample=kettle-81-85-Q8YZ.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=65 hivel=85 offset=779 end=208640 loop_mode=no_loop
+<region> sample=kettle-81-106-QXRX.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=86 hivel=106 offset=586 end=140714 loop_mode=no_loop
+<region> sample=kettle-81-127-ZM33.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=107 hivel=127 offset=738 loop_mode=no_loop
+<region> sample=kettle-82-21-T288.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=21 offset=709 end=211605 loop_mode=no_loop
+<region> sample=kettle-82-42-DEMN.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=22 hivel=42 offset=743 end=210593 loop_mode=no_loop
+<region> sample=kettle-82-64-YDFC.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=43 hivel=64 offset=740 end=222087 loop_mode=no_loop
+<region> sample=kettle-82-85-1E73.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=65 hivel=85 offset=543 end=207744 loop_mode=no_loop
+<region> sample=kettle-82-106-URVQ.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=86 hivel=106 offset=682 loop_mode=no_loop
+<region> sample=kettle-82-127-6QJ2.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=107 hivel=127 offset=748 end=212257 loop_mode=no_loop
+<region> sample=kettle-83-21-95V1.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=21 offset=614 end=212367 loop_mode=no_loop
+<region> sample=kettle-83-42-QWR8.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=22 hivel=42 offset=723 end=211201 loop_mode=no_loop
+<region> sample=kettle-83-64-FA90.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=43 hivel=64 offset=759 end=222208 loop_mode=no_loop
+<region> sample=kettle-83-85-7ABR.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=65 hivel=85 offset=748 end=209309 loop_mode=no_loop
+<region> sample=kettle-83-106-D3KP.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=86 hivel=106 offset=802 loop_mode=no_loop
+<region> sample=kettle-83-127-0AJZ.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=107 hivel=127 offset=750 end=212608 loop_mode=no_loop
+<region> sample=kettle-84-21-M6FG.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=1 hivel=21 offset=725 end=212238 loop_mode=no_loop
+<region> sample=kettle-84-42-N119.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=22 hivel=42 offset=624 end=210064 loop_mode=no_loop
+<region> sample=kettle-84-64-O2JJ.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=43 hivel=64 offset=640 loop_mode=no_loop
+<region> sample=kettle-84-85-54ZR.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=65 hivel=85 offset=550 loop_mode=no_loop
+<region> sample=kettle-84-106-P00R.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=86 hivel=106 offset=798 end=141582 loop_mode=no_loop
+<region> sample=kettle-84-127-UHXC.wav key=84 lokey=84 hikey=125  amp_veltrack=30 lovel=107 hivel=127 offset=637 end=212610 loop_mode=no_loop

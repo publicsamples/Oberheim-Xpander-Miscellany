@@ -1,0 +1,118 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tracker.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=../Misc/Statitc 2/Tracker/
+
+<group> volume=3        // Tracker
+<region> sample=Tracker-60-53-QYNC.wav key=60 lokey=0 hikey=60  amp_veltrack=30 lovel=1 hivel=53 volume=12 offset=564 end=797641 loop_mode=loop_continuous loop_start=312658 loop_end=448369
+<region> sample=Tracker-60-92-75Y7.wav key=60 lokey=0 hikey=60  amp_veltrack=30 lovel=54 hivel=92 volume=15 offset=645 end=771164 loop_mode=loop_continuous loop_start=191623 loop_end=355162
+<region> sample=Tracker-60-127-6DE5.wav key=60 lokey=0 hikey=60  amp_veltrack=30 lovel=93 hivel=127 volume=14 offset=718 loop_mode=loop_continuous loop_start=192031 loop_end=410610
+<region> sample=Tracker-61-53-C4YL.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=509 end=773632 loop_mode=loop_continuous loop_start=149504 loop_end=288399
+<region> sample=Tracker-61-92-Y36N.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=54 hivel=92 volume=14 offset=604 end=771915 loop_mode=loop_continuous loop_start=191665 loop_end=355095
+<region> sample=Tracker-61-127-7RBZ.wav key=61 lokey=61 hikey=61  amp_veltrack=30 lovel=93 hivel=127 volume=14 offset=579 loop_mode=loop_continuous loop_start=192997 loop_end=356357
+<region> sample=Tracker-62-53-UEGW.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=1 hivel=53 volume=11 offset=554 end=797442 loop_mode=loop_continuous loop_start=204939 loop_end=337576
+<region> sample=Tracker-62-92-ILNB.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=756 end=771584 loop_mode=loop_continuous loop_start=119252 loop_end=264272
+<region> sample=Tracker-62-127-FLTG.wav key=62 lokey=62 hikey=62  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=545 end=774912 loop_mode=loop_continuous loop_start=82161 loop_end=245485
+<region> sample=Tracker-63-53-HQX4.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=546 loop_mode=loop_continuous loop_start=41120 loop_end=171027
+<region> sample=Tracker-63-92-S9QP.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=54 hivel=92 volume=14 offset=620 loop_mode=loop_continuous loop_start=474505 loop_end=619464
+<region> sample=Tracker-63-127-G8EQ.wav key=63 lokey=63 hikey=63  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=626 end=774144 loop_mode=loop_continuous loop_start=264369 loop_end=427804
+<region> sample=Tracker-64-53-DW6A.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=1 hivel=53 volume=11 offset=811 loop_mode=loop_continuous loop_start=242173 loop_end=377225
+<region> sample=Tracker-64-92-RROU.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=54 hivel=92 volume=15 offset=688 loop_mode=loop_continuous loop_start=239122 loop_end=384624
+<region> sample=Tracker-64-127-VGPT.wav key=64 lokey=64 hikey=64  amp_veltrack=30 lovel=93 hivel=127 volume=14 offset=644 loop_mode=loop_continuous loop_start=146072 loop_end=310689
+<region> sample=Tracker-65-53-OGN2.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=814 end=774016 loop_mode=loop_continuous loop_start=368458 loop_end=503977
+<region> sample=Tracker-65-92-I562.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=565 loop_mode=loop_continuous loop_start=202659 loop_end=311998
+<region> sample=Tracker-65-127-GDVO.wav key=65 lokey=65 hikey=65  amp_veltrack=30 lovel=93 hivel=127 volume=21 offset=558 end=63360 loop_mode=loop_continuous loop_start=1043 loop_end=12064
+<region> sample=Tracker-66-53-ZBII.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=787 loop_mode=loop_continuous loop_start=111170 loop_end=244950
+<region> sample=Tracker-66-92-TDCW.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=657 loop_mode=loop_continuous loop_start=182820 loop_end=346139
+<region> sample=Tracker-66-127-O43K.wav key=66 lokey=66 hikey=66  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=726 end=774171 loop_mode=loop_continuous loop_start=410676 loop_end=574522
+<region> sample=Tracker-67-53-T9XS.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=661 loop_mode=loop_continuous loop_start=382679 loop_end=516130
+<region> sample=Tracker-67-92-ROD2.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=639 end=772373 loop_mode=loop_continuous loop_start=455799 loop_end=601203
+<region> sample=Tracker-67-127-CZK6.wav key=67 lokey=67 hikey=67  amp_veltrack=30 lovel=93 hivel=127 volume=11 offset=662 end=774528 loop_mode=loop_continuous loop_start=465502 loop_end=629514
+<region> sample=Tracker-68-53-54ID.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=742 end=797568 loop_mode=loop_continuous loop_start=125891 loop_end=328565
+<region> sample=Tracker-68-92-2JOK.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=591 end=772480 loop_mode=loop_continuous loop_start=446082 loop_end=628883
+<region> sample=Tracker-68-127-URMK.wav key=68 lokey=68 hikey=68  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=753 loop_mode=loop_continuous loop_start=72889 loop_end=291738
+<region> sample=Tracker-69-53-S7EO.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=523 end=316928 loop_mode=loop_continuous loop_start=138029 loop_end=234262
+<region> sample=Tracker-69-92-GBQ1.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=612 end=772352 loop_mode=loop_continuous loop_start=209719 loop_end=446445
+<region> sample=Tracker-69-127-VXLU.wav key=69 lokey=69 hikey=69  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=715 end=774400 loop_mode=loop_continuous loop_start=328640 loop_end=492502
+<region> sample=Tracker-70-53-4ACP.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=711 loop_mode=loop_continuous loop_start=49931 loop_end=239532
+<region> sample=Tracker-70-92-YMBI.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=665 end=771124 loop_mode=loop_continuous loop_start=427697 loop_end=610285
+<region> sample=Tracker-70-127-XNR5.wav key=70 lokey=70 hikey=70  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=685 end=773888 loop_mode=loop_continuous loop_start=200627 loop_end=419859
+<region> sample=Tracker-71-53-8VSP.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=683 end=774272 loop_mode=loop_continuous loop_start=344047 loop_end=512776
+<region> sample=Tracker-71-92-AT7W.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=681 loop_mode=loop_continuous loop_start=191194 loop_end=373695
+<region> sample=Tracker-71-127-BY5Z.wav key=71 lokey=71 hikey=71  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=786 end=772866 loop_mode=loop_continuous loop_start=219219 loop_end=437820
+<region> sample=Tracker-72-53-UV9S.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=557 end=797312 loop_mode=loop_continuous loop_start=430310 loop_end=561936
+<region> sample=Tracker-72-92-RTFO.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=662 end=772663 loop_mode=loop_continuous loop_start=301150 loop_end=464658
+<region> sample=Tracker-72-127-5N59.wav key=72 lokey=72 hikey=72  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=692 end=774656 loop_mode=loop_continuous loop_start=183032 loop_end=345814
+<region> sample=Tracker-73-53-I4Z7.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=757 loop_mode=loop_continuous loop_start=421838 loop_end=625450
+<region> sample=Tracker-73-92-BCFP.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=728 end=772992 loop_mode=loop_continuous loop_start=73342 loop_end=219054
+<region> sample=Tracker-73-127-2ZDN.wav key=73 lokey=73 hikey=73  amp_veltrack=30 lovel=93 hivel=127 volume=14 offset=593 end=774016 loop_mode=loop_continuous loop_start=273220 loop_end=438003
+<region> sample=Tracker-74-53-FVIV.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=560 end=797573 loop_mode=loop_continuous loop_start=80352 loop_end=211643
+<region> sample=Tracker-74-92-HW0B.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=54 hivel=92 volume=13 offset=671 loop_mode=loop_continuous loop_start=301226 loop_end=464841
+<region> sample=Tracker-74-127-ERZD.wav key=74 lokey=74 hikey=74  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=697 end=178688 loop_mode=loop_continuous loop_start=46757 loop_end=101950
+<region> sample=Tracker-75-53-NTZE.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=567 end=773800 loop_mode=loop_continuous loop_start=26893 loop_end=230175
+<region> sample=Tracker-75-92-HXBA.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=617 end=772266 loop_mode=loop_continuous loop_start=374208 loop_end=537313
+<region> sample=Tracker-75-127-MJOB.wav key=75 lokey=75 hikey=75  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=673 end=772668 loop_mode=loop_continuous loop_start=392228 loop_end=555923
+<region> sample=Tracker-76-53-T6M2.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=1 hivel=53 volume=16 offset=559 loop_mode=loop_continuous loop_start=48980 loop_end=65264
+<region> sample=Tracker-76-92-BFCX.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=637 loop_mode=loop_continuous loop_start=35500 loop_end=182103
+<region> sample=Tracker-76-127-YP4A.wav key=76 lokey=76 hikey=76  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=609 end=522752 loop_mode=loop_continuous loop_start=201001 loop_end=365048
+<region> sample=Tracker-77-53-L24P.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=585 end=774528 loop_mode=loop_continuous loop_start=35673 loop_end=181924
+<region> sample=Tracker-77-92-ZI5C.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=567 end=772096 loop_mode=loop_continuous loop_start=300752 loop_end=464688
+<region> sample=Tracker-77-127-E2AD.wav key=77 lokey=77 hikey=77  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=695 end=773888 loop_mode=loop_continuous loop_start=465010 loop_end=628938
+<region> sample=Tracker-78-53-TEFS.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=793 end=797952 loop_mode=loop_continuous loop_start=398135 loop_end=535463
+<region> sample=Tracker-78-92-HSTD.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=586 end=772992 loop_mode=loop_continuous loop_start=200322 loop_end=436842
+<region> sample=Tracker-78-127-578F.wav key=78 lokey=78 hikey=78  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=619 loop_mode=loop_continuous loop_start=173752 loop_end=337776
+<region> sample=Tracker-79-53-RDS9.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=728 end=774016 loop_mode=loop_continuous loop_start=41804 loop_end=172817
+<region> sample=Tracker-79-92-2BNF.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=765 end=772096 loop_mode=loop_continuous loop_start=118890 loop_end=374487
+<region> sample=Tracker-79-127-3YVG.wav key=79 lokey=79 hikey=79  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=555 end=772736 loop_mode=loop_continuous loop_start=263776 loop_end=537211
+<region> sample=Tracker-80-53-SMDJ.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=636 end=797312 loop_mode=loop_continuous loop_start=367409 loop_end=645886
+<region> sample=Tracker-80-92-TY7H.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=826 loop_mode=loop_continuous loop_start=373697 loop_end=537617
+<region> sample=Tracker-80-127-45NW.wav key=80 lokey=80 hikey=80  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=668 end=774144 loop_mode=loop_continuous loop_start=127705 loop_end=292086
+<region> sample=Tracker-81-53-QNNZ.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=640 end=774400 loop_mode=loop_continuous loop_start=33529 loop_end=191254
+<region> sample=Tracker-81-92-6NQ3.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=744 end=772992 loop_mode=loop_continuous loop_start=209671 loop_end=374453
+<region> sample=Tracker-81-127-1ARC.wav key=81 lokey=81 hikey=81  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=556 loop_mode=loop_continuous loop_start=410589 loop_end=574097
+<region> sample=Tracker-82-53-HSI8.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=704 end=797440 loop_mode=loop_continuous loop_start=5952 loop_end=164522
+<region> sample=Tracker-82-92-HR19.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=751 end=772736 loop_mode=loop_continuous loop_start=373882 loop_end=538218
+<region> sample=Tracker-82-127-H9Z6.wav key=82 lokey=82 hikey=82  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=733 end=773760 loop_mode=loop_continuous loop_start=373496 loop_end=538253
+<region> sample=Tracker-83-53-7RXN.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=526 loop_mode=loop_continuous loop_start=31281 loop_end=178776
+<region> sample=Tracker-83-92-BUDE.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=785 end=772864 loop_mode=loop_continuous loop_start=35646 loop_end=291784
+<region> sample=Tracker-83-127-V2W8.wav key=83 lokey=83 hikey=83  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=540 end=774280 loop_mode=loop_continuous loop_start=36172 loop_end=255562
+<region> sample=Tracker-84-53-53AK.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=736 end=799360 loop_mode=loop_continuous loop_start=28578 loop_end=193292
+<region> sample=Tracker-84-92-IIWM.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=705 loop_mode=loop_continuous loop_start=383152 loop_end=529164
+<region> sample=Tracker-84-127-OEOX.wav key=84 lokey=84 hikey=84  amp_veltrack=30 lovel=93 hivel=127 volume=13 offset=798 end=773248 loop_mode=loop_continuous loop_start=437298 loop_end=600905
+<region> sample=Tracker-85-53-RWTM.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=550 end=773901 loop_mode=loop_continuous loop_start=37272 loop_end=188020
+<region> sample=Tracker-85-92-XVA8.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=690 end=772736 loop_mode=loop_continuous loop_start=319291 loop_end=501589
+<region> sample=Tracker-85-127-VPSE.wav key=85 lokey=85 hikey=85  amp_veltrack=30 lovel=93 hivel=127 volume=11 offset=581 end=773376 loop_mode=loop_continuous loop_start=355090 loop_end=519904
+<region> sample=Tracker-86-53-IE9X.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=671 end=797568 loop_mode=loop_continuous loop_start=506830 loop_end=660241
+<region> sample=Tracker-86-92-18SM.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=789 loop_mode=loop_continuous loop_start=54900 loop_end=255956
+<region> sample=Tracker-86-127-MP32.wav key=86 lokey=86 hikey=86  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=526 end=774144 loop_mode=loop_continuous loop_start=383074 loop_end=546454
+<region> sample=Tracker-87-53-KF57.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=768 end=774144 loop_mode=loop_continuous loop_start=36818 loop_end=176041
+<region> sample=Tracker-87-92-2QNP.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=829 loop_mode=loop_continuous loop_start=483288 loop_end=647843
+<region> sample=Tracker-87-127-FOE9.wav key=87 lokey=87 hikey=87  amp_veltrack=30 lovel=93 hivel=127 volume=11 offset=725 end=773120 loop_mode=loop_continuous loop_start=154490 loop_end=427822
+<region> sample=Tracker-88-53-D3VC.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=1 hivel=53 volume=9 offset=633 loop_mode=loop_continuous loop_start=19189 loop_end=289481
+<region> sample=Tracker-88-92-2LUC.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=596 end=771200 loop_mode=loop_continuous loop_start=18018 loop_end=164785
+<region> sample=Tracker-88-127-V5VG.wav key=88 lokey=88 hikey=88  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=771 end=774272 loop_mode=loop_continuous loop_start=382778 loop_end=546568
+<region> sample=Tracker-89-53-UKNB.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=708 end=774166 loop_mode=loop_continuous loop_start=321313 loop_end=450342
+<region> sample=Tracker-89-92-K2I8.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=54 hivel=92 volume=12 offset=572 end=772992 loop_mode=loop_continuous loop_start=291412 loop_end=474312
+<region> sample=Tracker-89-127-ZWMQ.wav key=89 lokey=89 hikey=89  amp_veltrack=30 lovel=93 hivel=127 volume=10 offset=638 end=774016 loop_mode=loop_continuous loop_start=37210 loop_end=256482
+<region> sample=Tracker-90-53-WXCA.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=778 end=797697 loop_mode=loop_continuous loop_start=147286 loop_end=322350
+<region> sample=Tracker-90-92-XHVC.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=54 hivel=92 volume=10 offset=679 loop_mode=loop_continuous loop_start=45644 loop_end=192069
+<region> sample=Tracker-90-127-43JI.wav key=90 lokey=90 hikey=90  amp_veltrack=30 lovel=93 hivel=127 volume=12 offset=659 end=774401 loop_mode=loop_continuous loop_start=391855 loop_end=555766
+<region> sample=Tracker-91-53-RIKJ.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=760 loop_mode=loop_continuous loop_start=34489 loop_end=202362
+<region> sample=Tracker-91-92-7WXV.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=621 end=773889 loop_mode=loop_continuous loop_start=118444 loop_end=282363
+<region> sample=Tracker-91-127-T5F1.wav key=91 lokey=91 hikey=91  amp_veltrack=30 lovel=93 hivel=127 volume=10 offset=605 end=772864 loop_mode=loop_continuous loop_start=201022 loop_end=364929
+<region> sample=Tracker-92-53-CN4A.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=702 end=797568 loop_mode=loop_continuous loop_start=22298 loop_end=190240
+<region> sample=Tracker-92-92-4MXV.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=713 end=771456 loop_mode=loop_continuous loop_start=364459 loop_end=528236
+<region> sample=Tracker-92-127-VUC3.wav key=92 lokey=92 hikey=92  amp_veltrack=30 lovel=93 hivel=127 volume=11 offset=652 loop_mode=loop_continuous loop_start=109350 loop_end=274054
+<region> sample=Tracker-93-53-P9EL.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=651 end=774272 loop_mode=loop_continuous loop_start=33524 loop_end=192211
+<region> sample=Tracker-93-92-IM7L.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=720 end=772865 loop_mode=loop_continuous loop_start=91366 loop_end=274307
+<region> sample=Tracker-93-127-FW3R.wav key=93 lokey=93 hikey=93  amp_veltrack=30 lovel=93 hivel=127 volume=10 offset=713 end=774144 loop_mode=loop_continuous loop_start=464699 loop_end=629430
+<region> sample=Tracker-94-53-SBXE.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=564 loop_mode=loop_continuous loop_start=24214 loop_end=182885
+<region> sample=Tracker-94-92-JTI0.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=54 hivel=92 volume=10 offset=527 end=772352 loop_mode=loop_continuous loop_start=17921 loop_end=182963
+<region> sample=Tracker-94-127-1BMH.wav key=94 lokey=94 hikey=94  amp_veltrack=30 lovel=93 hivel=127 volume=11 offset=637 end=775042 loop_mode=loop_continuous loop_start=455360 loop_end=630246
+<region> sample=Tracker-95-53-J313.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=628 end=773906 loop_mode=loop_continuous loop_start=34451 loop_end=177859
+<region> sample=Tracker-95-92-LYA8.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=54 hivel=92 volume=11 offset=584 end=774016 loop_mode=loop_continuous loop_start=110075 loop_end=274100
+<region> sample=Tracker-95-127-145P.wav key=95 lokey=95 hikey=95  amp_veltrack=30 lovel=93 hivel=127 volume=10 offset=593 loop_mode=loop_continuous loop_start=437032 loop_end=601848
+<region> sample=Tracker-96-53-KSC9.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=1 hivel=53 volume=8 offset=698 loop_mode=loop_continuous loop_start=35318 loop_end=181850
+<region> sample=Tracker-96-92-XXT0.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=54 hivel=92 volume=10 offset=600 loop_mode=loop_continuous loop_start=391908 loop_end=538076
+<region> sample=Tracker-96-127-TSDZ.wav key=96 lokey=96 hikey=126  amp_veltrack=30 lovel=93 hivel=127 volume=11 offset=731 end=774272 loop_mode=loop_continuous loop_start=318275 loop_end=538204
