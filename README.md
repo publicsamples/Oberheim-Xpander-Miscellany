@@ -16,9 +16,9 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 ](https://youtu.be/vJZg7-DJKcg)
 
 <div align="center">
-      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+      <a href="https://youtu.be/vJZg7-DJKcg">
      <img 
-      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      src="https://img.youtube.com/vi/vJZg7-DJKcg/0.jpg" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
