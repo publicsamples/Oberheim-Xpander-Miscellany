@@ -18,7 +18,7 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 <div align="center">
       <a href="https://youtu.be/vJZg7-DJKcg">
      <img 
-      src="https://img.youtube.com/vi/vJZg7-DJKcg/0.jpg" 
+      src="https://github.com/publicsamples/Oberheim-Xpander-CK-Session-2/raw/master/embed.png" 
       alt="Everything Is AWESOME" 
       style="width:100%;">
       </a>
