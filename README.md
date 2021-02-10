@@ -15,6 +15,15 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 [![Demo Video](https://github.com/publicsamples/Oberheim-Xpander-CK-Session-2/raw/master/embed.png)
 ](https://youtu.be/vJZg7-DJKcg)
 
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y">
+     <img 
+      src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+
 # Loading
 
 **Logic Sampler/EXS24**
