@@ -7,6 +7,7 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 18GB
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
 **This collection requires you to download the audio seperately**
 
