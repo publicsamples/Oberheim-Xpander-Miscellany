@@ -9,9 +9,7 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Oberheim_Xpander)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/xp.html)
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/2pfl21whj2xvvl3/AAD3ipDE8RpIs8GBy8ICG8A0a?dl=0)
+**[Download Audio](https://github.com/publicsamples/Oberheim-Xpander-Miscellany/releases/tag/1.0)**
 
 <div align="center">
       <a href="https://youtu.be/vJZg7-DJKcg">
