@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-LP-3P HI-RESSHORT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/Volumes/samplesz/Dropbox/Modularsamples/Construction Kits/oberheim xpander construction kit/Sounds/Short Waves/SQR-LP-3P HI-RES/(201634 111622)/
+
+<group>        // SQR-LP-3P HI-RES
+<region> sample=SQR-LP-3P HI-RES-60-8-W6ZG.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-16-VAC7.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-24-J30D.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-32-KLJJ.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-40-BRVA.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-48-GGWK.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-56-2TJC.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-64-Z5IW.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-71-OC4Z.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-79-GTEJ.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-87-IBIW.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-95-52EU.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-#B07356.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-#B07358.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-#B07359.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=SQR-LP-3P HI-RES-60-#B0735A.wav key=60  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=0 loop_end=337

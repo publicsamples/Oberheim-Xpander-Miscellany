@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW-LP-2P MID-RES SHRT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SAW-LP-2P MID-RES/(201634 10125)/
+
+<group>        // SAW-LP-2P MID-RES
+<region> sample=SAW-LP-2P MID-RES-36-8-XEL2.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB5.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB6.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB7.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36-4#21E6.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#A307C9.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FBA.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FBB.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FBC.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FBD.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FBF.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FC0.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB0.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB2.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB3.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=2 loop_end=1350
+<region> sample=SAW-LP-2P MID-RES-36#B05FB4.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=2 loop_end=1350

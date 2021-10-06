@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-HP-1P-SHORT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SQR-HP-1P-SHORT/(201639 14552)/
+
+<group>        // SQR-HP-1P-SHORT
+<region> sample=tiny-104-8-2O4M.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=1 hivel=8 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-16-LYN7.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=9 hivel=16 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-24-PO9J.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=17 hivel=24 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-32-EC5P.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=25 hivel=32 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-40-41UV.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=33 hivel=40 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-48-L6PT.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=41 hivel=48 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-56-PFZE.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=49 hivel=56 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-64-AU56.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=57 hivel=64 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-71-PSNX.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=65 hivel=71 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-79-S3CJ.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=72 hivel=79 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-87-F2RJ.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=80 hivel=87 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-95-MMDB.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=88 hivel=95 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-103-3D0V.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=96 hivel=103 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-111-MAXO.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=104 hivel=111 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-119-FRY9.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=112 hivel=119 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348
+<region> sample=tiny-104-127-0ENG.wav key=37  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=120 hivel=127 tune=-48 offset=20000 loop_mode=loop_continuous loop_start=20000 loop_end=21348

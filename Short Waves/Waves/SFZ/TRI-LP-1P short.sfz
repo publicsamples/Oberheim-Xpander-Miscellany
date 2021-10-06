@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - TRI-LP-1P short.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/Users/rick/Music/Audio Music Apps/Sampler Instruments/Xpander/Sounds/Triangles/TRINOTCH-SHORT/TRI-LP-1P /(201634 82132)/
+
+<group>        // TRI-LP-1P
+<region> sample=TRI-LP-1P -72-8-WFPP.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-16-A6J5.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-24-XS28.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-32-RP22.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-40-3RJW.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-48-3L6K.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-56-567J.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-64-FID3.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-71-XJ5B.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-79-FKIZ.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-87-PJSA.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-95-6P9Y.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-103-9H14.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-111-4J09.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-119-XTTO.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=0 loop_end=337
+<region> sample=TRI-LP-1P -72-127-YI4Y.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=0 loop_end=337

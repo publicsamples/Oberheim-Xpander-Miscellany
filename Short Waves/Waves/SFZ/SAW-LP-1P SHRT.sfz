@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW-LP-1P SHRT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SAWLP1P  Samples/
+
+<group>        // SAW-LP-1P
+<region> sample=SAW-LP-1P -72-8-YKOM.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-16-R0FM.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-24-XQJQ.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-32-KKZ4.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-40-NSTS.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-48-I1LC.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-56-44V3.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-64-0ZF4.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-71-HMAC.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-79-COEK.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-87-DX5J.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-95-7T7A.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-103-COTL.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-111-V0Q7.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-119-36YB.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=200 loop_end=1548
+<region> sample=SAW-LP-1P -72-127-DZ0S.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=126 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=200 loop_end=1548

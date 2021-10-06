@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-LP-2P HI-RES SHT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SQR-LP-2P HI-RES/(201634 95542)/
+
+<group>        // SQR-LP-2P HI-RES
+<region> sample=SQR-LP-2P HI-RES-48-8-89HC.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-16-0WSC.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-24-QYT1.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-32-NR3N.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-40-GYJZ.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-48-VBTQ.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-56-CIXH.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-64-Z04Z.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-71-KHJ1.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-79-HZNW.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-87-8XA0.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-95-61FC.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-10#2F0C.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-111-9GKD.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-#B07012.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P HI-RES-48-#B07013.wav key=48  amp_veltrack=0  amp_veltrack=0 lokey=1 hikey=127 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=0 loop_end=1348

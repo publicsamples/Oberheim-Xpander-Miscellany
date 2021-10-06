@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-LP-1P MID-RES short.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SQR-LP-1P MID-RES/(201634 75215)/
+
+<group>        // SQR-LP-1P MID-RES
+<region> sample=SQR-LP-1P MID-RES-42-8-8BV3.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=1 hivel=8 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E6E.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=9 hivel=16 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42-2#2A7C.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=17 hivel=24 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E70.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=25 hivel=32 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E71.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=33 hivel=40 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E72.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=41 hivel=48 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E73.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=49 hivel=56 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E74.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=57 hivel=64 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42-71-8K4Y.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=65 hivel=71 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E76.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=72 hivel=79 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E78.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=80 hivel=87 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E79.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=88 hivel=95 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E6A.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=96 hivel=103 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42-111-GB8U.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=104 hivel=111 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E6C.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=112 hivel=119 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674
+<region> sample=SQR-LP-1P MID-RES-42#B06E6D.wav key=41  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=120 hivel=127 transpose=5 loop_mode=loop_continuous loop_start=0 loop_end=674

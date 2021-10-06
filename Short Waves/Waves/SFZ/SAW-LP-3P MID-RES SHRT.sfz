@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW-LP-3P MID-RES SHRT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SAW-LP-3P MID-RES/(201634 113249)/
+
+<group>        // SAW-LP-3P MID-RES
+<region> sample=SAW-LP-3P MID-RES-57-8-EQGJ.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=1 hivel=8 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B06332.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=9 hivel=16 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B06335.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=17 hivel=24 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B06337.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=25 hivel=32 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57-40-C41K.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=33 hivel=40 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B0633A.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=41 hivel=48 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B0633B.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=49 hivel=56 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57-6#1B4D.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=57 hivel=64 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B0633D.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=65 hivel=71 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B0633E.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=72 hivel=79 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B06340.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=80 hivel=87 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57-9#1B58.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=88 hivel=95 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B0632E.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=96 hivel=103 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57-1#1B52.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=104 hivel=111 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57#B06330.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=112 hivel=119 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337
+<region> sample=SAW-LP-3P MID-RES-57-1#1B51.wav key=57  amp_veltrack=0  amp_veltrack=0 lokey=10 hikey=127 lovel=120 hivel=127 tune=-22 transpose=-4 loop_mode=loop_continuous loop_start=23 loop_end=337

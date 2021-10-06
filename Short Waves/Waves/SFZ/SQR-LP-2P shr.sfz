@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-LP-2P shr.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=/Volumes/samplesz/Construction Kits/oberheim xpander construction kit/XPCKSounds/Misc/Short Waves/SQR-LP-2P/(201634 105213)/
+
+<group>        // SQR-LP-2P
+<region> sample=SQR-LP-2P-72-8-PWYT.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-16-HHEV.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-24-WLBF.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-32-AZ9X.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-40-JHBE.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-48-3C4E.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-56-N923.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-64-LKFA.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-71-EA9Y.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-79-O0L4.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-87-21IB.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-95-ZTH3.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-103-P0D2.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-111-EPWP.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-119-VF01.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SQR-LP-2P-72-127-2HAY.wav key=72  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=0 loop_end=1348

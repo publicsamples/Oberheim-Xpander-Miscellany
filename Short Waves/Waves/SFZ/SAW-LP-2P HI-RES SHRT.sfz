@@ -1,0 +1,23 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW-LP-2P HI-RES SHRT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SAW-LP-2P HI-RES/(201634 94722)/
+
+<group>        // SAW-LP-2P HI-RES
+<region> sample=SAW-LP-2P HI-RES-36-8-CLN1.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=1 hivel=8 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-16-SXNF.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-24-CLND.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-32-Q8ED.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-40-56H5.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-48-AWQN.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-56-27YU.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-64-4GPO.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-71-DF3T.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-79-FJN9.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-87-HW3G.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-95-ESTJ.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-#B05ED0.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-#B05ED1.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-#B05ED2.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=SAW-LP-2P HI-RES-36-#B05ED3.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=127 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=0 loop_end=1348

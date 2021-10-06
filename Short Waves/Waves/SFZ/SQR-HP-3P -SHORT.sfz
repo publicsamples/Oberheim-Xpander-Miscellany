@@ -1,0 +1,30 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SQR-HP-3P -SHORT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+//
+// Attention!! The original files uses the unsupported sfz parameter loop_tune - your sfz-samples might be out of tune! //
+//
+
+
+<control>
+default_path=SQR-HP-3P -SHORT/(201639 14108)/
+
+<group>        // SQR-HP-3P -SHORT
+<region> sample=tiny-104-8-VE9A.wav key=36 lokey=0 hikey=127 lovel=1 hivel=8 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-16-5QN5.wav key=36 lokey=0 hikey=127 lovel=9 hivel=16 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-24-VZW8.wav key=36 lokey=0 hikey=127 lovel=17 hivel=24 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-32-B0BW.wav key=36 lokey=0 hikey=127 lovel=25 hivel=32 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-40-IWSD.wav key=36 lokey=0 hikey=127 lovel=33 hivel=40 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-48-97X9.wav key=36 lokey=0 hikey=127 lovel=41 hivel=48 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-56-HENV.wav key=36 lokey=0 hikey=127 lovel=49 hivel=56 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-64-TR6T.wav key=36 lokey=0 hikey=127 lovel=57 hivel=64 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-71-MEHI.wav key=36 lokey=0 hikey=127 lovel=65 hivel=71 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-79-ZOBK.wav key=36 lokey=0 hikey=127 lovel=72 hivel=79 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-87-TYXV.wav key=36 lokey=0 hikey=127 lovel=80 hivel=87 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-95-RRT0.wav key=36 lokey=0 hikey=127 lovel=88 hivel=95 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-103-M5F7.wav key=36 lokey=0 hikey=127 lovel=96 hivel=103 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-111-VE56.wav key=36 lokey=0 hikey=127 lovel=104 hivel=111 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-119-H9V2.wav key=36 lokey=0 hikey=127 lovel=112 hivel=119 tune=-47 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+<region> sample=tiny-104-127-B8L8.wav key=36 lokey=0 hikey=127 lovel=120 hivel=127 tune=-46 transpose=-1 loop_mode=loop_continuous loop_start=0 loop_end=1348
+// (unsupported) loop_tune=3
+

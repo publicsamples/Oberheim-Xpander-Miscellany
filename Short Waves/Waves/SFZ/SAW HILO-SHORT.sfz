@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SAW HILO-SHORT.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=SAW HILO-SHORT/(201639 14235)/
+
+<group>        // SAW HILO-SHORT
+<region> sample=tiny-104-8-TD06.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=1 hivel=10 loop_mode=loop_continuous loop_start=21371 loop_end=28714
+<region> sample=tiny-104-16-K5OC.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=11 hivel=20 loop_mode=loop_continuous loop_start=15138 loop_end=26878
+<region> sample=tiny-104-24-UPGH.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=21 hivel=30 loop_mode=loop_continuous loop_start=18480 loop_end=28761
+<region> sample=tiny-104-32-PDSI.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=31 hivel=40 loop_mode=loop_continuous loop_start=17983 loop_end=28265
+<region> sample=tiny-104-40-Y6GS.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=33 hivel=50 loop_mode=loop_continuous loop_start=17342 loop_end=27620
+<region> sample=tiny-104-48-ZYBW.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=51 hivel=60 loop_mode=loop_continuous loop_start=17194 loop_end=27472
+<region> sample=tiny-104-56-JBWR.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=61 hivel=70 loop_mode=loop_continuous loop_start=11414 loop_end=23151
+<region> sample=tiny-104-64-TCHC.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=71 hivel=80 loop_mode=loop_continuous loop_start=13906 loop_end=24185
+<region> sample=tiny-104-71-47Z5.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=81 hivel=90 loop_mode=loop_continuous loop_start=9531 loop_end=19813
+<region> sample=tiny-104-79-3STI.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=91 hivel=100 loop_mode=loop_continuous loop_start=15312 loop_end=27055
+<region> sample=tiny-104-87-9K61.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=101 hivel=110 loop_mode=loop_continuous loop_start=6134 loop_end=17877
+<region> sample=tiny-104-95-CFVO.wav key=36  amp_veltrack=0  amp_veltrack=0 lokey=17 hikey=104 lovel=111 hivel=127 loop_mode=loop_continuous loop_start=6281 loop_end=16551

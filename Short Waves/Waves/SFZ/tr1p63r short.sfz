@@ -1,0 +1,151 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - tr1p63r short.exs    by EXS2SFZ 1.1.7 - Beta v4 (macOS)
+
+<control>
+default_path=tr1p63r short/(2016223 1389)/
+
+<group>        // tr1p63r short
+<region> sample=kitzC1-8-IZI5.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6428 loop_end=7102
+<region> sample=kitzC1-16-DDDM.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6084 loop_end=7429
+<region> sample=kitzC1-24-ON5B.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6117 loop_end=7461
+<region> sample=kitzC1-32-OH90.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=5909 loop_end=7253
+<region> sample=kitzC1-40-GB4H.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=6271 loop_end=6944
+<region> sample=kitzC1-48-96DY.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6102 loop_end=7447
+<region> sample=kitzC1-56-RD5H.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=5909 loop_end=7254
+<region> sample=kitzC1-64-WZOS.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6292 loop_end=6964
+<region> sample=kitzC1-71-MW3N.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=5909 loop_end=7254
+<region> sample=kitzC1-79-MHDC.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=5921 loop_end=7266
+<region> sample=kitzC1-87-E5TT.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=6027 loop_end=7372
+<region> sample=kitzC1-95-U7JH.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6085 loop_end=7430
+<region> sample=kitzC1-103-HR5B.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=6116 loop_end=7461
+<region> sample=kitzC1-111-R1VC.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6098 loop_end=7443
+<region> sample=kitzC1-119-14JO.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6309 loop_end=6981
+<region> sample=kitzC1-127-0L3J.aif key=36  amp_veltrack=0  amp_veltrack=0 lokey=0 hikey=36 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=6034 loop_end=7379
+<region> sample=kitzD#1-8-KZET.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6070 loop_end=7200
+<region> sample=kitzD#1-16-IPXP.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6200 loop_end=7331
+<region> sample=kitzD#1-24-SNP0.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6396 loop_end=6961
+<region> sample=kitzD#1-32-538W.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=6244 loop_end=7375
+<region> sample=kitzD#1-40-89W9.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=6163 loop_end=7294
+<region> sample=kitzD#1-48-PG84.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6041 loop_end=7172
+<region> sample=kitzD#1-56-4UNP.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=6197 loop_end=7328
+<region> sample=kitzD#1-64-F1N9.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6186 loop_end=7317
+<region> sample=kitzD#1-71-ZYJU.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=6297 loop_end=7428
+<region> sample=kitzD#1-79-VG0T.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=6198 loop_end=7329
+<region> sample=kitzD#1-87-8U4P.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=6024 loop_end=7155
+<region> sample=kitzD#1-95-I6BD.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6295 loop_end=7426
+<region> sample=kitzD#1-103-STFR.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=5969 loop_end=7100
+<region> sample=kitzD#1-111-XQDR.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6148 loop_end=7279
+<region> sample=kitzD#1-119-NEMV.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6188 loop_end=7319
+<region> sample=kitzD#1-127-KPFA.aif key=39  amp_veltrack=0  amp_veltrack=0 lokey=37 hikey=39 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=6158 loop_end=7289
+<region> sample=kitzF#1-8-A997.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=5978 loop_end=7404
+<region> sample=kitzF#1-16-0795.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6374 loop_end=7325
+<region> sample=kitzF#1-24-0LXX.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6024 loop_end=6975
+<region> sample=kitzF#1-32-ED12.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=6216 loop_end=7167
+<region> sample=kitzF#1-40-GJR6.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=6361 loop_end=7312
+<region> sample=kitzF#1-48-QM8P.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6300 loop_end=7251
+<region> sample=kitzF#1-56-24RR.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=6403 loop_end=7354
+<region> sample=kitzF#1-64-8XS6.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6060 loop_end=7011
+<region> sample=kitzF#1-71-HNV0.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=5948 loop_end=7375
+<region> sample=kitzF#1-79-817V.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=5999 loop_end=7426
+<region> sample=kitzF#1-87-CYYG.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=6021 loop_end=6972
+<region> sample=kitzF#1-95-D0GJ.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6280 loop_end=7231
+<region> sample=kitzF#1-103-N4J0.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=6304 loop_end=7255
+<region> sample=kitzF#1-111-4UN5.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=5990 loop_end=7417
+<region> sample=kitzF#1-119-VY14.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6103 loop_end=7054
+<region> sample=kitzF#1-127-XN9H.aif key=42  amp_veltrack=0  amp_veltrack=0 lokey=40 hikey=42 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=6189 loop_end=7140
+<region> sample=kitzA1-8-1PTT.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6128 loop_end=7327
+<region> sample=kitzA1-16-8TBR.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6059 loop_end=7258
+<region> sample=kitzA1-24-NG2O.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6016 loop_end=7215
+<region> sample=kitzA1-32-LST5.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=6164 loop_end=6964
+<region> sample=kitzA1-40-QJEK.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=5973 loop_end=7172
+<region> sample=kitzA1-48-HT41.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6082 loop_end=7281
+<region> sample=kitzA1-56-AL5B.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=6185 loop_end=6985
+<region> sample=kitzA1-64-NTDX.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6215 loop_end=7014
+<region> sample=kitzA1-71-OXIS.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=6096 loop_end=7295
+<region> sample=kitzA1-79-0V1M.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=5986 loop_end=7185
+<region> sample=kitzA1-87-9SW0.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=6249 loop_end=7048
+<region> sample=kitzA1-95-H7GO.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6266 loop_end=7065
+<region> sample=kitzA1-103-IAFJ.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=5976 loop_end=7175
+<region> sample=kitzA1-111-HYLP.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6264 loop_end=7063
+<region> sample=kitzA1-119-RZ75.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6105 loop_end=7304
+<region> sample=kitzA1-127-8NLP.aif key=45  amp_veltrack=0  amp_veltrack=0 lokey=43 hikey=45 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=5960 loop_end=7159
+<region> sample=kitzC2-8-4V98.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6232 loop_end=7241
+<region> sample=kitzC2-16-TZ4O.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6369 loop_end=7042
+<region> sample=kitzC2-24-5TCS.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6084 loop_end=7429
+<region> sample=kitzC2-32-Y9XO.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=5956 loop_end=6965
+<region> sample=kitzC2-40-EL3U.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=5987 loop_end=7332
+<region> sample=kitzC2-48-IBT4.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6294 loop_end=7303
+<region> sample=kitzC2-56-SZDO.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=6161 loop_end=7170
+<region> sample=kitzC2-64-ABC7.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6298 loop_end=6971
+<region> sample=kitzC2-71-94BC.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=5938 loop_end=7283
+<region> sample=kitzC2-79-0F55.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=6037 loop_end=7382
+<region> sample=kitzC2-87-3EL9.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=5956 loop_end=7301
+<region> sample=kitzC2-95-MJ31.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6092 loop_end=7101
+<region> sample=kitzC2-103-XO1D.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=5999 loop_end=7008
+<region> sample=kitzC2-111-ZATB.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6237 loop_end=7246
+<region> sample=kitzC2-119-QLRK.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6148 loop_end=7157
+<region> sample=kitzC2-127-5JLQ.aif key=48  amp_veltrack=0  amp_veltrack=0 lokey=46 hikey=48 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=6146 loop_end=7155
+<region> sample=kitzD#2-8-SAUM.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6002 loop_end=7416
+<region> sample=kitzD#2-16-JJ1C.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6092 loop_end=7223
+<region> sample=kitzD#2-24-8O92.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6377 loop_end=7225
+<region> sample=kitzD#2-32-25FU.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=6201 loop_end=7049
+<region> sample=kitzD#2-40-51YP.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=6202 loop_end=7333
+<region> sample=kitzD#2-48-82PH.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6010 loop_end=7424
+<region> sample=kitzD#2-56-L1ND.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=6062 loop_end=7193
+<region> sample=kitzD#2-64-3O7O.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6322 loop_end=7170
+<region> sample=kitzD#2-71-PEHC.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=6261 loop_end=7109
+<region> sample=kitzD#2-79-3PLE.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=6268 loop_end=7399
+<region> sample=kitzD#2-87-1VTD.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=5978 loop_end=7392
+<region> sample=kitzD#2-95-CUI0.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6349 loop_end=7197
+<region> sample=kitzD#2-103-7QE8.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=6214 loop_end=7345
+<region> sample=kitzD#2-111-YYIO.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6288 loop_end=7136
+<region> sample=kitzD#2-119-0BMS.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6011 loop_end=7425
+<region> sample=kitzD#2-127-COAA.aif key=51  amp_veltrack=0  amp_veltrack=0 lokey=49 hikey=51 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=6349 loop_end=7197
+<region> sample=kitzF#2-8-NEE7.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6127 loop_end=7316
+<region> sample=kitzF#2-16-FCOG.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6199 loop_end=7150
+<region> sample=kitzF#2-24-Y5BS.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=6179 loop_end=7130
+<region> sample=kitzF#2-32-Y93F.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=6181 loop_end=7132
+<region> sample=kitzF#2-40-THLB.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=6160 loop_end=7111
+<region> sample=kitzF#2-48-WAVT.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=6362 loop_end=7313
+<region> sample=kitzF#2-56-BD8M.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=5936 loop_end=7125
+<region> sample=kitzF#2-64-BC7F.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6238 loop_end=7189
+<region> sample=kitzF#2-71-BZFJ.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=6391 loop_end=7342
+<region> sample=kitzF#2-79-3COF.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=6150 loop_end=7101
+<region> sample=kitzF#2-87-PZN1.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=6360 loop_end=7073
+<region> sample=kitzF#2-95-U2EP.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6039 loop_end=7228
+<region> sample=kitzF#2-103-70CC.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=6369 loop_end=7320
+<region> sample=kitzF#2-111-VMK1.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6039 loop_end=6990
+<region> sample=kitzF#2-119-D8O4.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6222 loop_end=7411
+<region> sample=kitzF#2-127-X643.aif key=54  amp_veltrack=0  amp_veltrack=0 lokey=52 hikey=54 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=5968 loop_end=7157
+<region> sample=kitzA2-8-WM56.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=0 hivel=8 loop_mode=loop_continuous loop_start=6058 loop_end=7458
+<region> sample=kitzA2-16-GROS.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=9 hivel=16 loop_mode=loop_continuous loop_start=6278 loop_end=7078
+<region> sample=kitzA2-24-CXPA.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=17 hivel=24 loop_mode=loop_continuous loop_start=5999 loop_end=7399
+<region> sample=kitzA2-32-PIJI.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=25 hivel=32 loop_mode=loop_continuous loop_start=6211 loop_end=7011
+<region> sample=kitzA2-40-N17K.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=33 hivel=40 loop_mode=loop_continuous loop_start=6132 loop_end=7132
+<region> sample=kitzA2-48-6ZEP.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=41 hivel=48 loop_mode=loop_continuous loop_start=5971 loop_end=7171
+<region> sample=kitzA2-56-66BW.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=49 hivel=56 loop_mode=loop_continuous loop_start=6147 loop_end=7147
+<region> sample=kitzA2-64-QQYM.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=57 hivel=64 loop_mode=loop_continuous loop_start=6222 loop_end=7422
+<region> sample=kitzA2-71-SMCE.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=65 hivel=71 loop_mode=loop_continuous loop_start=6031 loop_end=7231
+<region> sample=kitzA2-79-VJWX.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=72 hivel=79 loop_mode=loop_continuous loop_start=6327 loop_end=7127
+<region> sample=kitzA2-87-QYRY.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=80 hivel=87 loop_mode=loop_continuous loop_start=6383 loop_end=6983
+<region> sample=kitzA2-95-W81P.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=88 hivel=95 loop_mode=loop_continuous loop_start=6199 loop_end=6999
+<region> sample=kitzA2-103-51J4.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=96 hivel=103 loop_mode=loop_continuous loop_start=6323 loop_end=7323
+<region> sample=kitzA2-111-J220.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=104 hivel=111 loop_mode=loop_continuous loop_start=6268 loop_end=7068
+<region> sample=kitzA2-119-QPM4.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=112 hivel=119 loop_mode=loop_continuous loop_start=6399 loop_end=7199
+<region> sample=kitzA2-127-G8FI.aif key=57  amp_veltrack=0  amp_veltrack=0 lokey=55 hikey=57 lovel=120 hivel=127 loop_mode=loop_continuous loop_start=6390 loop_end=6990
+<region> sample=kitzC3-8-ZFXU.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=0 hivel=8 offset=6056 loop_mode=loop_continuous loop_start=6056 loop_end=7401
+<region> sample=kitzC3-16-0M99.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=9 hivel=16 offset=6198 loop_mode=loop_continuous loop_start=6198 loop_end=7038
+<region> sample=kitzC3-24-U3OP.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=17 hivel=24 offset=6369 loop_mode=loop_continuous loop_start=6369 loop_end=7377
+<region> sample=kitzC3-32-YUF5.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=25 hivel=32 offset=6159 loop_mode=loop_continuous loop_start=6159 loop_end=6999
+<region> sample=kitzC3-40-5WG5.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=33 hivel=40 offset=5989 loop_mode=loop_continuous loop_start=5989 loop_end=7334
+<region> sample=kitzC3-48-0RZ0.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=41 hivel=48 offset=6370 loop_mode=loop_continuous loop_start=6370 loop_end=7042
+<region> sample=kitzC3-56-IL5M.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=49 hivel=56 offset=5990 loop_mode=loop_continuous loop_start=5990 loop_end=6998
+<region> sample=kitzC3-64-ZJQG.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=57 hivel=64 offset=6009 loop_mode=loop_continuous loop_start=6009 loop_end=7354
+<region> sample=kitzC3-71-J79B.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=65 hivel=71 offset=6239 loop_mode=loop_continuous loop_start=6239 loop_end=7416
+<region> sample=kitzC3-79-X10V.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=72 hivel=79 offset=6328 loop_mode=loop_continuous loop_start=6328 loop_end=7168
+<region> sample=kitzC3-87-AOME.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=80 hivel=87 offset=6057 loop_mode=loop_continuous loop_start=6057 loop_end=7402
+<region> sample=kitzC3-95-DXTV.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=88 hivel=95 offset=6049 loop_mode=loop_continuous loop_start=6049 loop_end=7394
+<region> sample=kitzC3-103-9FGV.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=96 hivel=103 offset=6029 loop_mode=loop_continuous loop_start=6029 loop_end=7374
+<region> sample=kitzC3-111-5A8A.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=104 hivel=111 offset=6040 loop_mode=loop_continuous loop_start=6040 loop_end=7385
+<region> sample=kitzC3-119-DBN6.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=112 hivel=119 offset=5998 loop_mode=loop_continuous loop_start=5998 loop_end=7343
+<region> sample=kitzC3-127-5RGC.aif key=60  amp_veltrack=0  amp_veltrack=0 lokey=58 hikey=127 lovel=120 hivel=127 offset=6037 loop_mode=loop_continuous loop_start=6037 loop_end=7382
