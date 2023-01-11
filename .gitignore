@@ -1,4 +1,3 @@
-
 *.002
 *.001
 *.aif
@@ -7,35 +6,4 @@
 *.caf
 *.003
 *.zip
-Keys/Audio/Sine Piano/.DS_Store
-Keys/Audio/touch lfo/.DS_Store
-Keys/Audio/.DS_Store
-Keys/.DS_Store
-Bass/.DS_Store
-Bass/Bass/.DS_Store
-Bass/Bass/Losen/.DS_Store
-Bass/Bass/Presets/.DS_Store
-Bass/Bass/Vox Bass FX/.DS_Store
-Chord/.DS_Store
-Chord/Audio/.DS_Store
-FM/.DS_Store
-FM/Audio/.DS_Store
-FM/Audio/FM Thickness/.DS_Store
-FM/Audio/FM1/.DS_Store
-FM/Audio/FM12/.DS_Store
-FM/Audio/Sine/.DS_Store
-FX/.DS_Store
-FX/Audio/.DS_Store
-Lead/.DS_Store
-Lead/Audio/.DS_Store
-Lead/Audio/Big Stack/.DS_Store
-Loops/.DS_Store
-Pad/.DS_Store
-Pad/Audio/.DS_Store
-Pad/Audio/pad source/.DS_Store
-Pad/Audio/Sweeped Sync/.DS_Store
-Pad/Audio/Tap Tap/.DS_Store
-Perc/.DS_Store
-Perc/Audio/.DS_Store
-Short Waves/Presets/.DS_Store
 .DS_Store
