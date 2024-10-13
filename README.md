@@ -20,15 +20,3 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
       style="width:100%;">
       </a>
     </div>
-
-
-## **Get help**
-
-[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
-
-## **Support this project**
-
-[
-![loop](https://www.modularsamples.com/img/ulp.jpg)
-](https://www.modularsamples.com/untitled-loop-project/)
-
